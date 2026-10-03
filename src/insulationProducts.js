@@ -14,7 +14,7 @@ export const INSULATION_PRODUCTS = [
     "category": "insulation",
     "subCategory": "Transparent & Optical Polymers",
     "image": "/images/products/insulation/insulation_item_1.png",
-    "description": "Industrial-grade Acrylic Sheet supplied by Bahjat Enterprises under the Saint-Gobain quality standard. Acrylic Sheet is a rigid, lightweight plastic sheet made primarily from PMMA (Polymethyl Methacrylate). It is commonly used as an alternative to glass",
+    "description": "Industrial-grade Acrylic Sheet supplied by Bahjat Enterprises to certified industrial standards. Acrylic Sheet is a rigid, lightweight plastic sheet made primarily from PMMA (Polymethyl Methacrylate). It is commonly used as an alternative to glass",
     "specs": {
       "Product": "Acrylic Sheet",
       "Brand": "Saint-Gobain",
@@ -111,7 +111,7 @@ export const INSULATION_PRODUCTS = [
     "category": "insulation",
     "subCategory": "Transparent & Optical Polymers",
     "image": "/images/products/insulation/insulation_item_2.png",
-    "description": "Industrial-grade Acrylic Pipe supplied by Bahjat Enterprises under the Saint-Gobain quality standard. An Acrylic Pipe (Acrylic Tube) is a rigid, transparent or colored tube made from PMMA (Polymethyl Methacrylate). It is lightweight, corrosion-resistant and allows visual inspection of the material flowing through it",
+    "description": "Industrial-grade Acrylic Pipe supplied by Bahjat Enterprises to certified industrial standards. An Acrylic Pipe (Acrylic Tube) is a rigid, transparent or colored tube made from PMMA (Polymethyl Methacrylate). It is lightweight, corrosion-resistant and allows visual inspection of the material flowing through it",
     "specs": {
       "Product": "Acrylic Pipe",
       "Brand": "Saint-Gobain",
@@ -192,7 +192,7 @@ export const INSULATION_PRODUCTS = [
     "category": "insulation",
     "subCategory": "Transparent & Optical Polymers",
     "image": "/images/products/insulation/insulation_item_3.png",
-    "description": "Industrial-grade Acrylic Rod supplied by Bahjat Enterprises under the Saint-Gobain quality standard. An Acrylic Rod is a solid cylindrical rod made from PMMA (Polymethyl Methacrylate), it is lightweight, rigid, transparent or colored, and easy to machine",
+    "description": "Industrial-grade Acrylic Rod supplied by Bahjat Enterprises to certified industrial standards. An Acrylic Rod is a solid cylindrical rod made from PMMA (Polymethyl Methacrylate), it is lightweight, rigid, transparent or colored, and easy to machine",
     "specs": {
       "Product": "Acrylic Rod",
       "Brand": "Saint-Gobain",
@@ -277,7 +277,7 @@ export const INSULATION_PRODUCTS = [
     "category": "insulation",
     "subCategory": "Electrical & Phenolic Insulation",
     "image": "/images/products/insulation/insulation_item_4.png",
-    "description": "Industrial-grade Bakelite Sheet supplied by Bahjat Enterprises under the Lloyd Insulations quality standard. Bakelite Sheet is a rigid phenolic resin laminate known for good electrical insulation, heat resistance, mechanical strength, and dimensional stability",
+    "description": "Industrial-grade Bakelite Sheet supplied by Bahjat Enterprises to certified industrial standards. Bakelite Sheet is a rigid phenolic resin laminate known for good electrical insulation, heat resistance, mechanical strength, and dimensional stability",
     "specs": {
       "Product": "Bakelite Sheet",
       "Brand": "Lloyd Insulations",
@@ -363,7 +363,7 @@ export const INSULATION_PRODUCTS = [
     "category": "insulation",
     "subCategory": "Electrical & Phenolic Insulation",
     "image": "/images/products/insulation/insulation_item_5.png",
-    "description": "Industrial-grade Bakelite Tube supplied by Bahjat Enterprises under the Lloyd Insulations quality standard. Bakelite Tube is a rigid hollow tube made from phenolic resin, commonly used where electrical insulation, mechanical strength, and heat resistance are required",
+    "description": "Industrial-grade Bakelite Tube supplied by Bahjat Enterprises to certified industrial standards. Bakelite Tube is a rigid hollow tube made from phenolic resin, commonly used where electrical insulation, mechanical strength, and heat resistance are required",
     "specs": {
       "Product": "Bakelite Tube",
       "Brand": "Lloyd Insulations",
@@ -451,7 +451,7 @@ export const INSULATION_PRODUCTS = [
     "category": "insulation",
     "subCategory": "Electrical & Phenolic Insulation",
     "image": "/images/products/insulation/insulation_item_6.png",
-    "description": "Industrial-grade FRP Rod supplied by Bahjat Enterprises under the Lloyd Insulations quality standard. FRP Rod (Fiberglass Reinforced Plastic Rod) is a solid composite rod made from glass fibers embedded in a polymer resin. It is lightweight, strong, corrosion-resistant, and electrically insulating",
+    "description": "Industrial-grade FRP Rod supplied by Bahjat Enterprises to certified industrial standards. FRP Rod (Fiberglass Reinforced Plastic Rod) is a solid composite rod made from glass fibers embedded in a polymer resin. It is lightweight, strong, corrosion-resistant, and electrically insulating",
     "specs": {
       "Product": "FRP Rod",
       "Brand": "Lloyd Insulations",
@@ -540,7 +540,7 @@ export const INSULATION_PRODUCTS = [
     "category": "insulation",
     "subCategory": "Engineering Plastics & Polymers",
     "image": "/images/products/insulation/insulation_item_7.png",
-    "description": "Industrial-grade Cast Nylon Sheet supplied by Bahjat Enterprises under the Supreme Industries quality standard. Cast Nylon Sheet is an engineering plastic sheet produced by casting polymerized Nylon (typically Nylon 6 / PA6). It offers good mechanical strength, wear resistance, impact resistance, and low friction",
+    "description": "Industrial-grade Cast Nylon Sheet supplied by Bahjat Enterprises to certified industrial standards. Cast Nylon Sheet is an engineering plastic sheet produced by casting polymerized Nylon (typically Nylon 6 / PA6). It offers good mechanical strength, wear resistance, impact resistance, and low friction",
     "specs": {
       "Product": "Cast Nylon Sheet",
       "Brand": "Supreme Industries",
@@ -640,7 +640,7 @@ export const INSULATION_PRODUCTS = [
     "category": "insulation",
     "subCategory": "Engineering Plastics & Polymers",
     "image": "/images/products/insulation/insulation_item_8.png",
-    "description": "Industrial-grade Cast Nylon Rod supplied by Bahjat Enterprises under the Supreme Industries quality standard. Cast Nylon Rod is a solid round engineering-plastic rod made from cast Nylon 6 (PA6). It is known for high strength, wear resistance, low friction, impact resistance, and good machinability",
+    "description": "Industrial-grade Cast Nylon Rod supplied by Bahjat Enterprises to certified industrial standards. Cast Nylon Rod is a solid round engineering-plastic rod made from cast Nylon 6 (PA6). It is known for high strength, wear resistance, low friction, impact resistance, and good machinability",
     "specs": {
       "Product": "Cast Nylon Rod",
       "Brand": "Supreme Industries",
@@ -727,7 +727,7 @@ export const INSULATION_PRODUCTS = [
     "category": "insulation",
     "subCategory": "Engineering Plastics & Polymers",
     "image": "/images/products/insulation/insulation_item_9.png",
-    "description": "Industrial-grade HDPE Sheet supplied by Bahjat Enterprises under the Supreme Industries quality standard. HDPE Sheet (High-Density Polyethylene Sheet) is a strong, lightweight thermoplastic sheet with excellent chemical resistance, moisture resistance, impact strength, and low water absorption",
+    "description": "Industrial-grade HDPE Sheet supplied by Bahjat Enterprises to certified industrial standards. HDPE Sheet (High-Density Polyethylene Sheet) is a strong, lightweight thermoplastic sheet with excellent chemical resistance, moisture resistance, impact strength, and low water absorption",
     "specs": {
       "Product": "HDPE Sheet",
       "Brand": "Supreme Industries",
@@ -829,7 +829,7 @@ export const INSULATION_PRODUCTS = [
     "category": "insulation",
     "subCategory": "Engineering Plastics & Polymers",
     "image": "/images/products/insulation/insulation_item_10.png",
-    "description": "Industrial-grade PP Sheet supplied by Bahjat Enterprises under the Supreme Industries quality standard. PP Sheet (Polypropylene Sheet) is a lightweight thermoplastic sheet with excellent chemical resistance, moisture resistance, corrosion resistance, and good mechanical strength",
+    "description": "Industrial-grade PP Sheet supplied by Bahjat Enterprises to certified industrial standards. PP Sheet (Polypropylene Sheet) is a lightweight thermoplastic sheet with excellent chemical resistance, moisture resistance, corrosion resistance, and good mechanical strength",
     "specs": {
       "Product": "PP Sheet",
       "Brand": "Supreme Industries",
@@ -929,7 +929,7 @@ export const INSULATION_PRODUCTS = [
     "category": "insulation",
     "subCategory": "Electrical & Phenolic Insulation",
     "image": "/images/products/insulation/insulation_item_11.png",
-    "description": "Industrial-grade Fabric Sheet supplied by Bahjat Enterprises under the Lloyd Insulations quality standard. Fabric Insulation Sheet is an insulating material made from fabric, fiberglass, cotton, aramid, or fabric-reinforced resin. It can provide electrical insulation, thermal insulation, or both, depending on the grade",
+    "description": "Industrial-grade Fabric Sheet supplied by Bahjat Enterprises to certified industrial standards. Fabric Insulation Sheet is an insulating material made from fabric, fiberglass, cotton, aramid, or fabric-reinforced resin. It can provide electrical insulation, thermal insulation, or both, depending on the grade",
     "specs": {
       "Product": "Fabric Sheet",
       "Brand": "Lloyd Insulations",
@@ -1017,7 +1017,7 @@ export const INSULATION_PRODUCTS = [
     "category": "insulation",
     "subCategory": "Electrical & Phenolic Insulation",
     "image": "/images/products/insulation/insulation_item_12.png",
-    "description": "Industrial-grade Fabric Rod supplied by Bahjat Enterprises under the Lloyd Insulations quality standard. Fabric Rod generally refers to a fabric-reinforced composite rod, where layers of cotton/canvas fabric are impregnated with phenolic resin and compressed into a solid rod. It is also commonly called fabric phenolic rod, canvas bakelite rod, or laminated fabric rod",
+    "description": "Industrial-grade Fabric Rod supplied by Bahjat Enterprises to certified industrial standards. Fabric Rod generally refers to a fabric-reinforced composite rod, where layers of cotton/canvas fabric are impregnated with phenolic resin and compressed into a solid rod. It is also commonly called fabric phenolic rod, canvas bakelite rod, or laminated fabric rod",
     "specs": {
       "Product": "Fabric Rod",
       "Brand": "Lloyd Insulations",
@@ -1099,7 +1099,7 @@ export const INSULATION_PRODUCTS = [
     "category": "insulation",
     "subCategory": "Engineering Plastics & Polymers",
     "image": "/images/products/insulation/insulation_item_13.png",
-    "description": "Industrial-grade Delrin Sheet supplied by Bahjat Enterprises under the Neo Thermal quality standard. Delrin Sheet is a trade name commonly associated with POM (Polyoxymethylene) acetal, an engineering plastic known for high stiffness, low friction, excellent dimensional stability, and good wear resistance, Delrin / POM Sheet, Acetal Homopolymer Sheet Acetal Copolymer Sheet, Natural / White Delrin Sheet, Black Delrin Sheet, Food-Grade Acetal Sheet, Glass-Filled POM Sheet",
+    "description": "Industrial-grade Delrin Sheet supplied by Bahjat Enterprises to certified industrial standards. Delrin Sheet is a trade name commonly associated with POM (Polyoxymethylene) acetal, an engineering plastic known for high stiffness, low friction, excellent dimensional stability, and good wear resistance, Delrin / POM Sheet, Acetal Homopolymer Sheet Acetal Copolymer Sheet, Natural / White Delrin Sheet, Black Delrin Sheet, Food-Grade Acetal Sheet, Glass-Filled POM Sheet",
     "specs": {
       "Product": "Delrin Sheet",
       "Brand": "Neo Thermal",
@@ -1192,7 +1192,7 @@ export const INSULATION_PRODUCTS = [
     "category": "insulation",
     "subCategory": "Engineering Plastics & Polymers",
     "image": "/images/products/insulation/insulation_item_14.png",
-    "description": "Industrial-grade HDPE Rod supplied by Bahjat Enterprises under the Supreme Industries quality standard. HDPE Rod (High-Density Polyethylene Rod) is a solid thermoplastic rod with excellent chemical resistance, moisture resistance, impact strength, and low friction",
+    "description": "Industrial-grade HDPE Rod supplied by Bahjat Enterprises to certified industrial standards. HDPE Rod (High-Density Polyethylene Rod) is a solid thermoplastic rod with excellent chemical resistance, moisture resistance, impact strength, and low friction",
     "specs": {
       "Product": "HDPE Rod",
       "Brand": "Supreme Industries",
@@ -1281,7 +1281,7 @@ export const INSULATION_PRODUCTS = [
     "category": "insulation",
     "subCategory": "Engineering Plastics & Polymers",
     "image": "/images/products/insulation/insulation_item_15.png",
-    "description": "Industrial-grade Delrin Rod supplied by Bahjat Enterprises under the Neo Thermal quality standard. Delrin Rod is a solid engineering-plastic rod made from POM (Polyoxymethylene), also called acetal. Delrin is known for high stiffness, low friction, good wear resistance, and excellent dimensional stability",
+    "description": "Industrial-grade Delrin Rod supplied by Bahjat Enterprises to certified industrial standards. Delrin Rod is a solid engineering-plastic rod made from POM (Polyoxymethylene), also called acetal. Delrin is known for high stiffness, low friction, good wear resistance, and excellent dimensional stability",
     "specs": {
       "Product": "Delrin Rod",
       "Brand": "Neo Thermal",
@@ -1371,7 +1371,7 @@ export const INSULATION_PRODUCTS = [
     "category": "insulation",
     "subCategory": "Engineering Plastics & Polymers",
     "image": "/images/products/insulation/insulation_item_16.png",
-    "description": "Industrial-grade PP Rod supplied by Bahjat Enterprises under the Supreme Industries quality standard. PP Rod (Polypropylene Rod) is a solid round thermoplastic rod made from polypropylene. It is lightweight and has excellent chemical resistance, corrosion resistance, and moisture resistance",
+    "description": "Industrial-grade PP Rod supplied by Bahjat Enterprises to certified industrial standards. PP Rod (Polypropylene Rod) is a solid round thermoplastic rod made from polypropylene. It is lightweight and has excellent chemical resistance, corrosion resistance, and moisture resistance",
     "specs": {
       "Product": "PP Rod",
       "Brand": "Supreme Industries",
@@ -1457,7 +1457,7 @@ export const INSULATION_PRODUCTS = [
     "category": "insulation",
     "subCategory": "Engineering Plastics & Polymers",
     "image": "/images/products/insulation/insulation_item_17.png",
-    "description": "Industrial-grade PEEK Rod supplied by Bahjat Enterprises under the Neo Thermal quality standard. PEEK Rod (Polyether Ether Ketone Rod) is a high-performance engineering-plastic rod with excellent high-temperature resistance, chemical resistance, mechanical strength, wear resistance, and dimensional stability",
+    "description": "Industrial-grade PEEK Rod supplied by Bahjat Enterprises to certified industrial standards. PEEK Rod (Polyether Ether Ketone Rod) is a high-performance engineering-plastic rod with excellent high-temperature resistance, chemical resistance, mechanical strength, wear resistance, and dimensional stability",
     "specs": {
       "Product": "PEEK Rod",
       "Brand": "Neo Thermal",
@@ -1551,7 +1551,7 @@ export const INSULATION_PRODUCTS = [
     "category": "insulation",
     "subCategory": "Engineering Plastics & Polymers",
     "image": "/images/products/insulation/insulation_item_18.png",
-    "description": "Industrial-grade UHMWPE supplied by Bahjat Enterprises under the Supreme Industries quality standard. UHMWPE (Ultra-High-Molecular-Weight Polyethylene) is a high-performance polyethylene material known for very high wear resistance, low friction, excellent impact strength, and strong chemical resistance, Common Forms - UHMWPE Sheet, UHMWPE Rod UHMWPE Tube, UHMWPE Liner, UHMWPE Wear Plate, UHMWPE Profile",
+    "description": "Industrial-grade UHMWPE supplied by Bahjat Enterprises to certified industrial standards. UHMWPE (Ultra-High-Molecular-Weight Polyethylene) is a high-performance polyethylene material known for very high wear resistance, low friction, excellent impact strength, and strong chemical resistance, Common Forms - UHMWPE Sheet, UHMWPE Rod UHMWPE Tube, UHMWPE Liner, UHMWPE Wear Plate, UHMWPE Profile",
     "specs": {
       "Product": "UHMWPE",
       "Brand": "Supreme Industries",
@@ -1636,7 +1636,7 @@ export const INSULATION_PRODUCTS = [
     "category": "insulation",
     "subCategory": "Elastomers & High-Temp Materials",
     "image": "/images/products/insulation/insulation_item_19.png",
-    "description": "Industrial-grade Silicon Sheet supplied by Bahjat Enterprises under the K-Flex quality standard. Silicone Sheet is a flexible silicone rubber sheet known for excellent temperature resistance, weather resistance, chemical resistance, and electrical insulation",
+    "description": "Industrial-grade Silicon Sheet supplied by Bahjat Enterprises to certified industrial standards. Silicone Sheet is a flexible silicone rubber sheet known for excellent temperature resistance, weather resistance, chemical resistance, and electrical insulation",
     "specs": {
       "Product": "Silicon Sheet",
       "Brand": "K-Flex",
@@ -1722,7 +1722,7 @@ export const INSULATION_PRODUCTS = [
     "category": "insulation",
     "subCategory": "PVC & Industrial Strip Curtains",
     "image": "/images/products/insulation/insulation_item_20.png",
-    "description": "Industrial-grade PVC Rigid Sheet supplied by Bahjat Enterprises under the K-Flex quality standard. PVC Rigid Sheet is a hard, strong thermoplastic sheet made from unplasticized PVC (uPVC). It offers good chemical resistance, moisture resistance, electrical insulation, and easy fabrication",
+    "description": "Industrial-grade PVC Rigid Sheet supplied by Bahjat Enterprises to certified industrial standards. PVC Rigid Sheet is a hard, strong thermoplastic sheet made from unplasticized PVC (uPVC). It offers good chemical resistance, moisture resistance, electrical insulation, and easy fabrication",
     "specs": {
       "Product": "PVC Rigid Sheet",
       "Brand": "K-Flex",
@@ -1808,7 +1808,7 @@ export const INSULATION_PRODUCTS = [
     "category": "insulation",
     "subCategory": "Engineering Plastics & Polymers",
     "image": "/images/products/insulation/insulation_item_21.png",
-    "description": "Industrial-grade UMHW Rod supplied by Bahjat Enterprises under the Supreme Industries quality standard. UHMW Rod usually means UHMWPE Rod (Ultra-High-Molecular-Weight Polyethylene Rod). It is a solid engineering-plastic rod known for very high wear resistance, low friction, excellent impact strength, and good chemical resistance",
+    "description": "Industrial-grade UMHW Rod supplied by Bahjat Enterprises to certified industrial standards. UHMW Rod usually means UHMWPE Rod (Ultra-High-Molecular-Weight Polyethylene Rod). It is a solid engineering-plastic rod known for very high wear resistance, low friction, excellent impact strength, and good chemical resistance",
     "specs": {
       "Product": "UMHW Rod",
       "Brand": "Supreme Industries",
@@ -1904,7 +1904,7 @@ export const INSULATION_PRODUCTS = [
     "category": "insulation",
     "subCategory": "Electrical & Phenolic Insulation",
     "image": "/images/products/insulation/insulation_item_22.png",
-    "description": "Industrial-grade Hylam Sheet supplied by Bahjat Enterprises under the Lloyd Insulations quality standard. Hylam Sheet is a high-pressure laminated thermosetting sheet, commonly based on phenolic resin reinforced with paper, cotton fabric, or other fibrous materials. It is widely used for electrical insulation and mechanical components",
+    "description": "Industrial-grade Hylam Sheet supplied by Bahjat Enterprises to certified industrial standards. Hylam Sheet is a high-pressure laminated thermosetting sheet, commonly based on phenolic resin reinforced with paper, cotton fabric, or other fibrous materials. It is widely used for electrical insulation and mechanical components",
     "specs": {
       "Product": "Hylam Sheet",
       "Brand": "Lloyd Insulations",
@@ -1992,7 +1992,7 @@ export const INSULATION_PRODUCTS = [
     "category": "insulation",
     "subCategory": "Transparent & Optical Polymers",
     "image": "/images/products/insulation/insulation_item_23.png",
-    "description": "Industrial-grade Polycarbonate Sheet supplied by Bahjat Enterprises under the Saint-Gobain quality standard. Polycarbonate (PC) Sheet is a strong, lightweight engineering thermoplastic sheet with high impact resistance, good transparency, weather resistance, and dimensional stability",
+    "description": "Industrial-grade Polycarbonate Sheet supplied by Bahjat Enterprises to certified industrial standards. Polycarbonate (PC) Sheet is a strong, lightweight engineering thermoplastic sheet with high impact resistance, good transparency, weather resistance, and dimensional stability",
     "specs": {
       "Product": "Polycarbonate Sheet",
       "Brand": "Saint-Gobain",
@@ -2088,7 +2088,7 @@ export const INSULATION_PRODUCTS = [
     "category": "insulation",
     "subCategory": "Transparent & Optical Polymers",
     "image": "/images/products/insulation/insulation_item_24.png",
-    "description": "Industrial-grade Polycarbonate Rod supplied by Bahjat Enterprises under the Saint-Gobain quality standard. Polycarbonate (PC) Rod is a solid engineering-plastic rod known for high impact strength, toughness, dimensional stability, and good electrical insulation. Transparent grades provide excellent optical visibility",
+    "description": "Industrial-grade Polycarbonate Rod supplied by Bahjat Enterprises to certified industrial standards. Polycarbonate (PC) Rod is a solid engineering-plastic rod known for high impact strength, toughness, dimensional stability, and good electrical insulation. Transparent grades provide excellent optical visibility",
     "specs": {
       "Product": "Polycarbonate Rod",
       "Brand": "Saint-Gobain",
@@ -2175,7 +2175,7 @@ export const INSULATION_PRODUCTS = [
     "category": "insulation",
     "subCategory": "Elastomers & High-Temp Materials",
     "image": "/images/products/insulation/insulation_item_25.png",
-    "description": "Industrial-grade PU Sheet supplied by Bahjat Enterprises under the Armacell – ArmaFlex quality standard. PU Sheet (Polyurethane Sheet) is a flexible or semi-rigid engineering material known for excellent abrasion resistance, high tear strength, impact resistance, and good resistance to oils and chemicals",
+    "description": "Industrial-grade PU Sheet supplied by Bahjat Enterprises to certified industrial standards. PU Sheet (Polyurethane Sheet) is a flexible or semi-rigid engineering material known for excellent abrasion resistance, high tear strength, impact resistance, and good resistance to oils and chemicals",
     "specs": {
       "Product": "PU Sheet",
       "Brand": "Armacell – ArmaFlex",
@@ -2271,7 +2271,7 @@ export const INSULATION_PRODUCTS = [
     "category": "insulation",
     "subCategory": "Elastomers & High-Temp Materials",
     "image": "/images/products/insulation/insulation_item_26.png",
-    "description": "Industrial-grade PU Rod supplied by Bahjat Enterprises under the Armacell – ArmaFlex quality standard. PU Rod (Polyurethane Rod) is a solid polyurethane elastomer rod with high abrasion resistance, impact resistance, flexibility, and load-bearing capacity. It is commonly machined into bushes, rollers, seals, wheels, and wear components",
+    "description": "Industrial-grade PU Rod supplied by Bahjat Enterprises to certified industrial standards. PU Rod (Polyurethane Rod) is a solid polyurethane elastomer rod with high abrasion resistance, impact resistance, flexibility, and load-bearing capacity. It is commonly machined into bushes, rollers, seals, wheels, and wear components",
     "specs": {
       "Product": "PU Rod",
       "Brand": "Armacell – ArmaFlex",
@@ -2364,7 +2364,7 @@ export const INSULATION_PRODUCTS = [
     "category": "insulation",
     "subCategory": "Electrical & Phenolic Insulation",
     "image": "/images/products/insulation/insulation_item_27.png",
-    "description": "Industrial-grade Glass Epoxy Sheet supplied by Bahjat Enterprises under the Lloyd Insulations quality standard. Glass Epoxy Sheet is a rigid composite laminate made from woven glass-fiber reinforcement impregnated with epoxy resin. It provides excellent electrical insulation, mechanical strength, dimensional stability, and heat resistance",
+    "description": "Industrial-grade Glass Epoxy Sheet supplied by Bahjat Enterprises to certified industrial standards. Glass Epoxy Sheet is a rigid composite laminate made from woven glass-fiber reinforcement impregnated with epoxy resin. It provides excellent electrical insulation, mechanical strength, dimensional stability, and heat resistance",
     "specs": {
       "Product": "Glass Epoxy Sheet",
       "Brand": "Lloyd Insulations",
@@ -2459,7 +2459,7 @@ export const INSULATION_PRODUCTS = [
     "category": "insulation",
     "subCategory": "Electrical & Phenolic Insulation",
     "image": "/images/products/insulation/insulation_item_28.png",
-    "description": "Industrial-grade Epoxy Tube supplied by Bahjat Enterprises under the Lloyd Insulations quality standard. Epoxy Tube generally refers to a fiberglass-reinforced epoxy resin tube (Glass Epoxy / FRP Epoxy Tube). It is a rigid hollow tube with excellent electrical insulation, mechanical strength, heat resistance, and dimensional stability",
+    "description": "Industrial-grade Epoxy Tube supplied by Bahjat Enterprises to certified industrial standards. Epoxy Tube generally refers to a fiberglass-reinforced epoxy resin tube (Glass Epoxy / FRP Epoxy Tube). It is a rigid hollow tube with excellent electrical insulation, mechanical strength, heat resistance, and dimensional stability",
     "specs": {
       "Product": "Epoxy Tube",
       "Brand": "Lloyd Insulations",
@@ -2552,7 +2552,7 @@ export const INSULATION_PRODUCTS = [
     "category": "insulation",
     "subCategory": "PTFE & Fluoropolymers",
     "image": "/images/products/insulation/insulation_item_29.png",
-    "description": "Industrial-grade PTFE Tape supplied by Bahjat Enterprises under the K-Flex quality standard. PTFE Coated Fiberglass Tape is a fiberglass fabric coated with PTFE (Teflon). It combines the high-temperature and chemical resistance of PTFE with the strength and dimensional stability of fiberglass",
+    "description": "Industrial-grade PTFE Tape supplied by Bahjat Enterprises to certified industrial standards. PTFE Coated Fiberglass Tape is a fiberglass fabric coated with PTFE (Teflon). It combines the high-temperature and chemical resistance of PTFE with the strength and dimensional stability of fiberglass",
     "specs": {
       "Product": "PTFE Tape",
       "Brand": "K-Flex",
@@ -2639,7 +2639,7 @@ export const INSULATION_PRODUCTS = [
     "category": "insulation",
     "subCategory": "PVC & Industrial Strip Curtains",
     "image": "/images/products/insulation/insulation_item_30.png",
-    "description": "Industrial-grade Curtain Hanger supplied by Bahjat Enterprises under the K-Flex quality standard. Curtain Hanger Strip is a strip/rail used to support and hang curtains, commonly made from PVC, aluminium, stainless steel, or plastic. It may include slots, hooks, carriers, or mounting holes for attaching curtain panels",
+    "description": "Industrial-grade Curtain Hanger supplied by Bahjat Enterprises to certified industrial standards. Curtain Hanger Strip is a strip/rail used to support and hang curtains, commonly made from PVC, aluminium, stainless steel, or plastic. It may include slots, hooks, carriers, or mounting holes for attaching curtain panels",
     "specs": {
       "Product": "Curtain Hanger",
       "Brand": "K-Flex",
@@ -2718,7 +2718,7 @@ export const INSULATION_PRODUCTS = [
     "category": "insulation",
     "subCategory": "PVC & Industrial Strip Curtains",
     "image": "/images/products/insulation/insulation_item_31.png",
-    "description": "Industrial-grade PVC Curtain supplied by Bahjat Enterprises under the K-Flex quality standard. PVC Curtain is a flexible curtain made from PVC (Polyvinyl Chloride), commonly supplied as individual strips or sheets. It is used to create a barrier while allowing easy movement of people, materials, or air",
+    "description": "Industrial-grade PVC Curtain supplied by Bahjat Enterprises to certified industrial standards. PVC Curtain is a flexible curtain made from PVC (Polyvinyl Chloride), commonly supplied as individual strips or sheets. It is used to create a barrier while allowing easy movement of people, materials, or air",
     "specs": {
       "Product": "PVC Curtain",
       "Brand": "K-Flex",
@@ -2812,7 +2812,7 @@ export const INSULATION_PRODUCTS = [
     "category": "insulation",
     "subCategory": "PVC & Industrial Strip Curtains",
     "image": "/images/products/insulation/insulation_item_32.png",
-    "description": "Industrial-grade PVC Strip Curtain supplied by Bahjat Enterprises under the K-Flex quality standard. PVC Strip Curtain is a flexible barrier made from PVC strips suspended vertically from a hanger rail/track. The strips overlap to provide separation while allowing people, vehicles, and materials to pass through",
+    "description": "Industrial-grade PVC Strip Curtain supplied by Bahjat Enterprises to certified industrial standards. PVC Strip Curtain is a flexible barrier made from PVC strips suspended vertically from a hanger rail/track. The strips overlap to provide separation while allowing people, vehicles, and materials to pass through",
     "specs": {
       "Product": "PVC Strip Curtain",
       "Brand": "K-Flex",
@@ -2908,7 +2908,7 @@ export const INSULATION_PRODUCTS = [
     "category": "insulation",
     "subCategory": "PVC & Industrial Strip Curtains",
     "image": "/images/products/insulation/insulation_item_33.png",
-    "description": "Industrial-grade PVC Flexible Sheet supplied by Bahjat Enterprises under the K-Flex quality standard. PVC Flexible Sheet is a soft, bendable sheet made from plasticized PVC (Polyvinyl Chloride). It is available in transparent, colored, and specialty grades and is used for protective covers, curtains, flooring, gaskets, insulation, and industrial applications",
+    "description": "Industrial-grade PVC Flexible Sheet supplied by Bahjat Enterprises to certified industrial standards. PVC Flexible Sheet is a soft, bendable sheet made from plasticized PVC (Polyvinyl Chloride). It is available in transparent, colored, and specialty grades and is used for protective covers, curtains, flooring, gaskets, insulation, and industrial applications",
     "specs": {
       "Product": "PVC Flexible Sheet",
       "Brand": "K-Flex",
@@ -3000,7 +3000,7 @@ export const INSULATION_PRODUCTS = [
     "category": "insulation",
     "subCategory": "PTFE & Fluoropolymers",
     "image": "/images/products/insulation/insulation_item_34.png",
-    "description": "Industrial-grade PTFE Component supplied by Bahjat Enterprises under the Saint-Gobain quality standard. PTFE Components are precision or fabricated parts made from PTFE (Polytetrafluoroethylene), commonly known as Teflon. PTFE is valued for its very low friction, excellent chemical resistance, non-stick properties, and high-temperature resistance, Common PTFE Components - PTFE Bush / Bushing, PTFE Bearing, PTFE Seal / Sealing Ring, PTFE Gasket, PTFE Washer, PTFE O-Ring, PTFE Valve Seat, PTFE Valve Liner, PTFE Packing, PTFE Spacer, PTFE Guide Ring, PTFE Insulating Component, PTFE Tube / Sleeve, PTFE Rod-Machined Components, Common Grade - Virgin PTFE, Glass-Filled PTFE, Carbon-Filled PTFE, Graphite-Filled PTFE, Bronze-Filled PTFE, PTFE + MoS₂, FDA/Food Grade",
+    "description": "Industrial-grade PTFE Component supplied by Bahjat Enterprises to certified industrial standards. PTFE Components are precision or fabricated parts made from PTFE (Polytetrafluoroethylene), commonly known as Teflon. PTFE is valued for its very low friction, excellent chemical resistance, non-stick properties, and high-temperature resistance, Common PTFE Components - PTFE Bush / Bushing, PTFE Bearing, PTFE Seal / Sealing Ring, PTFE Gasket, PTFE Washer, PTFE O-Ring, PTFE Valve Seat, PTFE Valve Liner, PTFE Packing, PTFE Spacer, PTFE Guide Ring, PTFE Insulating Component, PTFE Tube / Sleeve, PTFE Rod-Machined Components, Common Grade - Virgin PTFE, Glass-Filled PTFE, Carbon-Filled PTFE, Graphite-Filled PTFE, Bronze-Filled PTFE, PTFE + MoS₂, FDA/Food Grade",
     "specs": {
       "Product": "PTFE Component",
       "Brand": "Saint-Gobain",
@@ -3100,7 +3100,7 @@ export const INSULATION_PRODUCTS = [
     "category": "insulation",
     "subCategory": "PTFE & Fluoropolymers",
     "image": "/images/products/insulation/insulation_item_35.png",
-    "description": "Industrial-grade PTFE Tube supplied by Bahjat Enterprises under the Saint-Gobain quality standard. PTFE Tube (Teflon Tube) is a tube made from Polytetrafluoroethylene (PTFE), It is widely used where chemical resistance, low friction, high-temperature resistance, and electrical insulation are required",
+    "description": "Industrial-grade PTFE Tube supplied by Bahjat Enterprises to certified industrial standards. PTFE Tube (Teflon Tube) is a tube made from Polytetrafluoroethylene (PTFE), It is widely used where chemical resistance, low friction, high-temperature resistance, and electrical insulation are required",
     "specs": {
       "Product": "PTFE Tube",
       "Brand": "Saint-Gobain",
@@ -3197,7 +3197,7 @@ export const INSULATION_PRODUCTS = [
     "category": "insulation",
     "subCategory": "PTFE & Fluoropolymers",
     "image": "/images/products/insulation/insulation_item_36.png",
-    "description": "Industrial-grade PTFE Sleeve supplied by Bahjat Enterprises under the Saint-Gobain quality standard. PTFE Sleeve (Teflon Sleeve) is a hollow cylindrical component made from PTFE (Polytetrafluoroethylene). It is used for insulation, protection, low-friction movement, sealing, and chemical isolation",
+    "description": "Industrial-grade PTFE Sleeve supplied by Bahjat Enterprises to certified industrial standards. PTFE Sleeve (Teflon Sleeve) is a hollow cylindrical component made from PTFE (Polytetrafluoroethylene). It is used for insulation, protection, low-friction movement, sealing, and chemical isolation",
     "specs": {
       "Product": "PTFE Sleeve",
       "Brand": "Saint-Gobain",
@@ -3286,7 +3286,7 @@ export const INSULATION_PRODUCTS = [
     "category": "insulation",
     "subCategory": "PTFE & Fluoropolymers",
     "image": "/images/products/insulation/insulation_item_37.png",
-    "description": "Industrial-grade PTFE Sheet supplied by Bahjat Enterprises under the Saint-Gobain quality standard. PTFE Sheet (Teflon Sheet) is a sheet made from Polytetrafluoroethylene (PTFE). It is widely used for chemical resistance, low friction, high-temperature service, sealing, and electrical insulation",
+    "description": "Industrial-grade PTFE Sheet supplied by Bahjat Enterprises to certified industrial standards. PTFE Sheet (Teflon Sheet) is a sheet made from Polytetrafluoroethylene (PTFE). It is widely used for chemical resistance, low friction, high-temperature service, sealing, and electrical insulation",
     "specs": {
       "Product": "PTFE Sheet",
       "Brand": "Saint-Gobain",
@@ -3380,7 +3380,7 @@ export const INSULATION_PRODUCTS = [
     "category": "insulation",
     "subCategory": "PTFE & Fluoropolymers",
     "image": "/images/products/insulation/insulation_item_38.png",
-    "description": "Industrial-grade PTFE Rod supplied by Bahjat Enterprises under the Saint-Gobain quality standard. PTFE Rod is a solid engineering-plastic rod made from Polytetrafluoroethylene (PTFE). It has excellent chemical resistance, low friction, non-stick properties, electrical insulation, and high-temperature resistance",
+    "description": "Industrial-grade PTFE Rod supplied by Bahjat Enterprises to certified industrial standards. PTFE Rod is a solid engineering-plastic rod made from Polytetrafluoroethylene (PTFE). It has excellent chemical resistance, low friction, non-stick properties, electrical insulation, and high-temperature resistance",
     "specs": {
       "Product": "PTFE Rod",
       "Brand": "Saint-Gobain",
@@ -3467,7 +3467,7 @@ export const INSULATION_PRODUCTS = [
     "category": "insulation",
     "subCategory": "PTFE & Fluoropolymers",
     "image": "/images/products/insulation/insulation_item_39.png",
-    "description": "Industrial-grade PTFE Skived Sheet supplied by Bahjat Enterprises under the Saint-Gobain quality standard. PTFE Skived Sheet is a PTFE sheet produced by skiving (peeling) a large PTFE billet into a continuous sheet or film. It provides a smooth, uniform surface and is commonly used for gaskets, seals, electrical insulation, and lining applications",
+    "description": "Industrial-grade PTFE Skived Sheet supplied by Bahjat Enterprises to certified industrial standards. PTFE Skived Sheet is a PTFE sheet produced by skiving (peeling) a large PTFE billet into a continuous sheet or film. It provides a smooth, uniform surface and is commonly used for gaskets, seals, electrical insulation, and lining applications",
     "specs": {
       "Product": "PTFE Skived Sheet",
       "Brand": "Saint-Gobain",
@@ -3558,7 +3558,7 @@ export const INSULATION_PRODUCTS = [
     "category": "insulation",
     "subCategory": "PTFE & Fluoropolymers",
     "image": "/images/products/insulation/insulation_item_40.png",
-    "description": "Industrial-grade PTFE Molded Sheet supplied by Bahjat Enterprises under the Saint-Gobain quality standard. PTFE Molded Sheet is a solid PTFE plate manufactured by compression molding PTFE powder and then sintering it. It is generally thicker and more rigid than skived PTFE sheet and is suitable for machining into industrial components",
+    "description": "Industrial-grade PTFE Molded Sheet supplied by Bahjat Enterprises to certified industrial standards. PTFE Molded Sheet is a solid PTFE plate manufactured by compression molding PTFE powder and then sintering it. It is generally thicker and more rigid than skived PTFE sheet and is suitable for machining into industrial components",
     "specs": {
       "Product": "PTFE Molded Sheet",
       "Brand": "Saint-Gobain",
@@ -3661,7 +3661,7 @@ export const INSULATION_PRODUCTS = [
     "category": "insulation",
     "subCategory": "Thermal & Building Insulation",
     "image": "/images/products/insulation/insulation_item_41.png",
-    "description": "Industrial-grade Fiberglass Insulation supplied by Bahjat Enterprises under the Owens Corning quality standard. Fiberglass Insulation is an insulating material made from fine glass fibers. It is primarily used for thermal insulation, electrical insulation, and sound absorption",
+    "description": "Industrial-grade Fiberglass Insulation supplied by Bahjat Enterprises to certified industrial standards. Fiberglass Insulation is an insulating material made from fine glass fibers. It is primarily used for thermal insulation, electrical insulation, and sound absorption",
     "specs": {
       "Product": "Fiberglass Insulation",
       "Brand": "Owens Corning",
@@ -3748,7 +3748,7 @@ export const INSULATION_PRODUCTS = [
     "category": "insulation",
     "subCategory": "Thermal & Building Insulation",
     "image": "/images/products/insulation/insulation_item_42.png",
-    "description": "Industrial-grade Roof Thermal Insulation Material supplied by Bahjat Enterprises under the ROCKWOOL quality standard. Roof Thermal Insulation Material is used to reduce heat transfer through roofs, keeping buildings cooler in summer and improving energy efficiency. The suitable material depends on the roof type, temperature, moisture exposure, and required insulation thickness",
+    "description": "Industrial-grade Roof Thermal Insulation Material supplied by Bahjat Enterprises to certified industrial standards. Roof Thermal Insulation Material is used to reduce heat transfer through roofs, keeping buildings cooler in summer and improving energy efficiency. The suitable material depends on the roof type, temperature, moisture exposure, and required insulation thickness",
     "specs": {
       "Product": "Roof Thermal Insulation Material",
       "Brand": "ROCKWOOL",

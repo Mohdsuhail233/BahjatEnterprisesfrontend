@@ -16,8 +16,8 @@ export const ELECTRICAL_PRODUCTS = [
     "priority": 1,
     "priorityLabel": "1st Priority",
     "color": "yellow",
-    "image": "/images/products/electrical/batteries.png",
-    "description": "High-quality Batteries manufactured to industrial specifications. Solar Battery, Inverter Batteries, Alkaline Battery, Zinc-Carbon Battery, Lithium Battery, Lithium-Ion (Li-ion), Lithium Iron Phosphate (LiFePO₄), Nickel Metal Hydride (NiMH), Nickel Cadmium (NiCd), Sealed Lead Acid (SLA...",
+    "image": "/images/products/electrical/AlkalineBattry.jpeg",
+    "description": "High-quality Batteries manufactured to industrial specifications. Solar Battery, Inverter Batteries, Alkaline Battery, Zinc-Carbon Battery, Lithium Battery, Lithium-Ion (Li-ion), Lithium Iron Phosphate (LiFePO\u2084), Nickel Metal Hydride (NiMH), Nickel Cadmium (NiCd), Sealed Lead Acid",
     "specs": {
       "Product": "Batteries",
       "Brand": "TP-Link",
@@ -25,8 +25,11 @@ export const ELECTRICAL_PRODUCTS = [
       "Voltage": "3 V / 3.6 V, 1.5 V, 3.7 V, 3.2 V, 1.2 V, 6 V, 12 V, 7 Ah, 12 Ah, 18 Ah, 26 Ah, 40 Ah, 65 Ah, 100 Ah, 150 Ah, 200 Ah",
       "Size": "AAA, AA, C, D, 9 V (PP3), CR2032, 18650 Li-ion, 12 V SLA"
     },
-    "rawSpecs": "Solar Battery, Inverter Batteries, Alkaline Battery, Zinc-Carbon Battery, Lithium Battery, Lithium-Ion (Li-ion), Lithium Iron Phosphate (LiFePO₄), Nickel Metal Hydride (NiMH), Nickel Cadmium (NiCd), Sealed Lead Acid (SLA/VRLA), Tubular Lead Acid Battery, Gel Battery, Voltage : 3 V / 3.6 V, 1.5 V, 3.7 V, 3.2 V, 1.2 V, 6 V, 12 V, 7 Ah, 12 Ah, 18 Ah, 26 Ah, 40 Ah, 65 Ah, 100 Ah, 150 Ah, 200 Ah, Battery Size : AAA, AA, C, D, 9 V (PP3), CR2032, 18650 Li-ion, 12 V SLA",
-    "subCategory": "Batteries & Power Backup"
+    "rawSpecs": "Solar Battery, Inverter Batteries, Alkaline Battery, Zinc-Carbon Battery, Lithium Battery, Lithium-Ion (Li-ion), Lithium Iron Phosphate (LiFePO\u2084), Nickel Metal Hydride (NiMH), Nickel Cadmium (NiCd), Sealed Lead Acid (SLA/VRLA), Tubular Lead Acid Battery, Gel Battery, Voltage : 3 V / 3.6 V, 1.5 V, 3.7 V, 3.2 V, 1.2 V, 6 V, 12 V, 7 Ah, 12 Ah, 18 Ah, 26 Ah, 40 Ah, 65 Ah, 100 Ah, 150 Ah, 200 Ah, Battery Size : AAA, AA, C, D, 9 V (PP3), CR2032, 18650 Li-ion, 12 V SLA",
+    "subCategory": "Batteries & Power Backup",
+    "images": [
+      "/images/products/electrical/batteries.png"
+    ]
   },
   {
     "id": "el-007-busbar",
@@ -38,14 +41,14 @@ export const ELECTRICAL_PRODUCTS = [
     "priorityLabel": "1st Priority",
     "color": "yellow",
     "image": "/images/products/electrical/busbar.png",
-    "description": "High-quality Busbar manufactured to industrial specifications. Flat Busbar, Tubular Busbar, Flexible Busbar, Laminated (Sandwich) Busbar, Copper, Aluminium, Size : Wide X Thk - 20 mm × 3 mm , 25 mm × 3 mm, 25 mm x 5 mm, 30 mm x 5 mm, 40 mm x 5 mm, 50 mm x 5 mm, 50 mm x 10 mm, 60 mm ...",
+    "description": "High-quality Busbar manufactured to industrial specifications. Flat Busbar, Tubular Busbar, Flexible Busbar, Laminated (Sandwich) Busbar, Copper, Aluminium, Size : Wide X Thk - 20 mm \u00d7 3 mm , 25 mm \u00d7 3 mm, 25 mm x 5 mm, 30 mm x 5 mm, 40 mm x 5 mm, 50 mm x 5 mm, 50 mm x 10 mm, 60 mm ...",
     "specs": {
       "Product": "Busbar",
       "Brand": "Universal Cables",
       "Sub-Category": "Industrial Electrical Items",
-      "Size": "Wide X Thk - 20 mm × 3 mm , 25 mm × 3 mm, 25 mm x 5 mm, 30 mm x 5 mm, 40 mm x 5 mm, 50 mm x 5 mm, 50 mm x 10 mm, 60 mm x 5 mm, 60 mm x 10 mm, 80 mm x 10 mm, 100 mm x 10 mm, 120 mm x 10 mm"
+      "Size": "Wide X Thk - 20 mm \u00d7 3 mm , 25 mm \u00d7 3 mm, 25 mm x 5 mm, 30 mm x 5 mm, 40 mm x 5 mm, 50 mm x 5 mm, 50 mm x 10 mm, 60 mm x 5 mm, 60 mm x 10 mm, 80 mm x 10 mm, 100 mm x 10 mm, 120 mm x 10 mm"
     },
-    "rawSpecs": "Flat Busbar, Tubular Busbar, Flexible Busbar, Laminated (Sandwich) Busbar, Copper, Aluminium, Size : Wide X Thk - 20 mm × 3 mm , 25 mm × 3 mm, 25 mm x 5 mm, 30 mm x 5 mm, 40 mm x 5 mm, 50 mm x 5 mm, 50 mm x 10 mm, 60 mm x 5 mm, 60 mm x 10 mm, 80 mm x 10 mm, 100 mm x 10 mm, 120 mm x 10 mm",
+    "rawSpecs": "Flat Busbar, Tubular Busbar, Flexible Busbar, Laminated (Sandwich) Busbar, Copper, Aluminium, Size : Wide X Thk - 20 mm \u00d7 3 mm , 25 mm \u00d7 3 mm, 25 mm x 5 mm, 30 mm x 5 mm, 40 mm x 5 mm, 50 mm x 5 mm, 50 mm x 10 mm, 60 mm x 5 mm, 60 mm x 10 mm, 80 mm x 10 mm, 100 mm x 10 mm, 120 mm x 10 mm",
     "subCategory": "Industrial Electrical Items",
     "gallery": [
       "/images/products/electrical/busbar.png",
@@ -68,9 +71,9 @@ export const ELECTRICAL_PRODUCTS = [
       "Brand": "Hikvision",
       "Sub-Category": "Industrial Electrical Items",
       "Size": "Height (mm) x Thread Size ( mm) - 25 x M6, 30 x M8, 40 X M8, 50 X M10, 60 X M10, 75 X M12, 100 X M12/16",
-      "Voltage": "415 V AC, 690 V AC, 3.3–11 Kv,33 kV and above"
+      "Voltage": "415 V AC, 690 V AC, 3.3\u201311 Kv,33 kV and above"
     },
-    "rawSpecs": "Cylindrical (Post) Insulator, Hexagonal Insulator, Conical (Tapered) Insulator, Epoxy Resin Insulator, Size : Height (mm) x Thread Size ( mm) - 25 x M6, 30 x M8, 40 X M8, 50 X M10, 60 X M10, 75 X M12, 100 X M12/16, Voltage: 415 V AC, 690 V AC, 3.3–11 Kv,33 kV and above",
+    "rawSpecs": "Cylindrical (Post) Insulator, Hexagonal Insulator, Conical (Tapered) Insulator, Epoxy Resin Insulator, Size : Height (mm) x Thread Size ( mm) - 25 x M6, 30 x M8, 40 X M8, 50 X M10, 60 X M10, 75 X M12, 100 X M12/16, Voltage: 415 V AC, 690 V AC, 3.3\u201311 Kv,33 kV and above",
     "subCategory": "Industrial Electrical Items",
     "gallery": [
       "/images/products/electrical/busbar-insulator.png",
@@ -94,12 +97,12 @@ export const ELECTRICAL_PRODUCTS = [
       "Brand": "Dahua Technology",
       "Sub-Category": "Switches & Accessories",
       "Colour": "Red, Green, Yellow, Blue, White, Red/Yellow",
-      "Diameter": "16 mm x 18–22 mm, 22 mm x 29–40 mm, 30 mm x 40–60 mm",
+      "Diameter": "16 mm x 18\u201322 mm, 22 mm x 29\u201340 mm, 30 mm x 40\u201360 mm",
       "Voltage": "24 V AC/DC, 110 V AC, 230 V AC, 415 V AC",
       "Current": "3 A, 5 A, 10 A",
       "Material": "Polycarbonate, ABS Plastic, Metal (Aluminium/Stainless Steel)"
     },
-    "rawSpecs": "Push Button Station, Push Button, Emergency Stop Button, Emergency Stop (E-Stop), Reset Push Button, Illuminated Push Button, Momentary Push Button, Maintained (Latching) Push Button, Flush Push Button, Mushroom Head Push Button, Start Push Button (NO), Stop Push Button (NC), Colour : Red, Green, Yellow, Blue, White, Red/Yellow, Mounting Hole Size x Head Diameter : 16 mm x 18–22 mm, 22 mm x 29–40 mm, 30 mm x 40–60 mm, Voltage : 24 V AC/DC, 110 V AC, 230 V AC, 415 V AC, Current : 3 A, 5 A, 10 A, Material : Polycarbonate, ABS Plastic, Metal (Aluminium/Stainless Steel)",
+    "rawSpecs": "Push Button Station, Push Button, Emergency Stop Button, Emergency Stop (E-Stop), Reset Push Button, Illuminated Push Button, Momentary Push Button, Maintained (Latching) Push Button, Flush Push Button, Mushroom Head Push Button, Start Push Button (NO), Stop Push Button (NC), Colour : Red, Green, Yellow, Blue, White, Red/Yellow, Mounting Hole Size x Head Diameter : 16 mm x 18\u201322 mm, 22 mm x 29\u201340 mm, 30 mm x 40\u201360 mm, Voltage : 24 V AC/DC, 110 V AC, 230 V AC, 415 V AC, Current : 3 A, 5 A, 10 A, Material : Polycarbonate, ABS Plastic, Metal (Aluminium/Stainless Steel)",
     "subCategory": "Switches & Accessories",
     "gallery": [
       "/images/products/electrical/button.png",
@@ -164,7 +167,7 @@ export const ELECTRICAL_PRODUCTS = [
     "priority": 1,
     "priorityLabel": "1st Priority",
     "color": "yellow",
-    "image": "/images/products/electrical/cable-gland.png",
+    "image": "/images/products/electrical/cable-gland-2.png",
     "description": "High-quality Cable Gland manufactured to industrial specifications. Nylon Cable Gland, Brass Cable Gland, Nickel Plated Cable Gland, Aluminium Cable Gland Single Compression, Double Compression, Stainless Steel Cable Gland, Explosion Proof Cable Gland,",
     "specs": {
       "Product": "Cable Gland",
@@ -177,7 +180,6 @@ export const ELECTRICAL_PRODUCTS = [
     "rawSpecs": "Nylon Cable Gland, Brass Cable Gland, Nickel Plated Cable Gland, Aluminium Cable Gland Single Compression, Double Compression, Stainless Steel Cable Gland, Explosion Proof Cable Gland,",
     "subCategory": "Wiring Accessories",
     "gallery": [
-      "/images/products/electrical/cable-gland.png",
       "/images/products/electrical/cable-gland-2.png"
     ]
   },
@@ -344,7 +346,7 @@ export const ELECTRICAL_PRODUCTS = [
     "priority": 1,
     "priorityLabel": "1st Priority",
     "color": "yellow",
-    "image": "/images/products/electrical/cadweld.png",
+    "image": "/images/products/electrical/cadwelMould.jpg",
     "description": "High-quality Cadweld manufactured to industrial specifications. CADWELD Connection : Type : Cable-to-Cable, Cable-to-Ground Rod, Cable-to-Busbar, Cable-to-Steel, Cable-to-Rebar, Ground Rod-to-Ground Rod, Cable-to-Plate, Component : Graphite Mold, Welding Powder (Metal Charge), Starti...",
     "specs": {
       "Product": "Cadweld",
@@ -356,7 +358,7 @@ export const ELECTRICAL_PRODUCTS = [
       "Material": "High-density Graphite",
       "Metal": "Copper-based Exothermic Welding Powder"
     },
-    "rawSpecs": "CADWELD Connection : Type : Cable-to-Cable, Cable-to-Ground Rod, Cable-to-Busbar, Cable-to-Steel, Cable-to-Rebar, Ground Rod-to-Ground Rod, Cable-to-Plate, Component : Graphite Mold, Welding Powder (Metal Charge), Starting Powder, Flint Igniter, Mold Clamp/Handle, Mold Cleaning Brush, Conductor Size : 16 mm², 25 mm², 35 mm², 50 mm², 70 mm², 95 mm², 120 mm², 150–240 mm², Ground Rod Size: 12 mm, 16 mm, 17.2 mm, 20 mm, 25 mm, Mold Material: High-density Graphite, Weld Metal: Copper-based Exothermic Welding Powder",
+    "rawSpecs": "CADWELD Connection : Type : Cable-to-Cable, Cable-to-Ground Rod, Cable-to-Busbar, Cable-to-Steel, Cable-to-Rebar, Ground Rod-to-Ground Rod, Cable-to-Plate, Component : Graphite Mold, Welding Powder (Metal Charge), Starting Powder, Flint Igniter, Mold Clamp/Handle, Mold Cleaning Brush, Conductor Size : 16 mm\u00b2, 25 mm\u00b2, 35 mm\u00b2, 50 mm\u00b2, 70 mm\u00b2, 95 mm\u00b2, 120 mm\u00b2, 150\u2013240 mm\u00b2, Ground Rod Size: 12 mm, 16 mm, 17.2 mm, 20 mm, 25 mm, Mold Material: High-density Graphite, Weld Metal: Copper-based Exothermic Welding Powder",
     "subCategory": "Earthing Materials"
   },
   {
@@ -369,14 +371,14 @@ export const ELECTRICAL_PRODUCTS = [
     "priorityLabel": "1st Priority",
     "color": "yellow",
     "image": "/images/products/electrical/chockes.png",
-    "description": "High-quality Chockes manufactured to industrial specifications. Line Choke (AC Reactor), Load Choke, DC Choke, EMI/RFI Choke (Common Mode Choke), Ballast Choke, Detuned Reactor, Air-Core Choke, Iron-Core Choke, Toroidal Choke, Rating : 1–1000 A, 5–1000 5–100 kVAr systemsA, mA–100 A, ...",
+    "description": "High-quality Chockes manufactured to industrial specifications. Line Choke (AC Reactor), Load Choke, DC Choke, EMI/RFI Choke (Common Mode Choke), Ballast Choke, Detuned Reactor, Air-Core Choke, Iron-Core Choke, Toroidal Choke, Rating : 1\u20131000 A, 5\u20131000 5\u2013100 kVAr systemsA, mA\u2013100 A, ...",
     "specs": {
       "Product": "Chockes",
       "Brand": "ABB",
       "Rating": "1000 A, 800 A, 630 A, 400 A, 250 A, 160 A, 100 A, 63 A, 40 A, 32 A, 25 A, 16 A, Voltage Ratings 230 V AC, 415 V AC, 525 V AC, 690 V AC, 1 kV, 3.3 kV, 6.6 Kv, 11 kV",
       "Sub-Category": "Lighting Components"
     },
-    "rawSpecs": "Line Choke (AC Reactor), Load Choke, DC Choke, EMI/RFI Choke (Common Mode Choke), Ballast Choke, Detuned Reactor, Air-Core Choke, Iron-Core Choke, Toroidal Choke, Rating : 1–1000 A, 5–1000 5–100 kVAr systemsA, mA–100 A, 20–80 W, Current Rating : 1000 A, 800 A, 630 A, 400 A, 250 A, 160 A, 100 A, 63 A, 40 A, 32 A, 25 A, 16 A, Voltage Ratings 230 V AC, 415 V AC, 525 V AC, 690 V AC, 1 kV, 3.3 kV, 6.6 Kv, 11 kV",
+    "rawSpecs": "Line Choke (AC Reactor), Load Choke, DC Choke, EMI/RFI Choke (Common Mode Choke), Ballast Choke, Detuned Reactor, Air-Core Choke, Iron-Core Choke, Toroidal Choke, Rating : 1\u20131000 A, 5\u20131000 5\u2013100 kVAr systemsA, mA\u2013100 A, 20\u201380 W, Current Rating : 1000 A, 800 A, 630 A, 400 A, 250 A, 160 A, 100 A, 63 A, 40 A, 32 A, 25 A, 16 A, Voltage Ratings 230 V AC, 415 V AC, 525 V AC, 690 V AC, 1 kV, 3.3 kV, 6.6 Kv, 11 kV",
     "subCategory": "Lighting Components",
     "gallery": [
       "/images/products/electrical/chockes.png",
@@ -397,10 +399,10 @@ export const ELECTRICAL_PRODUCTS = [
     "specs": {
       "Product": "Circuit Breaker",
       "Brand": "ANCHOR",
-      "Rating": "230/415 V AC, Up to 1000 V AC, 415–690 V AC, 3.3–36 kV, 3.3–132 kV, 33–800 kV, 230/415 V AC, 230/415 V AC, 415 V AC, 230/415 V AC, SP (Single Pole), SPN (Single Pole & Neutral), DP (Double Pole), TP (Triple Pole), TPN (Triple Pole & Neutral), 4P (Four Pole)",
+      "Rating": "230/415 V AC, Up to 1000 V AC, 415\u2013690 V AC, 3.3\u201336 kV, 3.3\u2013132 kV, 33\u2013800 kV, 230/415 V AC, 230/415 V AC, 415 V AC, 230/415 V AC, SP (Single Pole), SPN (Single Pole & Neutral), DP (Double Pole), TP (Triple Pole), TPN (Triple Pole & Neutral), 4P (Four Pole)",
       "Sub-Category": "Switchgear & Protection"
     },
-    "rawSpecs": "Air Circuit Breaker (ACB), Vacuum Circuit Breaker (VCB), Residual Current Breaker, Motor Protection Circuit Breaker - MPCB, Earth Leakage Circuit Breaker (ELCB), Residual Current Circuit Breaker (RCCB), Sulfur Hexafluoride (SF₆) Circuit Breaker, Oil Circuit Breaker (OCB), Miniature Circuit Breaker (MCB), Molded Case Circuit Breaker (MCCB), Miniature Air Circuit Breaker, Motor Protection Circuit Breaker (MPCB), Residual Current Breaker with Overcurrent Protection (RCBO), Current Rating : 630–6300 A, 400–5000 A, 630–4000 A, 630–6300 A, 0.5–125 A, 16–2500 A, 6–125 A, 16–125 A, 6–63 A, 0.1–100 A, 6300 A, 5000 A, 4000 A, 3200 A, 2500 A, 2000 A, 1600 A, 1250 A, 1000 A, 800 A, 630 A, 400 A, 250 A, 160 A, 16 A, 20 A, 25 A, 32 A, 40 A, 50 A, 63 A, 80 A, 100 A, 125 A, Voltage Rating : 230/415 V AC, Up to 1000 V AC, 415–690 V AC, 3.3–36 kV, 3.3–132 kV, 33–800 kV, 230/415 V AC, 230/415 V AC, 415 V AC, 230/415 V AC, SP (Single Pole), SPN (Single Pole & Neutral), DP (Double Pole), TP (Triple Pole), TPN (Triple Pole & Neutral), 4P (Four Pole)",
+    "rawSpecs": "Air Circuit Breaker (ACB), Vacuum Circuit Breaker (VCB), Residual Current Breaker, Motor Protection Circuit Breaker - MPCB, Earth Leakage Circuit Breaker (ELCB), Residual Current Circuit Breaker (RCCB), Sulfur Hexafluoride (SF\u2086) Circuit Breaker, Oil Circuit Breaker (OCB), Miniature Circuit Breaker (MCB), Molded Case Circuit Breaker (MCCB), Miniature Air Circuit Breaker, Motor Protection Circuit Breaker (MPCB), Residual Current Breaker with Overcurrent Protection (RCBO), Current Rating : 630\u20136300 A, 400\u20135000 A, 630\u20134000 A, 630\u20136300 A, 0.5\u2013125 A, 16\u20132500 A, 6\u2013125 A, 16\u2013125 A, 6\u201363 A, 0.1\u2013100 A, 6300 A, 5000 A, 4000 A, 3200 A, 2500 A, 2000 A, 1600 A, 1250 A, 1000 A, 800 A, 630 A, 400 A, 250 A, 160 A, 16 A, 20 A, 25 A, 32 A, 40 A, 50 A, 63 A, 80 A, 100 A, 125 A, Voltage Rating : 230/415 V AC, Up to 1000 V AC, 415\u2013690 V AC, 3.3\u201336 kV, 3.3\u2013132 kV, 33\u2013800 kV, 230/415 V AC, 230/415 V AC, 415 V AC, 230/415 V AC, SP (Single Pole), SPN (Single Pole & Neutral), DP (Double Pole), TP (Triple Pole), TPN (Triple Pole & Neutral), 4P (Four Pole)",
     "subCategory": "Switchgear & Protection",
     "gallery": [
       "/images/products/electrical/circuit-breaker.png",
@@ -417,17 +419,17 @@ export const ELECTRICAL_PRODUCTS = [
     "priority": 1,
     "priorityLabel": "1st Priority",
     "color": "yellow",
-    "image": "/images/products/electrical/common-conduit-fittings.png",
-    "description": "High-quality Common Conduit Fittings manufactured to industrial specifications. Conduit Coupler, Male Adapter, Female Adapter, Elbow (90°), Bend (45°), Tee, Inspection Bend, Junction Box, Circular Box, Flexible Conduit Connector, Locknut, Bush/Bushing, Reducer, End Cap, Spacer Saddle, U-Clamp, Expan...",
+    "image": "/images/products/electrical/CommonConduitFittings.jpeg",
+    "description": "High-quality Common Conduit Fittings manufactured to industrial specifications. Conduit Coupler, Male Adapter, Female Adapter, Elbow (90\u00b0), Bend (45\u00b0), Tee, Inspection Bend, Junction Box, Circular Box, Flexible Conduit Connector, Locknut, Bush/Bushing, Reducer, End Cap, Spacer Saddle, U-Clamp, Expan...",
     "specs": {
       "Product": "Common Conduit Fittings",
       "Brand": "Goldmedal Electrical",
       "Type": "BSP (British Standard Pipe), NPT (National Pipe Thread), Metric Thread (M20, M25, M32)",
       "Material": "PVC (Rigid Polyvinyl Chloride), uPVC, Galvanized Steel (GI), Mild Steel (MS), Stainless Steel, Aluminum, Brass (threaded fittings), Nylon (bushings)",
-      "Size": "16 mm ( ½ in), 20 mm ( ¾ in), 25 mm (1 in), 32 mm ( 1¼ in), 40 mm ( 1½ in), 50 mm ( 2 in), 63 mm ( 2½ in)",
+      "Size": "16 mm ( \u00bd in), 20 mm ( \u00be in), 25 mm (1 in), 32 mm ( 1\u00bc in), 40 mm ( 1\u00bd in), 50 mm ( 2 in), 63 mm ( 2\u00bd in)",
       "Sub-Category": "Conduits & Fittings"
     },
-    "rawSpecs": "Conduit Coupler, Male Adapter, Female Adapter, Elbow (90°), Bend (45°), Tee, Inspection Bend, Junction Box, Circular Box, Flexible Conduit Connector, Locknut, Bush/Bushing, Reducer, End Cap, Spacer Saddle, U-Clamp, Expansion Coupling, Thread Type : BSP (British Standard Pipe), NPT (National Pipe Thread), Metric Thread (M20, M25, M32), Material : PVC (Rigid Polyvinyl Chloride), uPVC, Galvanized Steel (GI), Mild Steel (MS), Stainless Steel, Aluminum, Brass (threaded fittings), Nylon (bushings), Conduit Size : 16 mm ( ½ in), 20 mm ( ¾ in), 25 mm (1 in), 32 mm ( 1¼ in), 40 mm ( 1½ in), 50 mm ( 2 in), 63 mm ( 2½ in),",
+    "rawSpecs": "Conduit Coupler, Male Adapter, Female Adapter, Elbow (90\u00b0), Bend (45\u00b0), Tee, Inspection Bend, Junction Box, Circular Box, Flexible Conduit Connector, Locknut, Bush/Bushing, Reducer, End Cap, Spacer Saddle, U-Clamp, Expansion Coupling, Thread Type : BSP (British Standard Pipe), NPT (National Pipe Thread), Metric Thread (M20, M25, M32), Material : PVC (Rigid Polyvinyl Chloride), uPVC, Galvanized Steel (GI), Mild Steel (MS), Stainless Steel, Aluminum, Brass (threaded fittings), Nylon (bushings), Conduit Size : 16 mm ( \u00bd in), 20 mm ( \u00be in), 25 mm (1 in), 32 mm ( 1\u00bc in), 40 mm ( 1\u00bd in), 50 mm ( 2 in), 63 mm ( 2\u00bd in),",
     "subCategory": "Conduits & Fittings",
     "gallery": [
       "/images/products/electrical/common-conduit-fittings.png"
@@ -470,17 +472,17 @@ export const ELECTRICAL_PRODUCTS = [
     "priority": 1,
     "priorityLabel": "1st Priority",
     "color": "yellow",
-    "image": "/images/products/electrical/conduit-bend.jpeg",
-    "description": "High-quality Conduit Bend manufactured to industrial specifications. PVC, UPVC, PVC (Rigid), EMT (Electrical Metallic Tubing), GI (Galvanized Iron) HDPE, Flexible Metal, Flexible PVC, Mild Steel, 90° Bend, 45° Bend, Long Radius Bend, Short Radius Bend, Inspection Bend, Flexible Conduit Be...",
+    "image": "/images/products/electrical/conduitband.jpg",
+    "description": "High-quality Conduit Bend manufactured to industrial specifications. PVC, UPVC, PVC (Rigid), EMT (Electrical Metallic Tubing), GI (Galvanized Iron) HDPE, Flexible Metal, Flexible PVC, Mild Steel, 90\u00b0 Bend, 45\u00b0 Bend, Long Radius Bend, Short Radius Bend, Inspection Bend, Flexible Conduit Be...",
     "specs": {
       "Product": "Conduit Bend",
       "Brand": "Atomberg",
-      "Variants / Types": "PVC, UPVC, PVC (Rigid), EMT (Electrical Metallic Tubing), GI (Galvanized Iron) HDPE, Flexible Metal, Flexible PVC, Mild Steel, 90° Bend, 45° Bend, Long Radius Bend, Short Radius Bend, Inspection Bend, Flexible Conduit Bend, 16 mm, 20 mm, 25 mm, 32 mm, 40 mm, 50 mm, 63 mm, 75 mm, 90 mm, 110 mm",
+      "Variants / Types": "PVC, UPVC, PVC (Rigid), EMT (Electrical Metallic Tubing), GI (Galvanized Iron) HDPE, Flexible Metal, Flexible PVC, Mild Steel, 90\u00b0 Bend, 45\u00b0 Bend, Long Radius Bend, Short Radius Bend, Inspection Bend, Flexible Conduit Bend, 16 mm, 20 mm, 25 mm, 32 mm, 40 mm, 50 mm, 63 mm, 75 mm, 90 mm, 110 mm",
       "Standard": "IS / IEC Certified",
       "Application": "Power Distribution, Industrial & Commercial",
       "Sub-Category": "Conduits & Fittings"
     },
-    "rawSpecs": "PVC, UPVC, PVC (Rigid), EMT (Electrical Metallic Tubing), GI (Galvanized Iron) HDPE, Flexible Metal, Flexible PVC, Mild Steel, 90° Bend, 45° Bend, Long Radius Bend, Short Radius Bend, Inspection Bend, Flexible Conduit Bend, 16 mm, 20 mm, 25 mm, 32 mm, 40 mm, 50 mm, 63 mm, 75 mm, 90 mm, 110 mm",
+    "rawSpecs": "PVC, UPVC, PVC (Rigid), EMT (Electrical Metallic Tubing), GI (Galvanized Iron) HDPE, Flexible Metal, Flexible PVC, Mild Steel, 90\u00b0 Bend, 45\u00b0 Bend, Long Radius Bend, Short Radius Bend, Inspection Bend, Flexible Conduit Bend, 16 mm, 20 mm, 25 mm, 32 mm, 40 mm, 50 mm, 63 mm, 75 mm, 90 mm, 110 mm",
     "subCategory": "Conduits & Fittings",
     "gallery": [
       "/images/products/electrical/conduit-bend.jpeg",
@@ -497,7 +499,7 @@ export const ELECTRICAL_PRODUCTS = [
     "priority": 1,
     "priorityLabel": "1st Priority",
     "color": "yellow",
-    "image": "/images/products/electrical/connector.png",
+    "image": "/images/products/electrical/crimpConnectors.jpg",
     "description": "High-quality Connector manufactured to industrial specifications. Type : Terminal Block Connector, Wire Connector (Twist-On), Crimp Connector, Butt Connector, Ring Terminal Connector, Spade (Fork) Connector, Bullet Connector, MC4 Connector, RJ45 Connector, USB Connector, IEC Power Conn...",
     "specs": {
       "Product": "Connector",
@@ -506,13 +508,13 @@ export const ELECTRICAL_PRODUCTS = [
       "Insulation": "PVC / Nylon",
       "Material": "Copper, Tinned copper, Brass, Stainless steel, Nylon, Polycarbonate, PVC insulation, Silicone rubber (weatherproof types)",
       "Size": "M3, M4, M5, M6, M8, M10, M12",
-      "Rating": "12 V DC–1000 V DC / 230–415 V AC",
-      "Terminal": "1.5–240 mm² for panel and earthing connections",
+      "Rating": "12 V DC\u20131000 V DC / 230\u2013415 V AC",
+      "Terminal": "1.5\u2013240 mm\u00b2 for panel and earthing connections",
       "Connector": "Cat5e/Cat6/Cat6A Ethernet networking",
-      "Connectors": "Pin Connector, Banana Connector, HDMI Connector, BNC Connector, F-Type Connector, Circular Connector (M8, M12, etc.), Lever Connector, Ring Terminal Connector, Spade/Fork Connector, Lug Connector, Wire Connectors Wire Size 0.5–1.5 mm², 1.5–2.5 mm², 4–6 mm², 10–16 mm², 25–120 mm²",
+      "Connectors": "Pin Connector, Banana Connector, HDMI Connector, BNC Connector, F-Type Connector, Circular Connector (M8, M12, etc.), Lever Connector, Ring Terminal Connector, Spade/Fork Connector, Lug Connector, Wire Connectors Wire Size 0.5\u20131.5 mm\u00b2, 1.5\u20132.5 mm\u00b2, 4\u20136 mm\u00b2, 10\u201316 mm\u00b2, 25\u2013120 mm\u00b2",
       "Sub-Category": "Wiring Accessories"
     },
-    "rawSpecs": "Type : Terminal Block Connector, Wire Connector (Twist-On), Crimp Connector, Butt Connector, Ring Terminal Connector, Spade (Fork) Connector, Bullet Connector, MC4 Connector, RJ45 Connector, USB Connector, IEC Power Connector, IEC Connector, Y Connector, XLR Connector, Wire Connector,  RJ11 Connector, Quick Connector, Insulation: PVC / Nylon, Material: Copper/Brass with Tin-Plated Contacts, Wire Size: 0.5–240 mm², Current Rating: 5–100 A (or as required), Voltage Rating: 12 V DC–1000 V DC / 230–415 V AC, Ring Terminal: 1.5–240 mm² for panel and earthing connections, Butt Connector: 0.5–6 mm² for wire splicing, Terminal Block Connector: 2.5–35 mm² in control panels, MC4 Connector: 1000–1500 V DC for solar PV installations, RJ45 Connector: Cat5e/Cat6/Cat6A Ethernet networking, Types of Electrical Connectors : Pin Connector, Banana Connector, HDMI Connector, BNC Connector, F-Type Connector, Circular Connector (M8, M12, etc.), Lever Connector, Ring Terminal Connector, Spade/Fork Connector, Lug Connector, Wire Connectors Wire Size 0.5–1.5 mm², 1.5–2.5 mm², 4–6 mm², 10–16 mm², 25–120 mm², Stud Size : M3, M4, M5, M6, M8, M10, M12, Material : Copper, Tinned copper, Brass, Stainless steel, Nylon, Polycarbonate, PVC insulation, Silicone rubber (weatherproof types)",
+    "rawSpecs": "Type : Terminal Block Connector, Wire Connector (Twist-On), Crimp Connector, Butt Connector, Ring Terminal Connector, Spade (Fork) Connector, Bullet Connector, MC4 Connector, RJ45 Connector, USB Connector, IEC Power Connector, IEC Connector, Y Connector, XLR Connector, Wire Connector,  RJ11 Connector, Quick Connector, Insulation: PVC / Nylon, Material: Copper/Brass with Tin-Plated Contacts, Wire Size: 0.5\u2013240 mm\u00b2, Current Rating: 5\u2013100 A (or as required), Voltage Rating: 12 V DC\u20131000 V DC / 230\u2013415 V AC, Ring Terminal: 1.5\u2013240 mm\u00b2 for panel and earthing connections, Butt Connector: 0.5\u20136 mm\u00b2 for wire splicing, Terminal Block Connector: 2.5\u201335 mm\u00b2 in control panels, MC4 Connector: 1000\u20131500 V DC for solar PV installations, RJ45 Connector: Cat5e/Cat6/Cat6A Ethernet networking, Types of Electrical Connectors : Pin Connector, Banana Connector, HDMI Connector, BNC Connector, F-Type Connector, Circular Connector (M8, M12, etc.), Lever Connector, Ring Terminal Connector, Spade/Fork Connector, Lug Connector, Wire Connectors Wire Size 0.5\u20131.5 mm\u00b2, 1.5\u20132.5 mm\u00b2, 4\u20136 mm\u00b2, 10\u201316 mm\u00b2, 25\u2013120 mm\u00b2, Stud Size : M3, M4, M5, M6, M8, M10, M12, Material : Copper, Tinned copper, Brass, Stainless steel, Nylon, Polycarbonate, PVC insulation, Silicone rubber (weatherproof types)",
     "subCategory": "Wiring Accessories"
   },
   {
@@ -529,13 +531,13 @@ export const ELECTRICAL_PRODUCTS = [
     "specs": {
       "Product": "Control Panel",
       "Brand": "Tenda",
-      "Voltage": "24 V DC / 230–415 V AC, 230/415 V AC, 230–690 V AC ",
+      "Voltage": "24 V DC / 230\u2013415 V AC, 230/415 V AC, 230\u2013690 V AC ",
       "Depth": "300 x 300 x 150 mm, 400 x 300 x 200 mm, 500 x 400 x 200 mm, 600 x 400 x 250 mm, 600 x 600 x 250 mm, 800 x 600 x 300 mm, 1000 x 800 x 300 mm, 1200 x 800 x 400 mm, 1600 x 800 x 400 mm, 1800 x 800 x 500 mm, 2000 x 1000 x 600 mm, 2200 x 1000 x 600 mm",
       "Ratings": "32 A, 63 A, 100 A, 160 A, 250 A, 400 A, 630 A, 800 A, 1000 A, 1250 A, 1600 A, 2000 A, 2500 A, 3200 A, 4000 A, 6300 A",
       "Materials": "CRCA Powder-Coated Steel, Galvanized Steel, Stainless Steel 304, Stainless Steel 316, Aluminum, FRP (Fiberglass Reinforced Plastic), Polycarbonate, IP 42, IP 54, IP 55, IP 65, IP 66",
       "Sub-Category": "Distribution & Control Panels"
     },
-    "rawSpecs": "Zone Control Panel, Starter Panel, Solar Panel, Patch Panel, Panel Board, HMI Panel, Fire Alarm Panel, Power Control Center (PCC) Panel, Motor Control Center (MCC) Panel, HVAC Control Panel, Fire Pump Control Panel, Pump Control Panel, Synchronization Panel, Distribution Board (DB), PLC Control Panel, Variable Frequency Drive (VFD) Panel, Automatic Power Factor Correction (APFC) Panel, AMF (Automatic Mains Failure) Panel, Lighting Control Panel, Voltage : 24 V DC / 230–415 V AC, 230/415 V AC, 230–690 V AC , Enclosure Sizes Height x Width x Depth : 300 x 300 x 150 mm, 400 x 300 x 200 mm, 500 x 400 x 200 mm, 600 x 400 x 250 mm, 600 x 600 x 250 mm, 800 x 600 x 300 mm, 1000 x 800 x 300 mm, 1200 x 800 x 400 mm, 1600 x 800 x 400 mm, 1800 x 800 x 500 mm, 2000 x 1000 x 600 mm, 2200 x 1000 x 600 mm, Current Ratings : 32 A, 63 A, 100 A, 160 A, 250 A, 400 A, 630 A, 800 A, 1000 A, 1250 A, 1600 A, 2000 A, 2500 A, 3200 A, 4000 A, 6300 A, Enclosure Materials : CRCA Powder-Coated Steel, Galvanized Steel, Stainless Steel 304, Stainless Steel 316, Aluminum, FRP (Fiberglass Reinforced Plastic), Polycarbonate, IP 42, IP 54, IP 55, IP 65, IP 66",
+    "rawSpecs": "Zone Control Panel, Starter Panel, Solar Panel, Patch Panel, Panel Board, HMI Panel, Fire Alarm Panel, Power Control Center (PCC) Panel, Motor Control Center (MCC) Panel, HVAC Control Panel, Fire Pump Control Panel, Pump Control Panel, Synchronization Panel, Distribution Board (DB), PLC Control Panel, Variable Frequency Drive (VFD) Panel, Automatic Power Factor Correction (APFC) Panel, AMF (Automatic Mains Failure) Panel, Lighting Control Panel, Voltage : 24 V DC / 230\u2013415 V AC, 230/415 V AC, 230\u2013690 V AC , Enclosure Sizes Height x Width x Depth : 300 x 300 x 150 mm, 400 x 300 x 200 mm, 500 x 400 x 200 mm, 600 x 400 x 250 mm, 600 x 600 x 250 mm, 800 x 600 x 300 mm, 1000 x 800 x 300 mm, 1200 x 800 x 400 mm, 1600 x 800 x 400 mm, 1800 x 800 x 500 mm, 2000 x 1000 x 600 mm, 2200 x 1000 x 600 mm, Current Ratings : 32 A, 63 A, 100 A, 160 A, 250 A, 400 A, 630 A, 800 A, 1000 A, 1250 A, 1600 A, 2000 A, 2500 A, 3200 A, 4000 A, 6300 A, Enclosure Materials : CRCA Powder-Coated Steel, Galvanized Steel, Stainless Steel 304, Stainless Steel 316, Aluminum, FRP (Fiberglass Reinforced Plastic), Polycarbonate, IP 42, IP 54, IP 55, IP 65, IP 66",
     "subCategory": "Distribution & Control Panels",
     "gallery": [
       "/images/products/electrical/control-panel.png",
@@ -559,13 +561,13 @@ export const ELECTRICAL_PRODUCTS = [
       "Product": "Danger Sign Board",
       "Brand": "Cisco",
       "Boards": "Chemical Danger Sign, Laser Danger Sign, General Danger Sign, High Voltage Warning Sign, Electrical Danger Sign, Metal Danger Sign Board, Construction Danger Sign, Reflective Danger Sign, Photoluminescent (Glow-in-the-Dark) Sign, Self-Adhesive Danger Sticker",
-      "Size": "100 × 100 mm, 150 × 100 mm, 200 × 150 mm, 300 × 200 mm, 300 × 300 mm, 450 × 300 mm, 600 × 450 mm  900 × 600 mm, 1200 × 900 mm, Acrylic, PVC Sheet, Self-Adhesive Vinyl, Aluminum, Mild Steel (MS), Stainless Steel (SS304), ACP (Aluminium Composite Panel)",
+      "Size": "100 \u00d7 100 mm, 150 \u00d7 100 mm, 200 \u00d7 150 mm, 300 \u00d7 200 mm, 300 \u00d7 300 mm, 450 \u00d7 300 mm, 600 \u00d7 450 mm  900 \u00d7 600 mm, 1200 \u00d7 900 mm, Acrylic, PVC Sheet, Self-Adhesive Vinyl, Aluminum, Mild Steel (MS), Stainless Steel (SS304), ACP (Aluminium Composite Panel)",
       "Color": "Red, Yellow, Black, White, Red & White, Green",
-      "Sign": "DANGER – 230 VOLTS, DANGER – 415 VOLTS, DANGER – 440 VOLTS, DANGER – 3.3 kV, DANGER – 6.6 kV, DANGER – 11 kV, DANGER – 22 kV, DANGER – 33 kV, DANGER – HIGH VOLTAGE",
+      "Sign": "DANGER \u2013 230 VOLTS, DANGER \u2013 415 VOLTS, DANGER \u2013 440 VOLTS, DANGER \u2013 3.3 kV, DANGER \u2013 6.6 kV, DANGER \u2013 11 kV, DANGER \u2013 22 kV, DANGER \u2013 33 kV, DANGER \u2013 HIGH VOLTAGE",
       "Type": "Self-Adhesive, Wall Mounted, Screw Fixed, Pole Mounted, Hanging Sign, Magnetic Sign",
       "Sub-Category": "Electrical Hardware"
     },
-    "rawSpecs": "Types of Danger Sign Boards : Chemical Danger Sign, Laser Danger Sign, General Danger Sign, High Voltage Warning Sign, Electrical Danger Sign, Metal Danger Sign Board, Construction Danger Sign, Reflective Danger Sign, Photoluminescent (Glow-in-the-Dark) Sign, Self-Adhesive Danger Sticker, Standard Size : 100 × 100 mm, 150 × 100 mm, 200 × 150 mm, 300 × 200 mm, 300 × 300 mm, 450 × 300 mm, 600 × 450 mm  900 × 600 mm, 1200 × 900 mm, Acrylic, PVC Sheet, Self-Adhesive Vinyl, Aluminum, Mild Steel (MS), Stainless Steel (SS304), ACP (Aluminium Composite Panel), Color : Red, Yellow, Black, White, Red & White, Green, Voltage Warning Sign : DANGER – 230 VOLTS, DANGER – 415 VOLTS, DANGER – 440 VOLTS, DANGER – 3.3 kV, DANGER – 6.6 kV, DANGER – 11 kV, DANGER – 22 kV, DANGER – 33 kV, DANGER – HIGH VOLTAGE, Mounting Type: Self-Adhesive, Wall Mounted, Screw Fixed, Pole Mounted, Hanging Sign, Magnetic Sign",
+    "rawSpecs": "Types of Danger Sign Boards : Chemical Danger Sign, Laser Danger Sign, General Danger Sign, High Voltage Warning Sign, Electrical Danger Sign, Metal Danger Sign Board, Construction Danger Sign, Reflective Danger Sign, Photoluminescent (Glow-in-the-Dark) Sign, Self-Adhesive Danger Sticker, Standard Size : 100 \u00d7 100 mm, 150 \u00d7 100 mm, 200 \u00d7 150 mm, 300 \u00d7 200 mm, 300 \u00d7 300 mm, 450 \u00d7 300 mm, 600 \u00d7 450 mm  900 \u00d7 600 mm, 1200 \u00d7 900 mm, Acrylic, PVC Sheet, Self-Adhesive Vinyl, Aluminum, Mild Steel (MS), Stainless Steel (SS304), ACP (Aluminium Composite Panel), Color : Red, Yellow, Black, White, Red & White, Green, Voltage Warning Sign : DANGER \u2013 230 VOLTS, DANGER \u2013 415 VOLTS, DANGER \u2013 440 VOLTS, DANGER \u2013 3.3 kV, DANGER \u2013 6.6 kV, DANGER \u2013 11 kV, DANGER \u2013 22 kV, DANGER \u2013 33 kV, DANGER \u2013 HIGH VOLTAGE, Mounting Type: Self-Adhesive, Wall Mounted, Screw Fixed, Pole Mounted, Hanging Sign, Magnetic Sign",
     "subCategory": "Electrical Hardware",
     "gallery": [
       "/images/products/electrical/danger-sign-board.png",
@@ -584,17 +586,17 @@ export const ELECTRICAL_PRODUCTS = [
     "priorityLabel": "1st Priority",
     "color": "yellow",
     "image": "/images/products/electrical/din-rail.png",
-    "description": "High-quality DIN Rail manufactured to industrial specifications. DIN Rail Type : Perforated DIN Rail, Solid DIN Rail, Slotted DIN Rail, TS35 Top Hat Rail, TS35 Deep Top Hat Rail, G-Type Rail, C-Type Rail, Standard : EN 60715, DIN Rail Size : Width × Height : C20/C30/C40/C50, G32 (32 m...",
+    "description": "High-quality DIN Rail manufactured to industrial specifications. DIN Rail Type : Perforated DIN Rail, Solid DIN Rail, Slotted DIN Rail, TS35 Top Hat Rail, TS35 Deep Top Hat Rail, G-Type Rail, C-Type Rail, Standard : EN 60715, DIN Rail Size : Width \u00d7 Height : C20/C30/C40/C50, G32 (32 m...",
     "specs": {
       "Product": "DIN Rail",
       "Brand": "MikroTik",
       "Type": "Perforated DIN Rail, Solid DIN Rail, Slotted DIN Rail, TS35 Top Hat Rail, TS35 Deep Top Hat Rail, G-Type Rail, C-Type Rail",
       "Standard": "EN 60715",
-      "Size": "Width ×",
-      "Height": "C20/C30/C40/C50, G32 (32 mm), 35 × 15 mm, 35 × 7.5 mm, Standard Length - 100 mm, 200 mm, 500 mm, 1 m, 2 m, Galvanized Steel (most common), Zinc-Plated Steel, Stainless Steel 304, Stainless Steel 316, Aluminum",
+      "Size": "Width \u00d7",
+      "Height": "C20/C30/C40/C50, G32 (32 mm), 35 \u00d7 15 mm, 35 \u00d7 7.5 mm, Standard Length - 100 mm, 200 mm, 500 mm, 1 m, 2 m, Galvanized Steel (most common), Zinc-Plated Steel, Stainless Steel 304, Stainless Steel 316, Aluminum",
       "Sub-Category": "Electrical Hardware"
     },
-    "rawSpecs": "DIN Rail Type : Perforated DIN Rail, Solid DIN Rail, Slotted DIN Rail, TS35 Top Hat Rail, TS35 Deep Top Hat Rail, G-Type Rail, C-Type Rail, Standard : EN 60715, DIN Rail Size : Width × Height : C20/C30/C40/C50, G32 (32 mm), 35 × 15 mm, 35 × 7.5 mm, Standard Length - 100 mm, 200 mm, 500 mm, 1 m, 2 m, Galvanized Steel (most common), Zinc-Plated Steel, Stainless Steel 304, Stainless Steel 316, Aluminum",
+    "rawSpecs": "DIN Rail Type : Perforated DIN Rail, Solid DIN Rail, Slotted DIN Rail, TS35 Top Hat Rail, TS35 Deep Top Hat Rail, G-Type Rail, C-Type Rail, Standard : EN 60715, DIN Rail Size : Width \u00d7 Height : C20/C30/C40/C50, G32 (32 mm), 35 \u00d7 15 mm, 35 \u00d7 7.5 mm, Standard Length - 100 mm, 200 mm, 500 mm, 1 m, 2 m, Galvanized Steel (most common), Zinc-Plated Steel, Stainless Steel 304, Stainless Steel 316, Aluminum",
     "subCategory": "Electrical Hardware",
     "gallery": [
       "/images/products/electrical/din-rail.png",
@@ -612,16 +614,16 @@ export const ELECTRICAL_PRODUCTS = [
     "priorityLabel": "1st Priority",
     "color": "yellow",
     "image": "/images/products/electrical/distribution-board.png",
-    "description": "High-quality Distribution Board manufactured to industrial specifications. Single-phase Distribution Box (230 V) – Used in homes and small shops. Three-phase Distribution Box (415 V) – Used in commercial buildings, factories, and workshops. Surface-mounted DB – Installed on the wall surface. Fl...",
+    "description": "High-quality Distribution Board manufactured to industrial specifications. Single-phase Distribution Box (230 V) \u2013 Used in homes and small shops. Three-phase Distribution Box (415 V) \u2013 Used in commercial buildings, factories, and workshops. Surface-mounted DB \u2013 Installed on the wall surface. Fl...",
     "specs": {
       "Product": "Distribution Board",
       "Brand": "Havells",
-      "Variants / Types": "Single-phase Distribution Box (230 V) – Used in homes and small shops. Three-phase Distribution Box (415 V) – Used in commercial buildings, factories, and workshops. Surface-mounted DB – Installed on the wall surface. Flush-mounted DB – Recessed into the wall. AC Distribution Board,",
+      "Variants / Types": "Single-phase Distribution Box (230 V) \u2013 Used in homes and small shops. Three-phase Distribution Box (415 V) \u2013 Used in commercial buildings, factories, and workshops. Surface-mounted DB \u2013 Installed on the wall surface. Flush-mounted DB \u2013 Recessed into the wall. AC Distribution Board,",
       "Standard": "IS / IEC Certified",
       "Application": "Power Distribution, Industrial & Commercial",
       "Sub-Category": "Distribution & Control Panels"
     },
-    "rawSpecs": "Single-phase Distribution Box (230 V) – Used in homes and small shops. Three-phase Distribution Box (415 V) – Used in commercial buildings, factories, and workshops. Surface-mounted DB – Installed on the wall surface. Flush-mounted DB – Recessed into the wall. AC Distribution Board,",
+    "rawSpecs": "Single-phase Distribution Box (230 V) \u2013 Used in homes and small shops. Three-phase Distribution Box (415 V) \u2013 Used in commercial buildings, factories, and workshops. Surface-mounted DB \u2013 Installed on the wall surface. Flush-mounted DB \u2013 Recessed into the wall. AC Distribution Board,",
     "subCategory": "Distribution & Control Panels",
     "gallery": [
       "/images/products/electrical/distribution-board.png",
@@ -649,10 +651,10 @@ export const ELECTRICAL_PRODUCTS = [
       "Brand": "Finolex",
       "Type": "Open Type DOL Starter, Reversing DOL Starter, Automatic DOL Starter, Metal-Clad DOL Starter, Weatherproof DOL Starter, Enclosed DOL Starter",
       "Enclosure": "Forward/Reverse, Auto restart/control, Steel, IP55/IP65, Metal/Plastic, Open",
-      "Rating": "0.25 HP (0.18 kW), 0.5 HP (0.37 kW), 1 HP (0.75 kW), 2 HP (1.5 kW), 3 HP (2.2 kW), 5 HP (3.7 kW), 7.5 HP (5.5 kW), 10 HP (7.5 kW), 15 HP (11 kW), 20 HP (15 kW), 25 HP (18.5 kW), 30 HP (22 kW), DOL Starter, 5 HP (3.7 kW), 9 A Contactor, 4–6 A Overload Relay, 415 V AC, 230 V AC Coil, IP55, DOL Starter, 10 HP (7.5 kW), 18 A Contactor, 12–18 A Overload Relay, Metal Enclosure, Weatherproof DOL Starter, 15 HP (11 kW), 25 A Contactor, IP65, Outdoor, Open Type DOL Starter, 3 HP (2.2 kW), 415 V AC, Panel Mounted.",
+      "Rating": "0.25 HP (0.18 kW), 0.5 HP (0.37 kW), 1 HP (0.75 kW), 2 HP (1.5 kW), 3 HP (2.2 kW), 5 HP (3.7 kW), 7.5 HP (5.5 kW), 10 HP (7.5 kW), 15 HP (11 kW), 20 HP (15 kW), 25 HP (18.5 kW), 30 HP (22 kW), DOL Starter, 5 HP (3.7 kW), 9 A Contactor, 4\u20136 A Overload Relay, 415 V AC, 230 V AC Coil, IP55, DOL Starter, 10 HP (7.5 kW), 18 A Contactor, 12\u201318 A Overload Relay, Metal Enclosure, Weatherproof DOL Starter, 15 HP (11 kW), 25 A Contactor, IP65, Outdoor, Open Type DOL Starter, 3 HP (2.2 kW), 415 V AC, Panel Mounted.",
       "Sub-Category": "Electrical Hardware"
     },
-    "rawSpecs": "Starter, Star Delta Starter, Soft Starter, Motor Starter, DOL Starter Type : Open Type DOL Starter, Reversing DOL Starter, Automatic DOL Starter, Metal-Clad DOL Starter, Weatherproof DOL Starter, Enclosed DOL Starter, Enclosure: Forward/Reverse, Auto restart/control, Steel, IP55/IP65, Metal/Plastic, Open, Motor Rating : 0.25 HP (0.18 kW), 0.5 HP (0.37 kW), 1 HP (0.75 kW), 2 HP (1.5 kW), 3 HP (2.2 kW), 5 HP (3.7 kW), 7.5 HP (5.5 kW), 10 HP (7.5 kW), 15 HP (11 kW), 20 HP (15 kW), 25 HP (18.5 kW), 30 HP (22 kW), DOL Starter, 5 HP (3.7 kW), 9 A Contactor, 4–6 A Overload Relay, 415 V AC, 230 V AC Coil, IP55, DOL Starter, 10 HP (7.5 kW), 18 A Contactor, 12–18 A Overload Relay, Metal Enclosure, Weatherproof DOL Starter, 15 HP (11 kW), 25 A Contactor, IP65, Outdoor, Open Type DOL Starter, 3 HP (2.2 kW), 415 V AC, Panel Mounted.",
+    "rawSpecs": "Starter, Star Delta Starter, Soft Starter, Motor Starter, DOL Starter Type : Open Type DOL Starter, Reversing DOL Starter, Automatic DOL Starter, Metal-Clad DOL Starter, Weatherproof DOL Starter, Enclosed DOL Starter, Enclosure: Forward/Reverse, Auto restart/control, Steel, IP55/IP65, Metal/Plastic, Open, Motor Rating : 0.25 HP (0.18 kW), 0.5 HP (0.37 kW), 1 HP (0.75 kW), 2 HP (1.5 kW), 3 HP (2.2 kW), 5 HP (3.7 kW), 7.5 HP (5.5 kW), 10 HP (7.5 kW), 15 HP (11 kW), 20 HP (15 kW), 25 HP (18.5 kW), 30 HP (22 kW), DOL Starter, 5 HP (3.7 kW), 9 A Contactor, 4\u20136 A Overload Relay, 415 V AC, 230 V AC Coil, IP55, DOL Starter, 10 HP (7.5 kW), 18 A Contactor, 12\u201318 A Overload Relay, Metal Enclosure, Weatherproof DOL Starter, 15 HP (11 kW), 25 A Contactor, IP65, Outdoor, Open Type DOL Starter, 3 HP (2.2 kW), 415 V AC, Panel Mounted.",
     "subCategory": "Electrical Hardware",
     "gallery": [
       "/images/products/electrical/dol-starter.png",
@@ -670,15 +672,15 @@ export const ELECTRICAL_PRODUCTS = [
     "priorityLabel": "1st Priority",
     "color": "yellow",
     "image": "/images/products/electrical/earth-pipe-gi.png",
-    "description": "High-quality Earth Pipe GI manufactured to industrial specifications. Hot-Dip Galvanized GI Pipe Light & Heavy, GI Pipe Size : 25 mm (1 in), 32 mm (1¼ in), 40 mm (1½ in), 50 mm (2 in), 65 mm (2½ in), 80 mm (3 in), Length : 2 m, 2.5 m, 3 m",
+    "description": "High-quality Earth Pipe GI manufactured to industrial specifications. Hot-Dip Galvanized GI Pipe Light & Heavy, GI Pipe Size : 25 mm (1 in), 32 mm (1\u00bc in), 40 mm (1\u00bd in), 50 mm (2 in), 65 mm (2\u00bd in), 80 mm (3 in), Length : 2 m, 2.5 m, 3 m",
     "specs": {
       "Product": "Earth Pipe GI",
       "Brand": "Schneider Electric",
-      "Size": "25 mm (1 in), 32 mm (1¼ in), 40 mm (1½ in), 50 mm (2 in), 65 mm (2½ in), 80 mm (3 in)",
+      "Size": "25 mm (1 in), 32 mm (1\u00bc in), 40 mm (1\u00bd in), 50 mm (2 in), 65 mm (2\u00bd in), 80 mm (3 in)",
       "Length": "2 m, 2.5 m, 3 m",
       "Sub-Category": "Earthing Materials"
     },
-    "rawSpecs": "Hot-Dip Galvanized GI Pipe Light & Heavy, GI Pipe Size : 25 mm (1 in), 32 mm (1¼ in), 40 mm (1½ in), 50 mm (2 in), 65 mm (2½ in), 80 mm (3 in), Length : 2 m, 2.5 m, 3 m",
+    "rawSpecs": "Hot-Dip Galvanized GI Pipe Light & Heavy, GI Pipe Size : 25 mm (1 in), 32 mm (1\u00bc in), 40 mm (1\u00bd in), 50 mm (2 in), 65 mm (2\u00bd in), 80 mm (3 in), Length : 2 m, 2.5 m, 3 m",
     "subCategory": "Earthing Materials",
     "gallery": [
       "/images/products/electrical/earth-pipe-gi.png",
@@ -767,7 +769,7 @@ export const ELECTRICAL_PRODUCTS = [
     "priority": 1,
     "priorityLabel": "1st Priority",
     "color": "yellow",
-    "image": "/images/products/electrical/earthing-coupling.png",
+    "image": "/images/products/electrical/EarthingCoupling.jpeg",
     "description": "High-quality Earthing Coupling manufactured to industrial specifications. Copper Bonded Coupling, Galvanized Coupling, Stainless Steel Coupling, M12, M14, M16, M18, M20, M25",
     "specs": {
       "Product": "Earthing Coupling",
@@ -848,12 +850,12 @@ export const ELECTRICAL_PRODUCTS = [
     "specs": {
       "Product": "Electrical Box",
       "Brand": "Finolex",
-      "Variants / Types": "Surface Box, Meter Box, Metal Box, Inspection Box, Flush Box, Junction Box, Switch Box (Flush Box), GI/Metal Box, PVC Electrical Box, Concealed Box, Weatherproof Box (IP65/IP66), Distribution Box (DB), Terminal Box, Control Panel Box, 75×75 mm, 100×100 mm, 150×150 mm, 200×200 mm, 300×300 mm, Various standard sizes, Galvanized Iron (GI), Mild Steel (MS), Stainless Steel (SS304/SS316), PVC, Polycarbonate, ABS Plastic, FRP (Fiberglass Reinforced Plastic)",
+      "Variants / Types": "Surface Box, Meter Box, Metal Box, Inspection Box, Flush Box, Junction Box, Switch Box (Flush Box), GI/Metal Box, PVC Electrical Box, Concealed Box, Weatherproof Box (IP65/IP66), Distribution Box (DB), Terminal Box, Control Panel Box, 75\u00d775 mm, 100\u00d7100 mm, 150\u00d7150 mm, 200\u00d7200 mm, 300\u00d7300 mm, Various standard sizes, Galvanized Iron (GI), Mild Steel (MS), Stainless Steel (SS304/SS316), PVC, Polycarbonate, ABS Plastic, FRP (Fiberglass Reinforced Plastic)",
       "Standard": "IS / IEC Certified",
       "Application": "Power Distribution, Industrial & Commercial",
       "Sub-Category": "Electrical Hardware"
     },
-    "rawSpecs": "Surface Box, Meter Box, Metal Box, Inspection Box, Flush Box, Junction Box, Switch Box (Flush Box), GI/Metal Box, PVC Electrical Box, Concealed Box, Weatherproof Box (IP65/IP66), Distribution Box (DB), Terminal Box, Control Panel Box, 75×75 mm, 100×100 mm, 150×150 mm, 200×200 mm, 300×300 mm, Various standard sizes, Galvanized Iron (GI), Mild Steel (MS), Stainless Steel (SS304/SS316), PVC, Polycarbonate, ABS Plastic, FRP (Fiberglass Reinforced Plastic)",
+    "rawSpecs": "Surface Box, Meter Box, Metal Box, Inspection Box, Flush Box, Junction Box, Switch Box (Flush Box), GI/Metal Box, PVC Electrical Box, Concealed Box, Weatherproof Box (IP65/IP66), Distribution Box (DB), Terminal Box, Control Panel Box, 75\u00d775 mm, 100\u00d7100 mm, 150\u00d7150 mm, 200\u00d7200 mm, 300\u00d7300 mm, Various standard sizes, Galvanized Iron (GI), Mild Steel (MS), Stainless Steel (SS304/SS316), PVC, Polycarbonate, ABS Plastic, FRP (Fiberglass Reinforced Plastic)",
     "subCategory": "Electrical Hardware",
     "gallery": [
       "/images/products/electrical/electrical-box.png",
@@ -896,16 +898,16 @@ export const ELECTRICAL_PRODUCTS = [
     "priorityLabel": "1st Priority",
     "color": "yellow",
     "image": "/images/products/electrical/extension-board.png",
-    "description": "High-quality Extension Board manufactured to industrial specifications. Type : 2-Socket Extension Board, 4-Socket Extension Board, 6-Socket Extension Board, 3–6 Socket Universal Socket Extension Board, 3–6 Socket Extension Board with USB Ports, 4–8 Socket Surge-Protected Extension Board, 2–6...",
+    "description": "High-quality Extension Board manufactured to industrial specifications. Type : 2-Socket Extension Board, 4-Socket Extension Board, 6-Socket Extension Board, 3\u20136 Socket Universal Socket Extension Board, 3\u20136 Socket Extension Board with USB Ports, 4\u20138 Socket Surge-Protected Extension Board, 2\u20136...",
     "specs": {
       "Product": "Extension Board",
       "Brand": "Legrand",
-      "Variants / Types": "Type : 2-Socket Extension Board, 4-Socket Extension Board, 6-Socket Extension Board, 3–6 Socket Universal Socket Extension Board, 3–6 Socket Extension Board with USB Ports, 4–8 Socket Surge-Protected Extension Board, 2–6 Socket Heavy-Duty Industrial Extension Board",
+      "Variants / Types": "Type : 2-Socket Extension Board, 4-Socket Extension Board, 6-Socket Extension Board, 3\u20136 Socket Universal Socket Extension Board, 3\u20136 Socket Extension Board with USB Ports, 4\u20138 Socket Surge-Protected Extension Board, 2\u20136 Socket Heavy-Duty Industrial Extension Board",
       "Standard": "IS / IEC Certified",
       "Application": "Power Distribution, Industrial & Commercial",
       "Sub-Category": "Electrical Hardware"
     },
-    "rawSpecs": "Type : 2-Socket Extension Board, 4-Socket Extension Board, 6-Socket Extension Board, 3–6 Socket Universal Socket Extension Board, 3–6 Socket Extension Board with USB Ports, 4–8 Socket Surge-Protected Extension Board, 2–6 Socket Heavy-Duty Industrial Extension Board",
+    "rawSpecs": "Type : 2-Socket Extension Board, 4-Socket Extension Board, 6-Socket Extension Board, 3\u20136 Socket Universal Socket Extension Board, 3\u20136 Socket Extension Board with USB Ports, 4\u20138 Socket Surge-Protected Extension Board, 2\u20136 Socket Heavy-Duty Industrial Extension Board",
     "subCategory": "Electrical Hardware",
     "gallery": [
       "/images/products/electrical/extension-board.png",
@@ -922,19 +924,19 @@ export const ELECTRICAL_PRODUCTS = [
     "priorityLabel": "1st Priority",
     "color": "yellow",
     "image": "/images/products/electrical/extension-cord.png",
-    "description": "High-quality Extension Cord manufactured to industrial specifications. Light-Duty Extension Cord Cable Size : 0.75–1.0 mm², Medium-Duty Extension Cord Cable Size : 1.0–1.5 mm², Heavy-Duty Extension Cord Cable Size : 1.5–2.5 mm², Extension Cord Reel Cable Size : 1.5–2.5 mm², Outdoor Extensio...",
+    "description": "High-quality Extension Cord manufactured to industrial specifications. Light-Duty Extension Cord Cable Size : 0.75\u20131.0 mm\u00b2, Medium-Duty Extension Cord Cable Size : 1.0\u20131.5 mm\u00b2, Heavy-Duty Extension Cord Cable Size : 1.5\u20132.5 mm\u00b2, Extension Cord Reel Cable Size : 1.5\u20132.5 mm\u00b2, Outdoor Extensio...",
     "specs": {
       "Product": "Extension Cord",
       "Brand": "Polycab",
-      "Size": "2.5–6 mm²",
-      "Voltage": "220–240 V AC",
+      "Size": "2.5\u20136 mm\u00b2",
+      "Voltage": "220\u2013240 V AC",
       "Rating": "6 A, 10 A, 16 A, 32 A",
       "Length": "1.5 m, 3 m, 5 m, 10 m, 15 m, 20 m, 30 m, 50 m",
       "Type": "PVC, Rubber (H05VV-F, H05RR-F, H07RN-F)",
       "Cores": "2 Core, 3 Core",
       "Sub-Category": "Electrical Hardware"
     },
-    "rawSpecs": "Light-Duty Extension Cord Cable Size : 0.75–1.0 mm², Medium-Duty Extension Cord Cable Size : 1.0–1.5 mm², Heavy-Duty Extension Cord Cable Size : 1.5–2.5 mm², Extension Cord Reel Cable Size : 1.5–2.5 mm², Outdoor Extension Cord Cable Size : 1.5–2.5 mm², Industrial Extension Cord Cable Size : 2.5–6 mm², Supply Voltage : 220–240 V AC, Current Rating : 6 A, 10 A, 16 A, 32 A, Cable Length : 1.5 m, 3 m, 5 m, 10 m, 15 m, 20 m, 30 m, 50 m, Cable Type : PVC, Rubber (H05VV-F, H05RR-F, H07RN-F), Number of Cores : 2 Core, 3 Core",
+    "rawSpecs": "Light-Duty Extension Cord Cable Size : 0.75\u20131.0 mm\u00b2, Medium-Duty Extension Cord Cable Size : 1.0\u20131.5 mm\u00b2, Heavy-Duty Extension Cord Cable Size : 1.5\u20132.5 mm\u00b2, Extension Cord Reel Cable Size : 1.5\u20132.5 mm\u00b2, Outdoor Extension Cord Cable Size : 1.5\u20132.5 mm\u00b2, Industrial Extension Cord Cable Size : 2.5\u20136 mm\u00b2, Supply Voltage : 220\u2013240 V AC, Current Rating : 6 A, 10 A, 16 A, 32 A, Cable Length : 1.5 m, 3 m, 5 m, 10 m, 15 m, 20 m, 30 m, 50 m, Cable Type : PVC, Rubber (H05VV-F, H05RR-F, H07RN-F), Number of Cores : 2 Core, 3 Core",
     "subCategory": "Electrical Hardware",
     "gallery": [
       "/images/products/electrical/extension-cord.png",
@@ -952,14 +954,14 @@ export const ELECTRICAL_PRODUCTS = [
     "priorityLabel": "1st Priority",
     "color": "yellow",
     "image": "/images/products/electrical/fan.png",
-    "description": "High-quality Fan manufactured to industrial specifications. Cabin Fan , Wall Fan, Ventilation Fan, Table Fan, Pedestal Fan, Panel Cooling Fan, Motor Cooling Fan, Exhaust Fan, Ceiling Fan, Axial Fan, Centrifugal (Blower) Fan, Filter Fan, Roof Exhaust Fan, Fan Size : 80 × 80 mm, 92...",
+    "description": "High-quality Fan manufactured to industrial specifications. Cabin Fan , Wall Fan, Ventilation Fan, Table Fan, Pedestal Fan, Panel Cooling Fan, Motor Cooling Fan, Exhaust Fan, Ceiling Fan, Axial Fan, Centrifugal (Blower) Fan, Filter Fan, Roof Exhaust Fan, Fan Size : 80 \u00d7 80 mm, 92...",
     "specs": {
       "Product": "Fan",
       "Brand": "L&T",
-      "Size": "80 × 80 mm, 92 × 92 mm, 120 × 120 mm, 150 × 150 mm, 172 × 172 mm, 200 × 200 mm",
+      "Size": "80 \u00d7 80 mm, 92 \u00d7 92 mm, 120 \u00d7 120 mm, 150 \u00d7 150 mm, 172 \u00d7 172 mm, 200 \u00d7 200 mm",
       "Sub-Category": "Fan & Accessories"
     },
-    "rawSpecs": "Cabin Fan , Wall Fan, Ventilation Fan, Table Fan, Pedestal Fan, Panel Cooling Fan, Motor Cooling Fan, Exhaust Fan, Ceiling Fan, Axial Fan, Centrifugal (Blower) Fan, Filter Fan, Roof Exhaust Fan, Fan Size : 80 × 80 mm, 92 × 92 mm, 120 × 120 mm, 150 × 150 mm, 172 × 172 mm, 200 × 200 mm",
+    "rawSpecs": "Cabin Fan , Wall Fan, Ventilation Fan, Table Fan, Pedestal Fan, Panel Cooling Fan, Motor Cooling Fan, Exhaust Fan, Ceiling Fan, Axial Fan, Centrifugal (Blower) Fan, Filter Fan, Roof Exhaust Fan, Fan Size : 80 \u00d7 80 mm, 92 \u00d7 92 mm, 120 \u00d7 120 mm, 150 \u00d7 150 mm, 172 \u00d7 172 mm, 200 \u00d7 200 mm",
     "subCategory": "Fan & Accessories",
     "gallery": [
       "/images/products/electrical/fan.png",
@@ -978,17 +980,20 @@ export const ELECTRICAL_PRODUCTS = [
     "priority": 1,
     "priorityLabel": "1st Priority",
     "color": "yellow",
-    "image": "/images/products/electrical/ferrule.png",
-    "description": "High-quality Ferrule manufactured to industrial specifications. Insulated Ferrule Wire Size : 0.25–50 mm², Uninsulated Ferrule Wire Size : 0.5–120 mm², Twin Ferrule Wire Size : 2 × 0.5 mm² to 2 × 16 mm², Long Barrel Ferrule Size : 0.5–35 mm², Short Barrel Ferrule Size : 0.25–16 mm², ...",
+    "image": "/images/products/electrical/ferrule.jpg",
+    "description": "High-quality Ferrule manufactured to industrial specifications. Insulated Ferrule Wire Size : 0.25\u201350 mm\u00b2, Uninsulated Ferrule Wire Size : 0.5\u2013120 mm\u00b2, Twin Ferrule Wire Size : 2 \u00d7 0.5 mm\u00b2 to 2 \u00d7 16 mm\u00b2, Long Barrel Ferrule Size : 0.5\u201335 mm\u00b2, Short Barrel Ferrule Size : 0.25\u201316 mm\u00b2, ...",
     "specs": {
       "Product": "Ferrule",
       "Brand": "Havells",
-      "Size": "16 mm²",
+      "Size": "16 mm\u00b2",
       "Material": "Tin-plated copper, Electrolytic copper, PVC or Polypropylene insulated collar",
       "Sub-Category": "Electrical Consumable"
     },
-    "rawSpecs": "Insulated Ferrule Wire Size : 0.25–50 mm², Uninsulated Ferrule Wire Size : 0.5–120 mm², Twin Ferrule Wire Size : 2 × 0.5 mm² to 2 × 16 mm², Long Barrel Ferrule Size : 0.5–35 mm², Short Barrel Ferrule Size : 0.25–16 mm², Wire Size : 0.25 mm², 0.5 mm², 0.75 mm², 1.0 mm², 1.5 mm², 2.5 mm², 4 mm², 6 mm², 10 mm², 16 mm², 25 mm², 35 mm², 50 mm², White Wire Size : 0.5 mm², Grey Wire Size : 0.75 mm², Red Wire Size : 1.0 mm², Black Wire Size : 1.5 mm², Blue Wire Size : 2.5 mm², Grey Wire Size : 4 mm², Yellow Wire Size : 6 mm², Red Wire Size : 10 mm², Blue Wire Size : 16 mm², Material : Tin-plated copper, Electrolytic copper, PVC or Polypropylene insulated collar",
-    "subCategory": "Electrical Consumable"
+    "rawSpecs": "Insulated Ferrule Wire Size : 0.25\u201350 mm\u00b2, Uninsulated Ferrule Wire Size : 0.5\u2013120 mm\u00b2, Twin Ferrule Wire Size : 2 \u00d7 0.5 mm\u00b2 to 2 \u00d7 16 mm\u00b2, Long Barrel Ferrule Size : 0.5\u201335 mm\u00b2, Short Barrel Ferrule Size : 0.25\u201316 mm\u00b2, Wire Size : 0.25 mm\u00b2, 0.5 mm\u00b2, 0.75 mm\u00b2, 1.0 mm\u00b2, 1.5 mm\u00b2, 2.5 mm\u00b2, 4 mm\u00b2, 6 mm\u00b2, 10 mm\u00b2, 16 mm\u00b2, 25 mm\u00b2, 35 mm\u00b2, 50 mm\u00b2, White Wire Size : 0.5 mm\u00b2, Grey Wire Size : 0.75 mm\u00b2, Red Wire Size : 1.0 mm\u00b2, Black Wire Size : 1.5 mm\u00b2, Blue Wire Size : 2.5 mm\u00b2, Grey Wire Size : 4 mm\u00b2, Yellow Wire Size : 6 mm\u00b2, Red Wire Size : 10 mm\u00b2, Blue Wire Size : 16 mm\u00b2, Material : Tin-plated copper, Electrolytic copper, PVC or Polypropylene insulated collar",
+    "subCategory": "Electrical Consumable",
+    "images": [
+      "/images/products/electrical/ferrule.png"
+    ]
   },
   {
     "id": "el-072-fish-tape",
@@ -999,7 +1004,7 @@ export const ELECTRICAL_PRODUCTS = [
     "priority": 1,
     "priorityLabel": "1st Priority",
     "color": "yellow",
-    "image": "/images/products/electrical/fish-tape.png",
+    "image": "/images/products/electrical/fish-tape.webp",
     "description": "High-quality Fish Tape manufactured to industrial specifications. Type : Steel Fish Tape, Fiberglass Fish Tape, Nylon Fish Tape, Polyester Fish Tape, Length : 10 m, 15 m, 20 m, 30 m, 50 m, 60 m, 100 m, Reel Type : Plastic enclosed reel, Open-frame steel reel, Hand-crank reel, Automatic...",
     "specs": {
       "Product": "Fish Tape",
@@ -1044,7 +1049,7 @@ export const ELECTRICAL_PRODUCTS = [
     "priorityLabel": "1st Priority",
     "color": "yellow",
     "image": "/images/products/electrical/gang-box.png",
-    "description": "High-quality Gang Box manufactured to industrial specifications. 1 Gang Box, 2 Gang Box, 3 Gang Box, 4 Gang Box, Surface Mount Gang Box, Flush Mount Gang Box, Weatherproof Gang Box, Adjustable Gang Box, Dimensions (L × W × D) - 75 × 75 × 47 mm, 120 × 75 × 47 mm, 170 × 75 × 47 mm, 220 ...",
+    "description": "High-quality Gang Box manufactured to industrial specifications. 1 Gang Box, 2 Gang Box, 3 Gang Box, 4 Gang Box, Surface Mount Gang Box, Flush Mount Gang Box, Weatherproof Gang Box, Adjustable Gang Box, Dimensions (L \u00d7 W \u00d7 D) - 75 \u00d7 75 \u00d7 47 mm, 120 \u00d7 75 \u00d7 47 mm, 170 \u00d7 75 \u00d7 47 mm, 220 ...",
     "specs": {
       "Product": "Gang Box",
       "Brand": "Finolex",
@@ -1053,7 +1058,7 @@ export const ELECTRICAL_PRODUCTS = [
       "Mounting": "Flush or Surface",
       "Sub-Category": "Electrical Hardware"
     },
-    "rawSpecs": "1 Gang Box, 2 Gang Box, 3 Gang Box, 4 Gang Box, Surface Mount Gang Box, Flush Mount Gang Box, Weatherproof Gang Box, Adjustable Gang Box, Dimensions (L × W × D) - 75 × 75 × 47 mm, 120 × 75 × 47 mm, 170 × 75 × 47 mm, 220 × 75 × 47 mm, Depth: 35 mm, 47 mm, 50 mm, 60 mm, and 75 mm, PVC (Polyvinyl Chloride), Galvanized Steel (GI), Mild Steel (Powder-Coated), Polycarbonate, Die-cast Aluminum (Weatherproof), Color: Grey / White / Metallic, Mounting: Flush or Surface",
+    "rawSpecs": "1 Gang Box, 2 Gang Box, 3 Gang Box, 4 Gang Box, Surface Mount Gang Box, Flush Mount Gang Box, Weatherproof Gang Box, Adjustable Gang Box, Dimensions (L \u00d7 W \u00d7 D) - 75 \u00d7 75 \u00d7 47 mm, 120 \u00d7 75 \u00d7 47 mm, 170 \u00d7 75 \u00d7 47 mm, 220 \u00d7 75 \u00d7 47 mm, Depth: 35 mm, 47 mm, 50 mm, 60 mm, and 75 mm, PVC (Polyvinyl Chloride), Galvanized Steel (GI), Mild Steel (Powder-Coated), Polycarbonate, Die-cast Aluminum (Weatherproof), Color: Grey / White / Metallic, Mounting: Flush or Surface",
     "subCategory": "Electrical Hardware"
   },
   {
@@ -1065,7 +1070,7 @@ export const ELECTRICAL_PRODUCTS = [
     "priority": 1,
     "priorityLabel": "1st Priority",
     "color": "yellow",
-    "image": "/images/products/electrical/ground-fault-relay.png",
+    "image": "/images/products/electrical/ground-fault-relay.jpeg",
     "description": "High-quality Ground Fault Relay manufactured to industrial specifications. Voltage Relay, Timer Relay, Solid State Relay SSR, Relay, Power Relay, Phase Sequence Relay, Phase Failure Relay, Overload Relay, Ground Fault Relay, Restricted Earth Fault (REF) Relay, Directional Ground Fault Relay, El...",
     "specs": {
       "Product": "Ground Fault Relay",
@@ -1090,46 +1095,19 @@ export const ELECTRICAL_PRODUCTS = [
     "specs": {
       "Product": "Heat Shrink Sleeve",
       "Brand": "Legrand",
-      "Diameter": "1 mm, 2 mm, 3 mm, 4 mm, 6 mm, 8 mm, 10 mm, 12 mm, 16 mm, 20 mm, 25 mm, 30–100 mm",
+      "Diameter": "1 mm, 2 mm, 3 mm, 4 mm, 6 mm, 8 mm, 10 mm, 12 mm, 16 mm, 20 mm, 25 mm, 30\u2013100 mm",
       "Length": "1 m, 5 m, 10 m, 25 m, 50 m, 100 m, Assorted cut-length kits",
       "Material": "Polyolefin (most common), PVC, Fluoropolymer (PTFE/FEP), Elastomer (special applications)",
       "Sub-Category": "Electrical Hardware"
     },
-    "rawSpecs": "Standard Heat Shrink Tube, Dual-Wall (Adhesive-Lined), Thin-Wall Heat Shrink, Medium-Wall Heat Shrink, Heavy-Wall Heat Shrink, Colored Heat Shrink, Busbar Heat Shrink Sleeve, Internal Diameter : 1 mm, 2 mm, 3 mm, 4 mm, 6 mm, 8 mm, 10 mm, 12 mm, 16 mm, 20 mm, 25 mm, 30–100 mm, Standard Length : 1 m, 5 m, 10 m, 25 m, 50 m, 100 m, Assorted cut-length kits, Material : Polyolefin (most common), PVC, Fluoropolymer (PTFE/FEP), Elastomer (special applications)",
+    "rawSpecs": "Standard Heat Shrink Tube, Dual-Wall (Adhesive-Lined), Thin-Wall Heat Shrink, Medium-Wall Heat Shrink, Heavy-Wall Heat Shrink, Colored Heat Shrink, Busbar Heat Shrink Sleeve, Internal Diameter : 1 mm, 2 mm, 3 mm, 4 mm, 6 mm, 8 mm, 10 mm, 12 mm, 16 mm, 20 mm, 25 mm, 30\u2013100 mm, Standard Length : 1 m, 5 m, 10 m, 25 m, 50 m, 100 m, Assorted cut-length kits, Material : Polyolefin (most common), PVC, Fluoropolymer (PTFE/FEP), Elastomer (special applications)",
     "subCategory": "Electrical Hardware",
     "gallery": [
       "/images/products/electrical/heat-shrink-sleeve.png",
       "/images/products/electrical/heat-shrink-sleeve-2.png"
     ]
   },
-  {
-    "id": "el-089-junction-box",
-    "sno": 89,
-    "name": "Junction Box",
-    "brand": "Havells",
-    "category": "electrical",
-    "priority": 1,
-    "priorityLabel": "1st Priority",
-    "color": "yellow",
-    "image": "/images/products/electrical/junction-box.png",
-    "description": "High-quality Junction Box manufactured to industrial specifications. PVC (Plastic) Junction Box, Metal Junction Box, Weatherproof Junction Box, Terminal Junction Box, Waterproof Junction Box, Solar Junction Box, Aluminium Junction Box, Explosion-Proof Junction Box, Ceiling junction box, U...",
-    "specs": {
-      "Product": "Junction Box",
-      "Brand": "Havells",
-      "Variants / Types": "PVC (Plastic) Junction Box, Metal Junction Box, Weatherproof Junction Box, Terminal Junction Box, Waterproof Junction Box, Solar Junction Box, Aluminium Junction Box, Explosion-Proof Junction Box, Ceiling junction box, Underground pull/junction box, Surface-mounted, Flush-mounted,",
-      "Standard": "IS / IEC Certified",
-      "Application": "Power Distribution, Industrial & Commercial",
-      "Sub-Category": "Wiring Accessories"
-    },
-    "rawSpecs": "PVC (Plastic) Junction Box, Metal Junction Box, Weatherproof Junction Box, Terminal Junction Box, Waterproof Junction Box, Solar Junction Box, Aluminium Junction Box, Explosion-Proof Junction Box, Ceiling junction box, Underground pull/junction box, Surface-mounted, Flush-mounted,",
-    "subCategory": "Wiring Accessories",
-    "gallery": [
-      "/images/products/electrical/junction-box.png",
-      "/images/products/electrical/junction-box-2.png",
-      "/images/products/electrical/junction-box-3.png",
-      "/images/products/electrical/junction-box-4.png"
-    ]
-  },
+
   {
     "id": "el-090-junction-enclosure",
     "sno": 90,
@@ -1145,13 +1123,16 @@ export const ELECTRICAL_PRODUCTS = [
       "Product": "Junction Enclosure",
       "Brand": "Siemens",
       "Type": "Plastic Junction Enclosure, Metal Junction Enclosure, Weatherproof Enclosure, Flameproof/Explosion-proof Enclosure, IP65/IP66/IP67 Enclosure, Wall-mounted Enclosure, Terminal Junction Enclosure, MCB Enclosure, Junction Enclosure",
-      "Material": "ABS Plastic, Polycarbonate (PC), Mild Steel (Powder Coated), Stainless Steel (SS304/SS316), GRP (Glass Reinforced Polyester), Cast Aluminum Size (L × W ×",
-      "H) mm": "100 × 100 × 50, 150 × 150 × 70, 200 × 200 × 80, 250 × 250 × 100, 300 × 300 × 120, 400 × 300 × 150, 500 × 400 × 200, 600 × 400 × 200, 800 × 600 × 250, Custom sizes available",
+      "Material": "ABS Plastic, Polycarbonate (PC), Mild Steel (Powder Coated), Stainless Steel (SS304/SS316), GRP (Glass Reinforced Polyester), Cast Aluminum Size (L \u00d7 W \u00d7",
+      "H) mm": "100 \u00d7 100 \u00d7 50, 150 \u00d7 150 \u00d7 70, 200 \u00d7 200 \u00d7 80, 250 \u00d7 250 \u00d7 100, 300 \u00d7 300 \u00d7 120, 400 \u00d7 300 \u00d7 150, 500 \u00d7 400 \u00d7 200, 600 \u00d7 400 \u00d7 200, 800 \u00d7 600 \u00d7 250, Custom sizes available",
       "Rating": "IP54, IP55, IP65, IP66, IP67, IP68",
       "Sub-Category": "Electrical Hardware"
     },
-    "rawSpecs": "Type : Plastic Junction Enclosure, Metal Junction Enclosure, Weatherproof Enclosure, Flameproof/Explosion-proof Enclosure, IP65/IP66/IP67 Enclosure, Wall-mounted Enclosure, Terminal Junction Enclosure, MCB Enclosure, Junction Enclosure, Material : ABS Plastic, Polycarbonate (PC), Mild Steel (Powder Coated), Stainless Steel (SS304/SS316), GRP (Glass Reinforced Polyester), Cast Aluminum Size (L × W × H) mm : 100 × 100 × 50, 150 × 150 × 70, 200 × 200 × 80, 250 × 250 × 100, 300 × 300 × 120, 400 × 300 × 150, 500 × 400 × 200, 600 × 400 × 200, 800 × 600 × 250, Custom sizes available, IP Rating: IP54, IP55, IP65, IP66, IP67, IP68",
+    "rawSpecs": "Type : Plastic Junction Enclosure, Metal Junction Enclosure, Weatherproof Enclosure, Flameproof/Explosion-proof Enclosure, IP65/IP66/IP67 Enclosure, Wall-mounted Enclosure, Terminal Junction Enclosure, MCB Enclosure, Junction Enclosure, Material : ABS Plastic, Polycarbonate (PC), Mild Steel (Powder Coated), Stainless Steel (SS304/SS316), GRP (Glass Reinforced Polyester), Cast Aluminum Size (L \u00d7 W \u00d7 H) mm : 100 \u00d7 100 \u00d7 50, 150 \u00d7 150 \u00d7 70, 200 \u00d7 200 \u00d7 80, 250 \u00d7 250 \u00d7 100, 300 \u00d7 300 \u00d7 120, 400 \u00d7 300 \u00d7 150, 500 \u00d7 400 \u00d7 200, 600 \u00d7 400 \u00d7 200, 800 \u00d7 600 \u00d7 250, Custom sizes available, IP Rating: IP54, IP55, IP65, IP66, IP67, IP68",
     "subCategory": "Electrical Hardware",
+    "images": [
+      "/images/products/electrical/junction-enclosure.png"
+    ],
     "gallery": [
       "/images/products/electrical/junction-enclosure.png",
       "/images/products/electrical/junction-enclosure-2.png",
@@ -1167,7 +1148,7 @@ export const ELECTRICAL_PRODUCTS = [
     "priority": 1,
     "priorityLabel": "1st Priority",
     "color": "yellow",
-    "image": "/images/products/electrical/keystone-jack.png",
+    "image": "/images/products/electrical/keystone-jack.jpeg",
     "description": "High-quality Keystone Jack manufactured to industrial specifications. Type : RJ45 Cat5e, RJ45 Cat6, RJ45 Cat6A, RJ45 Cat8, Telephone (RJ11/RJ12), HDMI Keystone, USB Keystone, Coaxial Keystone, Fiber Optic Keystone, Audio Keystone, RJ45 (8P8C), RJ11/RJ12, HDMI Female, USB-A / USB-C, F-Type ...",
     "specs": {
       "Product": "Keystone Jack",
@@ -1189,8 +1170,8 @@ export const ELECTRICAL_PRODUCTS = [
     "priority": 1,
     "priorityLabel": "1st Priority",
     "color": "yellow",
-    "image": "/images/products/electrical/led.png",
-    "description": "High-quality LED manufactured to industrial specifications. LED Battens, LED Bulb, LED Driver, LED Profiles, Through-Hole LED Size : 3 mm, 5 mm, 8 mm, 10 mm, SMD LED Size : 0402, 0603, 0805, 1206, 2835, 3528, 5050, 5630, 5730, COB (Chip-on-Board) LED Size : 10 W–300 W modules, Hi...",
+    "image": "/images/products/electrical/Led.jpeg",
+    "description": "High-quality LED manufactured to industrial specifications. LED Battens, LED Bulb, LED Driver, LED Profiles, Through-Hole LED Size : 3 mm, 5 mm, 8 mm, 10 mm, SMD LED Size : 0402, 0603, 0805, 1206, 2835, 3528, 5050, 5630, 5730, COB (Chip-on-Board) LED Size : 10 W\u2013300 W modules, Hi...",
     "specs": {
       "Product": "LED",
       "Brand": "Legrand",
@@ -1198,7 +1179,7 @@ export const ELECTRICAL_PRODUCTS = [
       "Color": "White (Warm White, Neutral White, Cool White), Red, Green, Blue, Yellow, Amber, RGB (Multi-color)",
       "Sub-Category": "Lighting"
     },
-    "rawSpecs": "LED Battens, LED Bulb, LED Driver, LED Profiles, Through-Hole LED Size : 3 mm, 5 mm, 8 mm, 10 mm, SMD LED Size : 0402, 0603, 0805, 1206, 2835, 3528, 5050, 5630, 5730, COB (Chip-on-Board) LED Size : 10 W–300 W modules, High-Power LED Size : 1 W, 3 W, 5 W, 10 W, 20 W, 50 W, 100 W, RGB LED Size : 5 mm, 5050 SMD, Bi-Color LED Size : 3 mm, 5 mm, Infrared (IR) LED Size : 3 mm, 5 mm, LED Bulb Size : E27, B22, E14, GU10, MR16, G9, LED Color : White (Warm White, Neutral White, Cool White), Red, Green, Blue, Yellow, Amber, RGB (Multi-color)",
+    "rawSpecs": "LED Battens, LED Bulb, LED Driver, LED Profiles, Through-Hole LED Size : 3 mm, 5 mm, 8 mm, 10 mm, SMD LED Size : 0402, 0603, 0805, 1206, 2835, 3528, 5050, 5630, 5730, COB (Chip-on-Board) LED Size : 10 W\u2013300 W modules, High-Power LED Size : 1 W, 3 W, 5 W, 10 W, 20 W, 50 W, 100 W, RGB LED Size : 5 mm, 5050 SMD, Bi-Color LED Size : 3 mm, 5 mm, Infrared (IR) LED Size : 3 mm, 5 mm, LED Bulb Size : E27, B22, E14, GU10, MR16, G9, LED Color : White (Warm White, Neutral White, Cool White), Red, Green, Blue, Yellow, Amber, RGB (Multi-color)",
     "subCategory": "Lighting"
   },
   {
@@ -1267,7 +1248,7 @@ export const ELECTRICAL_PRODUCTS = [
     "priority": 1,
     "priorityLabel": "1st Priority",
     "color": "yellow",
-    "image": "/images/products/electrical/plug.png",
+    "image": "/images/products/electrical/plug.jpeg",
     "description": "High-quality Plug manufactured to industrial specifications. Plug Top 3 Pin, Plug Top 2 Pin, Plug Converter, Industrial Plug, Three Pin Plug, Smart Plugs, 6 A Plug Top, 16 A Plug Top, IEC Power Plug, Travel Plug Adapter, Current Rating: 2.5 A, 6 A, 10 A, 16 A, 32 A, or 63 A, Volta...",
     "specs": {
       "Product": "Plug",
@@ -1315,19 +1296,19 @@ export const ELECTRICAL_PRODUCTS = [
     "priority": 1,
     "priorityLabel": "1st Priority",
     "color": "yellow",
-    "image": "/images/products/electrical/pvc-channel-pvc-cable-trunking.png",
-    "description": "High-quality PVC Channel (PVC Cable Trunking) manufactured to industrial specifications. Types of PVC Channel : Solid PVC Channel, Slotted PVC Wiring Duct, Adhesive PVC Channel, Screw-Fix PVC Channel, Flexible PVC Channel, Corner PVC Channel, Floor PVC Channel, Width × Height (mm) : 10 × 10, 16 × 16, 20 × 10...",
+    "image": "/images/products/electrical/trunking.webp",
+    "description": "High-quality PVC Channel (PVC Cable Trunking) manufactured to industrial specifications. Types of PVC Channel : Solid PVC Channel, Slotted PVC Wiring Duct, Adhesive PVC Channel, Screw-Fix PVC Channel, Flexible PVC Channel, Corner PVC Channel, Floor PVC Channel, Width \u00d7 Height (mm) : 10 \u00d7 10, 16 \u00d7 16, 20 \u00d7 10...",
     "specs": {
       "Product": "PVC Channel (PVC Cable Trunking)",
       "Brand": "Crompton",
-      "Channel": "Solid PVC Channel, Slotted PVC Wiring Duct, Adhesive PVC Channel, Screw-Fix PVC Channel, Flexible PVC Channel, Corner PVC Channel, Floor PVC Channel, Width ×",
-      "Height (mm)": "10 × 10, 16 × 16, 20 × 10, 20 × 20, 25 × 16, 25 × 25, 40 × 25, 40 × 40, 50 × 25, 50 × 50, 75 × 50, 100 × 50",
+      "Channel": "Solid PVC Channel, Slotted PVC Wiring Duct, Adhesive PVC Channel, Screw-Fix PVC Channel, Flexible PVC Channel, Corner PVC Channel, Floor PVC Channel, Width \u00d7",
+      "Height (mm)": "10 \u00d7 10, 16 \u00d7 16, 20 \u00d7 10, 20 \u00d7 20, 25 \u00d7 16, 25 \u00d7 25, 40 \u00d7 25, 40 \u00d7 40, 50 \u00d7 25, 50 \u00d7 50, 75 \u00d7 50, 100 \u00d7 50",
       "Length": "2 m, 2.5 m, 3 m",
       "Color": "White, Grey, Black, Beige",
       "Material": "Rigid PVC (Polyvinyl Chloride), Flame-retardant PVC, UV-resistant PVC (outdoor-rated models)",
       "Sub-Category": "Conduits & Fittings"
     },
-    "rawSpecs": "Types of PVC Channel : Solid PVC Channel, Slotted PVC Wiring Duct, Adhesive PVC Channel, Screw-Fix PVC Channel, Flexible PVC Channel, Corner PVC Channel, Floor PVC Channel, Width × Height (mm) : 10 × 10, 16 × 16, 20 × 10, 20 × 20, 25 × 16, 25 × 25, 40 × 25, 40 × 40, 50 × 25, 50 × 50, 75 × 50, 100 × 50, Standard Length : Length : 2 m, 2.5 m, 3 m, Color : White, Grey, Black, Beige, Material : Rigid PVC (Polyvinyl Chloride), Flame-retardant PVC, UV-resistant PVC (outdoor-rated models)",
+    "rawSpecs": "Types of PVC Channel : Solid PVC Channel, Slotted PVC Wiring Duct, Adhesive PVC Channel, Screw-Fix PVC Channel, Flexible PVC Channel, Corner PVC Channel, Floor PVC Channel, Width \u00d7 Height (mm) : 10 \u00d7 10, 16 \u00d7 16, 20 \u00d7 10, 20 \u00d7 20, 25 \u00d7 16, 25 \u00d7 25, 40 \u00d7 25, 40 \u00d7 40, 50 \u00d7 25, 50 \u00d7 50, 75 \u00d7 50, 100 \u00d7 50, Standard Length : Length : 2 m, 2.5 m, 3 m, Color : White, Grey, Black, Beige, Material : Rigid PVC (Polyvinyl Chloride), Flame-retardant PVC, UV-resistant PVC (outdoor-rated models)",
     "subCategory": "Conduits & Fittings"
   },
   {
@@ -1339,18 +1320,18 @@ export const ELECTRICAL_PRODUCTS = [
     "priority": 1,
     "priorityLabel": "1st Priority",
     "color": "yellow",
-    "image": "/images/products/electrical/pvc-conduit-coupler.png",
+    "image": "/images/products/electrical/pvc-conduit-coupler.jpeg",
     "description": "High-quality PVC Conduit Coupler manufactured to industrial specifications. Types of PVC Conduit Coupler : Plain (Slip) Coupler, Threaded Coupler, Heavy-Duty Coupler, Flexible Conduit Coupler, Reducer Coupler, Waterproof Coupler, Common Conduit Sizes : 16 mm (1/2 in), 20 mm (3/4 in), 25 mm (1 in...",
     "specs": {
       "Product": "PVC Conduit Coupler",
       "Brand": "Finolex",
       "Coupler": "Plain (Slip) Coupler, Threaded Coupler, Heavy-Duty Coupler, Flexible Conduit Coupler, Reducer Coupler, Waterproof Coupler",
-      "Sizes": "16 mm (1/2 in), 20 mm (3/4 in), 25 mm (1 in), 32 mm (1¼ in), 40 mm (1½ in), 50 mm (2 in), 63 mm (2½ in)",
+      "Sizes": "16 mm (1/2 in), 20 mm (3/4 in), 25 mm (1 in), 32 mm (1\u00bc in), 40 mm (1\u00bd in), 50 mm (2 in), 63 mm (2\u00bd in)",
       "Material": "Rigid PVC, Heavy-duty PVC, Flame-retardant PVC, UV-resistant PVC (outdoor use)",
       "Color": "Grey, White, Black, Orange (special applications)",
       "Sub-Category": "Conduits & Fittings"
     },
-    "rawSpecs": "Types of PVC Conduit Coupler : Plain (Slip) Coupler, Threaded Coupler, Heavy-Duty Coupler, Flexible Conduit Coupler, Reducer Coupler, Waterproof Coupler, Common Conduit Sizes : 16 mm (1/2 in), 20 mm (3/4 in), 25 mm (1 in), 32 mm (1¼ in), 40 mm (1½ in), 50 mm (2 in), 63 mm (2½ in), Material : Rigid PVC, Heavy-duty PVC, Flame-retardant PVC, UV-resistant PVC (outdoor use), Color : Grey, White, Black, Orange (special applications)",
+    "rawSpecs": "Types of PVC Conduit Coupler : Plain (Slip) Coupler, Threaded Coupler, Heavy-Duty Coupler, Flexible Conduit Coupler, Reducer Coupler, Waterproof Coupler, Common Conduit Sizes : 16 mm (1/2 in), 20 mm (3/4 in), 25 mm (1 in), 32 mm (1\u00bc in), 40 mm (1\u00bd in), 50 mm (2 in), 63 mm (2\u00bd in), Material : Rigid PVC, Heavy-duty PVC, Flame-retardant PVC, UV-resistant PVC (outdoor use), Color : Grey, White, Black, Orange (special applications)",
     "subCategory": "Conduits & Fittings"
   },
   {
@@ -1362,21 +1343,19 @@ export const ELECTRICAL_PRODUCTS = [
     "priority": 1,
     "priorityLabel": "1st Priority",
     "color": "yellow",
-    "image": "/images/products/electrical/reflective-tape.png",
-    "description": "High-quality Reflective Tape manufactured to industrial specifications. Size : Width x Roll Length : 25 mm x 45–50 m, 50 mm x 45–50 m, 75 mm x 45–50 m, 100 mm x 45–50 m",
+    "image": "/images/products/electrical/reflective.jpeg",
+    "description": "High-quality Reflective Tape manufactured to industrial specifications. Size : Width x Roll Length : 25 mm x 45\u201350 m, 50 mm x 45\u201350 m, 75 mm x 45\u201350 m, 100 mm x 45\u201350 m",
     "specs": {
       "Product": "Reflective Tape",
       "Brand": "Havells",
-      "Length": "25 mm x 45–50 m, 50 mm x 45–50 m, 75 mm x 45–50 m, 100 mm x 45–50 m",
+      "Length": "25 mm x 45\u201350 m, 50 mm x 45\u201350 m, 75 mm x 45\u201350 m, 100 mm x 45\u201350 m",
       "Sub-Category": "Electrical Consumable"
     },
-    "rawSpecs": "Size : Width x Roll Length : 25 mm x 45–50 m, 50 mm x 45–50 m, 75 mm x 45–50 m, 100 mm x 45–50 m",
+    "rawSpecs": "Size : Width x Roll Length : 25 mm x 45\u201350 m, 50 mm x 45\u201350 m, 75 mm x 45\u201350 m, 100 mm x 45\u201350 m",
     "subCategory": "Electrical Consumable",
     "gallery": [
-      "/images/products/electrical/reflective-tape.png",
-      "/images/products/electrical/reflective-tape-2.png",
-      "/images/products/electrical/reflective-tape-3.png",
-      "/images/products/electrical/reflective-tape-4.png"
+      "/images/products/electrical/reflective.jpeg"
+      
     ]
   },
   {
@@ -1389,17 +1368,17 @@ export const ELECTRICAL_PRODUCTS = [
     "priorityLabel": "1st Priority",
     "color": "yellow",
     "image": "/images/products/electrical/ring-terminal.png",
-    "description": "High-quality Ring Terminal manufactured to industrial specifications. Types of Ring Terminals : Insulated Ring Terminal, Non-Insulated Ring Terminal, Copper Ring Terminal, Heavy-Duty Compression Lug, Brazed Seam Ring Terminal, Heat-Shrink Ring Terminal, 0.5–1.5 mm² (22–16 AWG), 1.5–2.5 mm²...",
+    "description": "High-quality Ring Terminal manufactured to industrial specifications. Types of Ring Terminals : Insulated Ring Terminal, Non-Insulated Ring Terminal, Copper Ring Terminal, Heavy-Duty Compression Lug, Brazed Seam Ring Terminal, Heat-Shrink Ring Terminal, 0.5\u20131.5 mm\u00b2 (22\u201316 AWG), 1.5\u20132.5 mm\u00b2...",
     "specs": {
       "Product": "Ring Terminal",
       "Brand": "ABB",
-      "Terminals": "Insulated Ring Terminal, Non-Insulated Ring Terminal, Copper Ring Terminal, Heavy-Duty Compression Lug, Brazed Seam Ring Terminal, Heat-Shrink Ring Terminal, 0.5–1.5 mm² (22–16 AWG), 1.5–2.5 mm² (16–14 AWG), 4–6 mm²(12–10 AWG), 10 mm²(8 AWG), 16 mm²(6 AWG), 25 mm²(4 AWG), 35 mm²(2 AWG), 50 mm²(1/0 AWG), 70–300 mm²(Larger than 1/0 AWG)",
+      "Terminals": "Insulated Ring Terminal, Non-Insulated Ring Terminal, Copper Ring Terminal, Heavy-Duty Compression Lug, Brazed Seam Ring Terminal, Heat-Shrink Ring Terminal, 0.5\u20131.5 mm\u00b2 (22\u201316 AWG), 1.5\u20132.5 mm\u00b2 (16\u201314 AWG), 4\u20136 mm\u00b2(12\u201310 AWG), 10 mm\u00b2(8 AWG), 16 mm\u00b2(6 AWG), 25 mm\u00b2(4 AWG), 35 mm\u00b2(2 AWG), 50 mm\u00b2(1/0 AWG), 70\u2013300 mm\u00b2(Larger than 1/0 AWG)",
       "Size": "M3, M4, M5, M6, M8, M10, M12, M16",
       "Color": "Yellow, Red, Blue",
       "Material": "Tinned Copper, Bare Copper, Brass, PVC insulation, Nylon insulation, Heat-shrink polyolefin",
       "Sub-Category": "Wiring Accessories"
     },
-    "rawSpecs": "Types of Ring Terminals : Insulated Ring Terminal, Non-Insulated Ring Terminal, Copper Ring Terminal, Heavy-Duty Compression Lug, Brazed Seam Ring Terminal, Heat-Shrink Ring Terminal, 0.5–1.5 mm² (22–16 AWG), 1.5–2.5 mm² (16–14 AWG), 4–6 mm²(12–10 AWG), 10 mm²(8 AWG), 16 mm²(6 AWG), 25 mm²(4 AWG), 35 mm²(2 AWG), 50 mm²(1/0 AWG), 70–300 mm²(Larger than 1/0 AWG), Stud Size : M3, M4, M5, M6, M8, M10, M12, M16, Color : Yellow, Red, Blue, Material : Tinned Copper, Bare Copper, Brass, PVC insulation, Nylon insulation, Heat-shrink polyolefin",
+    "rawSpecs": "Types of Ring Terminals : Insulated Ring Terminal, Non-Insulated Ring Terminal, Copper Ring Terminal, Heavy-Duty Compression Lug, Brazed Seam Ring Terminal, Heat-Shrink Ring Terminal, 0.5\u20131.5 mm\u00b2 (22\u201316 AWG), 1.5\u20132.5 mm\u00b2 (16\u201314 AWG), 4\u20136 mm\u00b2(12\u201310 AWG), 10 mm\u00b2(8 AWG), 16 mm\u00b2(6 AWG), 25 mm\u00b2(4 AWG), 35 mm\u00b2(2 AWG), 50 mm\u00b2(1/0 AWG), 70\u2013300 mm\u00b2(Larger than 1/0 AWG), Stud Size : M3, M4, M5, M6, M8, M10, M12, M16, Color : Yellow, Red, Blue, Material : Tinned Copper, Bare Copper, Brass, PVC insulation, Nylon insulation, Heat-shrink polyolefin",
     "subCategory": "Wiring Accessories"
   },
   {
@@ -1411,7 +1390,7 @@ export const ELECTRICAL_PRODUCTS = [
     "priority": 1,
     "priorityLabel": "1st Priority",
     "color": "yellow",
-    "image": "/images/products/electrical/smart-bulbs.png",
+    "image": "/images/products/electrical/smart-bulbs.jpeg",
     "description": "High-quality Smart Bulbs manufactured to industrial specifications. Types of Smart Bulb : Wi-Fi Smart Bulb, Bluetooth Smart Bulb, Zigbee Smart Bulb, Thread/Matter Smart Bulb, RGB Smart Bulb, Tunable White Smart Bulb, Dimmable Smart Bulb, Base Type : B22, E27, E14, GU10, MR16, Power Ratin...",
     "specs": {
       "Product": "Smart Bulbs",
@@ -1460,19 +1439,19 @@ export const ELECTRICAL_PRODUCTS = [
     "priority": 1,
     "priorityLabel": "1st Priority",
     "color": "yellow",
-    "image": "/images/products/electrical/spiral-wrapping-band.png",
-    "description": "High-quality Spiral Wrapping Band manufactured to industrial specifications. Types of Spiral Wrapping Band : PE Spiral Wrap, Flame-Retardant Spiral Wrap, Nylon Spiral Wrap, UV-Resistant Spiral Wrap, Heavy-Duty Spiral Wrap, Inside Diameter x Bundle Diameter : 4 mm x 3–20 mm, 6 mm x 4–30 mm, 8 mm x...",
+    "image": "/images/products/electrical/spiral-wrapping-band.jpeg",
+    "description": "High-quality Spiral Wrapping Band manufactured to industrial specifications. Types of Spiral Wrapping Band : PE Spiral Wrap, Flame-Retardant Spiral Wrap, Nylon Spiral Wrap, UV-Resistant Spiral Wrap, Heavy-Duty Spiral Wrap, Inside Diameter x Bundle Diameter : 4 mm x 3\u201320 mm, 6 mm x 4\u201330 mm, 8 mm x...",
     "specs": {
       "Product": "Spiral Wrapping Band",
       "Brand": "Polycab",
       "Band": "PE Spiral Wrap, Flame-Retardant Spiral Wrap, Nylon Spiral Wrap, UV-Resistant Spiral Wrap, Heavy-Duty Spiral Wrap",
-      "Diameter": "4 mm x 3–20 mm, 6 mm x 4–30 mm, 8 mm x 6–40 mm, 10 mm x 8–50 mm, 12 mm x 10–60 mm, 15 mm x 12–75 mm, 20 mm x 15–100 mm, 25 mm x 20–120 mm, 30 mm x 25–150 mm, 40 mm x 35–200 mm",
+      "Diameter": "4 mm x 3\u201320 mm, 6 mm x 4\u201330 mm, 8 mm x 6\u201340 mm, 10 mm x 8\u201350 mm, 12 mm x 10\u201360 mm, 15 mm x 12\u201375 mm, 20 mm x 15\u2013100 mm, 25 mm x 20\u2013120 mm, 30 mm x 25\u2013150 mm, 40 mm x 35\u2013200 mm",
       "Length": "10 m, 25 m, 50 m, 100 m",
       "Color": "Black, White, Natural (Transparent), Grey, Blue, Red, Yellow",
       "Material": "Polyethylene (PE), Nylon (PA), Polypropylene (PP), Flame-retardant plastic",
       "Sub-Category": "Electrical Consumable"
     },
-    "rawSpecs": "Types of Spiral Wrapping Band : PE Spiral Wrap, Flame-Retardant Spiral Wrap, Nylon Spiral Wrap, UV-Resistant Spiral Wrap, Heavy-Duty Spiral Wrap, Inside Diameter x Bundle Diameter : 4 mm x 3–20 mm, 6 mm x 4–30 mm, 8 mm x 6–40 mm, 10 mm x 8–50 mm, 12 mm x 10–60 mm, 15 mm x 12–75 mm, 20 mm x 15–100 mm, 25 mm x 20–120 mm, 30 mm x 25–150 mm, 40 mm x 35–200 mm, Length : 10 m, 25 m, 50 m, 100 m, Color : Black, White, Natural (Transparent), Grey, Blue, Red, Yellow, Material : Polyethylene (PE), Nylon (PA), Polypropylene (PP), Flame-retardant plastic",
+    "rawSpecs": "Types of Spiral Wrapping Band : PE Spiral Wrap, Flame-Retardant Spiral Wrap, Nylon Spiral Wrap, UV-Resistant Spiral Wrap, Heavy-Duty Spiral Wrap, Inside Diameter x Bundle Diameter : 4 mm x 3\u201320 mm, 6 mm x 4\u201330 mm, 8 mm x 6\u201340 mm, 10 mm x 8\u201350 mm, 12 mm x 10\u201360 mm, 15 mm x 12\u201375 mm, 20 mm x 15\u2013100 mm, 25 mm x 20\u2013120 mm, 30 mm x 25\u2013150 mm, 40 mm x 35\u2013200 mm, Length : 10 m, 25 m, 50 m, 100 m, Color : Black, White, Natural (Transparent), Grey, Blue, Red, Yellow, Material : Polyethylene (PE), Nylon (PA), Polypropylene (PP), Flame-retardant plastic",
     "subCategory": "Electrical Consumable"
   },
   {
@@ -1491,11 +1470,11 @@ export const ELECTRICAL_PRODUCTS = [
       "Brand": "Anchor by Panasonic",
       "Rating": "16 A, 20 A, 25 A, 32 A, 40 A, 63 A, 100 A, 6",
       "Size": "(6M), 8 Module (8M), 12 Module (12M), 18 Module (18M), 4 Module (4M), 2 Module (2M), 1 Module (1M), 1 Gang, 2 Gang, 3 Gang, 4 Gang, 6 Gang, 8 Gang, Flush Mount, Surface Mount, DIN Rail Mount, Panel Mount, Modular Plate Mount",
-      "Ratings": "230–250 V AC (Residential), 415 V AC (Three-phase), 24 V DC (Control circuits), 48 V DC (Telecom), 110 V AC (Industrial)",
+      "Ratings": "230\u2013250 V AC (Residential), 415 V AC (Three-phase), 24 V DC (Control circuits), 48 V DC (Telecom), 110 V AC (Industrial)",
       "Materials": "Polycarbonate, ABS Plastic, Bakelite, Stainless Steel, Brass Contacts, Silver Alloy Contacts",
       "Sub-Category": "Switches & Accessories"
     },
-    "rawSpecs": "Reed Switch, Pressure Switch, PoE Switch, Piano Switch, Network Switch, Modular Switch, Micro Switch, Main Switch, Load Break Switch, Limit Switch, Key Switch, Joystick Switch, Intermediate Switch, Foot Switch, Float Switch, Dustproof Switch, DP Switch, Dimmer Switch,Changeover Switch, Zigbee Switch, Wi-Fi Switch, Toggle Switch, Timer Switch, Switch Fuse Unit SFU, Switch 2 Way , Switch 1 Way, Smart Switch, Selector Switch, Safety Switch, Rotary Switch, Pull Cord Switch, Key Switch, Modular Rocker Switch, Rotary Selector Switch, Isolator Switch, Double Pole (DP) Switch, Push Button Switch (NO/NC), Bell Push Switch, 2-Way Switch (SPDT), 1-Way Switch (SPST), Rating : 16 A, 20 A, 25 A, 32 A, 40 A, 63 A, 100 A, 6 Module Plate Size : (6M), 8 Module (8M), 12 Module (12M), 18 Module (18M), 4 Module (4M), 2 Module (2M), 1 Module (1M), 1 Gang, 2 Gang, 3 Gang, 4 Gang, 6 Gang, 8 Gang, Flush Mount, Surface Mount, DIN Rail Mount, Panel Mount, Modular Plate Mount, Voltage Ratings : 230–250 V AC (Residential), 415 V AC (Three-phase), 24 V DC (Control circuits), 48 V DC (Telecom), 110 V AC (Industrial), Materials : Polycarbonate, ABS Plastic, Bakelite, Stainless Steel, Brass Contacts, Silver Alloy Contacts",
+    "rawSpecs": "Reed Switch, Pressure Switch, PoE Switch, Piano Switch, Network Switch, Modular Switch, Micro Switch, Main Switch, Load Break Switch, Limit Switch, Key Switch, Joystick Switch, Intermediate Switch, Foot Switch, Float Switch, Dustproof Switch, DP Switch, Dimmer Switch,Changeover Switch, Zigbee Switch, Wi-Fi Switch, Toggle Switch, Timer Switch, Switch Fuse Unit SFU, Switch 2 Way , Switch 1 Way, Smart Switch, Selector Switch, Safety Switch, Rotary Switch, Pull Cord Switch, Key Switch, Modular Rocker Switch, Rotary Selector Switch, Isolator Switch, Double Pole (DP) Switch, Push Button Switch (NO/NC), Bell Push Switch, 2-Way Switch (SPDT), 1-Way Switch (SPST), Rating : 16 A, 20 A, 25 A, 32 A, 40 A, 63 A, 100 A, 6 Module Plate Size : (6M), 8 Module (8M), 12 Module (12M), 18 Module (18M), 4 Module (4M), 2 Module (2M), 1 Module (1M), 1 Gang, 2 Gang, 3 Gang, 4 Gang, 6 Gang, 8 Gang, Flush Mount, Surface Mount, DIN Rail Mount, Panel Mount, Modular Plate Mount, Voltage Ratings : 230\u2013250 V AC (Residential), 415 V AC (Three-phase), 24 V DC (Control circuits), 48 V DC (Telecom), 110 V AC (Industrial), Materials : Polycarbonate, ABS Plastic, Bakelite, Stainless Steel, Brass Contacts, Silver Alloy Contacts",
     "subCategory": "Switches & Accessories",
     "gallery": [
       "/images/products/electrical/switch.png",
@@ -1513,7 +1492,7 @@ export const ELECTRICAL_PRODUCTS = [
     "priority": 1,
     "priorityLabel": "1st Priority",
     "color": "yellow",
-    "image": "/images/products/electrical/tape.png",
+    "image": "/images/products/electrical/industrialtape.png",
     "description": "High-quality Tape manufactured to industrial specifications. Self Amalgamating Tape, Rubber Tape, Electrical Insulation Tape, Glass Cloth Electrical Tape, Polyester (Mylar) Tape, Kapton (Polyimide) Tape, Electrical Warning Tape, Semi-Conductive Tape, Mastic Insulating Tape, PTFE T...",
     "specs": {
       "Product": "Tape",
@@ -1521,8 +1500,11 @@ export const ELECTRICAL_PRODUCTS = [
       "Wide": "12 mm, 18 mm, 19 mm, 25 mm, 38 mm, 50 mm, 75 mm, 100 mm, Black, Red, Blue, Yellow, Green, White, Grey, Brown, Green/Yellow (Earth)",
       "Sub-Category": "Electrical Consumable"
     },
-    "rawSpecs": "Self Amalgamating Tape, Rubber Tape, Electrical Insulation Tape, Glass Cloth Electrical Tape, Polyester (Mylar) Tape, Kapton (Polyimide) Tape, Electrical Warning Tape, Semi-Conductive Tape, Mastic Insulating Tape, PTFE Thread Seal Tape (Teflon Tape), 18 mm × 10 m, 18 mm × 20 m, 19 mm × 20 m, 19 mm × 5 m, 12 mm × 10–20 m, 50 mm × 20–100 m,  25 mm × 10 m, 25 mm × 30 m, 12–25 mm × 50 m, 10–50 mm × 33 m, 19–25 mm × 10 m, 38 mm × 3 m, Wide : 12 mm, 18 mm, 19 mm, 25 mm, 38 mm, 50 mm, 75 mm, 100 mm, Black, Red, Blue, Yellow, Green, White, Grey, Brown, Green/Yellow (Earth)",
-    "subCategory": "Electrical Consumable"
+    "rawSpecs": "Self Amalgamating Tape, Rubber Tape, Electrical Insulation Tape, Glass Cloth Electrical Tape, Polyester (Mylar) Tape, Kapton (Polyimide) Tape, Electrical Warning Tape, Semi-Conductive Tape, Mastic Insulating Tape, PTFE Thread Seal Tape (Teflon Tape), 18 mm \u00d7 10 m, 18 mm \u00d7 20 m, 19 mm \u00d7 20 m, 19 mm \u00d7 5 m, 12 mm \u00d7 10\u201320 m, 50 mm \u00d7 20\u2013100 m,  25 mm \u00d7 10 m, 25 mm \u00d7 30 m, 12\u201325 mm \u00d7 50 m, 10\u201350 mm \u00d7 33 m, 19\u201325 mm \u00d7 10 m, 38 mm \u00d7 3 m, Wide : 12 mm, 18 mm, 19 mm, 25 mm, 38 mm, 50 mm, 75 mm, 100 mm, Black, Red, Blue, Yellow, Green, White, Grey, Brown, Green/Yellow (Earth)",
+    "subCategory": "Electrical Consumable",
+    "images": [
+      "/images/products/electrical/tape.png"
+    ]
   },
   {
     "id": "el-131-terminal-block",
@@ -1533,21 +1515,33 @@ export const ELECTRICAL_PRODUCTS = [
     "priority": 1,
     "priorityLabel": "1st Priority",
     "color": "yellow",
-    "image": "/images/products/electrical/terminal-block.png",
+    "image": "/images/products/electrical/excel_file1_terminal_block_3.png",
     "description": "High-quality Terminal Block manufactured to industrial specifications. Types of Terminal Block : Screw Terminal Block, Spring Clamp Terminal Block, Push-in Terminal Block, Barrier Terminal Block, DIN Rail Terminal Block, Ground (Earth) Terminal Block, Fuse Terminal Block, Disconnect Termina...",
     "specs": {
       "Product": "Terminal Block",
       "Brand": "Finolex",
       "Block": "Screw Terminal Block, Spring Clamp Terminal Block, Push-in Terminal Block, Barrier Terminal Block, DIN Rail Terminal Block, Ground (Earth) Terminal Block, Fuse Terminal Block, Disconnect Terminal Block, Multi-Level Terminal Block",
-      "Size": "0.2–2.5 mm², 0.5–4 mm², 2.5–6 mm², 10 mm², 16 mm², 25–95 mm²",
+      "Size": "0.2\u20132.5 mm\u00b2, 0.5\u20134 mm\u00b2, 2.5\u20136 mm\u00b2, 10 mm\u00b2, 16 mm\u00b2, 25\u201395 mm\u00b2",
       "Rating": "300 V, 600 V, 800 V, 1000 V",
       "Type": "DIN Rail (35 mm), Panel Mount, PCB Mount, Barrier Strip Mount",
       "Material": "Polyamide (PA66), Polycarbonate (PC), Thermoplastic, Brass terminals, Tin-plated copper conductors, Stainless steel screws",
       "Color": "Grey (Standard), Green/Yellow (Earth), Blue (Neutral), Red, Black, Orange, White",
       "Sub-Category": "Wiring Accessories"
     },
-    "rawSpecs": "Types of Terminal Block : Screw Terminal Block, Spring Clamp Terminal Block, Push-in Terminal Block, Barrier Terminal Block, DIN Rail Terminal Block, Ground (Earth) Terminal Block, Fuse Terminal Block, Disconnect Terminal Block, Multi-Level Terminal Block, Wire Size : 0.2–2.5 mm², 0.5–4 mm², 2.5–6 mm², 10 mm², 16 mm², 25–95 mm², Current Rating : 10 A, 16 A, 24 A, 32 A, 41–57 A, 76–150 A, 200–400 A, Voltage Rating : 300 V, 600 V, 800 V, 1000 V, Mounting Type : DIN Rail (35 mm), Panel Mount, PCB Mount, Barrier Strip Mount, Material : Polyamide (PA66), Polycarbonate (PC), Thermoplastic, Brass terminals, Tin-plated copper conductors, Stainless steel screws, Color : Grey (Standard), Green/Yellow (Earth), Blue (Neutral), Red, Black, Orange, White",
-    "subCategory": "Wiring Accessories"
+    "rawSpecs": "Types of Terminal Block : Screw Terminal Block, Spring Clamp Terminal Block, Push-in Terminal Block, Barrier Terminal Block, DIN Rail Terminal Block, Ground (Earth) Terminal Block, Fuse Terminal Block, Disconnect Terminal Block, Multi-Level Terminal Block, Wire Size : 0.2\u20132.5 mm\u00b2, 0.5\u20134 mm\u00b2, 2.5\u20136 mm\u00b2, 10 mm\u00b2, 16 mm\u00b2, 25\u201395 mm\u00b2, Current Rating : 10 A, 16 A, 24 A, 32 A, 41\u201357 A, 76\u2013150 A, 200\u2013400 A, Voltage Rating : 300 V, 600 V, 800 V, 1000 V, Mounting Type : DIN Rail (35 mm), Panel Mount, PCB Mount, Barrier Strip Mount, Material : Polyamide (PA66), Polycarbonate (PC), Thermoplastic, Brass terminals, Tin-plated copper conductors, Stainless steel screws, Color : Grey (Standard), Green/Yellow (Earth), Blue (Neutral), Red, Black, Orange, White",
+    "subCategory": "Wiring Accessories",
+    "images": [
+     
+      "/images/products/electrical/excel_file1_terminal_block_2.png",
+      "/images/products/electrical/excel_file1_terminal_block_3.png",
+      "/images/products/electrical/excel_file1_terminal_block_4.png"
+    ],
+    "gallery": [
+      
+      "/images/products/electrical/excel_file1_terminal_block_2.png",
+      "/images/products/electrical/excel_file1_terminal_block_3.png",
+      "/images/products/electrical/excel_file1_terminal_block_4.png"
+    ]
   },
   {
     "id": "el-132-terminals",
@@ -1570,6 +1564,9 @@ export const ELECTRICAL_PRODUCTS = [
     },
     "rawSpecs": "Earth Terminal, Brass Terminal, Battery Terminals, Butt splice connector, Remote Terminal, Virtual Terminal, Intelligent Terminal, Smart Terminal, Dumb Terminal",
     "subCategory": "Electrical Hardware",
+    "images": [
+      "/images/products/electrical/terminals.png"
+    ],
     "gallery": [
       "/images/products/electrical/terminals.png",
       "/images/products/electrical/terminals-2.png",
@@ -1586,18 +1583,18 @@ export const ELECTRICAL_PRODUCTS = [
     "priorityLabel": "1st Priority",
     "color": "yellow",
     "image": "/images/products/electrical/water-heater.png",
-    "description": "High-quality Water Heater manufactured to industrial specifications. Types of Water Heater : Instant Water Heater, Storage Water Heater (Geyser), Tankless Water Heater, Solar Water Heater, Heat Pump Water Heater, Gas Water Heater, Industrial Water Heater, Storage Capacitie : 1–3 L, 6 L, 1...",
+    "description": "High-quality Water Heater manufactured to industrial specifications. Types of Water Heater : Instant Water Heater, Storage Water Heater (Geyser), Tankless Water Heater, Solar Water Heater, Heat Pump Water Heater, Gas Water Heater, Industrial Water Heater, Storage Capacitie : 1\u20133 L, 6 L, 1...",
     "specs": {
       "Product": "Water Heater",
       "Brand": "Philips",
       "Heater": "Instant Water Heater, Storage Water Heater (Geyser), Tankless Water Heater, Solar Water Heater, Heat Pump Water Heater, Gas Water Heater, Industrial Water Heater",
-      "Capacitie": "1–3 L, 6 L, 10 L, 15 L, 25 L, 35 L, 50–100 L, 100–500 L",
-      "Voltage": "220–240 V AC ( Residential), 380–415 V AC ( Commercial and industrial)",
-      "Dimension": "350 × 350 × 300 mm, 400 × 400 × 350 mm, 450 × 450 × 400 mm, 700 × 450 × 450 mm",
+      "Capacitie": "1\u20133 L, 6 L, 10 L, 15 L, 25 L, 35 L, 50\u2013100 L, 100\u2013500 L",
+      "Voltage": "220\u2013240 V AC ( Residential), 380\u2013415 V AC ( Commercial and industrial)",
+      "Dimension": "350 \u00d7 350 \u00d7 300 mm, 400 \u00d7 400 \u00d7 350 mm, 450 \u00d7 450 \u00d7 400 mm, 700 \u00d7 450 \u00d7 450 mm",
       "Type": "Vertical Wall Mount, Horizontal Wall Mount, Floor Standing (large-capacity models)",
       "Sub-Category": "Appliance & Accessories"
     },
-    "rawSpecs": "Types of Water Heater : Instant Water Heater, Storage Water Heater (Geyser), Tankless Water Heater, Solar Water Heater, Heat Pump Water Heater, Gas Water Heater, Industrial Water Heater, Storage Capacitie : 1–3 L, 6 L, 10 L, 15 L, 25 L, 35 L, 50–100 L, 100–500 L, Voltage : 220–240 V AC ( Residential), 380–415 V AC ( Commercial and industrial), Approximate Dimension : 350 × 350 × 300 mm, 400 × 400 × 350 mm, 450 × 450 × 400 mm, 700 × 450 × 450 mm, Mounting Type : Vertical Wall Mount, Horizontal Wall Mount, Floor Standing (large-capacity models)",
+    "rawSpecs": "Types of Water Heater : Instant Water Heater, Storage Water Heater (Geyser), Tankless Water Heater, Solar Water Heater, Heat Pump Water Heater, Gas Water Heater, Industrial Water Heater, Storage Capacitie : 1\u20133 L, 6 L, 10 L, 15 L, 25 L, 35 L, 50\u2013100 L, 100\u2013500 L, Voltage : 220\u2013240 V AC ( Residential), 380\u2013415 V AC ( Commercial and industrial), Approximate Dimension : 350 \u00d7 350 \u00d7 300 mm, 400 \u00d7 400 \u00d7 350 mm, 450 \u00d7 450 \u00d7 400 mm, 700 \u00d7 450 \u00d7 450 mm, Mounting Type : Vertical Wall Mount, Horizontal Wall Mount, Floor Standing (large-capacity models)",
     "subCategory": "Appliance & Accessories"
   },
   {
@@ -1614,12 +1611,12 @@ export const ELECTRICAL_PRODUCTS = [
     "specs": {
       "Product": "Wire",
       "Brand": "Schneider Electric",
-      "Variants / Types": "House Wire, Earthing Wire, Stranded Wire, Flexible Wire, Bare Copper Wire, THHN Wire, FR Wire, FRLS Wire, LSZH Wire, Solid Wire, Fine stranded copper, Multiple copper strands, Copper/Aluminum, Copper, Flame-retardant PVC, Flame-Retardant Low Smoke, Low Smoke Zero Halogen, XLPEPVC/XLPE, PVC/Rubber, PVC + Nylon, Silicon, 0.5 mm², 0.75 mm², 1.0 mm², 1.5 mm², 2.5 mm², 4 mm², 6 mm², 10 mm², 16 mm², 25 mm², 35 mm², 50 mm², 70 mm², 95 mm², 120 mm², 150 mm², 185 mm², 240 mm², 300 mm², 1/0 AWG, 2/0 AWG, 3/0 AWG, 4/0 AWG, 2 AWG, 3 AWG, 5 AWG, 7 AWG, 9 AWG, 11 AWG, 13 AWG, 15 AWG, 17 AWG, 18 AWG, 20 AWG",
+      "Variants / Types": "House Wire, Earthing Wire, Stranded Wire, Flexible Wire, Bare Copper Wire, THHN Wire, FR Wire, FRLS Wire, LSZH Wire, Solid Wire, Fine stranded copper, Multiple copper strands, Copper/Aluminum, Copper, Flame-retardant PVC, Flame-Retardant Low Smoke, Low Smoke Zero Halogen, XLPEPVC/XLPE, PVC/Rubber, PVC + Nylon, Silicon, 0.5 mm\u00b2, 0.75 mm\u00b2, 1.0 mm\u00b2, 1.5 mm\u00b2, 2.5 mm\u00b2, 4 mm\u00b2, 6 mm\u00b2, 10 mm\u00b2, 16 mm\u00b2, 25 mm\u00b2, 35 mm\u00b2, 50 mm\u00b2, 70 mm\u00b2, 95 mm\u00b2, 120 mm\u00b2, 150 mm\u00b2, 185 mm\u00b2, 240 mm\u00b2, 300 mm\u00b2, 1/0 AWG, 2/0 AWG, 3/0 AWG, 4/0 AWG, 2 AWG, 3 AWG, 5 AWG, 7 AWG, 9 AWG, 11 AWG, 13 AWG, 15 AWG, 17 AWG, 18 AWG, 20 AWG",
       "Standard": "IS / IEC Certified",
       "Application": "Power Distribution, Industrial & Commercial",
       "Sub-Category": "Wires & Cables"
     },
-    "rawSpecs": "House Wire, Earthing Wire, Stranded Wire, Flexible Wire, Bare Copper Wire, THHN Wire, FR Wire, FRLS Wire, LSZH Wire, Solid Wire, Fine stranded copper, Multiple copper strands, Copper/Aluminum, Copper, Flame-retardant PVC, Flame-Retardant Low Smoke, Low Smoke Zero Halogen, XLPEPVC/XLPE, PVC/Rubber, PVC + Nylon, Silicon, 0.5 mm², 0.75 mm², 1.0 mm², 1.5 mm², 2.5 mm², 4 mm², 6 mm², 10 mm², 16 mm², 25 mm², 35 mm², 50 mm², 70 mm², 95 mm², 120 mm², 150 mm², 185 mm², 240 mm², 300 mm², 1/0 AWG, 2/0 AWG, 3/0 AWG, 4/0 AWG, 2 AWG, 3 AWG, 5 AWG, 7 AWG, 9 AWG, 11 AWG, 13 AWG, 15 AWG, 17 AWG, 18 AWG, 20 AWG",
+    "rawSpecs": "House Wire, Earthing Wire, Stranded Wire, Flexible Wire, Bare Copper Wire, THHN Wire, FR Wire, FRLS Wire, LSZH Wire, Solid Wire, Fine stranded copper, Multiple copper strands, Copper/Aluminum, Copper, Flame-retardant PVC, Flame-Retardant Low Smoke, Low Smoke Zero Halogen, XLPEPVC/XLPE, PVC/Rubber, PVC + Nylon, Silicon, 0.5 mm\u00b2, 0.75 mm\u00b2, 1.0 mm\u00b2, 1.5 mm\u00b2, 2.5 mm\u00b2, 4 mm\u00b2, 6 mm\u00b2, 10 mm\u00b2, 16 mm\u00b2, 25 mm\u00b2, 35 mm\u00b2, 50 mm\u00b2, 70 mm\u00b2, 95 mm\u00b2, 120 mm\u00b2, 150 mm\u00b2, 185 mm\u00b2, 240 mm\u00b2, 300 mm\u00b2, 1/0 AWG, 2/0 AWG, 3/0 AWG, 4/0 AWG, 2 AWG, 3 AWG, 5 AWG, 7 AWG, 9 AWG, 11 AWG, 13 AWG, 15 AWG, 17 AWG, 18 AWG, 20 AWG",
     "subCategory": "Wires & Cables",
     "gallery": [
       "/images/products/electrical/wire.png",
@@ -1637,7 +1634,7 @@ export const ELECTRICAL_PRODUCTS = [
     "priority": 2,
     "priorityLabel": "2nd Priority",
     "color": "green",
-    "image": "/images/products/electrical/adapter-plug.png",
+    "image": "/images/products/electrical/excel_file4_travel_adaptor.png",
     "description": "High-quality Adapter Plug manufactured to industrial specifications. Multi Plug Adaptor",
     "specs": {
       "Product": "Adapter Plug",
@@ -1648,7 +1645,17 @@ export const ELECTRICAL_PRODUCTS = [
       "Application": "Power Distribution, Industrial & Commercial"
     },
     "rawSpecs": "Multi Plug Adaptor",
-    "subCategory": "Home Electrical Accessories"
+    "subCategory": "Home Electrical Accessories",
+    "images": [
+      "/images/products/electrical/excel_file4_travel_adaptor.png",
+      "/images/products/electrical/excel_file4_travel_adaptor_2.png",
+      "/images/products/electrical/excel_file4_travel_adaptor_3.png"
+    ],
+    "gallery": [
+      "/images/products/electrical/excel_file4_travel_adaptor.png",
+      "/images/products/electrical/excel_file4_travel_adaptor_2.png",
+      "/images/products/electrical/excel_file4_travel_adaptor_3.png"
+    ]
   },
   {
     "id": "el-002-adaptor",
@@ -1770,7 +1777,7 @@ export const ELECTRICAL_PRODUCTS = [
     "priority": 2,
     "priorityLabel": "2nd Priority",
     "color": "green",
-    "image": "/images/products/electrical/capacitor.png",
+    "image": "/images/products/electrical/capacitor-3.png",
     "description": "High-quality Capacitor manufactured to industrial specifications. Run Capacitor,Fan Capacitor, Ceramic Capacitor, Electrolytic Capacitor, Tantalum Capacitor, Film Capacitor, Mica Capacitor, Paper Capacitor, Super Capacitor, Motor Run Capacitor, Motor Start Capacitor, Voltage Rating : 6...",
     "specs": {
       "Product": "Capacitor",
@@ -1781,8 +1788,7 @@ export const ELECTRICAL_PRODUCTS = [
     "rawSpecs": "Run Capacitor,Fan Capacitor, Ceramic Capacitor, Electrolytic Capacitor, Tantalum Capacitor, Film Capacitor, Mica Capacitor, Paper Capacitor, Super Capacitor, Motor Run Capacitor, Motor Start Capacitor, Voltage Rating : 6.3 V, 10 V, 16 V, 25 V, 35 V, 50 V, 63 V, 100 V, 160 V, 250 V, 400 V, 450 V, 630 V, 1 KV, 2 KV, 5 KV",
     "subCategory": "Industrial Electrical Items",
     "gallery": [
-      "/images/products/electrical/capacitor.png",
-      "/images/products/electrical/capacitor-2.png",
+     
       "/images/products/electrical/capacitor-3.png"
     ]
   },
@@ -1796,16 +1802,16 @@ export const ELECTRICAL_PRODUCTS = [
     "priorityLabel": "2nd Priority",
     "color": "green",
     "image": "/images/products/electrical/contactor.png",
-    "description": "High-quality Contactor manufactured to industrial specifications. 24 V AC, 48 V AC, 110 V AC, 220–240 V AC, 380–415 V AC, Magnetic Contactor, DC Contactor, AC Contactor,",
+    "description": "High-quality Contactor manufactured to industrial specifications. 24 V AC, 48 V AC, 110 V AC, 220\u2013240 V AC, 380\u2013415 V AC, Magnetic Contactor, DC Contactor, AC Contactor,",
     "specs": {
       "Product": "Contactor",
       "Brand": "Ideal",
-      "Variants / Types": "24 V AC, 48 V AC, 110 V AC, 220–240 V AC, 380–415 V AC, Magnetic Contactor, DC Contactor, AC Contactor,",
+      "Variants / Types": "24 V AC, 48 V AC, 110 V AC, 220\u2013240 V AC, 380\u2013415 V AC, Magnetic Contactor, DC Contactor, AC Contactor,",
       "Standard": "IS / IEC Certified",
       "Application": "Power Distribution, Industrial & Commercial",
       "Sub-Category": "Industrial Control Items"
     },
-    "rawSpecs": "24 V AC, 48 V AC, 110 V AC, 220–240 V AC, 380–415 V AC, Magnetic Contactor, DC Contactor, AC Contactor,",
+    "rawSpecs": "24 V AC, 48 V AC, 110 V AC, 220\u2013240 V AC, 380\u2013415 V AC, Magnetic Contactor, DC Contactor, AC Contactor,",
     "subCategory": "Industrial Control Items",
     "gallery": [
       "/images/products/electrical/contactor.png",
@@ -1827,10 +1833,10 @@ export const ELECTRICAL_PRODUCTS = [
     "specs": {
       "Product": "Emergency Lamp",
       "Brand": "Siemens",
-      "Voltage": "220–240 V AC",
+      "Voltage": "220\u2013240 V AC",
       "Sub-Category": "Lighting"
     },
-    "rawSpecs": "Test Lamp, Pilot Lamp, Night Lamp, Lamp Shedes, Inspection Lamp, Indicator Lamp, Globe Lamp, Emergency Lamp, Emergency Exit Light, Twin-Spot Emergency Light, Wall-Mounted Emergency Light, Rechargeable LED Emergency Lamp, Portable Emergency Lantern, Supply Voltage : 220–240 V AC",
+    "rawSpecs": "Test Lamp, Pilot Lamp, Night Lamp, Lamp Shedes, Inspection Lamp, Indicator Lamp, Globe Lamp, Emergency Lamp, Emergency Exit Light, Twin-Spot Emergency Light, Wall-Mounted Emergency Light, Rechargeable LED Emergency Lamp, Portable Emergency Lantern, Supply Voltage : 220\u2013240 V AC",
     "subCategory": "Lighting",
     "gallery": [
       "/images/products/electrical/emergency-lamp.png",
@@ -1854,12 +1860,12 @@ export const ELECTRICAL_PRODUCTS = [
       "Product": "Fan Regulator",
       "Brand": "Schneider Electric",
       "Rating": "1 A, 2 A",
-      "Voltage": "220–240 V AC",
+      "Voltage": "220\u2013240 V AC",
       "Levels": "5-Step, 7-Step, Stepless",
       "Mounting": "Flush (Modular) / Surface Mount",
       "Sub-Category": "Fan & Accessories"
     },
-    "rawSpecs": "Smart Fan Regulators, Electronic Fan Regulator Rating : 230 V AC, 50 Hz, Step-Type Fan Regulator Rating : 5-Step / 7-Step, Capacitor Fan Regulator Rating : 230 V AC, Rotary Fan Regulator Rating : 230 V AC, Modular Fan Regulator Rating : 100–400 W, Smart Fan Regulator Rating : Wi-Fi / Zigbee compatible, Supply Voltage : 220–240 V AC, Current Rating : 1 A, 2 A, Speed Levels : 5-Step, 7-Step, Stepless, Mounting : Flush (Modular) / Surface Mount",
+    "rawSpecs": "Smart Fan Regulators, Electronic Fan Regulator Rating : 230 V AC, 50 Hz, Step-Type Fan Regulator Rating : 5-Step / 7-Step, Capacitor Fan Regulator Rating : 230 V AC, Rotary Fan Regulator Rating : 230 V AC, Modular Fan Regulator Rating : 100\u2013400 W, Smart Fan Regulator Rating : Wi-Fi / Zigbee compatible, Supply Voltage : 220\u2013240 V AC, Current Rating : 1 A, 2 A, Speed Levels : 5-Step, 7-Step, Stepless, Mounting : Flush (Modular) / Surface Mount",
     "subCategory": "Fan & Accessories",
     "gallery": [
       "/images/products/electrical/fan-regulator.png",
@@ -1909,13 +1915,13 @@ export const ELECTRICAL_PRODUCTS = [
       "Product": "Fire Detector",
       "Brand": "Legrand",
       "Voltage": "12 V DC, 24 V DC",
-      "Current": "20–100 µA (standby), 20–80 mA (alarm)",
-      "Area": "Up to 100 m² (depending on type and standards)",
-      "Temperature": "-10°C to +55°C",
+      "Current": "20\u2013100 \u00b5A (standby), 20\u201380 mA (alarm)",
+      "Area": "Up to 100 m\u00b2 (depending on type and standards)",
+      "Temperature": "-10\u00b0C to +55\u00b0C",
       "Mounting": "Ceiling Mount",
       "Sub-Category": "Door Bell & Security"
     },
-    "rawSpecs": "Voltage Detector, Heat Detector, Smoke Detector, Heat Detector, Gas Detector, Fire Detector, Smoke Detector (Photoelectric) Detects visible smoke, Smoke Detector (Ionization) Detects fast-flaming fires, Heat Detector (Fixed Temperature) Activates at a preset temperature (e.g., 57°C or 70°C), Heat Detector (Rate-of-Rise) Detects rapid temperature increase, Multi-Sensor Detector Smoke + Heat, Beam Smoke Detector Infrared beam, Flame Detector UV, IR, or UV/IR sensing, Addressable Detector Individual device address, Conventional Detector Zone-based detection, Supply Voltage : 12 V DC, 24 V DC, Operating Current : 20–100 µA (standby), 20–80 mA (alarm), Detection Area : Up to 100 m² (depending on type and standards), Operating Temperature : -10°C to +55°C, Mounting : Ceiling Mount",
+    "rawSpecs": "Voltage Detector, Heat Detector, Smoke Detector, Heat Detector, Gas Detector, Fire Detector, Smoke Detector (Photoelectric) Detects visible smoke, Smoke Detector (Ionization) Detects fast-flaming fires, Heat Detector (Fixed Temperature) Activates at a preset temperature (e.g., 57\u00b0C or 70\u00b0C), Heat Detector (Rate-of-Rise) Detects rapid temperature increase, Multi-Sensor Detector Smoke + Heat, Beam Smoke Detector Infrared beam, Flame Detector UV, IR, or UV/IR sensing, Addressable Detector Individual device address, Conventional Detector Zone-based detection, Supply Voltage : 12 V DC, 24 V DC, Operating Current : 20\u2013100 \u00b5A (standby), 20\u201380 mA (alarm), Detection Area : Up to 100 m\u00b2 (depending on type and standards), Operating Temperature : -10\u00b0C to +55\u00b0C, Mounting : Ceiling Mount",
     "subCategory": "Door Bell & Security"
   },
   {
@@ -1927,18 +1933,18 @@ export const ELECTRICAL_PRODUCTS = [
     "priority": 2,
     "priorityLabel": "2nd Priority",
     "color": "green",
-    "image": "/images/products/electrical/fuse-base.png",
-    "description": "High-quality Fuse Base manufactured to industrial specifications. Kit-Kat (Rewirable) Fuse Base, HRC Fuse Base, NH Fuse Base, Cylindrical Fuse Holder, DIN Rail Fuse Holder, Panel Mount Fuse Holder, Inline Fuse Holder, Current Rating: 6 A–630 A, Terminal Material: Copper/Brass, Tin-Plat...",
+    "image": "/images/products/electrical/fuse-base.jpeg",
+    "description": "High-quality Fuse Base manufactured to industrial specifications. Kit-Kat (Rewirable) Fuse Base, HRC Fuse Base, NH Fuse Base, Cylindrical Fuse Holder, DIN Rail Fuse Holder, Panel Mount Fuse Holder, Inline Fuse Holder, Current Rating: 6 A\u2013630 A, Terminal Material: Copper/Brass, Tin-Plat...",
     "specs": {
       "Product": "Fuse Base",
       "Brand": "Anchor by Panasonic",
       "Rating": "250 V AC / 415 V AC / 690 V AC",
       "Material": "Porcelain or Flame-Retardant Thermoplastic",
       "Mounting": "DIN Rail, Panel Mount, or Base Mount",
-      "Size": "5 × 20 mm, 6.3 × 32 mm, 10 × 38 mm, 14 × 51 mm, 22 × 58 mm, NH000, NH00, NH0, NH1, NH2, NH3, 15 A, 30 A, 60 A, 100 A",
+      "Size": "5 \u00d7 20 mm, 6.3 \u00d7 32 mm, 10 \u00d7 38 mm, 14 \u00d7 51 mm, 22 \u00d7 58 mm, NH000, NH00, NH0, NH1, NH2, NH3, 15 A, 30 A, 60 A, 100 A",
       "Sub-Category": "Switchgear & Protection"
     },
-    "rawSpecs": "Kit-Kat (Rewirable) Fuse Base, HRC Fuse Base, NH Fuse Base, Cylindrical Fuse Holder, DIN Rail Fuse Holder, Panel Mount Fuse Holder, Inline Fuse Holder, Current Rating: 6 A–630 A, Terminal Material: Copper/Brass, Tin-Plated, Material: Porcelain or Flame-Retardant Thermoplastic, Voltage Rating: 250 V AC / 415 V AC / 690 V AC, Mounting: DIN Rail, Panel Mount, or Base Mount, Fuse Size : 5 × 20 mm, 6.3 × 32 mm, 10 × 38 mm, 14 × 51 mm, 22 × 58 mm, NH000, NH00, NH0, NH1, NH2, NH3, 15 A, 30 A, 60 A, 100 A",
+    "rawSpecs": "Kit-Kat (Rewirable) Fuse Base, HRC Fuse Base, NH Fuse Base, Cylindrical Fuse Holder, DIN Rail Fuse Holder, Panel Mount Fuse Holder, Inline Fuse Holder, Current Rating: 6 A\u2013630 A, Terminal Material: Copper/Brass, Tin-Plated, Material: Porcelain or Flame-Retardant Thermoplastic, Voltage Rating: 250 V AC / 415 V AC / 690 V AC, Mounting: DIN Rail, Panel Mount, or Base Mount, Fuse Size : 5 \u00d7 20 mm, 6.3 \u00d7 32 mm, 10 \u00d7 38 mm, 14 \u00d7 51 mm, 22 \u00d7 58 mm, NH000, NH00, NH0, NH1, NH2, NH3, 15 A, 30 A, 60 A, 100 A",
     "subCategory": "Switchgear & Protection"
   },
   {
@@ -1950,18 +1956,21 @@ export const ELECTRICAL_PRODUCTS = [
     "priority": 2,
     "priorityLabel": "2nd Priority",
     "color": "green",
-    "image": "/images/products/electrical/fuse-carrier.png",
+    "image": "/images/products/electrical/fuse-carrier.jpeg",
     "description": "High-quality Fuse Carrier manufactured to industrial specifications. Type : HRC Fuse Carrier, NH Fuse Carrier, Kit-Kat Fuse Carrier, Glass Fuse Carrier, Cylindrical Fuse Carrier, DIN Rail Fuse Carrier, Current Rating : 16 A, 32 A, 63 A, 100 A, 160 A, 250 A, 400 A, 630 A, Voltage Rating : ...",
     "specs": {
       "Product": "Fuse Carrier",
       "Brand": "Crompton",
       "Type": "HRC Fuse Carrier, NH Fuse Carrier, Kit-Kat Fuse Carrier, Glass Fuse Carrier, Cylindrical Fuse Carrier, DIN Rail Fuse Carrier",
-      "Rating": "250/415 V AC, 500/690 V AC, 5 × 20 mm, 6.3 × 32 mm, 10 × 38 mm, 14 × 51 mm, 22 × 58 mm, NH000, NH00, NH0, NH1, NH2, NH3, 15 A, 30 A, 60 A, 100 A",
+      "Rating": "250/415 V AC, 500/690 V AC, 5 \u00d7 20 mm, 6.3 \u00d7 32 mm, 10 \u00d7 38 mm, 14 \u00d7 51 mm, 22 \u00d7 58 mm, NH000, NH00, NH0, NH1, NH2, NH3, 15 A, 30 A, 60 A, 100 A",
       "Material": "Porcelain (ceramic), Flame-retardant thermoplastic, Copper or brass contacts (tin-plated), Insulated operating handle",
       "Sub-Category": "Switchgear & Protection"
     },
-    "rawSpecs": "Type : HRC Fuse Carrier, NH Fuse Carrier, Kit-Kat Fuse Carrier, Glass Fuse Carrier, Cylindrical Fuse Carrier, DIN Rail Fuse Carrier, Current Rating : 16 A, 32 A, 63 A, 100 A, 160 A, 250 A, 400 A, 630 A, Voltage Rating : 250/415 V AC, 500/690 V AC, 5 × 20 mm, 6.3 × 32 mm, 10 × 38 mm, 14 × 51 mm, 22 × 58 mm, NH000, NH00, NH0, NH1, NH2, NH3, 15 A, 30 A, 60 A, 100 A, Material : Porcelain (ceramic), Flame-retardant thermoplastic, Copper or brass contacts (tin-plated), Insulated operating handle",
-    "subCategory": "Switchgear & Protection"
+    "rawSpecs": "Type : HRC Fuse Carrier, NH Fuse Carrier, Kit-Kat Fuse Carrier, Glass Fuse Carrier, Cylindrical Fuse Carrier, DIN Rail Fuse Carrier, Current Rating : 16 A, 32 A, 63 A, 100 A, 160 A, 250 A, 400 A, 630 A, Voltage Rating : 250/415 V AC, 500/690 V AC, 5 \u00d7 20 mm, 6.3 \u00d7 32 mm, 10 \u00d7 38 mm, 14 \u00d7 51 mm, 22 \u00d7 58 mm, NH000, NH00, NH0, NH1, NH2, NH3, 15 A, 30 A, 60 A, 100 A, Material : Porcelain (ceramic), Flame-retardant thermoplastic, Copper or brass contacts (tin-plated), Insulated operating handle",
+    "subCategory": "Switchgear & Protection",
+    "images": [
+      "/images/products/electrical/fuse-carrier.png"
+    ]
   },
   {
     "id": "el-082-holder",
@@ -2011,7 +2020,10 @@ export const ELECTRICAL_PRODUCTS = [
       "Sub-Category": "Meters & Indicators"
     },
     "rawSpecs": "Color : Red ( Fault, Stop, Trip, Emergency), Green ( Power ON, Running, Healthy), Yellow (Amber) Warning, Standby, Caution, Blue ( Special Function, Mandatory Action), White ( Power Available, General Status), Supply Voltage : 12 V DC, 24 V DC, 48 V DC, 110 V AC/DC, 230 V AC, Mounting Hole : 16 mm, 22 mm, 30 mm, Material : Polycarbonate lens, ABS housing, Chrome-plated metal bezel, Stainless steel bezel (premium models)",
-    "subCategory": "Meters & Indicators"
+    "subCategory": "Meters & Indicators",
+    "images": [
+      "/images/products/electrical/indicator.png"
+    ]
   },
   {
     "id": "el-088-isolator",
@@ -2028,11 +2040,11 @@ export const ELECTRICAL_PRODUCTS = [
       "Product": "Isolator",
       "Brand": "Schneider Electric",
       "Type": "DIN Rail Mount, Panel Mount, Door-Mounted Rotary Handle, Surface Mount, Enclosed Weatherproof Isolator",
-      "Rating": "16 A, 20 A, 32 A, 40 A, 63 A, 100 A, 125 A, 160 A, 250 A, 400 A, 630 A, 800–3200 A",
-      "Voltage": "230 V AC, 415 V AC, 690 V AC, 600–1500 V DC, Pole Configuration ; 1P, 2P, 3P, 3P+N (4P)",
+      "Rating": "16 A, 20 A, 32 A, 40 A, 63 A, 100 A, 125 A, 160 A, 250 A, 400 A, 630 A, 800\u20133200 A",
+      "Voltage": "230 V AC, 415 V AC, 690 V AC, 600\u20131500 V DC, Pole Configuration ; 1P, 2P, 3P, 3P+N (4P)",
       "Sub-Category": "Switchgear & Protection"
     },
-    "rawSpecs": "Type : Single-Pole Isolator, Double-Pole Isolator, Three-Pole Isolator, Four-Pole Isolator, Load Break Isolator (LBS), Off-Load Isolator, DC Isolator, Rotary Isolator, Current Rating : 16 A, 20 A, 32 A, 40 A, 63 A, 100 A, 125 A, 160 A, 250 A, 400 A, 630 A, 800–3200 A, Voltage : 230 V AC, 415 V AC, 690 V AC, 600–1500 V DC, Pole Configuration ; 1P, 2P, 3P, 3P+N (4P), Mounting Type : DIN Rail Mount, Panel Mount, Door-Mounted Rotary Handle, Surface Mount, Enclosed Weatherproof Isolator",
+    "rawSpecs": "Type : Single-Pole Isolator, Double-Pole Isolator, Three-Pole Isolator, Four-Pole Isolator, Load Break Isolator (LBS), Off-Load Isolator, DC Isolator, Rotary Isolator, Current Rating : 16 A, 20 A, 32 A, 40 A, 63 A, 100 A, 125 A, 160 A, 250 A, 400 A, 630 A, 800\u20133200 A, Voltage : 230 V AC, 415 V AC, 690 V AC, 600\u20131500 V DC, Pole Configuration ; 1P, 2P, 3P, 3P+N (4P), Mounting Type : DIN Rail Mount, Panel Mount, Door-Mounted Rotary Handle, Surface Mount, Enclosed Weatherproof Isolator",
     "subCategory": "Switchgear & Protection"
   },
   {
@@ -2070,7 +2082,7 @@ export const ELECTRICAL_PRODUCTS = [
     "priority": 2,
     "priorityLabel": "2nd Priority",
     "color": "green",
-    "image": "/images/products/electrical/strip.png",
+    "image": "/images/products/electrical/Strip.jpeg",
     "description": "High-quality Strip manufactured to industrial specifications. Power Strip, Earthing Strip, Connector Strip, Standard Power Strip, Heavy-Duty Power Strip, Surge-Protected Power Strip, USB Power Strip, Universal Socket Power Strip, Individually Switched Power Strip, Rack-Mount PDU (P...",
     "specs": {
       "Product": "Strip",
@@ -2078,11 +2090,14 @@ export const ELECTRICAL_PRODUCTS = [
       "Rating": "110 V AC, 120 V AC, 220 V AC, 230 V AC, 240 V AC, 250 V AC",
       "Lengths": "1 m, 1.5 m, 2 m, 3 m, 5 m, 10 m, 2-Pin, 3-Pin",
       "Types": "Universal Plug, IEC C13/C14 (IT equipment), IEC C19/C20 (High-power equipment)",
-      "Sizes": "2.5 mm², 1.5 mm², 1.0 mm², 0.75 mm²",
+      "Sizes": "2.5 mm\u00b2, 1.5 mm\u00b2, 1.0 mm\u00b2, 0.75 mm\u00b2",
       "Sub-Category": "Electrical Hardware"
     },
-    "rawSpecs": "Power Strip, Earthing Strip, Connector Strip, Standard Power Strip, Heavy-Duty Power Strip, Surge-Protected Power Strip, USB Power Strip, Universal Socket Power Strip, Individually Switched Power Strip, Rack-Mount PDU (Power Distribution Unit), Outdoor Weatherproof Power Strip, Smart Wi-Fi Power Strip, Current Rating : 6 A–10 A, 16 A–32 A, 16 A–63 A, 10 A–16 A, 2 Socket, 3 Socket, 4 Socket, 5 Socket, 6 Socket, 8 Socket, 10 Socket, 12 Socket, Voltage Rating : 110 V AC, 120 V AC, 220 V AC, 230 V AC, 240 V AC, 250 V AC, Cable Lengths : 1 m, 1.5 m, 2 m, 3 m, 5 m, 10 m, 2-Pin, 3-Pin, Plug Types : Universal Plug, IEC C13/C14 (IT equipment), IEC C19/C20 (High-power equipment), Cable Sizes : 2.5 mm², 1.5 mm², 1.0 mm², 0.75 mm²",
+    "rawSpecs": "Power Strip, Earthing Strip, Connector Strip, Standard Power Strip, Heavy-Duty Power Strip, Surge-Protected Power Strip, USB Power Strip, Universal Socket Power Strip, Individually Switched Power Strip, Rack-Mount PDU (Power Distribution Unit), Outdoor Weatherproof Power Strip, Smart Wi-Fi Power Strip, Current Rating : 6 A\u201310 A, 16 A\u201332 A, 16 A\u201363 A, 10 A\u201316 A, 2 Socket, 3 Socket, 4 Socket, 5 Socket, 6 Socket, 8 Socket, 10 Socket, 12 Socket, Voltage Rating : 110 V AC, 120 V AC, 220 V AC, 230 V AC, 240 V AC, 250 V AC, Cable Lengths : 1 m, 1.5 m, 2 m, 3 m, 5 m, 10 m, 2-Pin, 3-Pin, Plug Types : Universal Plug, IEC C13/C14 (IT equipment), IEC C19/C20 (High-power equipment), Cable Sizes : 2.5 mm\u00b2, 1.5 mm\u00b2, 1.0 mm\u00b2, 0.75 mm\u00b2",
     "subCategory": "Electrical Hardware",
+    "images": [
+      "/images/products/electrical/strip.png"
+    ],
     "gallery": [
       "/images/products/electrical/strip.png"
     ]
@@ -2102,10 +2117,10 @@ export const ELECTRICAL_PRODUCTS = [
       "Product": "Water Level Controller",
       "Brand": "Anchor by Panasonic",
       "Controller": "Float Switch Controller, Electrode Sensor Controller, Ultrasonic Water Level Controller, Capacitive Water Level Controller, Digital Water Level Controller, Wireless Water Level Controller",
-      "Rating": "5 A, 10 A, 16 A, 20–30 A",
+      "Rating": "5 A, 10 A, 16 A, 20\u201330 A",
       "Sub-Category": "Water Pump Accessories"
     },
-    "rawSpecs": "Types of Water Level Controller : Float Switch Controller, Electrode Sensor Controller, Ultrasonic Water Level Controller, Capacitive Water Level Controller, Digital Water Level Controller, Wireless Water Level Controller, Voltage Rating : 12 V DC, 24 V DC, 110 V AC, 220–240 V AC, Current Rating : 5 A, 10 A, 16 A, 20–30 A,",
+    "rawSpecs": "Types of Water Level Controller : Float Switch Controller, Electrode Sensor Controller, Ultrasonic Water Level Controller, Capacitive Water Level Controller, Digital Water Level Controller, Wireless Water Level Controller, Voltage Rating : 12 V DC, 24 V DC, 110 V AC, 220\u2013240 V AC, Current Rating : 5 A, 10 A, 16 A, 20\u201330 A,",
     "subCategory": "Water Pump Accessories"
   },
   {
@@ -2198,7 +2213,7 @@ export const ELECTRICAL_PRODUCTS = [
     "priority": 3,
     "priorityLabel": "Last Priority",
     "color": "white",
-    "image": "/images/products/electrical/buzzer.png",
+    "image": "/images/products/electrical/buzzer-2.png",
     "description": "High-quality Buzzer manufactured to industrial specifications. Piezoelectric Buzzer, Electromagnetic Buzzer, Electronic Buzzer, Mechanical Buzzer, DC Buzzer, AC Buzzer",
     "specs": {
       "Product": "Buzzer",
@@ -2227,14 +2242,14 @@ export const ELECTRICAL_PRODUCTS = [
     "priorityLabel": "Last Priority",
     "color": "white",
     "image": "/images/products/electrical/cable-cleat.png",
-    "description": "High-quality Cable Cleat manufactured to industrial specifications. Nylon (Polyamide) Cable Cleat, Aluminium Cable Cleat, Stainless Steel Cable Cleat, Polymeric Cable Cleat, Single Cable Cleat, Twin Cable Cleat, Trefoil Cable Cleat, Quad Cable Cleat, Cable Cleat Size : 10–15 mm, 16–25 mm...",
+    "description": "High-quality Cable Cleat manufactured to industrial specifications. Nylon (Polyamide) Cable Cleat, Aluminium Cable Cleat, Stainless Steel Cable Cleat, Polymeric Cable Cleat, Single Cable Cleat, Twin Cable Cleat, Trefoil Cable Cleat, Quad Cable Cleat, Cable Cleat Size : 10\u201315 mm, 16\u201325 mm...",
     "specs": {
       "Product": "Cable Cleat",
       "Brand": "Schneider Electric",
       "Sub-Category": "Cable Management",
-      "Size": "10–15 mm, 16–25 mm, 26–35 mm, 36–50 mm, 51–75 mm, 76–100 mm"
+      "Size": "10\u201315 mm, 16\u201325 mm, 26\u201335 mm, 36\u201350 mm, 51\u201375 mm, 76\u2013100 mm"
     },
-    "rawSpecs": "Nylon (Polyamide) Cable Cleat, Aluminium Cable Cleat, Stainless Steel Cable Cleat, Polymeric Cable Cleat, Single Cable Cleat, Twin Cable Cleat, Trefoil Cable Cleat, Quad Cable Cleat, Cable Cleat Size : 10–15 mm, 16–25 mm, 26–35 mm, 36–50 mm, 51–75 mm, 76–100 mm",
+    "rawSpecs": "Nylon (Polyamide) Cable Cleat, Aluminium Cable Cleat, Stainless Steel Cable Cleat, Polymeric Cable Cleat, Single Cable Cleat, Twin Cable Cleat, Trefoil Cable Cleat, Quad Cable Cleat, Cable Cleat Size : 10\u201315 mm, 16\u201325 mm, 26\u201335 mm, 36\u201350 mm, 51\u201375 mm, 76\u2013100 mm",
     "subCategory": "Cable Management",
     "gallery": [
       "/images/products/electrical/cable-cleat.png",
@@ -2285,7 +2300,7 @@ export const ELECTRICAL_PRODUCTS = [
       "Sub-Category": "Industrial Electrical Items",
       "Rating": "10 V, 16 V, 25 V, 35 V, 50 V, 63 V, 100 V"
     },
-    "rawSpecs": "Fixed Capacitor Bank, Automatic Power Factor Correction (APFC) Capacitor Bank, Detuned Capacitor Bank, Tuned Harmonic Filter Bank, Shunt Capacitor Bank, Pole-Mounted Capacitor Bank, Indoor Capacitor Bank, Outdoor Capacitor Bank, pF (Picofarad), nF (Nanofarad), µF (Microfarad), Voltage Rating : 10 V, 16 V, 25 V, 35 V, 50 V, 63 V, 100 V",
+    "rawSpecs": "Fixed Capacitor Bank, Automatic Power Factor Correction (APFC) Capacitor Bank, Detuned Capacitor Bank, Tuned Harmonic Filter Bank, Shunt Capacitor Bank, Pole-Mounted Capacitor Bank, Indoor Capacitor Bank, Outdoor Capacitor Bank, pF (Picofarad), nF (Nanofarad), \u00b5F (Microfarad), Voltage Rating : 10 V, 16 V, 25 V, 35 V, 50 V, 63 V, 100 V",
     "subCategory": "Industrial Electrical Items",
     "gallery": [
       "/images/products/electrical/capacitor-bank.png",
@@ -2307,9 +2322,9 @@ export const ELECTRICAL_PRODUCTS = [
       "Product": "Ceiling Roses",
       "Brand": "GM Modular",
       "Sub-Category": "Decorative Fittings",
-      "Material": "PVC, Bakelite, Ceramic, Steel, Aluminum, Metal, Small, Medium, Large, Extra Large, 65–75 mm, 80–90 mm, 100–120 mm, 125–150 mm, 4 Terminal, 5–6 Terminal, 3 Terminal, 2 Terminal, 230–250 V AC, 6 A–16 A, White, Ivory, Black, Brown, Grey"
+      "Material": "PVC, Bakelite, Ceramic, Steel, Aluminum, Metal, Small, Medium, Large, Extra Large, 65\u201375 mm, 80\u201390 mm, 100\u2013120 mm, 125\u2013150 mm, 4 Terminal, 5\u20136 Terminal, 3 Terminal, 2 Terminal, 230\u2013250 V AC, 6 A\u201316 A, White, Ivory, Black, Brown, Grey"
     },
-    "rawSpecs": "PVC Ceiling Rose, Bakelite Ceiling Rose, Porcelain/Ceramic Ceiling Rose, Metal Ceiling Rose, Hook Ceiling Rose, 2-Plate Ceiling Rose, 3-Plate Ceiling Rose, Heavy-Duty Ceiling Rose, Material : PVC, Bakelite, Ceramic, Steel, Aluminum, Metal, Small, Medium, Large, Extra Large, 65–75 mm, 80–90 mm, 100–120 mm, 125–150 mm, 4 Terminal, 5–6 Terminal, 3 Terminal, 2 Terminal, 230–250 V AC, 6 A–16 A, White, Ivory, Black, Brown, Grey",
+    "rawSpecs": "PVC Ceiling Rose, Bakelite Ceiling Rose, Porcelain/Ceramic Ceiling Rose, Metal Ceiling Rose, Hook Ceiling Rose, 2-Plate Ceiling Rose, 3-Plate Ceiling Rose, Heavy-Duty Ceiling Rose, Material : PVC, Bakelite, Ceramic, Steel, Aluminum, Metal, Small, Medium, Large, Extra Large, 65\u201375 mm, 80\u201390 mm, 100\u2013120 mm, 125\u2013150 mm, 4 Terminal, 5\u20136 Terminal, 3 Terminal, 2 Terminal, 230\u2013250 V AC, 6 A\u201316 A, White, Ivory, Black, Brown, Grey",
     "subCategory": "Decorative Fittings",
     "gallery": [
       "/images/products/electrical/ceiling-roses.png",
@@ -2406,18 +2421,21 @@ export const ELECTRICAL_PRODUCTS = [
     "priority": 3,
     "priorityLabel": "Last Priority",
     "color": "white",
-    "image": "/images/products/electrical/elastimold.png",
+    "image": "/images/products/electrical/elastimold.jpeg",
     "description": "High-quality Elastimold manufactured to industrial specifications. Elastimold Product : Loadbreak Elbow Connector, Deadbreak Connector, Separable Connector, Cable Termination Kit, Cable Joint/Splice Kit, Insulating Cap, Bushing Insert, Parking Stand, Voltage : 15 kV, 25 kV, 35 kV, Mediu...",
     "specs": {
       "Product": "Loadbreak Elbow Connector, Deadbreak Connector, Separable Connector, Cable Termination Kit, Cable Joint/Splice Kit, Insulating Cap, Bushing Insert, Parking Stand",
       "Brand": "Philips",
       "Voltage": "15 kV, 25 kV, 35 kV, Medium Voltage",
       "Rating": "200 A, 600 A",
-      "Size": "25 mm², 35 mm², 50 mm², 70 mm², 95 mm², 120 mm², 150 mm², 185 mm², 240 mm², 300 mm², 400 mm², 500 mm²",
+      "Size": "25 mm\u00b2, 35 mm\u00b2, 50 mm\u00b2, 70 mm\u00b2, 95 mm\u00b2, 120 mm\u00b2, 150 mm\u00b2, 185 mm\u00b2, 240 mm\u00b2, 300 mm\u00b2, 400 mm\u00b2, 500 mm\u00b2",
       "Sub-Category": "Industrial Electrical Items"
     },
-    "rawSpecs": "Elastimold Product : Loadbreak Elbow Connector, Deadbreak Connector, Separable Connector, Cable Termination Kit, Cable Joint/Splice Kit, Insulating Cap, Bushing Insert, Parking Stand, Voltage : 15 kV, 25 kV, 35 kV, Medium Voltage, Current Rating : 200 A, 600 A, Cable Size : 25 mm², 35 mm², 50 mm², 70 mm², 95 mm², 120 mm², 150 mm², 185 mm², 240 mm², 300 mm², 400 mm², 500 mm²",
-    "subCategory": "Industrial Electrical Items"
+    "rawSpecs": "Elastimold Product : Loadbreak Elbow Connector, Deadbreak Connector, Separable Connector, Cable Termination Kit, Cable Joint/Splice Kit, Insulating Cap, Bushing Insert, Parking Stand, Voltage : 15 kV, 25 kV, 35 kV, Medium Voltage, Current Rating : 200 A, 600 A, Cable Size : 25 mm\u00b2, 35 mm\u00b2, 50 mm\u00b2, 70 mm\u00b2, 95 mm\u00b2, 120 mm\u00b2, 150 mm\u00b2, 185 mm\u00b2, 240 mm\u00b2, 300 mm\u00b2, 400 mm\u00b2, 500 mm\u00b2",
+    "subCategory": "Industrial Electrical Items",
+    "images": [
+      "/images/products/electrical/elastimold.png"
+    ]
   },
   {
     "id": "el-052-electric-iron",
@@ -2429,16 +2447,16 @@ export const ELECTRICAL_PRODUCTS = [
     "priorityLabel": "Last Priority",
     "color": "white",
     "image": "/images/products/electrical/electric-iron.png",
-    "description": "High-quality Electric Iron manufactured to industrial specifications. Dry Iron, Steam Iron, Travel Iron, Cordless Iron, 750–1200 W, 1200–3000 W, 700–1000 W, 1200–2400 W",
+    "description": "High-quality Electric Iron manufactured to industrial specifications. Dry Iron, Steam Iron, Travel Iron, Cordless Iron, 750\u20131200 W, 1200\u20133000 W, 700\u20131000 W, 1200\u20132400 W",
     "specs": {
       "Product": "Electric Iron",
       "Brand": "Anchor by Panasonic",
-      "Variants / Types": "Dry Iron, Steam Iron, Travel Iron, Cordless Iron, 750–1200 W, 1200–3000 W, 700–1000 W, 1200–2400 W",
+      "Variants / Types": "Dry Iron, Steam Iron, Travel Iron, Cordless Iron, 750\u20131200 W, 1200\u20133000 W, 700\u20131000 W, 1200\u20132400 W",
       "Standard": "IS / IEC Certified",
       "Application": "Power Distribution, Industrial & Commercial",
       "Sub-Category": "Electrical Hardware"
     },
-    "rawSpecs": "Dry Iron, Steam Iron, Travel Iron, Cordless Iron, 750–1200 W, 1200–3000 W, 700–1000 W, 1200–2400 W",
+    "rawSpecs": "Dry Iron, Steam Iron, Travel Iron, Cordless Iron, 750\u20131200 W, 1200\u20133000 W, 700\u20131000 W, 1200\u20132400 W",
     "subCategory": "Electrical Hardware",
     "gallery": [
       "/images/products/electrical/electric-iron.png",
@@ -2455,16 +2473,16 @@ export const ELECTRICAL_PRODUCTS = [
     "priorityLabel": "Last Priority",
     "color": "white",
     "image": "/images/products/electrical/electric-kettle.png",
-    "description": "High-quality Electric Kettle manufactured to industrial specifications. Plastic Electric Kettle, Stainless Steel Electric Kettle, Glass Electric Kettle, Travel Electric Kettle, Variable Temperature Kettle, Commercial Electric Kettle, 1–2 L, 0.5–1 L, 1–1.7 L, 3–10 L, 1200–1800 W, 1500–2200 W,...",
+    "description": "High-quality Electric Kettle manufactured to industrial specifications. Plastic Electric Kettle, Stainless Steel Electric Kettle, Glass Electric Kettle, Travel Electric Kettle, Variable Temperature Kettle, Commercial Electric Kettle, 1\u20132 L, 0.5\u20131 L, 1\u20131.7 L, 3\u201310 L, 1200\u20131800 W, 1500\u20132200 W,...",
     "specs": {
       "Product": "Electric Kettle",
       "Brand": "Crompton",
-      "Variants / Types": "Plastic Electric Kettle, Stainless Steel Electric Kettle, Glass Electric Kettle, Travel Electric Kettle, Variable Temperature Kettle, Commercial Electric Kettle, 1–2 L, 0.5–1 L, 1–1.7 L, 3–10 L, 1200–1800 W, 1500–2200 W, 1500–2200 W, 600–1000 W, 1500–2200 W, 2000–3000 W",
+      "Variants / Types": "Plastic Electric Kettle, Stainless Steel Electric Kettle, Glass Electric Kettle, Travel Electric Kettle, Variable Temperature Kettle, Commercial Electric Kettle, 1\u20132 L, 0.5\u20131 L, 1\u20131.7 L, 3\u201310 L, 1200\u20131800 W, 1500\u20132200 W, 1500\u20132200 W, 600\u20131000 W, 1500\u20132200 W, 2000\u20133000 W",
       "Standard": "IS / IEC Certified",
       "Application": "Power Distribution, Industrial & Commercial",
       "Sub-Category": "Electrical Hardware"
     },
-    "rawSpecs": "Plastic Electric Kettle, Stainless Steel Electric Kettle, Glass Electric Kettle, Travel Electric Kettle, Variable Temperature Kettle, Commercial Electric Kettle, 1–2 L, 0.5–1 L, 1–1.7 L, 3–10 L, 1200–1800 W, 1500–2200 W, 1500–2200 W, 600–1000 W, 1500–2200 W, 2000–3000 W",
+    "rawSpecs": "Plastic Electric Kettle, Stainless Steel Electric Kettle, Glass Electric Kettle, Travel Electric Kettle, Variable Temperature Kettle, Commercial Electric Kettle, 1\u20132 L, 0.5\u20131 L, 1\u20131.7 L, 3\u201310 L, 1200\u20131800 W, 1500\u20132200 W, 1500\u20132200 W, 600\u20131000 W, 1500\u20132200 W, 2000\u20133000 W",
     "subCategory": "Electrical Hardware",
     "gallery": [
       "/images/products/electrical/electric-kettle.png",
@@ -2534,8 +2552,8 @@ export const ELECTRICAL_PRODUCTS = [
     "priority": 3,
     "priorityLabel": "Last Priority",
     "color": "white",
-    "image": "/images/products/electrical/fan-box.png",
-    "description": "High-quality Fan Box manufactured to industrial specifications. Round Fan Box Size : 75 mm (3\"), 100 mm (4\"), Octagonal Fan Box Size : 100 mm (4\"), Heavy-Duty Fan Box Size : 100–120 mm, Concealed Fan Box size: 100 mm (4\"), Surface-Mount Fan Box Size : 100 mm (4\"), GI / Steel / PVC, K...",
+    "image": "/images/products/electrical/fan-box.webp",
+    "description": "High-quality Fan Box manufactured to industrial specifications. Round Fan Box Size : 75 mm (3\"), 100 mm (4\"), Octagonal Fan Box Size : 100 mm (4\"), Heavy-Duty Fan Box Size : 100\u2013120 mm, Concealed Fan Box size: 100 mm (4\"), Surface-Mount Fan Box Size : 100 mm (4\"), GI / Steel / PVC, K...",
     "specs": {
       "Product": "Fan Box",
       "Brand": "Philips",
@@ -2547,11 +2565,11 @@ export const ELECTRICAL_PRODUCTS = [
       "Finish": "Zinc-plated or powder-coated (metal boxes)",
       "Sub-Category": "Fan & Accessories"
     },
-    "rawSpecs": "Round Fan Box Size : 75 mm (3\"), 100 mm (4\"), Octagonal Fan Box Size : 100 mm (4\"), Heavy-Duty Fan Box Size : 100–120 mm, Concealed Fan Box size: 100 mm (4\"), Surface-Mount Fan Box Size : 100 mm (4\"), GI / Steel / PVC, Knockouts : 20 mm, 25 mm conduit entries, Box Depth : 35 mm, 50 mm, 60 mm, Mounting Type : Flush or Surface Mount, Finish : Zinc-plated or powder-coated (metal boxes)",
+    "rawSpecs": "Round Fan Box Size : 75 mm (3\"), 100 mm (4\"), Octagonal Fan Box Size : 100 mm (4\"), Heavy-Duty Fan Box Size : 100\u2013120 mm, Concealed Fan Box size: 100 mm (4\"), Surface-Mount Fan Box Size : 100 mm (4\"), GI / Steel / PVC, Knockouts : 20 mm, 25 mm conduit entries, Box Depth : 35 mm, 50 mm, 60 mm, Mounting Type : Flush or Surface Mount, Finish : Zinc-plated or powder-coated (metal boxes)",
     "subCategory": "Fan & Accessories",
     "gallery": [
-      "/images/products/electrical/fan-box.png",
-      "/images/products/electrical/fan-box-2.png"
+      "/images/products/electrical/fan-box.webp",
+       
     ]
   },
   {
@@ -2563,24 +2581,24 @@ export const ELECTRICAL_PRODUCTS = [
     "priority": 3,
     "priorityLabel": "Last Priority",
     "color": "white",
-    "image": "/images/products/electrical/fan-conopies.png",
-    "description": "High-quality Fan Conopies manufactured to industrial specifications. Top Canopy Size : 100–130 mm diameter, Bottom Canopy Size : 100–130 mm diameter, Decorative Canopy Size : 110–150 mm diameter, Universal Fan Canopy Size : Fits 19 mm & 25 mm downrods, Diameter : 100 mm, 110 mm, 120 mm, 1...",
+    "image": "/images/products/electrical/fan-conopies.jpeg",
+    "description": "High-quality Fan Conopies manufactured to industrial specifications. Top Canopy Size : 100\u2013130 mm diameter, Bottom Canopy Size : 100\u2013130 mm diameter, Decorative Canopy Size : 110\u2013150 mm diameter, Universal Fan Canopy Size : Fits 19 mm & 25 mm downrods, Diameter : 100 mm, 110 mm, 120 mm, 1...",
     "specs": {
       "Product": "Fan Conopies",
       "Brand": "Anchor by Panasonic",
       "Size": "Fits 19 mm & 25 mm downrods",
       "Diameter": "100 mm, 110 mm, 120 mm, 130 mm, 150 mm",
-      "Height": "45–80 mm",
+      "Height": "45\u201380 mm",
       "Compatibility": "19 mm, 22 mm, 25 mm diameter",
       "Material": "Mild Steel, Aluminum, ABS Plastic",
       "Finish": "Powder-coated, Painted, Chrome, Matt, White, Ivory, Brown, Black, Silver, Chrome.",
       "Sub-Category": "Fan & Accessories"
     },
-    "rawSpecs": "Top Canopy Size : 100–130 mm diameter, Bottom Canopy Size : 100–130 mm diameter, Decorative Canopy Size : 110–150 mm diameter, Universal Fan Canopy Size : Fits 19 mm & 25 mm downrods, Diameter : 100 mm, 110 mm, 120 mm, 130 mm, 150 mm, Height : 45–80 mm, Downrod Compatibility : 19 mm, 22 mm, 25 mm diameter, Material : Mild Steel, Aluminum, ABS Plastic, Finish : Powder-coated, Painted, Chrome, Matt, White, Ivory, Brown, Black, Silver, Chrome.",
+    "rawSpecs": "Top Canopy Size : 100\u2013130 mm diameter, Bottom Canopy Size : 100\u2013130 mm diameter, Decorative Canopy Size : 110\u2013150 mm diameter, Universal Fan Canopy Size : Fits 19 mm & 25 mm downrods, Diameter : 100 mm, 110 mm, 120 mm, 130 mm, 150 mm, Height : 45\u201380 mm, Downrod Compatibility : 19 mm, 22 mm, 25 mm diameter, Material : Mild Steel, Aluminum, ABS Plastic, Finish : Powder-coated, Painted, Chrome, Matt, White, Ivory, Brown, Black, Silver, Chrome.",
     "subCategory": "Fan & Accessories",
     "gallery": [
-      "/images/products/electrical/fan-conopies.png",
-      "/images/products/electrical/fan-conopies-2.png"
+      "/images/products/electrical/fan-conopies.jpeg",
+       
     ]
   },
   {
@@ -2592,25 +2610,25 @@ export const ELECTRICAL_PRODUCTS = [
     "priority": 3,
     "priorityLabel": "Last Priority",
     "color": "white",
-    "image": "/images/products/electrical/fan-down-rods.png",
-    "description": "High-quality Fan Down Rods manufactured to industrial specifications. Standard Downrod Length x Dia : 6 in (150 mm) x 19 mm or 25 mm, Short Downrod Length x Dia : 9–12 in (225–300 mm) x 19 mm or 25 mm, Medium Downrod Length x Dia : 18–24 in (450–600 mm) x 19 mm or 25 mm, Long Downrod Lengt...",
+    "image": "/images/products/electrical/fan-down-rods.jpeg",
+    "description": "High-quality Fan Down Rods manufactured to industrial specifications. Standard Downrod Length x Dia : 6 in (150 mm) x 19 mm or 25 mm, Short Downrod Length x Dia : 9\u201312 in (225\u2013300 mm) x 19 mm or 25 mm, Medium Downrod Length x Dia : 18\u201324 in (450\u2013600 mm) x 19 mm or 25 mm, Long Downrod Lengt...",
     "specs": {
       "Product": "Fan Down Rods",
       "Brand": "Crompton",
       "Dia": "Up to 120 in (3000 mm) x 19 mm or 25 mm",
       "Material": "Mild Steel (MS), Galvanized Steel",
       "Finish": "Powder-coated, Painted, Chrome",
-      "Diameter": "19 mm (¾\"), 25 mm (1\")",
-      "Thickness": "1.0–2.0 mm",
+      "Diameter": "19 mm (\u00be\"), 25 mm (1\")",
+      "Thickness": "1.0\u20132.0 mm",
       "Type": "Threaded at both ends (manufacturer-specific)",
       "Color": "White, Black, Brown, Silver, Ivory",
       "Sub-Category": "Fan & Accessories"
     },
-    "rawSpecs": "Standard Downrod Length x Dia : 6 in (150 mm) x 19 mm or 25 mm, Short Downrod Length x Dia : 9–12 in (225–300 mm) x 19 mm or 25 mm, Medium Downrod Length x Dia : 18–24 in (450–600 mm) x 19 mm or 25 mm, Long Downrod Length x Dia : 36–72 in (900–1800 mm) x 19 mm or 25 mm, Custom Downrod Length x Dia : Up to 120 in (3000 mm) x 19 mm or 25 mm, Material : Mild Steel (MS), Galvanized Steel, Finish : Powder-coated, Painted, Chrome, Diameter : 19 mm (¾\"), 25 mm (1\"), Wall Thickness : 1.0–2.0 mm, Thread Type : Threaded at both ends (manufacturer-specific), Color : White, Black, Brown, Silver, Ivory",
+    "rawSpecs": "Standard Downrod Length x Dia : 6 in (150 mm) x 19 mm or 25 mm, Short Downrod Length x Dia : 9\u201312 in (225\u2013300 mm) x 19 mm or 25 mm, Medium Downrod Length x Dia : 18\u201324 in (450\u2013600 mm) x 19 mm or 25 mm, Long Downrod Length x Dia : 36\u201372 in (900\u20131800 mm) x 19 mm or 25 mm, Custom Downrod Length x Dia : Up to 120 in (3000 mm) x 19 mm or 25 mm, Material : Mild Steel (MS), Galvanized Steel, Finish : Powder-coated, Painted, Chrome, Diameter : 19 mm (\u00be\"), 25 mm (1\"), Wall Thickness : 1.0\u20132.0 mm, Thread Type : Threaded at both ends (manufacturer-specific), Color : White, Black, Brown, Silver, Ivory",
     "subCategory": "Fan & Accessories",
     "gallery": [
-      "/images/products/electrical/fan-down-rods.png",
-      "/images/products/electrical/fan-down-rods-2.png"
+      "/images/products/electrical/fan-down-rods.jpeg",
+     
     ]
   },
   {
@@ -2622,8 +2640,8 @@ export const ELECTRICAL_PRODUCTS = [
     "priority": 3,
     "priorityLabel": "Last Priority",
     "color": "white",
-    "image": "/images/products/electrical/fan-hook.png",
-    "description": "High-quality Fan Hook manufactured to industrial specifications. J-Type Fan Hook Size : 8 mm, 10 mm, 12 mm diameter, U-Type Fan Hook Size : 8 mm, 10 mm, Anchor Fan Hook Size : M8, M10, M12, Threaded Fan Hook Size : M8, M10, M12 , Fan Hook with Clamp Plate Size : 8–12 mm, Material : Mi...",
+    "image": "/images/products/electrical/fan-hook.jpeg",
+    "description": "High-quality Fan Hook manufactured to industrial specifications. J-Type Fan Hook Size : 8 mm, 10 mm, 12 mm diameter, U-Type Fan Hook Size : 8 mm, 10 mm, Anchor Fan Hook Size : M8, M10, M12, Threaded Fan Hook Size : M8, M10, M12 , Fan Hook with Clamp Plate Size : 8\u201312 mm, Material : Mi...",
     "specs": {
       "Product": "Fan Hook",
       "Brand": "Finolex",
@@ -2634,8 +2652,11 @@ export const ELECTRICAL_PRODUCTS = [
       "Finish": "Zinc-plated, Galvanized, Powder-coated",
       "Sub-Category": "Fan & Accessories"
     },
-    "rawSpecs": "J-Type Fan Hook Size : 8 mm, 10 mm, 12 mm diameter, U-Type Fan Hook Size : 8 mm, 10 mm, Anchor Fan Hook Size : M8, M10, M12, Threaded Fan Hook Size : M8, M10, M12 , Fan Hook with Clamp Plate Size : 8–12 mm, Material : Mild Steel (MS), Galvanized Iron (GI), Stainless Steel, Rod Diameter : 8 mm, 10 mm, 12 mm, Hook Length : 75 mm, 100 mm, 150 mm, 200 mm, Thread Size : M8, M10, M12, Finish : Zinc-plated, Galvanized, Powder-coated",
-    "subCategory": "Fan & Accessories"
+    "rawSpecs": "J-Type Fan Hook Size : 8 mm, 10 mm, 12 mm diameter, U-Type Fan Hook Size : 8 mm, 10 mm, Anchor Fan Hook Size : M8, M10, M12, Threaded Fan Hook Size : M8, M10, M12 , Fan Hook with Clamp Plate Size : 8\u201312 mm, Material : Mild Steel (MS), Galvanized Iron (GI), Stainless Steel, Rod Diameter : 8 mm, 10 mm, 12 mm, Hook Length : 75 mm, 100 mm, 150 mm, 200 mm, Thread Size : M8, M10, M12, Finish : Zinc-plated, Galvanized, Powder-coated",
+    "subCategory": "Fan & Accessories",
+    "images": [
+      "/images/products/electrical/fan-hook.png"
+    ]
   },
   {
     "id": "el-068-filter-fan",
@@ -2647,51 +2668,28 @@ export const ELECTRICAL_PRODUCTS = [
     "priorityLabel": "Last Priority",
     "color": "white",
     "image": "/images/products/electrical/filter-fan.png",
-    "description": "High-quality Filter Fan manufactured to industrial specifications. High-Capacity Filter Fan Air Flow x Mounting Cut-out : 700–1000+ m³/h x 291 × 291 mm, Large Filter Fan Air Flow x Mounting Cut-out : 300–700 m³/h x 223 × 223 mm, Medium Filter Fan Air Flow x Mounting Cut-out 100–300 m³/h...",
+    "description": "High-quality Filter Fan manufactured to industrial specifications. High-Capacity Filter Fan Air Flow x Mounting Cut-out : 700\u20131000+ m\u00b3/h x 291 \u00d7 291 mm, Large Filter Fan Air Flow x Mounting Cut-out : 300\u2013700 m\u00b3/h x 223 \u00d7 223 mm, Medium Filter Fan Air Flow x Mounting Cut-out 100\u2013300 m\u00b3/h...",
     "specs": {
       "Product": "Filter Fan",
       "Brand": "Siemens",
-      "Cut-out": "20–50 m³/h x 92 × 92 mm",
+      "Cut-out": "20\u201350 m\u00b3/h x 92 \u00d7 92 mm",
       "Material": "Synthetic fiber / Non-woven filter",
       "Voltage": "24 V DC, 110 V AC, 230 V AC",
-      "Flow": "250 mm x 700–1000+ m³/h",
-      "Consumption": "5–80 W",
+      "Flow": "250 mm x 700\u20131000+ m\u00b3/h",
+      "Consumption": "5\u201380 W",
       "Mounting": "Panel Mount",
       "Sub-Category": "Fan & Accessories"
     },
-    "rawSpecs": "High-Capacity Filter Fan Air Flow x Mounting Cut-out : 700–1000+ m³/h x 291 × 291 mm, Large Filter Fan Air Flow x Mounting Cut-out : 300–700 m³/h x 223 × 223 mm, Medium Filter Fan Air Flow x Mounting Cut-out 100–300 m³/h x 177 × 177 mm, Compact Filter Fan Air Flow x Mounting Cut-out 50–100 m³/h x 125 × 125 mm, Mini Filter Fan Air Flow x Mounting Cut-out : 20–50 m³/h x 92 × 92 mm, Filter Material : Synthetic fiber / Non-woven filter, Supply Voltage : 24 V DC, 110 V AC, 230 V AC, Air Flow : 20–1000+ m³/h, Power Consumption : 5–80 W, Mounting : Panel Mount, Fan Size x Air Flow : 80 mm x 20–40 m³/h, Fan Size x Air Flow : 92 mm x 30–60 m³/h, Fan Size x Air Flow : 120 mm x 70–120 m³/h, Fan Size x Air Flow : 150 mm x 150–300 m³/h, Fan Size x Air Flow : 200 mm x 300–700 m³/h, Fan Size x Air Flow : 250 mm x 700–1000+ m³/h",
+    "rawSpecs": "High-Capacity Filter Fan Air Flow x Mounting Cut-out : 700\u20131000+ m\u00b3/h x 291 \u00d7 291 mm, Large Filter Fan Air Flow x Mounting Cut-out : 300\u2013700 m\u00b3/h x 223 \u00d7 223 mm, Medium Filter Fan Air Flow x Mounting Cut-out 100\u2013300 m\u00b3/h x 177 \u00d7 177 mm, Compact Filter Fan Air Flow x Mounting Cut-out 50\u2013100 m\u00b3/h x 125 \u00d7 125 mm, Mini Filter Fan Air Flow x Mounting Cut-out : 20\u201350 m\u00b3/h x 92 \u00d7 92 mm, Filter Material : Synthetic fiber / Non-woven filter, Supply Voltage : 24 V DC, 110 V AC, 230 V AC, Air Flow : 20\u20131000+ m\u00b3/h, Power Consumption : 5\u201380 W, Mounting : Panel Mount, Fan Size x Air Flow : 80 mm x 20\u201340 m\u00b3/h, Fan Size x Air Flow : 92 mm x 30\u201360 m\u00b3/h, Fan Size x Air Flow : 120 mm x 70\u2013120 m\u00b3/h, Fan Size x Air Flow : 150 mm x 150\u2013300 m\u00b3/h, Fan Size x Air Flow : 200 mm x 300\u2013700 m\u00b3/h, Fan Size x Air Flow : 250 mm x 700\u20131000+ m\u00b3/h",
     "subCategory": "Fan & Accessories",
     "gallery": [
       "/images/products/electrical/filter-fan.png",
       "/images/products/electrical/filter-fan-2.png",
-      "/images/products/electrical/filter-fan-3.png",
+      
       "/images/products/electrical/filter-fan-4.png"
     ]
   },
-  {
-    "id": "el-071-fire-extinguisher",
-    "sno": 71,
-    "name": "Fire Extinguisher",
-    "brand": "Polycab",
-    "category": "electrical",
-    "priority": 3,
-    "priorityLabel": "Last Priority",
-    "color": "white",
-    "image": "/images/products/electrical/fire-extinguisher.png",
-    "description": "High-quality Fire Extinguisher manufactured to industrial specifications. Clean Agent, Wet Chemical, CO₂ (Carbon Dioxide), Water, Foam (AFFF), Dry Powder (ABC), Capacity : 1 Kg / 1 L, 2 Kg / 2 L, 4 Kg / 4 L, 5 Kg / 6 L, 9 Kg / 9 L, 25 Kg / 50 Kg, ABC Dry Powder (4 kg, 6 kg, and 9 kg) – General...",
-    "specs": {
-      "Product": "Fire Extinguisher",
-      "Brand": "Polycab",
-      "Capacity": "1 Kg / 1 L, 2 Kg / 2 L, 4 Kg / 4 L, 5 Kg / 6 L, 9 Kg / 9 L, 25 Kg / 50 Kg, ABC Dry Powder (4 kg, 6 kg, and 9 kg) – General-purpose protection, CO₂ (2 kg, 4.5 kg, and 6.5 kg) – Electrical panels, server rooms, and control rooms, Foam (6 L and 9 L) – Flammable liquid storage areas, Wet Chemical (6 L) – Commercial kitchens.",
-      "Sub-Category": "Electrical Hardware"
-    },
-    "rawSpecs": "Clean Agent, Wet Chemical, CO₂ (Carbon Dioxide), Water, Foam (AFFF), Dry Powder (ABC), Capacity : 1 Kg / 1 L, 2 Kg / 2 L, 4 Kg / 4 L, 5 Kg / 6 L, 9 Kg / 9 L, 25 Kg / 50 Kg, ABC Dry Powder (4 kg, 6 kg, and 9 kg) – General-purpose protection, CO₂ (2 kg, 4.5 kg, and 6.5 kg) – Electrical panels, server rooms, and control rooms, Foam (6 L and 9 L) – Flammable liquid storage areas, Wet Chemical (6 L) – Commercial kitchens.",
-    "subCategory": "Electrical Hardware",
-    "gallery": [
-      "/images/products/electrical/fire-extinguisher.png",
-      "/images/products/electrical/fire-extinguisher-2.png"
-    ]
-  },
+   
   {
     "id": "el-077-generator-avr",
     "sno": 77,
@@ -2701,17 +2699,20 @@ export const ELECTRICAL_PRODUCTS = [
     "priority": 3,
     "priorityLabel": "Last Priority",
     "color": "white",
-    "image": "/images/products/electrical/generator-avr.png",
-    "description": "High-quality Generator AVR manufactured to industrial specifications. Generator Automatic Voltage Regulator (AVR) Type: Analog / Digital / Brushless / Brush-Type, Single-Phase AVR, Three-Phase AVR, Generator Rating: 5–2000 kVA (or as required),",
+    "image": "/images/products/electrical/generator-avr.jpg",
+    "description": "High-quality Generator AVR manufactured to industrial specifications. Generator Automatic Voltage Regulator (AVR) Type: Analog / Digital / Brushless / Brush-Type, Single-Phase AVR, Three-Phase AVR, Generator Rating: 5\u20132000 kVA (or as required),",
     "specs": {
       "Product": "Generator AVR",
       "Brand": "Schneider Electric",
       "Type": "Analog / Digital / Brushless / Brush-Type, Single-Phase AVR, Three-Phase AVR",
-      "Rating": "5–2000 kVA (or as required)",
+      "Rating": "5\u20132000 kVA (or as required)",
       "Sub-Category": "Electrical Hardware"
     },
-    "rawSpecs": "Generator Automatic Voltage Regulator (AVR) Type: Analog / Digital / Brushless / Brush-Type, Single-Phase AVR, Three-Phase AVR, Generator Rating: 5–2000 kVA (or as required),",
-    "subCategory": "Electrical Hardware"
+    "rawSpecs": "Generator Automatic Voltage Regulator (AVR) Type: Analog / Digital / Brushless / Brush-Type, Single-Phase AVR, Three-Phase AVR, Generator Rating: 5\u20132000 kVA (or as required),",
+    "subCategory": "Electrical Hardware",
+    "images": [
+      "/images/products/electrical/generator-avr.png"
+    ]
   },
   {
     "id": "el-078-gps-antenna",
@@ -2722,7 +2723,7 @@ export const ELECTRICAL_PRODUCTS = [
     "priority": 3,
     "priorityLabel": "Last Priority",
     "color": "white",
-    "image": "/images/products/electrical/gps-antenna.png",
+    "image": "/images/products/electrical/gps-antenna.jpeg",
     "description": "High-quality GPS Antenna manufactured to industrial specifications. Type : Active GPS Antenna, Passive GPS Antenna, Magnetic Mount GPS Antenna, Patch GPS Antenna, Helix GPS Antenna, Panel GPS Antenna, Marine GPS Antenna, GNSS Antenna, Connector : SMA, TNC, BNC, FAKRA, MCX, MMCX, Cable Le...",
     "specs": {
       "Product": "GPS Antenna",
@@ -2751,13 +2752,16 @@ export const ELECTRICAL_PRODUCTS = [
       "Brand": "ABB",
       "Material": "Stainless Steel (SS304), ABS Plastic, Polycarbonate",
       "Mounting": "Wall-mounted",
-      "Time": "8–20 seconds",
-      "Voltage": "220–240 V AC, 50/60 Hz",
-      "Rating": "800–2500 W",
+      "Time": "8\u201320 seconds",
+      "Voltage": "220\u2013240 V AC, 50/60 Hz",
+      "Rating": "800\u20132500 W",
       "Sub-Category": "Appliance & Accessories"
     },
-    "rawSpecs": "Automatic Hand Dryer, Push Button Hand Dryer, Warm Air Hand Dryer, High-Speed Jet Hand Dryer, Blade Hand Dryer, Compact Hand Dryer, Material : Stainless Steel (SS304), ABS Plastic, Polycarbonate, Mounting: Wall-mounted, Drying Time: 8–20 seconds, Supply Voltage: 220–240 V AC, 50/60 Hz, Power Rating: 800–2500 W",
-    "subCategory": "Appliance & Accessories"
+    "rawSpecs": "Automatic Hand Dryer, Push Button Hand Dryer, Warm Air Hand Dryer, High-Speed Jet Hand Dryer, Blade Hand Dryer, Compact Hand Dryer, Material : Stainless Steel (SS304), ABS Plastic, Polycarbonate, Mounting: Wall-mounted, Drying Time: 8\u201320 seconds, Supply Voltage: 220\u2013240 V AC, 50/60 Hz, Power Rating: 800\u20132500 W",
+    "subCategory": "Appliance & Accessories",
+    "images": [
+      "/images/products/electrical/hand-dryer.png"
+    ]
   },
   {
     "id": "el-083-hooter",
@@ -2791,20 +2795,23 @@ export const ELECTRICAL_PRODUCTS = [
     "priority": 3,
     "priorityLabel": "Last Priority",
     "color": "white",
-    "image": "/images/products/electrical/immersion-rod.png",
+    "image": "/images/products/electrical/immersion-rod.jpeg",
     "description": "High-quality Immersion Rod manufactured to industrial specifications. Copper Immersion Rod, Stainless Steel Immersion Rod, Tubular Immersion Heater, Portable Bucket Heater, Industrial Immersion Heater, Power Rating : 300 W, 500 W, 1000 W, 1500 W, 2000 W, 3000 W, 6000 W and above, Plug: 6 A...",
     "specs": {
       "Product": "Immersion Rod",
       "Brand": "Philips",
       "Rating": "300 W, 500 W, 1000 W, 1500 W, 2000 W, 3000 W, 6000 W and above",
       "Plug": "6 A or 16 A",
-      "Length": "1–2 m",
-      "Voltage": "220–240 V AC, 50/60 Hz",
+      "Length": "1\u20132 m",
+      "Voltage": "220\u2013240 V AC, 50/60 Hz",
       "Element": "Copper / Stainless Steel / Incoloy",
       "Sub-Category": "Appliance & Accessories"
     },
-    "rawSpecs": "Copper Immersion Rod, Stainless Steel Immersion Rod, Tubular Immersion Heater, Portable Bucket Heater, Industrial Immersion Heater, Power Rating : 300 W, 500 W, 1000 W, 1500 W, 2000 W, 3000 W, 6000 W and above, Plug: 6 A or 16 A, Cable Length: 1–2 m, Supply Voltage: 220–240 V AC, 50/60 Hz, Heating Element: Copper / Stainless Steel / Incoloy",
-    "subCategory": "Appliance & Accessories"
+    "rawSpecs": "Copper Immersion Rod, Stainless Steel Immersion Rod, Tubular Immersion Heater, Portable Bucket Heater, Industrial Immersion Heater, Power Rating : 300 W, 500 W, 1000 W, 1500 W, 2000 W, 3000 W, 6000 W and above, Plug: 6 A or 16 A, Cable Length: 1\u20132 m, Supply Voltage: 220\u2013240 V AC, 50/60 Hz, Heating Element: Copper / Stainless Steel / Incoloy",
+    "subCategory": "Appliance & Accessories",
+    "images": [
+      "/images/products/electrical/immersion-rod.png"
+    ]
   },
   {
     "id": "el-086-insulation-mat",
@@ -2815,17 +2822,17 @@ export const ELECTRICAL_PRODUCTS = [
     "priority": 3,
     "priorityLabel": "Last Priority",
     "color": "white",
-    "image": "/images/products/electrical/insulation-mat.png",
+    "image": "/images/products/electrical/insulation-mat.jpeg",
     "description": "High-quality Insulation Mat manufactured to industrial specifications. Class 0 Up to 1 kV - Low-voltage panels, Class 1 Up to 7.5 kV - Medium-voltage equipment, Class 2 Up to 17 kV - Switchgear and substations, Class 3 Up to 26.5 kV - High-voltage installations, Class 4 Up to 36 kV - Extra ...",
     "specs": {
       "Product": "Insulation Mat",
       "Brand": "Crompton",
-      "Thickness": "3 mm, 4 mm, 5 mm, 6 mm, 8–10 mm",
+      "Thickness": "3 mm, 4 mm, 5 mm, 6 mm, 8\u201310 mm",
       "Length": "1 Mtr x 2 Mtr, 1 Mtr x 5 Mtr, 1 Mtr x 10 Mtr, 1.2 Mtr x 10 Mtr",
       "Material": "Natural Rubber, Synthetic Rubber, Elastomeric Rubber, Flame-retardant Rubber Compound",
       "Sub-Category": "Electrical Safety"
     },
-    "rawSpecs": "Class 0 Up to 1 kV - Low-voltage panels, Class 1 Up to 7.5 kV - Medium-voltage equipment, Class 2 Up to 17 kV - Switchgear and substations, Class 3 Up to 26.5 kV - High-voltage installations, Class 4 Up to 36 kV - Extra high-voltage substations, Thickness : 3 mm, 4 mm, 5 mm, 6 mm, 8–10 mm, Sizes : Width x Length : 1 Mtr x 2 Mtr, 1 Mtr x 5 Mtr, 1 Mtr x 10 Mtr, 1.2 Mtr x 10 Mtr, Material : Natural Rubber, Synthetic Rubber, Elastomeric Rubber, Flame-retardant Rubber Compound",
+    "rawSpecs": "Class 0 Up to 1 kV - Low-voltage panels, Class 1 Up to 7.5 kV - Medium-voltage equipment, Class 2 Up to 17 kV - Switchgear and substations, Class 3 Up to 26.5 kV - High-voltage installations, Class 4 Up to 36 kV - Extra high-voltage substations, Thickness : 3 mm, 4 mm, 5 mm, 6 mm, 8\u201310 mm, Sizes : Width x Length : 1 Mtr x 2 Mtr, 1 Mtr x 5 Mtr, 1 Mtr x 10 Mtr, 1.2 Mtr x 10 Mtr, Material : Natural Rubber, Synthetic Rubber, Elastomeric Rubber, Flame-retardant Rubber Compound",
     "subCategory": "Electrical Safety"
   },
   {
@@ -2837,16 +2844,19 @@ export const ELECTRICAL_PRODUCTS = [
     "priority": 3,
     "priorityLabel": "Last Priority",
     "color": "white",
-    "image": "/images/products/electrical/inverter.png",
-    "description": "High-quality Inverter manufactured to industrial specifications. Pure Sine Wave Inverter, Modified Sine Wave Inverter, Square Wave Inverter, Solar Inverter, Hybrid Inverter, Off-Grid Inverter, Grid-Tie Inverter, Three-Phase Inverter, 300 W–500 W, 600 W–1 kW, 1–3 kW, 3–5 kW, 5–10 kW, 1...",
+    "image": "/images/products/electrical/inverter.jpg",
+    "description": "High-quality Inverter manufactured to industrial specifications. Pure Sine Wave Inverter, Modified Sine Wave Inverter, Square Wave Inverter, Solar Inverter, Hybrid Inverter, Off-Grid Inverter, Grid-Tie Inverter, Three-Phase Inverter, 300 W\u2013500 W, 600 W\u20131 kW, 1\u20133 kW, 3\u20135 kW, 5\u201310 kW, 1...",
     "specs": {
       "Product": "Inverter",
       "Brand": "Finolex",
       "Voltage": "110 V AC, 120 V AC, 220 V AC, 230 V AC, 240 V AC",
       "Sub-Category": "Batteries & Power Backup"
     },
-    "rawSpecs": "Pure Sine Wave Inverter, Modified Sine Wave Inverter, Square Wave Inverter, Solar Inverter, Hybrid Inverter, Off-Grid Inverter, Grid-Tie Inverter, Three-Phase Inverter, 300 W–500 W, 600 W–1 kW, 1–3 kW, 3–5 kW, 5–10 kW, 10–100 kW+, Input Voltage : 12 V DC, 24 V DC, 48 V DC, Output Voltage : 110 V AC, 120 V AC, 220 V AC, 230 V AC, 240 V AC",
-    "subCategory": "Batteries & Power Backup"
+    "rawSpecs": "Pure Sine Wave Inverter, Modified Sine Wave Inverter, Square Wave Inverter, Solar Inverter, Hybrid Inverter, Off-Grid Inverter, Grid-Tie Inverter, Three-Phase Inverter, 300 W\u2013500 W, 600 W\u20131 kW, 1\u20133 kW, 3\u20135 kW, 5\u201310 kW, 10\u2013100 kW+, Input Voltage : 12 V DC, 24 V DC, 48 V DC, Output Voltage : 110 V AC, 120 V AC, 220 V AC, 230 V AC, 240 V AC",
+    "subCategory": "Batteries & Power Backup",
+    "images": [
+      "/images/products/electrical/inverter.jpg"
+    ]
   },
   {
     "id": "el-094-lightning-arrester-surge-arrester",
@@ -2864,10 +2874,10 @@ export const ELECTRICAL_PRODUCTS = [
       "Brand": "L&T",
       "Arresters": "Rod Gap Arrester, Horn Gap Arrester, Multi-Gap Arrester, Valve Type Arrester, Metal Oxide (MOV) Arrester, Distribution Class Arrester, Intermediate Class Arrester, Station Class Arrester, Polymer-Housed Arrester, Porcelain-Housed Arrester",
       "Voltage": "230/415 V, 3.3 kV, 6.6 kV, 11 kV, 22 kV, 33 kV, 66 kV, 132 kV, 220 kV, 400 kV",
-      "Rating": "0.28–0.42 kV, 3 kV, 6 kV, 9–10 kV, 18–21 kV, 27–30 kV, 54–60 kV, 108–120 kV, 180–198 kV, 336–360 kV",
+      "Rating": "0.28\u20130.42 kV, 3 kV, 6 kV, 9\u201310 kV, 18\u201321 kV, 27\u201330 kV, 54\u201360 kV, 108\u2013120 kV, 180\u2013198 kV, 336\u2013360 kV",
       "Sub-Category": "Earthing Materials"
     },
-    "rawSpecs": "Types of Lightning Arresters : Rod Gap Arrester, Horn Gap Arrester, Multi-Gap Arrester, Valve Type Arrester, Metal Oxide (MOV) Arrester, Distribution Class Arrester, Intermediate Class Arrester, Station Class Arrester, Polymer-Housed Arrester, Porcelain-Housed Arrester, System Voltage : 230/415 V, 3.3 kV, 6.6 kV, 11 kV, 22 kV, 33 kV, 66 kV, 132 kV, 220 kV, 400 kV, Arrester Rating : 0.28–0.42 kV, 3 kV, 6 kV, 9–10 kV, 18–21 kV, 27–30 kV, 54–60 kV, 108–120 kV, 180–198 kV, 336–360 kV",
+    "rawSpecs": "Types of Lightning Arresters : Rod Gap Arrester, Horn Gap Arrester, Multi-Gap Arrester, Valve Type Arrester, Metal Oxide (MOV) Arrester, Distribution Class Arrester, Intermediate Class Arrester, Station Class Arrester, Polymer-Housed Arrester, Porcelain-Housed Arrester, System Voltage : 230/415 V, 3.3 kV, 6.6 kV, 11 kV, 22 kV, 33 kV, 66 kV, 132 kV, 220 kV, 400 kV, Arrester Rating : 0.28\u20130.42 kV, 3 kV, 6 kV, 9\u201310 kV, 18\u201321 kV, 27\u201330 kV, 54\u201360 kV, 108\u2013120 kV, 180\u2013198 kV, 336\u2013360 kV",
     "subCategory": "Earthing Materials"
   },
   {
@@ -2904,16 +2914,16 @@ export const ELECTRICAL_PRODUCTS = [
     "priority": 3,
     "priorityLabel": "Last Priority",
     "color": "white",
-    "image": "/images/products/electrical/lock.png",
+    "image": "/images/products/electrical/lock.jpeg",
     "description": "High-quality Lock manufactured to industrial specifications. Panel Lock, Electric Lock, Magnetic Door Lock, Type : Padlock, Mortise Lock, Cylindrical (Knob/Lever) Lock, Deadbolt Lock, Rim Lock, Cam Lock, Drawer Lock, Glass Door Lock, Cabinet Lock, Digital/Smart Lock, Magnetic Lock...",
     "specs": {
       "Product": "Lock",
       "Brand": "Anchor by Panasonic",
       "Type": "Padlock, Mortise Lock, Cylindrical (Knob/Lever) Lock, Deadbolt Lock, Rim Lock, Cam Lock, Drawer Lock, Glass Door Lock, Cabinet Lock, Digital/Smart Lock, Magnetic Lock (EM Lock), Hasp & Staple Lock Set",
-      "Size": "20, 25, 30, 40, 45, 50, 55, 60, 65, 70, 80, 90, 100 mm, 16, 20, 25, 30, 40 mm cylinder length, 10–12 mm glass thickness, Fits doors 35–70 mm thick, 180, 280, 350, 600 kg holding force, 3\", 4\", 5\", 6\", 8\", 10\", 12\"",
+      "Size": "20, 25, 30, 40, 45, 50, 55, 60, 65, 70, 80, 90, 100 mm, 16, 20, 25, 30, 40 mm cylinder length, 10\u201312 mm glass thickness, Fits doors 35\u201370 mm thick, 180, 280, 350, 600 kg holding force, 3\", 4\", 5\", 6\", 8\", 10\", 12\"",
       "Sub-Category": "Electrical Hardware"
     },
-    "rawSpecs": "Panel Lock, Electric Lock, Magnetic Door Lock, Type : Padlock, Mortise Lock, Cylindrical (Knob/Lever) Lock, Deadbolt Lock, Rim Lock, Cam Lock, Drawer Lock, Glass Door Lock, Cabinet Lock, Digital/Smart Lock, Magnetic Lock (EM Lock), Hasp & Staple Lock Set, Size : 20, 25, 30, 40, 45, 50, 55, 60, 65, 70, 80, 90, 100 mm, 16, 20, 25, 30, 40 mm cylinder length, 10–12 mm glass thickness, Fits doors 35–70 mm thick, 180, 280, 350, 600 kg holding force, 3\", 4\", 5\", 6\", 8\", 10\", 12\"",
+    "rawSpecs": "Panel Lock, Electric Lock, Magnetic Door Lock, Type : Padlock, Mortise Lock, Cylindrical (Knob/Lever) Lock, Deadbolt Lock, Rim Lock, Cam Lock, Drawer Lock, Glass Door Lock, Cabinet Lock, Digital/Smart Lock, Magnetic Lock (EM Lock), Hasp & Staple Lock Set, Size : 20, 25, 30, 40, 45, 50, 55, 60, 65, 70, 80, 90, 100 mm, 16, 20, 25, 30, 40 mm cylinder length, 10\u201312 mm glass thickness, Fits doors 35\u201370 mm thick, 180, 280, 350, 600 kg holding force, 3\", 4\", 5\", 6\", 8\", 10\", 12\"",
     "subCategory": "Electrical Hardware"
   },
   {
@@ -2936,7 +2946,10 @@ export const ELECTRICAL_PRODUCTS = [
       "Sub-Category": "Electrical Safety"
     },
     "rawSpecs": "Electrical LOTO Kit, Mechanical LOTO Kit, Universal LOTO Kit, Personal LOTO Kit, Group LOTO Kit, Industrial LOTO Kit, Portable LOTO Kit, Wall-Mounted LOTO Station, Safety Padlocks, Lockout Hasps, Lockout Tags, Nylon Cable Lockout, Circuit Breaker Lockouts, MCB Lockout Devices, Plug Lockout, Ball Valve Lockout, Gate Valve Lockout, Adjustable Cable Lockout, Safety Keys, Carrying Case",
-    "subCategory": "Electrical Safety"
+    "subCategory": "Electrical Safety",
+    "images": [
+      "/images/products/electrical/lockout-tagout-loto-kit.png"
+    ]
   },
   {
     "id": "el-098-motor",
@@ -2981,10 +2994,10 @@ export const ELECTRICAL_PRODUCTS = [
       "Product": "Patch Cord",
       "Brand": "Schneider Electric",
       "Connector": "RJ45/GG45, LC, SC, ST, FC, RJ11/RJ12, BNC, F-Type, USB-A, USB-C, Micro USB",
-      "Length": "0.25 m, 0.5 m, 1 m, 2 m, 3 m, 5 m, 10 m, 15–30 m",
+      "Length": "0.25 m, 0.5 m, 1 m, 2 m, 3 m, 5 m, 10 m, 15\u201330 m",
       "Sub-Category": "Networking & Communications"
     },
-    "rawSpecs": "Cat5e Patch Cord, Cat6 Patch Cord, Cat6A Patch Cord, Cat7 Patch Cord, Cat8 Patch Cord, Fiber Optic Patch Cord, Telephone Patch Cord, Coaxial Patch Cord, USB Patch Cable, Connector : RJ45/GG45, LC, SC, ST, FC, RJ11/RJ12, BNC, F-Type, USB-A, USB-C, Micro USB, Cable Length : 0.25 m, 0.5 m, 1 m, 2 m, 3 m, 5 m, 10 m, 15–30 m",
+    "rawSpecs": "Cat5e Patch Cord, Cat6 Patch Cord, Cat6A Patch Cord, Cat7 Patch Cord, Cat8 Patch Cord, Fiber Optic Patch Cord, Telephone Patch Cord, Coaxial Patch Cord, USB Patch Cable, Connector : RJ45/GG45, LC, SC, ST, FC, RJ11/RJ12, BNC, F-Type, USB-A, USB-C, Micro USB, Cable Length : 0.25 m, 0.5 m, 1 m, 2 m, 3 m, 5 m, 10 m, 15\u201330 m",
     "subCategory": "Networking & Communications"
   },
   {
@@ -3008,7 +3021,10 @@ export const ELECTRICAL_PRODUCTS = [
       "Sub-Category": "Meters & Indicators"
     },
     "rawSpecs": "Input Voltage : 415 V AC (3-Phase, 4-Wire), Output Voltage : 230 V AC (Single Phase), Current Rating : 16 A, 32 A, 40 A, 63 A, 100 A, Pole Configuration : 2 Pole (2P), 4 Pole (4P), Mounting Type : DIN Rail Mount, Panel Mount, Wall Mount, Modular Distribution Board Mount",
-    "subCategory": "Meters & Indicators"
+    "subCategory": "Meters & Indicators",
+    "images": [
+      "/images/products/electrical/phase-selector.png"
+    ]
   },
   {
     "id": "el-101-phase-tester",
@@ -3019,15 +3035,15 @@ export const ELECTRICAL_PRODUCTS = [
     "priority": 3,
     "priorityLabel": "Last Priority",
     "color": "white",
-    "image": "/images/products/electrical/phase-tester.png",
+    "image": "/images/products/electrical/phase-tester.jpeg",
     "description": "High-quality Phase Tester manufactured to industrial specifications. Types of Phase Tester : Neon Phase Tester, LED Phase Tester, Digital Phase Tester, Non-Contact Voltage Tester (NCVT), Two-Pole Voltage Tester, Multifunction Voltage Tester, Size x Blade Length x Overall Length - Small x ...",
     "specs": {
       "Product": "Phase Tester",
       "Brand": "Siemens",
-      "Tester": "Neon Phase Tester, LED Phase Tester, Digital Phase Tester, Non-Contact Voltage Tester (NCVT), Two-Pole Voltage Tester, Multifunction Voltage Tester, Size x Blade Length x Overall Length - Small x 50–75 mm x 140–160 mm, Medium x 75–100 mm x 160–190 mm, Large x 100–150 mm x 190–250 mm",
+      "Tester": "Neon Phase Tester, LED Phase Tester, Digital Phase Tester, Non-Contact Voltage Tester (NCVT), Two-Pole Voltage Tester, Multifunction Voltage Tester, Size x Blade Length x Overall Length - Small x 50\u201375 mm x 140\u2013160 mm, Medium x 75\u2013100 mm x 160\u2013190 mm, Large x 100\u2013150 mm x 190\u2013250 mm",
       "Sub-Category": "Meters & Indicators"
     },
-    "rawSpecs": "Types of Phase Tester : Neon Phase Tester, LED Phase Tester, Digital Phase Tester, Non-Contact Voltage Tester (NCVT), Two-Pole Voltage Tester, Multifunction Voltage Tester, Size x Blade Length x Overall Length - Small x 50–75 mm x 140–160 mm, Medium x 75–100 mm x 160–190 mm, Large x 100–150 mm x 190–250 mm",
+    "rawSpecs": "Types of Phase Tester : Neon Phase Tester, LED Phase Tester, Digital Phase Tester, Non-Contact Voltage Tester (NCVT), Two-Pole Voltage Tester, Multifunction Voltage Tester, Size x Blade Length x Overall Length - Small x 50\u201375 mm x 140\u2013160 mm, Medium x 75\u2013100 mm x 160\u2013190 mm, Large x 100\u2013150 mm x 190\u2013250 mm",
     "subCategory": "Meters & Indicators"
   },
   {
@@ -3039,19 +3055,19 @@ export const ELECTRICAL_PRODUCTS = [
     "priority": 3,
     "priorityLabel": "Last Priority",
     "color": "white",
-    "image": "/images/products/electrical/plc-programmable-logic-controller.png",
-    "description": "High-quality PLC (Programmable Logic Controller) manufactured to industrial specifications. PLC (Programmable Logic Controller), Compact PLC, Modular PLC, Rack-Mounted PLC, Nano PLC, Micro PLC, Safety PLC, Redundant PLC, PLC Size : Nano PLC, Micro PLC, Compact PLC, Modular PLC, Supply Voltage : 24 V DC, 100–240...",
+    "image": "/images/products/electrical/plc-programmable-logic-controller.webp",
+    "description": "High-quality PLC (Programmable Logic Controller) manufactured to industrial specifications. PLC (Programmable Logic Controller), Compact PLC, Modular PLC, Rack-Mounted PLC, Nano PLC, Micro PLC, Safety PLC, Redundant PLC, PLC Size : Nano PLC, Micro PLC, Compact PLC, Modular PLC, Supply Voltage : 24 V DC, 100\u2013240...",
     "specs": {
       "Product": "PLC (Programmable Logic Controller)",
       "Brand": "ABB",
       "Size": "Nano PLC, Micro PLC, Compact PLC, Modular PLC",
-      "Voltage": "24 V DC, 100–240 V AC",
+      "Voltage": "24 V DC, 100\u2013240 V AC",
       "Port": "Ethernet, RS-232, RS-485, USB, Modbus RTU/TCP, PROFINET, PROFIBUS, EtherNet/IP, CANopen",
-      "Input": "0–10 V, 4–20 mA, RTD, Thermocouple",
-      "Output": "0–10 V, 4–20 mA",
+      "Input": "0\u201310 V, 4\u201320 mA, RTD, Thermocouple",
+      "Output": "0\u201310 V, 4\u201320 mA",
       "Sub-Category": "Industrial Control Items"
     },
-    "rawSpecs": "PLC (Programmable Logic Controller), Compact PLC, Modular PLC, Rack-Mounted PLC, Nano PLC, Micro PLC, Safety PLC, Redundant PLC, PLC Size : Nano PLC, Micro PLC, Compact PLC, Modular PLC, Supply Voltage : 24 V DC, 100–240 V AC, Communication Port : Ethernet, RS-232, RS-485, USB, Modbus RTU/TCP, PROFINET, PROFIBUS, EtherNet/IP, CANopen, Digital Input : Push buttons, Limit switches, Proximity sensors, Float switches, Digital Output : Relays, Contactors, Solenoid valves, Indicator lamps, Analog Input : 0–10 V, 4–20 mA, RTD, Thermocouple, Analog Output : 0–10 V, 4–20 mA",
+    "rawSpecs": "PLC (Programmable Logic Controller), Compact PLC, Modular PLC, Rack-Mounted PLC, Nano PLC, Micro PLC, Safety PLC, Redundant PLC, PLC Size : Nano PLC, Micro PLC, Compact PLC, Modular PLC, Supply Voltage : 24 V DC, 100\u2013240 V AC, Communication Port : Ethernet, RS-232, RS-485, USB, Modbus RTU/TCP, PROFINET, PROFIBUS, EtherNet/IP, CANopen, Digital Input : Push buttons, Limit switches, Proximity sensors, Float switches, Digital Output : Relays, Contactors, Solenoid valves, Indicator lamps, Analog Input : 0\u201310 V, 4\u201320 mA, RTD, Thermocouple, Analog Output : 0\u201310 V, 4\u201320 mA",
     "subCategory": "Industrial Control Items"
   },
   {
@@ -3074,7 +3090,7 @@ export const ELECTRICAL_PRODUCTS = [
       "Type": "19-inch Rack Mount (1U/2U), Vertical Rack Mount (0U), Wall Mount, Cabinet Mount, Floor Mount (Industrial)",
       "Sub-Category": "Distribution & Control Panels"
     },
-    "rawSpecs": "Basic PDU, Metered PDU, Monitored PDU, Switched PDU, Intelligent (Smart) PDU, Rack-Mount PDU, Vertical (0U) PDU, Horizontal (1U/2U) PDU, Industrial PDU, Input Voltage : 110 V, 120 V, 208 V, 230 V, 240 V AC, Input Phase : Single Phase or Three Phase, Current Rating : 10 A, 16 A, 20 A, 32 A, 63 A, PDU Type : Desktop PDU, Rack Horizontal, Vertical (0U), Industrial PDU, Type : 1U Horizontal PDU 482.6 × 44.5 × 45–60 mm (19-inch rack width), 2U Horizontal PDU 482.6 × 88.9 × 45–60 mm, 0U Vertical PDU 900–1800 mm length (depending on rack height), Industrial PDU Varies according to enclosure and load capacity, Mounting Type : 19-inch Rack Mount (1U/2U), Vertical Rack Mount (0U), Wall Mount, Cabinet Mount, Floor Mount (Industrial)",
+    "rawSpecs": "Basic PDU, Metered PDU, Monitored PDU, Switched PDU, Intelligent (Smart) PDU, Rack-Mount PDU, Vertical (0U) PDU, Horizontal (1U/2U) PDU, Industrial PDU, Input Voltage : 110 V, 120 V, 208 V, 230 V, 240 V AC, Input Phase : Single Phase or Three Phase, Current Rating : 10 A, 16 A, 20 A, 32 A, 63 A, PDU Type : Desktop PDU, Rack Horizontal, Vertical (0U), Industrial PDU, Type : 1U Horizontal PDU 482.6 \u00d7 44.5 \u00d7 45\u201360 mm (19-inch rack width), 2U Horizontal PDU 482.6 \u00d7 88.9 \u00d7 45\u201360 mm, 0U Vertical PDU 900\u20131800 mm length (depending on rack height), Industrial PDU Varies according to enclosure and load capacity, Mounting Type : 19-inch Rack Mount (1U/2U), Vertical Rack Mount (0U), Wall Mount, Cabinet Mount, Floor Mount (Industrial)",
     "subCategory": "Distribution & Control Panels"
   },
   {
@@ -3129,18 +3145,18 @@ export const ELECTRICAL_PRODUCTS = [
     "priority": 3,
     "priorityLabel": "Last Priority",
     "color": "white",
-    "image": "/images/products/electrical/reflectors.png",
-    "description": "High-quality Reflectors manufactured to industrial specifications. Road Reflector (Cat Eye), Vehicle Reflector, Bicycle Reflector, Reflective Tape, Safety Cone Reflector, Solar Road Stud, Industrial Reflector, Delineator Reflector. Road Reflectors (Cat Eyes) : Size : Small 100 × 100 × 2...",
+    "image": "/images/products/electrical/Reflector.jpeg",
+    "description": "High-quality Reflectors manufactured to industrial specifications. Road Reflector (Cat Eye), Vehicle Reflector, Bicycle Reflector, Reflective Tape, Safety Cone Reflector, Solar Road Stud, Industrial Reflector, Delineator Reflector. Road Reflectors (Cat Eyes) : Size : Small 100 \u00d7 100 \u00d7 2...",
     "specs": {
       "Product": "Reflectors",
       "Brand": "Siemens",
-      "Size": "Small 100 × 100 × 20 mm, Standard 100 × 100 × 18–22 mm, Large 150 × 100 × 20 mm",
-      "Shape": "Round 60–90 mm diameter, Rectangular 90 × 40 mm, Triangular 150 mm side length (trailers)",
+      "Size": "Small 100 \u00d7 100 \u00d7 20 mm, Standard 100 \u00d7 100 \u00d7 18\u201322 mm, Large 150 \u00d7 100 \u00d7 20 mm",
+      "Shape": "Round 60\u201390 mm diameter, Rectangular 90 \u00d7 40 mm, Triangular 150 mm side length (trailers)",
       "Color": "Red, Amber (Yellow), White, Green, Blue (special applications)",
       "Material": "Acrylic, Polycarbonate, PMMA (Acrylic), Glass beads, Microprismatic reflective film, ABS plastic, Aluminum base (road studs)",
       "Sub-Category": "Lighting"
     },
-    "rawSpecs": "Road Reflector (Cat Eye), Vehicle Reflector, Bicycle Reflector, Reflective Tape, Safety Cone Reflector, Solar Road Stud, Industrial Reflector, Delineator Reflector. Road Reflectors (Cat Eyes) : Size : Small 100 × 100 × 20 mm, Standard 100 × 100 × 18–22 mm, Large 150 × 100 × 20 mm, Vehicle Reflector Shape : Round 60–90 mm diameter, Rectangular 90 × 40 mm, Triangular 150 mm side length (trailers), Color : Red, Amber (Yellow), White, Green, Blue (special applications), Material : Acrylic, Polycarbonate, PMMA (Acrylic), Glass beads, Microprismatic reflective film, ABS plastic, Aluminum base (road studs)",
+    "rawSpecs": "Road Reflector (Cat Eye), Vehicle Reflector, Bicycle Reflector, Reflective Tape, Safety Cone Reflector, Solar Road Stud, Industrial Reflector, Delineator Reflector. Road Reflectors (Cat Eyes) : Size : Small 100 \u00d7 100 \u00d7 20 mm, Standard 100 \u00d7 100 \u00d7 18\u201322 mm, Large 150 \u00d7 100 \u00d7 20 mm, Vehicle Reflector Shape : Round 60\u201390 mm diameter, Rectangular 90 \u00d7 40 mm, Triangular 150 mm side length (trailers), Color : Red, Amber (Yellow), White, Green, Blue (special applications), Material : Acrylic, Polycarbonate, PMMA (Acrylic), Glass beads, Microprismatic reflective film, ABS plastic, Aluminum base (road studs)",
     "subCategory": "Lighting"
   },
   {
@@ -3152,7 +3168,7 @@ export const ELECTRICAL_PRODUCTS = [
     "priority": 3,
     "priorityLabel": "Last Priority",
     "color": "white",
-    "image": "/images/products/electrical/room-heater.png",
+    "image": "/images/products/electrical/room-heater.jpeg",
     "description": "High-quality Room Heater manufactured to industrial specifications. Fan Heater, Quartz Heater, Halogen Heater, PTC Ceramic Heater, Oil-Filled Radiator (OFR), Convector Heater, Infrared Heater, Power Rating : 500 W, 1000 W, 1500 W, 2000 W, 2500 W,",
     "specs": {
       "Product": "Room Heater",
@@ -3177,11 +3193,11 @@ export const ELECTRICAL_PRODUCTS = [
     "specs": {
       "Product": "Servo Drive",
       "Brand": "L&T",
-      "Rating": "50 W, 100 W, 200 W, 400 W, 750 W, 1 kW, 2 kW, 5 kW, 7.5–15 kW, Approximate Dimensions (H × W ×",
-      "D)": "150 × 60 × 150 mm, 180 × 80 × 180 mm, 250 × 120 × 220 mm",
+      "Rating": "50 W, 100 W, 200 W, 400 W, 750 W, 1 kW, 2 kW, 5 kW, 7.5\u201315 kW, Approximate Dimensions (H \u00d7 W \u00d7",
+      "D)": "150 \u00d7 60 \u00d7 150 mm, 180 \u00d7 80 \u00d7 180 mm, 250 \u00d7 120 \u00d7 220 mm",
       "Sub-Category": "Industrial Control Items"
     },
-    "rawSpecs": "AC Servo Driver, DC Servo Driver, Digital Servo Driver, Analog Servo Driver, Pulse/Direction Servo Driver, EtherCAT Servo Driver, PROFINET Servo Driver, CANopen Servo Driver, Power Rating : 50 W, 100 W, 200 W, 400 W, 750 W, 1 kW, 2 kW, 5 kW, 7.5–15 kW, Approximate Dimensions (H × W × D) : 150 × 60 × 150 mm, 180 × 80 × 180 mm, 250 × 120 × 220 mm",
+    "rawSpecs": "AC Servo Driver, DC Servo Driver, Digital Servo Driver, Analog Servo Driver, Pulse/Direction Servo Driver, EtherCAT Servo Driver, PROFINET Servo Driver, CANopen Servo Driver, Power Rating : 50 W, 100 W, 200 W, 400 W, 750 W, 1 kW, 2 kW, 5 kW, 7.5\u201315 kW, Approximate Dimensions (H \u00d7 W \u00d7 D) : 150 \u00d7 60 \u00d7 150 mm, 180 \u00d7 80 \u00d7 180 mm, 250 \u00d7 120 \u00d7 220 mm",
     "subCategory": "Industrial Control Items"
   },
   {
@@ -3199,12 +3215,12 @@ export const ELECTRICAL_PRODUCTS = [
       "Product": "Servo Stabilizer",
       "Brand": "Philips",
       "Stabilizer": "Single-Phase Servo Stabilizer, Three-Phase Servo Stabilizer, Air-Cooled Servo Stabilizer, Oil-Cooled Servo Stabilizer, Indoor Servo Stabilizer, Outdoor Servo Stabilizer",
-      "Rating": "1 kVA, 2 kVA, 5 kVA, 10 kVA, 15 kVA, 20 kVA, 30 kVA, 50 kVA, 100 kVA, 200–500 kVA",
-      "Voltage": "300–470 V AC (varies by model), Approximate Dimensions (H × W ×",
-      "D)": "600 × 450 × 400 mm, 900 × 600 × 600 mm, 1200 × 800 × 800 mm, Custom industrial enclosure, Air-Cooled, Oil-Cooled",
+      "Rating": "1 kVA, 2 kVA, 5 kVA, 10 kVA, 15 kVA, 20 kVA, 30 kVA, 50 kVA, 100 kVA, 200\u2013500 kVA",
+      "Voltage": "300\u2013470 V AC (varies by model), Approximate Dimensions (H \u00d7 W \u00d7",
+      "D)": "600 \u00d7 450 \u00d7 400 mm, 900 \u00d7 600 \u00d7 600 mm, 1200 \u00d7 800 \u00d7 800 mm, Custom industrial enclosure, Air-Cooled, Oil-Cooled",
       "Sub-Category": "Switchgear & Protection"
     },
-    "rawSpecs": "Types of Servo Stabilizer : Single-Phase Servo Stabilizer, Three-Phase Servo Stabilizer, Air-Cooled Servo Stabilizer, Oil-Cooled Servo Stabilizer, Indoor Servo Stabilizer, Outdoor Servo Stabilizer, Capacity Rating : 1 kVA, 2 kVA, 5 kVA, 10 kVA, 15 kVA, 20 kVA, 30 kVA, 50 kVA, 100 kVA, 200–500 kVA, Voltage Rating : Single-Phase Input Voltage : 140–270 V AC (varies by model), Three-Phase Input Voltage : 300–470 V AC (varies by model), Approximate Dimensions (H × W × D) : 600 × 450 × 400 mm, 900 × 600 × 600 mm, 1200 × 800 × 800 mm, Custom industrial enclosure, Air-Cooled, Oil-Cooled",
+    "rawSpecs": "Types of Servo Stabilizer : Single-Phase Servo Stabilizer, Three-Phase Servo Stabilizer, Air-Cooled Servo Stabilizer, Oil-Cooled Servo Stabilizer, Indoor Servo Stabilizer, Outdoor Servo Stabilizer, Capacity Rating : 1 kVA, 2 kVA, 5 kVA, 10 kVA, 15 kVA, 20 kVA, 30 kVA, 50 kVA, 100 kVA, 200\u2013500 kVA, Voltage Rating : Single-Phase Input Voltage : 140\u2013270 V AC (varies by model), Three-Phase Input Voltage : 300\u2013470 V AC (varies by model), Approximate Dimensions (H \u00d7 W \u00d7 D) : 600 \u00d7 450 \u00d7 400 mm, 900 \u00d7 600 \u00d7 600 mm, 1200 \u00d7 800 \u00d7 800 mm, Custom industrial enclosure, Air-Cooled, Oil-Cooled",
     "subCategory": "Switchgear & Protection"
   },
   {
@@ -3221,13 +3237,13 @@ export const ELECTRICAL_PRODUCTS = [
     "specs": {
       "Product": "Smart Controllers",
       "Brand": "Crompton",
-      "Voltage": "12 V DC, 24 V DC, 110–240 V AC",
+      "Voltage": "12 V DC, 24 V DC, 110\u2013240 V AC",
       "Protocol": "Wi-Fi, Bluetooth, Zigbee, Z-Wave, Matter, Thread, Ethernet, RS-485 (Modbus RTU), Modbus TCP, CAN Bus, PROFINET, EtherNet/IP",
-      "Capacity": "I/O Capacity, 4–8 I/O, 8–16 I/O, 16–32 I/O, 32+ I/O",
-      "Sizes": "DIN Rail Controller 90 × 72 × 60 mm, Wall-Mount Controller 120 × 120 × 40 mm, Industrial Controller 150 × 100 × 80 mm, Smart Hub 100 × 100 × 30 mm",
+      "Capacity": "I/O Capacity, 4\u20138 I/O, 8\u201316 I/O, 16\u201332 I/O, 32+ I/O",
+      "Sizes": "DIN Rail Controller 90 \u00d7 72 \u00d7 60 mm, Wall-Mount Controller 120 \u00d7 120 \u00d7 40 mm, Industrial Controller 150 \u00d7 100 \u00d7 80 mm, Smart Hub 100 \u00d7 100 \u00d7 30 mm",
       "Sub-Category": "Smart Home Product"
     },
-    "rawSpecs": "Smart Home Controller (Controls home automation devices), Smart Lighting Controller (Controls indoor and outdoor lighting), HVAC Smart Controller (Controls heating, ventilation, and air conditioning), Irrigation Smart Controller (Automates water sprinklers), Motor/Pump Smart Controller (Controls motors and pumps), Industrial IoT Controller (Monitors and controls industrial equipment), Building Management Controller (BMS) (Integrates lighting, HVAC, and security), Energy Management Controller (Monitors and optimizes energy usage), Voltage : 12 V DC, 24 V DC, 110–240 V AC, Communication Protocol : Wi-Fi, Bluetooth, Zigbee, Z-Wave, Matter, Thread, Ethernet, RS-485 (Modbus RTU), Modbus TCP, CAN Bus, PROFINET, EtherNet/IP, Common Input/Output Capacity : I/O Capacity, 4–8 I/O, 8–16 I/O, 16–32 I/O, 32+ I/O, Physical Sizes : DIN Rail Controller 90 × 72 × 60 mm, Wall-Mount Controller 120 × 120 × 40 mm, Industrial Controller 150 × 100 × 80 mm, Smart Hub 100 × 100 × 30 mm",
+    "rawSpecs": "Smart Home Controller (Controls home automation devices), Smart Lighting Controller (Controls indoor and outdoor lighting), HVAC Smart Controller (Controls heating, ventilation, and air conditioning), Irrigation Smart Controller (Automates water sprinklers), Motor/Pump Smart Controller (Controls motors and pumps), Industrial IoT Controller (Monitors and controls industrial equipment), Building Management Controller (BMS) (Integrates lighting, HVAC, and security), Energy Management Controller (Monitors and optimizes energy usage), Voltage : 12 V DC, 24 V DC, 110\u2013240 V AC, Communication Protocol : Wi-Fi, Bluetooth, Zigbee, Z-Wave, Matter, Thread, Ethernet, RS-485 (Modbus RTU), Modbus TCP, CAN Bus, PROFINET, EtherNet/IP, Common Input/Output Capacity : I/O Capacity, 4\u20138 I/O, 8\u201316 I/O, 16\u201332 I/O, 32+ I/O, Physical Sizes : DIN Rail Controller 90 \u00d7 72 \u00d7 60 mm, Wall-Mount Controller 120 \u00d7 120 \u00d7 40 mm, Industrial Controller 150 \u00d7 100 \u00d7 80 mm, Smart Hub 100 \u00d7 100 \u00d7 30 mm",
     "subCategory": "Smart Home Product"
   },
   {
@@ -3239,17 +3255,17 @@ export const ELECTRICAL_PRODUCTS = [
     "priority": 3,
     "priorityLabel": "Last Priority",
     "color": "white",
-    "image": "/images/products/electrical/solar-charge-controller.png",
-    "description": "High-quality Solar Charge Controller manufactured to industrial specifications. Types of Solar Charge Controller : PWM (Pulse Width Modulation) Cost-effective, suitable for small systems, MPPT (Maximum Power Point Tracking) High efficiency (95–99%), Hybrid Solar Charge Controller ( Supports solar, b...",
+    "image": "/images/products/electrical/solar-charge-controller.jpeg",
+    "description": "High-quality Solar Charge Controller manufactured to industrial specifications. Types of Solar Charge Controller : PWM (Pulse Width Modulation) Cost-effective, suitable for small systems, MPPT (Maximum Power Point Tracking) High efficiency (95\u201399%), Hybrid Solar Charge Controller ( Supports solar, b...",
     "specs": {
       "Product": "Solar Charge Controller",
       "Brand": "Schneider Electric",
-      "Controller": "PWM (Pulse Width Modulation) Cost-effective, suitable for small systems, MPPT (Maximum Power Point Tracking) High efficiency (95–99%), Hybrid Solar Charge Controller ( Supports solar, battery, and utility/generator), Smart Solar Charge Controller ( Wi-Fi/Bluetooth monitoring)",
+      "Controller": "PWM (Pulse Width Modulation) Cost-effective, suitable for small systems, MPPT (Maximum Power Point Tracking) High efficiency (95\u201399%), Hybrid Solar Charge Controller ( Supports solar, battery, and utility/generator), Smart Solar Charge Controller ( Wi-Fi/Bluetooth monitoring)",
       "Voltage": "12 V DC, 24 V DC, 36 V DC, 48 V DC",
       "Rating": "10 A, 20 A, 30 A, 40 A, 60 A, 80 A, 100 A",
       "Sub-Category": "Solar Items"
     },
-    "rawSpecs": "Types of Solar Charge Controller : PWM (Pulse Width Modulation) Cost-effective, suitable for small systems, MPPT (Maximum Power Point Tracking) High efficiency (95–99%), Hybrid Solar Charge Controller ( Supports solar, battery, and utility/generator), Smart Solar Charge Controller ( Wi-Fi/Bluetooth monitoring), Battery/System Voltage : 12 V DC, 24 V DC, 36 V DC, 48 V DC, Current Rating : 10 A, 20 A, 30 A, 40 A, 60 A, 80 A, 100 A,",
+    "rawSpecs": "Types of Solar Charge Controller : PWM (Pulse Width Modulation) Cost-effective, suitable for small systems, MPPT (Maximum Power Point Tracking) High efficiency (95\u201399%), Hybrid Solar Charge Controller ( Supports solar, battery, and utility/generator), Smart Solar Charge Controller ( Wi-Fi/Bluetooth monitoring), Battery/System Voltage : 12 V DC, 24 V DC, 36 V DC, 48 V DC, Current Rating : 10 A, 20 A, 30 A, 40 A, 60 A, 80 A, 100 A,",
     "subCategory": "Solar Items"
   },
   {
@@ -3338,22 +3354,32 @@ export const ELECTRICAL_PRODUCTS = [
     "priority": 3,
     "priorityLabel": "Last Priority",
     "color": "white",
-    "image": "/images/products/electrical/spike-guard-surge-protector-surge-protection-power-strip-or-surge-protected-extension-board.png",
+    "image": "/images/products/electrical/excel_file1_spike_guard.png",
     "description": "High-quality Spike Guard ( Surge Protector, Surge Protection Power Strip, or Surge-Protected Extension Board) manufactured to industrial specifications. Types of Spike Guard : Basic Spike Guard (Multiple outlets with surge protection), Power Strip Spike Guard (Extension board with surge protection), Universal Spike Guard (Universal sockets for different plug types), USB ...",
     "specs": {
       "Product": "Spike Guard ( Surge Protector, Surge Protection Power Strip, or Surge-Protected Extension Board)",
       "Brand": "Legrand",
       "Guard": "Basic Spike Guard (Multiple outlets with surge protection), Power Strip Spike Guard (Extension board with surge protection), Universal Spike Guard (Universal sockets for different plug types), USB Spike Guard ( Includes USB-A/USB-C charging ports), Heavy-Duty Spike Guard (Higher current capacity), Rack-Mount PDU with Surge Protection ( 19-inch rack power distribution)",
-      "Voltage": "220–240 V AC",
+      "Voltage": "220\u2013240 V AC",
       "Rating": "6 A, 10 A, 13 A, 16 A",
-      "Load": "1.5–3.5 kW (depending on current rating)",
-      "Protection": "150–3000 J (varies by model)",
-      "Outlet": "3 Socket, 4 Socket, 5 Socket, 6 Socket, 8 Socket, 10–12 Socket",
+      "Load": "1.5\u20133.5 kW (depending on current rating)",
+      "Protection": "150\u20133000 J (varies by model)",
+      "Outlet": "3 Socket, 4 Socket, 5 Socket, 6 Socket, 8 Socket, 10\u201312 Socket",
       "Length": "1 m, 1.5 m, 2 m, 3 m, 5 m",
       "Sub-Category": "Home Electrical Accessories"
     },
-    "rawSpecs": "Types of Spike Guard : Basic Spike Guard (Multiple outlets with surge protection), Power Strip Spike Guard (Extension board with surge protection), Universal Spike Guard (Universal sockets for different plug types), USB Spike Guard ( Includes USB-A/USB-C charging ports), Heavy-Duty Spike Guard (Higher current capacity), Rack-Mount PDU with Surge Protection ( 19-inch rack power distribution), Input Voltage : 220–240 V AC, Current Rating : 6 A, 10 A, 13 A, 16 A, Maximum Load : 1.5–3.5 kW (depending on current rating), Surge Protection : 150–3000 J (varies by model), Number of Outlet : 3 Socket, 4 Socket, 5 Socket, 6 Socket, 8 Socket, 10–12 Socket, Cable Length : 1 m, 1.5 m, 2 m, 3 m, 5 m,",
-    "subCategory": "Home Electrical Accessories"
+    "rawSpecs": "Types of Spike Guard : Basic Spike Guard (Multiple outlets with surge protection), Power Strip Spike Guard (Extension board with surge protection), Universal Spike Guard (Universal sockets for different plug types), USB Spike Guard ( Includes USB-A/USB-C charging ports), Heavy-Duty Spike Guard (Higher current capacity), Rack-Mount PDU with Surge Protection ( 19-inch rack power distribution), Input Voltage : 220\u2013240 V AC, Current Rating : 6 A, 10 A, 13 A, 16 A, Maximum Load : 1.5\u20133.5 kW (depending on current rating), Surge Protection : 150\u20133000 J (varies by model), Number of Outlet : 3 Socket, 4 Socket, 5 Socket, 6 Socket, 8 Socket, 10\u201312 Socket, Cable Length : 1 m, 1.5 m, 2 m, 3 m, 5 m,",
+    "subCategory": "Home Electrical Accessories",
+    "images": [
+      "/images/products/electrical/excel_file1_spike_guard.png",
+      "/images/products/electrical/excel_file1_spike_guard_2.png",
+      "/images/products/electrical/excel_file1_spike_guard_3.png"
+    ],
+    "gallery": [
+      "/images/products/electrical/excel_file1_spike_guard.png",
+      "/images/products/electrical/excel_file1_spike_guard_2.png",
+      "/images/products/electrical/excel_file1_spike_guard_3.png"
+    ]
   },
   {
     "id": "el-127-splice-guard",
@@ -3372,7 +3398,7 @@ export const ELECTRICAL_PRODUCTS = [
       "Material": "Polyolefin heat-shrink tubing, EVA hot-melt adhesive, Stainless steel reinforcing rod, Ceramic reinforcing rod (special types)",
       "Sub-Category": "Electrical Consumable"
     },
-    "rawSpecs": "Heat-Shrink Splice Guard, Single Fiber Splice Guard, Ribbon Fiber Splice Guard, Stainless Steel Reinforced Splice Guard, Ceramic Reinforced Splice Guard, Length x Inner Diameter (Before Shrink) x Inner Diameter (After Shrink) 40 mm x 3.0 mm x 1.2–1.5 mm, 45 mm x 3.0 mm x 1.2–1.5 mm, 60 mm x 3.0 mm x 1.2–1.5 mm, Material : Polyolefin heat-shrink tubing, EVA hot-melt adhesive, Stainless steel reinforcing rod, Ceramic reinforcing rod (special types)",
+    "rawSpecs": "Heat-Shrink Splice Guard, Single Fiber Splice Guard, Ribbon Fiber Splice Guard, Stainless Steel Reinforced Splice Guard, Ceramic Reinforced Splice Guard, Length x Inner Diameter (Before Shrink) x Inner Diameter (After Shrink) 40 mm x 3.0 mm x 1.2\u20131.5 mm, 45 mm x 3.0 mm x 1.2\u20131.5 mm, 60 mm x 3.0 mm x 1.2\u20131.5 mm, Material : Polyolefin heat-shrink tubing, EVA hot-melt adhesive, Stainless steel reinforcing rod, Ceramic reinforcing rod (special types)",
     "subCategory": "Electrical Consumable"
   },
   {
@@ -3390,12 +3416,12 @@ export const ELECTRICAL_PRODUCTS = [
       "Product": "Thermostat",
       "Brand": "Havells",
       "Thermostat": "Mechanical Thermostat ( Bimetallic switch for temperature control), Digital Thermostat ( Electronic temperature control with display), Programmable Thermostat ( User-programmable schedules), Smart Thermostat ( Wi-Fi-enabled remote control and monitoring), Capillary Thermostat ( Uses a capillary tube sensor), DIN Rail Thermostat ( Mounted on a DIN rail), Panel Thermostat ( Installed inside electrical enclosures)",
-      "Range": "-20°C to +60°C, 0°C to +40°C, 0°C to +90°C, 30°C to +120°C, 50°C to +300°C",
+      "Range": "-20\u00b0C to +60\u00b0C, 0\u00b0C to +40\u00b0C, 0\u00b0C to +90\u00b0C, 30\u00b0C to +120\u00b0C, 50\u00b0C to +300\u00b0C",
       "Rating": "5 A, 10 A, 16 A, 20 A",
       "Type": "Wall Mount, DIN Rail Mount, Panel Mount, Surface Mount",
       "Sub-Category": "Industrial Control Items"
     },
-    "rawSpecs": "Types of Thermostat : Mechanical Thermostat ( Bimetallic switch for temperature control), Digital Thermostat ( Electronic temperature control with display), Programmable Thermostat ( User-programmable schedules), Smart Thermostat ( Wi-Fi-enabled remote control and monitoring), Capillary Thermostat ( Uses a capillary tube sensor), DIN Rail Thermostat ( Mounted on a DIN rail), Panel Thermostat ( Installed inside electrical enclosures), Temperature Range : -20°C to +60°C, 0°C to +40°C, 0°C to +90°C, 30°C to +120°C, 50°C to +300°C, Voltage Rating : 12 V DC, 24 V AC/DC, 110–120 V AC, 220–240 V AC, Current Rating : 5 A, 10 A, 16 A, 20 A, Mounting Type : Wall Mount, DIN Rail Mount, Panel Mount, Surface Mount,",
+    "rawSpecs": "Types of Thermostat : Mechanical Thermostat ( Bimetallic switch for temperature control), Digital Thermostat ( Electronic temperature control with display), Programmable Thermostat ( User-programmable schedules), Smart Thermostat ( Wi-Fi-enabled remote control and monitoring), Capillary Thermostat ( Uses a capillary tube sensor), DIN Rail Thermostat ( Mounted on a DIN rail), Panel Thermostat ( Installed inside electrical enclosures), Temperature Range : -20\u00b0C to +60\u00b0C, 0\u00b0C to +40\u00b0C, 0\u00b0C to +90\u00b0C, 30\u00b0C to +120\u00b0C, 50\u00b0C to +300\u00b0C, Voltage Rating : 12 V DC, 24 V AC/DC, 110\u2013120 V AC, 220\u2013240 V AC, Current Rating : 5 A, 10 A, 16 A, 20 A, Mounting Type : Wall Mount, DIN Rail Mount, Panel Mount, Surface Mount,",
     "subCategory": "Industrial Control Items"
   },
   {
@@ -3408,16 +3434,16 @@ export const ELECTRICAL_PRODUCTS = [
     "priorityLabel": "Last Priority",
     "color": "white",
     "image": "/images/products/electrical/timer.png",
-    "description": "High-quality Timer manufactured to industrial specifications. Digital Timer, Analog Timer, Star–Delta Timer, Cyclic (Repeat Cycle) Timer, Countdown Timer, Weekly/Programmable Timer, Multifunction Timer, DIN Rail Timer,",
+    "description": "High-quality Timer manufactured to industrial specifications. Digital Timer, Analog Timer, Star\u2013Delta Timer, Cyclic (Repeat Cycle) Timer, Countdown Timer, Weekly/Programmable Timer, Multifunction Timer, DIN Rail Timer,",
     "specs": {
       "Product": "Timer",
       "Brand": "Siemens",
-      "Variants / Types": "Digital Timer, Analog Timer, Star–Delta Timer, Cyclic (Repeat Cycle) Timer, Countdown Timer, Weekly/Programmable Timer, Multifunction Timer, DIN Rail Timer,",
+      "Variants / Types": "Digital Timer, Analog Timer, Star\u2013Delta Timer, Cyclic (Repeat Cycle) Timer, Countdown Timer, Weekly/Programmable Timer, Multifunction Timer, DIN Rail Timer,",
       "Standard": "IS / IEC Certified",
       "Application": "Power Distribution, Industrial & Commercial",
       "Sub-Category": "Electrical Hardware"
     },
-    "rawSpecs": "Digital Timer, Analog Timer, Star–Delta Timer, Cyclic (Repeat Cycle) Timer, Countdown Timer, Weekly/Programmable Timer, Multifunction Timer, DIN Rail Timer,",
+    "rawSpecs": "Digital Timer, Analog Timer, Star\u2013Delta Timer, Cyclic (Repeat Cycle) Timer, Countdown Timer, Weekly/Programmable Timer, Multifunction Timer, DIN Rail Timer,",
     "subCategory": "Electrical Hardware",
     "gallery": [
       "/images/products/electrical/timer.png",
@@ -3447,7 +3473,7 @@ export const ELECTRICAL_PRODUCTS = [
       "Voltage": "415 V, 230 V, 110 V, 24 V",
       "Sub-Category": "Electrical Hardware"
     },
-    "rawSpecs": "Current Transformer, Control Transformer, Transformer Type : Distribution Transformer, Power Transformer, Oil-Immersed Transformer, Dry Type (Cast Resin) Transformer, Isolation Transformer, Auto Transformer, Furnace Transformer, Earthing (Grounding) Transformer, Current Transformer (CT), Voltage/Potential Transformer (VT/PT), Voltage Class : HT/EHV, LT/HT, HT, LT, Rating : 25–5000 KVA, 25 kVA–500 MVA, 5–1000 MVA, 0.5–500 KVA, 25–3150 kVA, 5–5000 A, 3.3–400 kV, 1 kVA–500 MVA, 50 VA–10 kVA, Standard Rating : 25 KVA, 50 KVA, 63 KVA, 100 KVA, 160 KVA, 200 KVA, 250 KVA, 315 KV, 400 KVA, 500 KVA, 630 KVA, 750 KVA, 1000 KVA, 1250 KVA, 1600 KVA, 2000 KVA, 2500 KVA, 3150 KVA, 5000 KVA, Voltage : 415 V, 230 V, 110 V, 24 V,",
+    "rawSpecs": "Current Transformer, Control Transformer, Transformer Type : Distribution Transformer, Power Transformer, Oil-Immersed Transformer, Dry Type (Cast Resin) Transformer, Isolation Transformer, Auto Transformer, Furnace Transformer, Earthing (Grounding) Transformer, Current Transformer (CT), Voltage/Potential Transformer (VT/PT), Voltage Class : HT/EHV, LT/HT, HT, LT, Rating : 25\u20135000 KVA, 25 kVA\u2013500 MVA, 5\u20131000 MVA, 0.5\u2013500 KVA, 25\u20133150 kVA, 5\u20135000 A, 3.3\u2013400 kV, 1 kVA\u2013500 MVA, 50 VA\u201310 kVA, Standard Rating : 25 KVA, 50 KVA, 63 KVA, 100 KVA, 160 KVA, 200 KVA, 250 KVA, 315 KV, 400 KVA, 500 KVA, 630 KVA, 750 KVA, 1000 KVA, 1250 KVA, 1600 KVA, 2000 KVA, 2500 KVA, 3150 KVA, 5000 KVA, Voltage : 415 V, 230 V, 110 V, 24 V,",
     "subCategory": "Electrical Hardware",
     "gallery": [
       "/images/products/electrical/transformer.png",
@@ -3469,12 +3495,12 @@ export const ELECTRICAL_PRODUCTS = [
       "Product": "Variable Frequency Drive (VFD)",
       "Brand": "Legrand",
       "Ds": "Scalar (V/F) VFD, Vector Control VFD, Sensorless Vector VFD, Closed-Loop Vector VFD, Regenerative VFD, Servo VFD ( High-precision motion control)",
-      "Power": "0.25 kW (0.33 HP), 0.37 kW (0.5 HP), 0.75 kW (1 HP), 1.5 kW (2 HP), 2.2 kW (3 HP), 3.7 kW (5 HP), 5.5 kW (7.5 HP), 7.5 kW (10 HP), 11–500 kW+",
-      "Voltage": "200–240 V AC, 200–240 V AC, 380–480 V AC, 500–690 V AC, Single Phase, Three Phase, Power Range x Dimensions (H × W ×",
-      "D)": "3.7–7.5 kW x 220 × 120 × 180 mm, 11–30 kW x 350 × 200 × 220 mm, 0.25–2.2 kW x 150 × 80 × 150 mm, Above 30 kW x Cabinet-mounted or modular design",
+      "Power": "0.25 kW (0.33 HP), 0.37 kW (0.5 HP), 0.75 kW (1 HP), 1.5 kW (2 HP), 2.2 kW (3 HP), 3.7 kW (5 HP), 5.5 kW (7.5 HP), 7.5 kW (10 HP), 11\u2013500 kW+",
+      "Voltage": "200\u2013240 V AC, 200\u2013240 V AC, 380\u2013480 V AC, 500\u2013690 V AC, Single Phase, Three Phase, Power Range x Dimensions (H \u00d7 W \u00d7",
+      "D)": "3.7\u20137.5 kW x 220 \u00d7 120 \u00d7 180 mm, 11\u201330 kW x 350 \u00d7 200 \u00d7 220 mm, 0.25\u20132.2 kW x 150 \u00d7 80 \u00d7 150 mm, Above 30 kW x Cabinet-mounted or modular design",
       "Sub-Category": "Industrial Control Items"
     },
-    "rawSpecs": "Types of VFDs : Scalar (V/F) VFD, Vector Control VFD, Sensorless Vector VFD, Closed-Loop Vector VFD, Regenerative VFD, Servo VFD ( High-precision motion control), Common Power Rating : Motor Power : 0.25 kW (0.33 HP), 0.37 kW (0.5 HP), 0.75 kW (1 HP), 1.5 kW (2 HP), 2.2 kW (3 HP), 3.7 kW (5 HP), 5.5 kW (7.5 HP), 7.5 kW (10 HP), 11–500 kW+, Voltage : 200–240 V AC, 200–240 V AC, 380–480 V AC, 500–690 V AC, Single Phase, Three Phase, Power Range x Dimensions (H × W × D) : 3.7–7.5 kW x 220 × 120 × 180 mm, 11–30 kW x 350 × 200 × 220 mm, 0.25–2.2 kW x 150 × 80 × 150 mm, Above 30 kW x Cabinet-mounted or modular design",
+    "rawSpecs": "Types of VFDs : Scalar (V/F) VFD, Vector Control VFD, Sensorless Vector VFD, Closed-Loop Vector VFD, Regenerative VFD, Servo VFD ( High-precision motion control), Common Power Rating : Motor Power : 0.25 kW (0.33 HP), 0.37 kW (0.5 HP), 0.75 kW (1 HP), 1.5 kW (2 HP), 2.2 kW (3 HP), 3.7 kW (5 HP), 5.5 kW (7.5 HP), 7.5 kW (10 HP), 11\u2013500 kW+, Voltage : 200\u2013240 V AC, 200\u2013240 V AC, 380\u2013480 V AC, 500\u2013690 V AC, Single Phase, Three Phase, Power Range x Dimensions (H \u00d7 W \u00d7 D) : 3.7\u20137.5 kW x 220 \u00d7 120 \u00d7 180 mm, 11\u201330 kW x 350 \u00d7 200 \u00d7 220 mm, 0.25\u20132.2 kW x 150 \u00d7 80 \u00d7 150 mm, Above 30 kW x Cabinet-mounted or modular design",
     "subCategory": "Industrial Control Items",
     "gallery": [
       "/images/products/electrical/variable-frequency-drive-vfd.png",
@@ -3497,13 +3523,13 @@ export const ELECTRICAL_PRODUCTS = [
       "Product": "Voltage Protector",
       "Brand": "Polycab",
       "Protector": "Single-Phase Voltage Protector ( Protects 230 V AC circuits), Three-Phase Voltage Protector ( Protects 415 V AC systems), Over Voltage Protector (Disconnects during high-voltage conditions), Under Voltage Protector (Disconnects during low-voltage conditions), Over & Under Voltage Protector ( Protects against both high and low voltage), Digital Voltage Protector (LCD/LED display with programmable settings)",
-      "Rating": "16 A, 25 A, 32 A, 40 A, 63 A, 80–100 A",
+      "Rating": "16 A, 25 A, 32 A, 40 A, 63 A, 80\u2013100 A",
       "Dimension": "DIN Rail (2",
-      "Size": "90 × 72 × 65 mm, Panel Mount",
+      "Size": "90 \u00d7 72 \u00d7 65 mm, Panel Mount",
       "Type": "Panel Mount, DIN Rail (35 mm), Distribution Board Mount",
       "Sub-Category": "Switchgear & Protection"
     },
-    "rawSpecs": "Types of Voltage Protector : Single-Phase Voltage Protector ( Protects 230 V AC circuits), Three-Phase Voltage Protector ( Protects 415 V AC systems), Over Voltage Protector (Disconnects during high-voltage conditions), Under Voltage Protector (Disconnects during low-voltage conditions), Over & Under Voltage Protector ( Protects against both high and low voltage), Digital Voltage Protector (LCD/LED display with programmable settings), Voltage Rating : Single Phase 220–240 V AC, Three Phase 380–415 V AC, Current Rating : 16 A, 25 A, 32 A, 40 A, 63 A, 80–100 A, Dimension : DIN Rail (2 Module) Size : 90 × 36 × 65 mm, DIN Rail (4 Module) Size : 90 × 72 × 65 mm, Panel Mount, Mounting Type : Panel Mount, DIN Rail (35 mm), Distribution Board Mount",
+    "rawSpecs": "Types of Voltage Protector : Single-Phase Voltage Protector ( Protects 230 V AC circuits), Three-Phase Voltage Protector ( Protects 415 V AC systems), Over Voltage Protector (Disconnects during high-voltage conditions), Under Voltage Protector (Disconnects during low-voltage conditions), Over & Under Voltage Protector ( Protects against both high and low voltage), Digital Voltage Protector (LCD/LED display with programmable settings), Voltage Rating : Single Phase 220\u2013240 V AC, Three Phase 380\u2013415 V AC, Current Rating : 16 A, 25 A, 32 A, 40 A, 63 A, 80\u2013100 A, Dimension : DIN Rail (2 Module) Size : 90 \u00d7 36 \u00d7 65 mm, DIN Rail (4 Module) Size : 90 \u00d7 72 \u00d7 65 mm, Panel Mount, Mounting Type : Panel Mount, DIN Rail (35 mm), Distribution Board Mount",
     "subCategory": "Switchgear & Protection"
   },
   {
@@ -3515,16 +3541,16 @@ export const ELECTRICAL_PRODUCTS = [
     "priority": 3,
     "priorityLabel": "Last Priority",
     "color": "white",
-    "image": "/images/products/electrical/voltage-stabilizer.png",
-    "description": "High-quality Voltage Stabilizer manufactured to industrial specifications. Relay Type Stabilizer, Servo Voltage Stabilizer, Static Voltage Stabilizer, Digital Voltage Stabilizer, Single-Phase Stabilizer, Three-Phase Stabilizer, Capacity Rating : 0.5 kVA, 1 kVA, 2 kVA, 3 kVA, 5 kVA, 10 kVA, 15–3...",
+    "image": "/images/products/electrical/voltage-stabilizer.jpeg",
+    "description": "High-quality Voltage Stabilizer manufactured to industrial specifications. Relay Type Stabilizer, Servo Voltage Stabilizer, Static Voltage Stabilizer, Digital Voltage Stabilizer, Single-Phase Stabilizer, Three-Phase Stabilizer, Capacity Rating : 0.5 kVA, 1 kVA, 2 kVA, 3 kVA, 5 kVA, 10 kVA, 15\u20133...",
     "specs": {
       "Product": "Voltage Stabilizer",
       "Brand": "L&T",
-      "Rating": "0.5 kVA, 1 kVA, 2 kVA, 3 kVA, 5 kVA, 10 kVA, 15–30 kVA, 50–100 kVA, 100–500 kVA",
-      "Voltage": "380–415 V AC ±1% to ±5%, Air-Cooled, Oil-Cooled (large servo stabilizers), Natural Air Cooling, Capacity x Dimensions (H × W × D) - 1–5 kVA x 350 × 250 × 250 mm, 5–10 kVA x 500 × 350 × 350 mm, 15–30 kVA x 800 × 600 × 500 mm, 50–100 kVA x 1200 × 800 × 700 mm",
+      "Rating": "0.5 kVA, 1 kVA, 2 kVA, 3 kVA, 5 kVA, 10 kVA, 15\u201330 kVA, 50\u2013100 kVA, 100\u2013500 kVA",
+      "Voltage": "380\u2013415 V AC \u00b11% to \u00b15%, Air-Cooled, Oil-Cooled (large servo stabilizers), Natural Air Cooling, Capacity x Dimensions (H \u00d7 W \u00d7 D) - 1\u20135 kVA x 350 \u00d7 250 \u00d7 250 mm, 5\u201310 kVA x 500 \u00d7 350 \u00d7 350 mm, 15\u201330 kVA x 800 \u00d7 600 \u00d7 500 mm, 50\u2013100 kVA x 1200 \u00d7 800 \u00d7 700 mm",
       "Sub-Category": "Switchgear & Protection"
     },
-    "rawSpecs": "Relay Type Stabilizer, Servo Voltage Stabilizer, Static Voltage Stabilizer, Digital Voltage Stabilizer, Single-Phase Stabilizer, Three-Phase Stabilizer, Capacity Rating : 0.5 kVA, 1 kVA, 2 kVA, 3 kVA, 5 kVA, 10 kVA, 15–30 kVA, 50–100 kVA, 100–500 kVA, Voltage Rating : Single-Phase Input Voltage : 140–270 V AC (varies by model), Output Voltage : 220–240 V AC ±1% to ±5%, Three-Phase Input Voltage : 300–470 V AC (varies by model), Output Voltage : 380–415 V AC ±1% to ±5%, Air-Cooled, Oil-Cooled (large servo stabilizers), Natural Air Cooling, Capacity x Dimensions (H × W × D) - 1–5 kVA x 350 × 250 × 250 mm, 5–10 kVA x 500 × 350 × 350 mm, 15–30 kVA x 800 × 600 × 500 mm, 50–100 kVA x 1200 × 800 × 700 mm",
+    "rawSpecs": "Relay Type Stabilizer, Servo Voltage Stabilizer, Static Voltage Stabilizer, Digital Voltage Stabilizer, Single-Phase Stabilizer, Three-Phase Stabilizer, Capacity Rating : 0.5 kVA, 1 kVA, 2 kVA, 3 kVA, 5 kVA, 10 kVA, 15\u201330 kVA, 50\u2013100 kVA, 100\u2013500 kVA, Voltage Rating : Single-Phase Input Voltage : 140\u2013270 V AC (varies by model), Output Voltage : 220\u2013240 V AC \u00b11% to \u00b15%, Three-Phase Input Voltage : 300\u2013470 V AC (varies by model), Output Voltage : 380\u2013415 V AC \u00b11% to \u00b15%, Air-Cooled, Oil-Cooled (large servo stabilizers), Natural Air Cooling, Capacity x Dimensions (H \u00d7 W \u00d7 D) - 1\u20135 kVA x 350 \u00d7 250 \u00d7 250 mm, 5\u201310 kVA x 500 \u00d7 350 \u00d7 350 mm, 15\u201330 kVA x 800 \u00d7 600 \u00d7 500 mm, 50\u2013100 kVA x 1200 \u00d7 800 \u00d7 700 mm",
     "subCategory": "Switchgear & Protection"
   },
   {
@@ -3537,15 +3563,15 @@ export const ELECTRICAL_PRODUCTS = [
     "priorityLabel": "Last Priority",
     "color": "white",
     "image": "/images/products/electrical/water-tank-over-flow-alarm.png",
-    "description": "High-quality Water Tank Over Flow Alarm manufactured to industrial specifications. Types of Water Tank Overflow Alarm : Buzzer Alarm, LED & Buzzer Alarm, Float Switch Alarm, Electrode Sensor Alarm, Wireless Overflow Alarm, GSM/Wi-Fi Smart Alarm, Voltage : 3–9 V DC, 12 V DC, 24 V DC, 220–240 V AC",
+    "description": "High-quality Water Tank Over Flow Alarm manufactured to industrial specifications. Types of Water Tank Overflow Alarm : Buzzer Alarm, LED & Buzzer Alarm, Float Switch Alarm, Electrode Sensor Alarm, Wireless Overflow Alarm, GSM/Wi-Fi Smart Alarm, Voltage : 3\u20139 V DC, 12 V DC, 24 V DC, 220\u2013240 V AC",
     "specs": {
       "Product": "Water Tank Over Flow Alarm",
       "Brand": "Crompton",
       "Alarm": "Buzzer Alarm, LED & Buzzer Alarm, Float Switch Alarm, Electrode Sensor Alarm, Wireless Overflow Alarm, GSM/Wi-Fi Smart Alarm",
-      "Voltage": "3–9 V DC, 12 V DC, 24 V DC, 220–240 V AC",
+      "Voltage": "3\u20139 V DC, 12 V DC, 24 V DC, 220\u2013240 V AC",
       "Sub-Category": "Water Pump Accessories"
     },
-    "rawSpecs": "Types of Water Tank Overflow Alarm : Buzzer Alarm, LED & Buzzer Alarm, Float Switch Alarm, Electrode Sensor Alarm, Wireless Overflow Alarm, GSM/Wi-Fi Smart Alarm, Voltage : 3–9 V DC, 12 V DC, 24 V DC, 220–240 V AC",
+    "rawSpecs": "Types of Water Tank Overflow Alarm : Buzzer Alarm, LED & Buzzer Alarm, Float Switch Alarm, Electrode Sensor Alarm, Wireless Overflow Alarm, GSM/Wi-Fi Smart Alarm, Voltage : 3\u20139 V DC, 12 V DC, 24 V DC, 220\u2013240 V AC",
     "subCategory": "Water Pump Accessories",
     "gallery": [
       "/images/products/electrical/water-tank-over-flow-alarm.png",

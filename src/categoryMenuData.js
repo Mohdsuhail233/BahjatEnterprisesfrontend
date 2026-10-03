@@ -3,7 +3,7 @@ export const CATEGORY_MENU_DATA = {
   electrical: {
     id: 'electrical',
     name: 'Electrical',
-    totalItems: '144 Products',
+    totalItems: '142 Products',
     col1Title: 'Electrical Supplies',
     col1Links: [
       "Wires & Cables",
@@ -52,7 +52,7 @@ export const CATEGORY_MENU_DATA = {
       { label: "1st Priority Stock (Yellow)", href: "/category/electrical" },
       { label: "2nd Priority Stock (Green)", href: "/category/electrical" },
       { label: "Standard Catalog (White)", href: "/category/electrical" },
-      { label: "View All 144 Electrical Items", href: "/category/electrical" },
+      { label: "View All 142 Electrical Items", href: "/category/electrical" },
       { label: "Bulk Project RFQ", href: "/rfq" }
     ]
   },
@@ -60,7 +60,7 @@ export const CATEGORY_MENU_DATA = {
   tools: {
     id: 'tools',
     name: 'Tools (Hand & Power)',
-    totalItems: 'Hand, Measuring & Power Tools',
+    totalItems: '150 Products',
     col1Title: 'Tool Categories & Power',
     col1Links: [
       "Hand Tools",
@@ -112,7 +112,7 @@ export const CATEGORY_MENU_DATA = {
       { label: "Hand Tools Catalog", href: "/category/tools?sub=Hand+Tools" },
       { label: "Measuring & Metrology", href: "/category/tools?sub=Measuring+Tools" },
       { label: "Industrial Power Tools", href: "/category/tools?sub=Power+Tools" },
-      { label: "View All Tool Items", href: "/category/tools" },
+      { label: "View All 150 Tool Items", href: "/category/tools" },
       { label: "Industrial Site RFQ", href: "/rfq" }
     ]
   },
@@ -269,7 +269,7 @@ export const CATEGORY_MENU_DATA = {
   safety: {
     id: 'safety',
     name: 'Safety',
-    totalItems: '217 Industrial Safety Products',
+    totalItems: '214 Products',
     col1Title: 'Personal Protective Equipment',
     col1Links: [
       "Hand Protection",
@@ -315,7 +315,7 @@ export const CATEGORY_MENU_DATA = {
       { label: "Height & Fall Protection", href: "/category/safety?sub=Height+%26+Fall+Protection" },
       { label: "Hand & Cut Protection", href: "/category/safety?sub=Hand+Protection" },
       { label: "Fire Safety Equipment", href: "/category/safety?sub=Fire+Safety" },
-      { label: "View All 217 Safety Items", href: "/category/safety" },
+      { label: "View All 214 Safety Items", href: "/category/safety" },
       { label: "Corporate PPE Project RFQ", href: "/rfq" }
     ]
   },
@@ -323,7 +323,7 @@ export const CATEGORY_MENU_DATA = {
   surgical: {
     id: 'surgical',
     name: 'Surgical',
-    totalItems: '77 Medical Products',
+    totalItems: '100 Products',
     col1Title: 'Dressings & Orthopedic',
     col1Links: [
       "Wound Care & Dressings",
@@ -367,7 +367,7 @@ export const CATEGORY_MENU_DATA = {
       { label: "Orthopedic Supports Range", href: "/category/surgical?sub=Orthopedic+Supports" },
       { label: "Surgical Disposables & Infusion", href: "/category/surgical?sub=Surgical+Disposables+%26+Infusion" },
       { label: "Diagnostic Equipment & Monitors", href: "/category/surgical?sub=Diagnostic+Equipment+%26+Consumables" },
-      { label: "View All 77 Surgical Products", href: "/category/surgical" },
+      { label: "View All 100 Surgical Products", href: "/category/surgical" },
       { label: "Hospital Institutional Tender RFQ", href: "/rfq" }
     ]
   },
@@ -375,7 +375,7 @@ export const CATEGORY_MENU_DATA = {
   instrumentation: {
     id: 'instrumentation',
     name: 'Instrumentation',
-    totalItems: '104 Process Products',
+    totalItems: '202 Products',
     col1Title: 'Pressure, Flow & Temperature',
     col1Links: [
       "Pressure Gauges & Indicators",
@@ -419,7 +419,7 @@ export const CATEGORY_MENU_DATA = {
       { label: "Instrument Valves & Manifolds", href: "/category/instrumentation?sub=Instrument+Valves+%26+Manifolds" },
       { label: "Flow Meters & Flow Sensors", href: "/category/instrumentation?sub=Flow+Meters+%26+Flow+Sensors" },
       { label: "Instrument Fittings & Tubing", href: "/category/instrumentation?sub=Instrument+Fittings+%26+Tubing" },
-      { label: "View All 104 Instrumentation Products", href: "/category/instrumentation" },
+      { label: "View All 202 Instrumentation Products", href: "/category/instrumentation" },
       { label: "Process Automation Tender RFQ", href: "/rfq" }
     ]
   },
@@ -479,7 +479,7 @@ export const CATEGORY_MENU_DATA = {
   "lab-instruments": {
     id: 'lab-instruments',
     name: 'Lab Instruments',
-    totalItems: '79 Products',
+    totalItems: '148 Products',
     col1Title: 'Analytical & Glassware',
     col1Links: [
       "Analytical & Precision Instruments",
@@ -524,7 +524,7 @@ export const CATEGORY_MENU_DATA = {
       { label: "General Laboratory Equipment", href: "/category/lab-instruments?sub=General+Laboratory+Equipment" },
       { label: "Clinical & Diagnostic Devices", href: "/category/lab-instruments?sub=Clinical+%26+Diagnostic+Devices" },
       { label: "Life Science & Liquid Handling", href: "/category/lab-instruments?sub=Life+Science+%26+Liquid+Handling" },
-      { label: "View All 79 Lab Products", href: "/category/lab-instruments" },
+      { label: "View All 148 Lab Products", href: "/category/lab-instruments" },
       { label: "Institutional & Research Lab RFQ", href: "/rfq" }
     ]
   },
@@ -532,7 +532,7 @@ export const CATEGORY_MENU_DATA = {
   "oil-gas-pipe-fittings": {
     id: 'oil-gas-pipe-fittings',
     name: 'Oil & Gas, Pipe Fittings',
-    totalItems: '63 Products',
+    totalItems: '97 Products',
     col1Title: 'Flanges, Valves & Olets',
     col1Links: [
       "Branch Outlet Fittings",
@@ -577,7 +577,7 @@ export const CATEGORY_MENU_DATA = {
       { label: "Butt-Weld Fittings (ASME B16.9)", href: "/category/oil-gas-pipe-fittings?sub=Butt-Weld+Fittings" },
       { label: "High-Pressure Valves & Flow Control", href: "/category/oil-gas-pipe-fittings?sub=Valves+%26+Flow+Control" },
       { label: "Pipes & Line Materials (API 5L / ASTM)", href: "/category/oil-gas-pipe-fittings?sub=Pipes+%26+Line+Materials" },
-      { label: "View All 63 Oil & Gas Products", href: "/category/oil-gas-pipe-fittings" },
+      { label: "View All 97 Oil & Gas Products", href: "/category/oil-gas-pipe-fittings" },
       { label: "Refinery & Pipeline RFQ", href: "/rfq" }
     ]
   },

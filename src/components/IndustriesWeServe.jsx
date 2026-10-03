@@ -164,7 +164,7 @@ export default function IndustriesWeServe() {
             );
 
             return (
-              <motion.div
+              <motion.article
                 key={ind.id}
                 variants={itemVariants}
                 whileHover={{ y: -7 }}
@@ -227,7 +227,7 @@ export default function IndustriesWeServe() {
                     <span className="group-hover:translate-x-1.5 transition-transform duration-200">→</span>
                   </a>
                 </div>
-              </motion.div>
+              </motion.article>
             );
           })}
         </motion.div>

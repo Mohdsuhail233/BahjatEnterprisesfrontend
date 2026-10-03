@@ -14,7 +14,7 @@ export const CONSTRUCTION_PRODUCTS = [
     "category": "construction-materials",
     "subCategory": "Industrial Hydraulics & Systems",
     "image": null,
-    "description": "Engineered Hydraulic Accumulators designed for continuous duty industrial applications under the Hydac engineering standard. Delivers stable hydraulic power delivery, contamination control, and high energy efficiency.",
+    "description": "Engineered Hydraulic Accumulators designed for continuous duty industrial applications to certified industrial standards. Delivers stable hydraulic power delivery, contamination control, and high energy efficiency.",
     "specs": {
       "Product": "Hydraulic Accumulators",
       "Brand": "Hydac",
@@ -313,7 +313,7 @@ export const CONSTRUCTION_PRODUCTS = [
     "category": "construction-materials",
     "subCategory": "Industrial Hydraulics & Systems",
     "image": null,
-    "description": "Engineered Burr Blank designed for continuous duty industrial applications under the Bosch Rexroth engineering standard. Delivers stable hydraulic power delivery, contamination control, and high energy efficiency.",
+    "description": "Engineered Burr Blank designed for continuous duty industrial applications to certified industrial standards. Delivers stable hydraulic power delivery, contamination control, and high energy efficiency.",
     "specs": {
       "Product": "Burr Blank",
       "Brand": "Bosch Rexroth",
@@ -660,7 +660,7 @@ export const CONSTRUCTION_PRODUCTS = [
     "category": "construction-materials",
     "subCategory": "Industrial Hydraulics & Systems",
     "image": null,
-    "description": "Engineered Compact Power Unit designed for continuous duty industrial applications under the Hydac engineering standard. Delivers stable hydraulic power delivery, contamination control, and high energy efficiency.",
+    "description": "Engineered Compact Power Unit designed for continuous duty industrial applications to certified industrial standards. Delivers stable hydraulic power delivery, contamination control, and high energy efficiency.",
     "specs": {
       "Product": "Compact Power Unit",
       "Brand": "Hydac",
@@ -707,7 +707,7 @@ export const CONSTRUCTION_PRODUCTS = [
     "category": "construction-materials",
     "subCategory": "Industrial Hydraulics & Systems",
     "image": null,
-    "description": "Engineered Compressor designed for continuous duty industrial applications under the Bosch Rexroth engineering standard. Delivers stable hydraulic power delivery, contamination control, and high energy efficiency.",
+    "description": "Engineered Compressor designed for continuous duty industrial applications to certified industrial standards. Delivers stable hydraulic power delivery, contamination control, and high energy efficiency.",
     "specs": {
       "Product": "Compressor",
       "Brand": "Bosch Rexroth",
@@ -1048,7 +1048,7 @@ export const CONSTRUCTION_PRODUCTS = [
     "category": "construction-materials",
     "subCategory": "Industrial Hydraulics & Systems",
     "image": null,
-    "description": "Engineered Displacement Sensor designed for continuous duty industrial applications under the Bosch Rexroth engineering standard. Delivers stable hydraulic power delivery, contamination control, and high energy efficiency.",
+    "description": "Engineered Displacement Sensor designed for continuous duty industrial applications to certified industrial standards. Delivers stable hydraulic power delivery, contamination control, and high energy efficiency.",
     "specs": {
       "Product": "Displacement Sensor",
       "Brand": "Bosch Rexroth",
@@ -1146,7 +1146,7 @@ export const CONSTRUCTION_PRODUCTS = [
     "category": "construction-materials",
     "subCategory": "Industrial Hydraulics & Systems",
     "image": null,
-    "description": "Engineered Evaporators designed for continuous duty industrial applications under the Bosch Rexroth engineering standard. Delivers stable hydraulic power delivery, contamination control, and high energy efficiency.",
+    "description": "Engineered Evaporators designed for continuous duty industrial applications to certified industrial standards. Delivers stable hydraulic power delivery, contamination control, and high energy efficiency.",
     "specs": {
       "Product": "Evaporators",
       "Brand": "Bosch Rexroth",
@@ -1592,7 +1592,7 @@ export const CONSTRUCTION_PRODUCTS = [
     "category": "construction-materials",
     "subCategory": "Industrial Hydraulics & Systems",
     "image": null,
-    "description": "Engineered Heavy Machinery Hydraulic Components designed for continuous duty industrial applications under the Bosch Rexroth engineering standard. Delivers stable hydraulic power delivery, contamination control, and high energy efficiency.",
+    "description": "Engineered Heavy Machinery Hydraulic Components designed for continuous duty industrial applications to certified industrial standards. Delivers stable hydraulic power delivery, contamination control, and high energy efficiency.",
     "specs": {
       "Product": "Heavy Machinery Hydraulic Components",
       "Brand": "Bosch Rexroth",
@@ -1743,7 +1743,7 @@ export const CONSTRUCTION_PRODUCTS = [
     "category": "construction-materials",
     "subCategory": "Industrial Hydraulics & Systems",
     "image": null,
-    "description": "Engineered Highway Equipments designed for continuous duty industrial applications under the Bosch Rexroth engineering standard. Delivers stable hydraulic power delivery, contamination control, and high energy efficiency.",
+    "description": "Engineered Highway Equipments designed for continuous duty industrial applications to certified industrial standards. Delivers stable hydraulic power delivery, contamination control, and high energy efficiency.",
     "specs": {
       "Product": "Highway Equipments",
       "Brand": "Bosch Rexroth",
@@ -1994,7 +1994,7 @@ export const CONSTRUCTION_PRODUCTS = [
     "category": "construction-materials",
     "subCategory": "Industrial Hydraulics & Systems",
     "image": null,
-    "description": "Engineered Hydraulic Filtration designed for continuous duty industrial applications under the Bosch Rexroth engineering standard. Delivers stable hydraulic power delivery, contamination control, and high energy efficiency.",
+    "description": "Engineered Hydraulic Filtration designed for continuous duty industrial applications to certified industrial standards. Delivers stable hydraulic power delivery, contamination control, and high energy efficiency.",
     "specs": {
       "Product": "Hydraulic Filtration",
       "Brand": "Bosch Rexroth",
@@ -2138,7 +2138,7 @@ export const CONSTRUCTION_PRODUCTS = [
     "category": "construction-materials",
     "subCategory": "Industrial Hydraulics & Systems",
     "image": null,
-    "description": "Engineered Hydraulic Power Packs designed for continuous duty industrial applications under the Hydac engineering standard. Delivers stable hydraulic power delivery, contamination control, and high energy efficiency.",
+    "description": "Engineered Hydraulic Power Packs designed for continuous duty industrial applications to certified industrial standards. Delivers stable hydraulic power delivery, contamination control, and high energy efficiency.",
     "specs": {
       "Product": "Hydraulic Power Packs",
       "Brand": "Hydac",
@@ -2485,7 +2485,7 @@ export const CONSTRUCTION_PRODUCTS = [
     "category": "construction-materials",
     "subCategory": "Industrial Hydraulics & Systems",
     "image": null,
-    "description": "Engineered Hydrostatic Transmission Control Unit designed for continuous duty industrial applications under the Bosch Rexroth engineering standard. Delivers stable hydraulic power delivery, contamination control, and high energy efficiency.",
+    "description": "Engineered Hydrostatic Transmission Control Unit designed for continuous duty industrial applications to certified industrial standards. Delivers stable hydraulic power delivery, contamination control, and high energy efficiency.",
     "specs": {
       "Product": "Hydrostatic Transmission Control Unit",
       "Brand": "Bosch Rexroth",
@@ -2534,7 +2534,7 @@ export const CONSTRUCTION_PRODUCTS = [
     "category": "construction-materials",
     "subCategory": "Industrial Hydraulics & Systems",
     "image": null,
-    "description": "Engineered Industrial Hydraulics designed for continuous duty industrial applications under the Bosch Rexroth engineering standard. Delivers stable hydraulic power delivery, contamination control, and high energy efficiency.",
+    "description": "Engineered Industrial Hydraulics designed for continuous duty industrial applications to certified industrial standards. Delivers stable hydraulic power delivery, contamination control, and high energy efficiency.",
     "specs": {
       "Product": "Industrial Hydraulics",
       "Brand": "Bosch Rexroth",
@@ -2580,7 +2580,7 @@ export const CONSTRUCTION_PRODUCTS = [
     "category": "construction-materials",
     "subCategory": "Industrial Hydraulics & Systems",
     "image": null,
-    "description": "Engineered Integrated Servo Solution designed for continuous duty industrial applications under the Bosch Rexroth engineering standard. Delivers stable hydraulic power delivery, contamination control, and high energy efficiency.",
+    "description": "Engineered Integrated Servo Solution designed for continuous duty industrial applications to certified industrial standards. Delivers stable hydraulic power delivery, contamination control, and high energy efficiency.",
     "specs": {
       "Product": "Integrated Servo Solution",
       "Brand": "Bosch Rexroth",
@@ -2773,7 +2773,7 @@ export const CONSTRUCTION_PRODUCTS = [
     "category": "construction-materials",
     "subCategory": "Industrial Hydraulics & Systems",
     "image": null,
-    "description": "Engineered Mobile Hydraulics designed for continuous duty industrial applications under the Bosch Rexroth engineering standard. Delivers stable hydraulic power delivery, contamination control, and high energy efficiency.",
+    "description": "Engineered Mobile Hydraulics designed for continuous duty industrial applications to certified industrial standards. Delivers stable hydraulic power delivery, contamination control, and high energy efficiency.",
     "specs": {
       "Product": "Mobile Hydraulics",
       "Brand": "Bosch Rexroth",
@@ -3559,7 +3559,7 @@ export const CONSTRUCTION_PRODUCTS = [
     "category": "construction-materials",
     "subCategory": "Industrial Hydraulics & Systems",
     "image": null,
-    "description": "Engineered Pneumatic Accessories designed for continuous duty industrial applications under the Bosch Rexroth engineering standard. Delivers stable hydraulic power delivery, contamination control, and high energy efficiency.",
+    "description": "Engineered Pneumatic Accessories designed for continuous duty industrial applications to certified industrial standards. Delivers stable hydraulic power delivery, contamination control, and high energy efficiency.",
     "specs": {
       "Product": "Pneumatic Accessories",
       "Brand": "Bosch Rexroth",
@@ -3704,7 +3704,7 @@ export const CONSTRUCTION_PRODUCTS = [
     "category": "construction-materials",
     "subCategory": "Industrial Hydraulics & Systems",
     "image": null,
-    "description": "Engineered Pressurizers designed for continuous duty industrial applications under the Hydac engineering standard. Delivers stable hydraulic power delivery, contamination control, and high energy efficiency.",
+    "description": "Engineered Pressurizers designed for continuous duty industrial applications to certified industrial standards. Delivers stable hydraulic power delivery, contamination control, and high energy efficiency.",
     "specs": {
       "Product": "Pressurizers",
       "Brand": "Hydac",
@@ -4239,7 +4239,7 @@ export const CONSTRUCTION_PRODUCTS = [
     "category": "construction-materials",
     "subCategory": "Industrial Hydraulics & Systems",
     "image": null,
-    "description": "Engineered Servo Hydraulics designed for continuous duty industrial applications under the Bosch Rexroth engineering standard. Delivers stable hydraulic power delivery, contamination control, and high energy efficiency.",
+    "description": "Engineered Servo Hydraulics designed for continuous duty industrial applications to certified industrial standards. Delivers stable hydraulic power delivery, contamination control, and high energy efficiency.",
     "specs": {
       "Product": "Servo Hydraulics",
       "Brand": "Bosch Rexroth",
@@ -4335,7 +4335,7 @@ export const CONSTRUCTION_PRODUCTS = [
     "category": "construction-materials",
     "subCategory": "Industrial Hydraulics & Systems",
     "image": null,
-    "description": "Engineered Smart Hydraulic Power Solution designed for continuous duty industrial applications under the Bosch Rexroth engineering standard. Delivers stable hydraulic power delivery, contamination control, and high energy efficiency.",
+    "description": "Engineered Smart Hydraulic Power Solution designed for continuous duty industrial applications to certified industrial standards. Delivers stable hydraulic power delivery, contamination control, and high energy efficiency.",
     "specs": {
       "Product": "Smart Hydraulic Power Solution",
       "Brand": "Bosch Rexroth",
@@ -4383,7 +4383,7 @@ export const CONSTRUCTION_PRODUCTS = [
     "category": "construction-materials",
     "subCategory": "Industrial Hydraulics & Systems",
     "image": null,
-    "description": "Engineered Special Hydraulic Component designed for continuous duty industrial applications under the Bosch Rexroth engineering standard. Delivers stable hydraulic power delivery, contamination control, and high energy efficiency.",
+    "description": "Engineered Special Hydraulic Component designed for continuous duty industrial applications to certified industrial standards. Delivers stable hydraulic power delivery, contamination control, and high energy efficiency.",
     "specs": {
       "Product": "Special Hydraulic Component",
       "Brand": "Bosch Rexroth",
@@ -4724,7 +4724,7 @@ export const CONSTRUCTION_PRODUCTS = [
     "category": "construction-materials",
     "subCategory": "Industrial Hydraulics & Systems",
     "image": null,
-    "description": "Engineered Tungsten Carbide designed for continuous duty industrial applications under the Bosch Rexroth engineering standard. Delivers stable hydraulic power delivery, contamination control, and high energy efficiency.",
+    "description": "Engineered Tungsten Carbide designed for continuous duty industrial applications to certified industrial standards. Delivers stable hydraulic power delivery, contamination control, and high energy efficiency.",
     "specs": {
       "Product": "Tungsten Carbide",
       "Brand": "Bosch Rexroth",
@@ -4868,7 +4868,7 @@ export const CONSTRUCTION_PRODUCTS = [
     "category": "construction-materials",
     "subCategory": "Industrial Hydraulics & Systems",
     "image": null,
-    "description": "Engineered Volvo Electronic Unit Injection System designed for continuous duty industrial applications under the Volvo Construction Equipment engineering standard. Delivers stable hydraulic power delivery, contamination control, and high energy efficiency.",
+    "description": "Engineered Volvo Electronic Unit Injection System designed for continuous duty industrial applications to certified industrial standards. Delivers stable hydraulic power delivery, contamination control, and high energy efficiency.",
     "specs": {
       "Product": "Volvo Electronic Unit Injection System",
       "Brand": "Volvo Construction Equipment",

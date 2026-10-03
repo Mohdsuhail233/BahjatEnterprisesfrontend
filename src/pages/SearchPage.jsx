@@ -1,38 +1,60 @@
-import React, { useMemo, useState, useEffect } from 'react';
+import React, { useMemo } from 'react';
 import { useSearchParams, Link } from 'react-router-dom';
 import { searchProducts, WHATSAPP_NUMBER } from '../data';
 import ProductCard from '../components/ProductCard';
 import Pagination from '../components/Pagination';
+import SEO from '../components/SEO';
 
 const ITEMS_PER_PAGE = 20;
 
 export default function SearchPage() {
-  const [searchParams] = useSearchParams();
+  const [searchParams, setSearchParams] = useSearchParams();
   const query = searchParams.get('q') || '';
-  const [currentPage, setCurrentPage] = useState(1);
+  const pageParam = parseInt(searchParams.get('page'), 10);
+  const rawPage = !isNaN(pageParam) && pageParam > 0 ? pageParam : 1;
 
   const results = useMemo(() => searchProducts(query), [query]);
 
-  useEffect(() => {
-    setCurrentPage(1);
-  }, [query]);
-
   const totalPages = Math.ceil(results.length / ITEMS_PER_PAGE);
+  const currentPage = totalPages > 0 ? Math.min(rawPage, totalPages) : 1;
   const startIndex = (currentPage - 1) * ITEMS_PER_PAGE;
   const paginatedResults = results.slice(startIndex, startIndex + ITEMS_PER_PAGE);
 
   const handlePageChange = (page) => {
-    setCurrentPage(page);
+    const next = new URLSearchParams(searchParams);
+    if (page === 1) {
+      next.delete('page');
+    } else {
+      next.set('page', String(page));
+    }
+    setSearchParams(next);
     window.scrollTo({ top: 0, behavior: 'smooth' });
   };
 
+  const pageTitle = query ? `Search: "${query}" | Bahjat Enterprises` : 'Search Products | Bahjat Enterprises';
+  const pageDescription = query
+    ? `Browse ${results.length} matching products for "${query}" across electrical, mechanical, plumbing, and safety supplies at Bahjat Enterprises.`
+    : 'Search all certified industrial supplies, tools, valves, cables, and hardware at Bahjat Enterprises.';
+
   return (
     <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-8 min-h-screen">
+      <SEO
+        title={pageTitle}
+        description={pageDescription}
+        noindex={true}
+        schema={{
+          "@context": "https://schema.org",
+          "@type": "SearchResultsPage",
+          "name": pageTitle,
+          "description": pageDescription
+        }}
+      />
+
       {/* Breadcrumb */}
-      <nav className="flex items-center gap-2 text-sm text-neutral-400 mb-6">
+      <nav aria-label="Breadcrumb" className="flex items-center gap-2 text-sm text-neutral-400 mb-6">
         <Link to="/" className="hover:text-primary-600 transition-colors">Home</Link>
-        <span>/</span>
-        <span className="text-neutral-700 font-medium">Search Results</span>
+        <span aria-hidden="true">/</span>
+        <span className="text-neutral-700 font-medium" aria-current="page">Search Results</span>
       </nav>
 
       <div className="mb-8 flex items-center justify-between flex-wrap gap-2">

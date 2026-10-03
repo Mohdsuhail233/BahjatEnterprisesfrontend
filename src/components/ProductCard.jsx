@@ -1,21 +1,20 @@
 import React from 'react';
-import { Link } from 'react-router-dom';
+import { Link, useLocation } from 'react-router-dom';
 import { motion } from 'framer-motion';
-import { WHATSAPP_NUMBER } from '../data';
 
-export default function ProductCard({ product, categoryName }) {
-  const msg = encodeURIComponent(
-    `Hi Bahjat Enterprises,\n\nI'm interested in *${product.name}* (${product.brand})${categoryName ? ` from the *${categoryName}* category` : ''}.\n\nPlease share pricing and availability.`
-  );
+export default function ProductCard({ product }) {
+  const location = useLocation();
 
   return (
-    <motion.div
+    <motion.article
       whileHover={{ y: -6 }}
       transition={{ type: 'spring', stiffness: 350, damping: 22 }}
       className="h-full flex flex-col"
     >
       <Link
         to={`/product/${product.id}`}
+        state={{ from: `${location.pathname}${location.search}` }}
+        aria-label={`View ${product.name} specifications and inquiry`}
         className="group flex flex-col h-full focus:outline-none"
       >
         {/* Image Card */}
@@ -24,9 +23,9 @@ export default function ProductCard({ product, categoryName }) {
             {product.image ? (
               <img
                 src={product.image}
-                alt={product.name}
+                alt={`${product.name} - Industrial Supply | Bahjat Enterprises`}
                 className="w-full h-full object-contain transition-transform duration-500 ease-out group-hover:scale-108"
-                loading="l azy"
+                loading="lazy"
                 decoding="async"
               />
             ) : (
@@ -37,7 +36,7 @@ export default function ProductCard({ product, categoryName }) {
                   </svg>
                 </div>
                 <span className="text-[11px] font-bold text-zinc-700 uppercase tracking-wider line-clamp-1 mb-0.5">
-                  {product.brand || 'Specification'}
+                  Specification Sheet
                 </span>
                 <span className="text-[10px] text-zinc-400 font-medium">
                   Technical Spec Sheet
@@ -51,17 +50,14 @@ export default function ProductCard({ product, categoryName }) {
 
         {/* Product Info */}
         <div className="flex flex-col flex-1 px-0.5">
-          {/* Brand & Sub-Category */}
-          <div className="flex items-center justify-between gap-1 mb-1.5">
-            <p className="text-[11px] sm:text-xs font-bold text-sky-600 uppercase tracking-wider truncate">
-              {product.brand}
-            </p>
-            {product.subCategory && (
-              <span className="text-[10px] text-zinc-500 font-medium truncate max-w-[55%] text-right bg-zinc-100/80 px-1.5 py-0.5 rounded border border-zinc-200/60">
+          {/* Sub-Category Badge */}
+          {product.subCategory && (
+            <div className="flex items-center gap-1 mb-1.5">
+              <span className="text-[11px] font-semibold text-sky-700 bg-sky-50 px-2 py-0.5 rounded border border-sky-100 truncate">
                 {product.subCategory}
               </span>
-            )}
-          </div>
+            </div>
+          )}
 
           {/* Product Title */}
           <h3 className="text-sm sm:text-[15px] font-semibold text-zinc-900 group-hover:text-zinc-950 leading-snug mb-3 line-clamp-2 transition-colors">
@@ -81,6 +77,6 @@ export default function ProductCard({ product, categoryName }) {
           </div>
         </div>
       </Link>
-    </motion.div>
+    </motion.article>
   );
 }

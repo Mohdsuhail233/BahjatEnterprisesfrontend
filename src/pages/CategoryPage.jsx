@@ -3,6 +3,7 @@ import { useParams, useSearchParams, Link, Navigate } from 'react-router-dom';
 import { getCategoryById, CATEGORIES, FEATURED_PRODUCTS } from '../data';
 import ProductCard from '../components/ProductCard';
 import Pagination from '../components/Pagination';
+import SEO from '../components/SEO';
 
 const ITEMS_PER_PAGE = 20;
 
@@ -10,18 +11,25 @@ export default function CategoryPage() {
   const { categoryId } = useParams();
   const [searchParams, setSearchParams] = useSearchParams();
   const [searchTerm, setSearchTerm] = useState('');
-  const [currentPage, setCurrentPage] = useState(1);
   const productsSectionRef = useRef(null);
 
   const subCategoryParam = searchParams.get('sub');
   const brandParam = searchParams.get('brand');
   const priorityParam = searchParams.get('priority');
+  const pageParam = parseInt(searchParams.get('page'), 10);
+  const rawPage = !isNaN(pageParam) && pageParam > 0 ? pageParam : 1;
   const category = getCategoryById(categoryId);
 
-  // Reset to first page when filters or category changes
+  // Auto-scroll to products section if returning or navigating with page > 1
   useEffect(() => {
-    setCurrentPage(1);
-  }, [categoryId, searchTerm, subCategoryParam, brandParam, priorityParam]);
+    if (rawPage > 1 && productsSectionRef.current) {
+      const timer = setTimeout(() => {
+        const topOffset = productsSectionRef.current.getBoundingClientRect().top + window.pageYOffset - 90;
+        window.scrollTo({ top: topOffset, behavior: 'instant' });
+      }, 60);
+      return () => clearTimeout(timer);
+    }
+  }, [categoryId]);
 
   if (!category) return <Navigate to="/" />;
 
@@ -104,51 +112,89 @@ export default function CategoryPage() {
   const clearAllFilters = () => {
     setSearchTerm('');
     setSearchParams({});
-    setCurrentPage(1);
   };
 
   const hasActiveFilters = Boolean(searchTerm.trim() || subCategoryParam || brandParam || priorityParam);
 
   // Pagination calculation (20 items per page)
   const totalPages = Math.ceil(displayProducts.length / ITEMS_PER_PAGE);
+  const currentPage = totalPages > 0 ? Math.min(rawPage, totalPages) : 1;
   const startIndex = (currentPage - 1) * ITEMS_PER_PAGE;
   const paginatedProducts = displayProducts.slice(startIndex, startIndex + ITEMS_PER_PAGE);
 
   const handlePageChange = (page) => {
-    setCurrentPage(page);
+    const next = new URLSearchParams(searchParams);
+    if (page === 1) {
+      next.delete('page');
+    } else {
+      next.set('page', String(page));
+    }
+    setSearchParams(next);
     if (productsSectionRef.current) {
       const topOffset = productsSectionRef.current.getBoundingClientRect().top + window.pageYOffset - 90;
       window.scrollTo({ top: topOffset, behavior: 'smooth' });
     }
   };
 
+  const pageTitle = `${category.name}${subCategoryParam ? ` - ${subCategoryParam}` : ''} | Industrial Supplies`;
+  const pageDescription = `Procure certified ${category.name} from Bahjat Enterprises. Authorized distributor offering ${allCategoryProducts.length}+ products, technical specifications, and fast quotation.`;
+
   return (
     <div className="min-h-screen bg-white py-8 sm:py-12">
+      <SEO
+        title={pageTitle}
+        description={pageDescription}
+        keywords={`${category.name}, industrial supply, ${subCategoryParam || ''}, Bahjat Enterprises`}
+        schema={{
+          "@context": "https://schema.org",
+          "@type": "CollectionPage",
+          "name": pageTitle,
+          "description": pageDescription,
+          "breadcrumb": {
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "name": "Home",
+                "item": "https://bahjatenterprises.com/"
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "name": "Categories",
+                "item": "https://bahjatenterprises.com/categories"
+              },
+              {
+                "@type": "ListItem",
+                "position": 3,
+                "name": category.name,
+                "item": `https://bahjatenterprises.com/category/${category.id}`
+              }
+            ]
+          }
+        }}
+      />
+
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
 
         {/* Breadcrumb */}
-        <nav className="flex items-center gap-2 text-xs sm:text-sm text-zinc-500 mb-6 flex-wrap">
+        <nav aria-label="Breadcrumb" className="flex items-center gap-2 text-xs sm:text-sm text-zinc-500 mb-6 flex-wrap">
           <Link to="/" className="hover:text-zinc-900 transition-colors">Home</Link>
-          <span>/</span>
+          <span aria-hidden="true">/</span>
           <Link to="/categories" className="hover:text-zinc-900 transition-colors">Categories</Link>
-          <span>/</span>
+          <span aria-hidden="true">/</span>
           <Link to={`/category/${category.id}`} className="hover:text-zinc-900 transition-colors">{category.name}</Link>
           {priorityParam && (
             <>
-              <span>/</span>
+              <span aria-hidden="true">/</span>
               <span className="text-zinc-900 font-semibold">{priorityParam === '1' ? '1st Priority Stock' : '2nd & 3rd Priority Stock'}</span>
             </>
           )}
           {subCategoryParam && (
             <>
-              <span>/</span>
+              <span aria-hidden="true">/</span>
               <span className="text-zinc-900 font-semibold">{subCategoryParam}</span>
-            </>
-          )}
-          {brandParam && (
-            <>
-              <span>/</span>
-              <span className="text-zinc-900 font-semibold">{brandParam}</span>
             </>
           )}
         </nav>
@@ -161,11 +207,6 @@ export default function CategoryPage() {
               {subCategoryParam && (
                 <span className="text-base sm:text-lg font-medium text-zinc-500">
                   — {subCategoryParam}
-                </span>
-              )}
-              {brandParam && (
-                <span className="text-base sm:text-lg font-medium text-sky-600">
-                  [{brandParam}]
                 </span>
               )}
             </h1>
@@ -191,17 +232,35 @@ export default function CategoryPage() {
             </div>
             <input
               type="text"
+              id="category-search-input"
+              name="categorySearchInput"
+              aria-label={`Search within ${category.name}`}
               value={searchTerm}
-              onChange={(e) => setSearchTerm(e.target.value)}
-              placeholder={`Search products, brands, or specs in ${category.name}...`}
+              onChange={(e) => {
+                setSearchTerm(e.target.value);
+                if (searchParams.get('page')) {
+                  const next = new URLSearchParams(searchParams);
+                  next.delete('page');
+                  setSearchParams(next);
+                }
+              }}
+              placeholder={`Search products or specs in ${category.name}...`}
               className="w-full pl-11 pr-10 py-3.5 bg-zinc-50 border border-zinc-200/90 rounded-2xl text-sm sm:text-base text-zinc-900 placeholder:text-zinc-400 focus:outline-none focus:ring-2 focus:ring-zinc-900/10 focus:border-zinc-900 focus:bg-white transition-all shadow-xs"
             />
             {searchTerm && (
               <button
                 type="button"
-                onClick={() => setSearchTerm('')}
+                onClick={() => {
+                  setSearchTerm('');
+                  if (searchParams.get('page')) {
+                    const next = new URLSearchParams(searchParams);
+                    next.delete('page');
+                    setSearchParams(next);
+                  }
+                }}
                 className="absolute inset-y-0 right-0 pr-3.5 flex items-center text-zinc-400 hover:text-zinc-700 transition-colors cursor-pointer"
                 title="Clear search"
+                aria-label="Clear search"
               >
                 <svg className="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                   <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M6 18L18 6M6 6l12 12" />
@@ -217,7 +276,14 @@ export default function CategoryPage() {
               {searchTerm.trim() && (
                 <span className="inline-flex items-center gap-1.5 px-2.5 py-1 rounded-lg bg-zinc-100 text-zinc-800 border border-zinc-200 font-medium">
                   Search: "{searchTerm}"
-                  <button onClick={() => setSearchTerm('')} className="hover:text-rose-600 font-bold cursor-pointer">✕</button>
+                  <button onClick={() => {
+                    setSearchTerm('');
+                    if (searchParams.get('page')) {
+                      const next = new URLSearchParams(searchParams);
+                      next.delete('page');
+                      setSearchParams(next);
+                    }
+                  }} className="hover:text-rose-600 font-bold cursor-pointer">✕</button>
                 </span>
               )}
               {subCategoryParam && (
@@ -226,16 +292,7 @@ export default function CategoryPage() {
                   <button onClick={() => {
                     const next = new URLSearchParams(searchParams);
                     next.delete('sub');
-                    setSearchParams(next);
-                  }} className="hover:text-rose-600 font-bold cursor-pointer">✕</button>
-                </span>
-              )}
-              {brandParam && (
-                <span className="inline-flex items-center gap-1.5 px-2.5 py-1 rounded-lg bg-sky-50 text-sky-800 border border-sky-200 font-medium">
-                  Brand: {brandParam}
-                  <button onClick={() => {
-                    const next = new URLSearchParams(searchParams);
-                    next.delete('brand');
+                    next.delete('page');
                     setSearchParams(next);
                   }} className="hover:text-rose-600 font-bold cursor-pointer">✕</button>
                 </span>
@@ -246,6 +303,7 @@ export default function CategoryPage() {
                   <button onClick={() => {
                     const next = new URLSearchParams(searchParams);
                     next.delete('priority');
+                    next.delete('page');
                     setSearchParams(next);
                   }} className="hover:text-rose-600 font-bold cursor-pointer">✕</button>
                 </span>
@@ -266,7 +324,7 @@ export default function CategoryPage() {
           <div ref={productsSectionRef} className="bg-white rounded-3xl p-6 sm:p-8 shadow-sm mb-10 scroll-mt-24">
             <div className="flex items-center justify-between mb-6 flex-wrap gap-2">
               <h2 className="text-xl sm:text-2xl font-bold text-zinc-900">
-                {subCategoryParam ? `${subCategoryParam} Products` : brandParam ? `${brandParam} Products` : 'Products'}
+                {subCategoryParam ? `${subCategoryParam} Products` : 'Products'}
               </h2>
               <span className="text-xs sm:text-sm font-medium text-zinc-500">
                 Showing {startIndex + 1}–{Math.min(startIndex + ITEMS_PER_PAGE, displayProducts.length)} of {displayProducts.length} products
@@ -332,7 +390,7 @@ export default function CategoryPage() {
                     {c.image ? (
                       <img
                         src={c.image}
-                        alt={c.name}
+                        alt={`${c.name} Category Catalog - Bahjat Enterprises`}
                         className="w-full h-full object-cover rounded-lg"
                         loading="lazy"
                         decoding="async"

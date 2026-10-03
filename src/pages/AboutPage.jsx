@@ -1,16 +1,40 @@
 import React, { useState } from 'react';
 import { Link } from 'react-router-dom';
 import { motion, AnimatePresence } from 'framer-motion';
-import { COMPANY_NAME, WHATSAPP_NUMBER } from '../data';
+import { WHATSAPP_NUMBER } from '../data';
+import SEO from '../components/SEO';
 
-// Brands listed in the Excel files (Electrical & Industrial Tools)
-const MAJOR_BRANDS = [
-  'ABB', 'Schneider Electric', 'Siemens', 'Fluke', 'Honeywell', 'Bosch',
-  'Allen Bradley', 'Omron', 'Parker', 'WIKA', '3M', 'Makita',
-  'Stanley', 'Rosemount', 'Emerson', 'SKF', 'DeWalt', 'Swagelok',
-  'Hilti', 'Mitutoyo', 'Knipex', 'Insize', 'Taparia', 'JK Files',
-  'Anest Iwata', 'DeVilbiss', 'Ingco', 'SATA', 'Super Ego', 'Tramontina',
-  'Mennekes', 'Masibus', 'Bussmann', 'Druck', 'Metabo', 'LPS', 'Olfa', 'Caparo'
+// Featured major industrial brands with high-res official vector logos
+const FEATURED_BRANDS = [
+  { name: 'ABB', logo: '/brands/abb.svg', category: 'Automation & Power' },
+  { name: 'Schneider Electric', logo: '/brands/schneider.svg', category: 'Energy Management' },
+  { name: 'Siemens', logo: '/brands/siemens.svg', category: 'Industrial Systems' },
+  { name: 'Honeywell', logo: '/brands/honeywell.svg', category: 'Controls & Sensors' },
+  { name: 'Bosch', logo: '/brands/bosch.svg', category: 'Power Tools & Tech' },
+  { name: 'Fluke', logo: '/brands/fluke.svg', category: 'Testing & Measurement' },
+  { name: 'Allen Bradley', logo: '/brands/allen-bradley.svg', category: 'Rockwell Automation' },
+  { name: 'Omron', logo: '/brands/omron.svg', category: 'Sensors & Relays' },
+  { name: 'Makita', logo: '/brands/makita.svg', category: 'Power Tools' },
+  { name: 'DeWalt', logo: '/brands/dewalt.svg', category: 'Heavy Industrial Tools' },
+  { name: 'Hilti', logo: '/brands/hilti.svg', category: 'Fastening & Demolition' },
+  { name: 'Stanley', logo: '/brands/stanley.svg', category: 'Hand Tools & Storage' },
+  { name: '3M', logo: '/brands/3m.svg', category: 'Abrasives & Safety' },
+  { name: 'SKF', logo: '/brands/skf.svg', category: 'Bearings & Units' },
+  { name: 'Emerson', logo: '/brands/emerson.svg', category: 'Process Instrumentation' },
+  { name: 'Parker', logo: '/brands/parker.svg', category: 'Hydraulics & Filtration' },
+  { name: 'WIKA', logo: '/brands/wika.svg', category: 'Pressure & Gauge Tech' },
+  { name: 'Mitutoyo', logo: '/brands/mitutoyo.svg', category: 'Precision Metrology' },
+  { name: 'Knipex', logo: '/brands/knipex.svg', category: 'Professional Pliers' },
+  { name: 'Metabo', logo: '/brands/metabo.svg', category: 'Metalworking Tools' },
+  { name: 'Bussmann', logo: '/brands/bussmann-eaton.svg', category: 'Fuses & Protection' },
+  { name: 'Anest Iwata', logo: '/brands/anest-iwata.svg', category: 'Compressors & Coating' },
+];
+
+// Additional specialized & regional industrial brands
+const ADDITIONAL_BRANDS = [
+  'Swagelok', 'Rosemount', 'Insize', 'Taparia', 'JK Files', 'DeVilbiss',
+  'Ingco', 'SATA', 'Super Ego', 'Tramontina', 'Mennekes', 'Masibus',
+  'Druck', 'LPS', 'Olfa', 'Caparo'
 ];
 
 // Plastic Industry Materials from Excel
@@ -67,6 +91,18 @@ export default function AboutPage() {
 
   return (
     <div className="bg-white min-h-screen overflow-hidden">
+      <SEO
+        title="About Us | Bahjat Enterprises - Industrial Supply Specialists"
+        description="Learn about Bahjat Enterprises, our leadership, core values, domain expertise, and global procurement network across engineering, oil & gas, and infrastructure."
+        keywords="about Bahjat Enterprises, Bahjat Hanif, industrial supplier India, authorized industrial procurement, engineering supply company"
+        schema={{
+          "@context": "https://schema.org",
+          "@type": "AboutPage",
+          "name": "About Bahjat Enterprises",
+          "description": "Bahjat Enterprises is an industrial supply and trading company serving businesses across India and international markets."
+        }}
+      />
+
       {/* ---------------------------------------------------- */}
       {/* SECTION 1: HERO & INTRODUCTION                        */}
       {/* ---------------------------------------------------- */}
@@ -104,9 +140,9 @@ export default function AboutPage() {
         </motion.div>
 
         {/* ---------------------------------------------------- */}
-        {/* SECTION 2: CONCEPT & LOGIC                           */}
+        {/* SECTION 2: CONCEPT & LOGIC / QUALITY STANDARDS       */}
         {/* ---------------------------------------------------- */}
-        <div>
+        <div id="quality" className="scroll-mt-24">
           <motion.h2
             initial={{ opacity: 0, y: 12 }}
             whileInView={{ opacity: 1, y: 0 }}
@@ -221,9 +257,9 @@ export default function AboutPage() {
       </section>
 
       {/* ---------------------------------------------------- */}
-      {/* SECTION 3: MESSAGE FROM DIRECTOR (WHITE CLEAN THEME) */}
+      {/* SECTION 3: MESSAGE FROM DIRECTOR (LEADERSHIP)        */}
       {/* ---------------------------------------------------- */}
-      <section className="bg-white text-neutral-900 py-20 px-4 sm:px-6 lg:px-8 border-t border-neutral-200/70">
+      <section id="leadership" className="bg-white text-neutral-900 py-20 px-4 sm:px-6 lg:px-8 border-t border-neutral-200/70 scroll-mt-24">
         <div className="max-w-5xl mx-auto">
           <div className="flex items-center gap-3 mb-4">
             <span className="h-px w-8 bg-neutral-900"></span>
@@ -231,7 +267,7 @@ export default function AboutPage() {
           </div>
 
           <h2 className="text-2xl sm:text-3xl md:text-4xl font-extrabold tracking-tight text-neutral-900 mb-8">
-            Message From The Director
+            Message From The Founder
           </h2>
 
           <div className="grid grid-cols-1 lg:grid-cols-12 gap-10 items-start">
@@ -259,7 +295,7 @@ export default function AboutPage() {
                 <div className="relative w-full aspect-[4/5] rounded-xl overflow-hidden mb-5 border border-neutral-200/80 bg-neutral-100 shadow-xs group">
                   <img
                     src="/founder.jpeg"
-                    alt="Bahjat Hanif - Founder & Managing Director"
+                    alt="Bahjat Hanif - Founder and Managing Director of Bahjat Enterprises"
                     className="w-full h-full object-cover object-top transition-transform duration-500 group-hover:scale-105"
                     loading="lazy"
                   />
@@ -274,7 +310,7 @@ export default function AboutPage() {
                   </div>
                 </div>
 
-                <h4 className="text-xl font-bold text-neutral-900 mb-0.5">Bahjat Hanif</h4>
+                <h3 className="text-xl font-bold text-neutral-900 mb-0.5">Bahjat Hanif</h3>
                 <p className="text-neutral-500 text-xs font-semibold uppercase tracking-wider mb-5">Founder &amp; Managing Director</p>
 
                 <div className="space-y-3 pt-4 border-t border-neutral-200/80 text-xs text-neutral-500">
@@ -438,34 +474,71 @@ export default function AboutPage() {
       {/* ---------------------------------------------------- */}
       {/* SECTION 5: BRANDS WE DEAL WITH (EXCEL DATA)          */}
       {/* ---------------------------------------------------- */}
-      <section className="bg-neutral-50 border-t border-neutral-200/80 py-16 px-4 sm:px-6 lg:px-8">
+      <section id="partners" className="bg-neutral-50/70 border-t border-neutral-200/80 py-16 sm:py-20 px-4 sm:px-6 lg:px-8 scroll-mt-24">
         <div className="max-w-6xl mx-auto">
-          <div className="text-center mb-10">
+          <div className="text-center mb-10 sm:mb-14">
             <span className="text-xs uppercase tracking-[0.2em] text-neutral-500 font-bold block mb-2">
               Global Sourcing Network
             </span>
-            <h2 className="text-2xl sm:text-3xl font-extrabold text-neutral-900 tracking-tight">
+            <h2 className="text-2xl sm:text-3xl md:text-4xl font-extrabold text-neutral-900 tracking-tight">
               Major Brands We Deal In
             </h2>
-            <p className="text-neutral-500 text-xs sm:text-sm mt-1 max-w-xl mx-auto">
-              Supplying premier electrical, mechanical, instrumentation, and automation equipment from world-class manufacturers.
+            <p className="text-neutral-500 text-xs sm:text-sm mt-2 max-w-2xl mx-auto">
+              Supplying premier electrical, instrumentation, mechanical, automation, and safety equipment from world-class global manufacturers.
             </p>
           </div>
 
-          <div className="flex flex-wrap items-center justify-center gap-2.5 sm:gap-3 max-w-4xl mx-auto">
-            {MAJOR_BRANDS.map((brand, idx) => (
-              <motion.span
-                key={idx}
-                whileHover={{ scale: 1.08, y: -2 }}
-                transition={{ type: 'spring', stiffness: 400, damping: 17 }}
-                className="px-4 py-2 bg-white border border-neutral-200/80 hover:border-neutral-900 rounded-xl text-xs sm:text-sm font-semibold text-neutral-700 shadow-2xs hover:shadow-md transition-all hover:text-neutral-950 cursor-default"
+          {/* Featured Brand Logos Grid */}
+          <div className="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-6 gap-3.5 sm:gap-4 mb-10 sm:mb-12">
+            {FEATURED_BRANDS.map((brand, idx) => (
+              <motion.div
+                key={brand.name}
+                initial={{ opacity: 0, y: 16 }}
+                whileInView={{ opacity: 1, y: 0 }}
+                viewport={{ once: true }}
+                transition={{ duration: 0.35, delay: (idx % 6) * 0.05 }}
+                whileHover={{ y: -4, transition: { duration: 0.2 } }}
+                className="bg-white border border-neutral-200/80 hover:border-neutral-900 rounded-2xl p-4 sm:p-5 flex flex-col items-center justify-between text-center shadow-2xs hover:shadow-lg transition-all duration-300 group cursor-default min-h-[125px] sm:min-h-[135px]"
               >
-                {brand}
-              </motion.span>
+                <div className="h-11 sm:h-12 w-full flex items-center justify-center">
+                  <img
+                    src={brand.logo}
+                    alt={`${brand.name} Authorized Industrial Supply Partner`}
+                    loading="lazy"
+                    decoding="async"
+                    className="max-h-8 sm:max-h-9 max-w-[110px] w-auto object-contain transition-transform duration-300 group-hover:scale-105"
+                  />
+                </div>
+                <div className="w-full pt-2.5 border-t border-neutral-100 flex flex-col items-center">
+                  <span className="text-xs font-bold text-neutral-800 group-hover:text-neutral-950 transition-colors truncate max-w-full">
+                    {brand.name}
+                  </span>
+                  <span className="text-[10px] text-neutral-600 font-medium tracking-tight truncate max-w-full">
+                    {brand.category}
+                  </span>
+                </div>
+              </motion.div>
             ))}
-            <span className="px-4 py-2 bg-neutral-900 border border-neutral-900 rounded-xl text-xs sm:text-sm font-bold text-white shadow-sm">
-              + Many More
-            </span>
+          </div>
+
+          {/* Additional Specialized Brands */}
+          <div className="bg-white border border-neutral-200/80 rounded-2xl p-6 sm:p-8 max-w-4xl mx-auto shadow-2xs text-center">
+            <h3 className="text-xs uppercase tracking-[0.2em] font-bold text-neutral-500 mb-4">
+              Additional Specialized &amp; Regional Brands We Source
+            </h3>
+            <div className="flex flex-wrap items-center justify-center gap-2 sm:gap-2.5">
+              {ADDITIONAL_BRANDS.map((brand, idx) => (
+                <span
+                  key={idx}
+                  className="px-3.5 py-1.5 bg-neutral-100 hover:bg-neutral-200/70 border border-neutral-200 text-neutral-700 hover:text-neutral-950 rounded-lg text-xs font-semibold transition-colors cursor-default"
+                >
+                  {brand}
+                </span>
+              ))}
+              <span className="px-4 py-1.5 bg-neutral-900 text-white rounded-lg text-xs font-bold shadow-xs">
+                + Many More On Demand
+              </span>
+            </div>
           </div>
         </div>
       </section>
@@ -506,6 +579,15 @@ export default function AboutPage() {
             </motion.div>
           </div>
         </div>
+      </section>
+
+      {/* ---------------------------------------------------- */}
+      {/* SECTION 7: CORPORATE COMPLIANCE & PRIVACY NOTE       */}
+      {/* ---------------------------------------------------- */}
+      <section id="privacy" className="py-8 px-4 sm:px-6 lg:px-8 max-w-4xl mx-auto text-center border-t border-neutral-100 scroll-mt-24">
+        <p className="text-xs text-neutral-400">
+          Bahjat Enterprises adheres to strict confidentiality, fair trading, and data protection standards. Inquiries and procurement data shared with our desk are handled solely for B2B fulfillment and commercial RFQ processing.
+        </p>
       </section>
     </div>
   );

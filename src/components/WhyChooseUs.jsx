@@ -43,7 +43,7 @@ export default function WhyChooseUs() {
           <path d="M12 2a15.3 15.3 0 0 1 4 10 15.3 15.3 0 0 1-4 10 15.3 15.3 0 0 1-4-10 15.3 15.3 0 0 1 4-10z" />
         </svg>
       ),
-      text: 'Direct access to 50+ authorized global industrial brands',
+      text: 'Certified industrial grade procurement & direct manufacturing supply',
     },
     {
       icon: (

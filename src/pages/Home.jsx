@@ -6,6 +6,8 @@ import ProductCard from '../components/ProductCard';
 import IndustriesWeServe from '../components/IndustriesWeServe';
 import WhyChooseUs from '../components/WhyChooseUs';
 import AboutSection from '../components/AboutSection';
+import ProductsAndBrandsWeDealIn from '../components/ProductsAndBrandsWeDealIn';
+import SEO from '../components/SEO';
 import heroImage from '../assets/hero.png';
 import heroMobileImage from '../assets/hero-mobile.png';
 import { FEATURED_PRODUCTS } from '../data';
@@ -24,15 +26,27 @@ const homeProducts = [
 export default function Home() {
   return (
     <div>
+      <SEO
+        title="Bahjat Enterprises | Industrial & Electrical Supplies"
+        description="Bahjat Enterprises supplies certified electrical, plumbing, instrumentation, safety equipment, fasteners, and precision tools to engineering and manufacturing sectors."
+        keywords="industrial supplies, electrical components, safety equipment, instrumentation, plumbing pipes valves, fasteners, power tools"
+      />
+
       {/* Hero Banner Section (Responsive: Vertical on Mobile, Wide on Desktop) */}
-      <section className="w-full bg-[#18181b] overflow-hidden shadow-sm">
+      <section className="w-full bg-[#18181b] overflow-hidden shadow-sm" aria-label="Hero Introduction">
+        <h1 className="sr-only">Bahjat Enterprises — Industrial, Electrical &amp; Mechanical Supplies</h1>
         <div className="max-w-[1920px] mx-auto">
-          <Link to="/categories" className="block focus:outline-none group" title="Explore Our Products">
+          <Link
+            to="/categories"
+            className="block focus:outline-none group"
+            title="Explore Our Products"
+            aria-label="Explore Bahjat Enterprises product categories"
+          >
             <picture>
               <source media="(max-width: 640px)" srcSet={heroMobileImage} />
               <motion.img
                 src={heroImage}
-                alt="Bahjat Enterprises - Supplying Solutions For A Stronger Tomorrow"
+                alt="Bahjat Enterprises - Supplying Industrial Solutions For A Stronger Tomorrow"
                 className="w-full h-auto block transform group-hover:scale-[1.008] transition-transform duration-700 ease-out"
                 loading="eager"
                 initial={{ opacity: 0 }}
@@ -84,6 +98,9 @@ export default function Home() {
 
       {/* Industries We Serve Section */}
       <IndustriesWeServe />
+
+      {/* Products & Brands We Deal In Section */}
+      <ProductsAndBrandsWeDealIn />
 
       {/* About Us Section */}
       <AboutSection />

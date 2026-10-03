@@ -20,7 +20,7 @@ export const PLUMBING_PRODUCTS = [
     priorityLabel: "1st Priority",
     color: "amber",
     image: "/images/products/plumbing/plumb_item_1.png",
-    description: "Industrial-grade Adaptor supplied by Bahjat Enterprises under the Ashirvad Pipes brand standard. Engineered for heavy-duty plumbing, fluid handling, and commercial building services. Pipe Adaptor, Threaded Adaptor, Transition Adaptor, An Adaptor (also spelled Adapter) is a pipe fitting or connector used to join two components with different connection types, sizes, or materials. It is commonly used to connect threaded fittings to plain pipes, or to transition between different piping systems",
+    description: "Industrial-grade Adaptor supplied by Bahjat Enterprises to certified industrial standards. Engineered for heavy-duty plumbing, fluid handling, and commercial building services. Pipe Adaptor, Threaded Adaptor, Transition Adaptor, An Adaptor (also spelled Adapter) is a pipe fitting or connector used to join two components with different connection types, sizes, or materials. It is commonly used to connect threaded fittings to plain pipes, or to transition between different piping systems",
     specs: {
       "Product": "Adaptor",
       "Brand": "Ashirvad Pipes",
@@ -45,7 +45,7 @@ export const PLUMBING_PRODUCTS = [
     priorityLabel: "1st Priority",
     color: "amber",
     image: "/images/products/plumbing/plumb_item_2.png",
-    description: "Industrial-grade Ball Valve supplied by Bahjat Enterprises under the Supreme Industries brand standard. Engineered for heavy-duty plumbing, fluid handling, and commercial building services. Quarter-Turn Valve, Shut-Off Ball Valve, A Ball Valve is a quarter-turn shut-off valve that uses a rotating ball with a central bore to control the flow of liquids or gases. When the handle is turned 90\u00b0, the bore aligns with the pipeline to allow flow or turns perpendicular to stop flow. Ball valves are known for their quick operation, tight sealing, and long service life",
+    description: "Industrial-grade Ball Valve supplied by Bahjat Enterprises to certified industrial standards. Engineered for heavy-duty plumbing, fluid handling, and commercial building services. Quarter-Turn Valve, Shut-Off Ball Valve, A Ball Valve is a quarter-turn shut-off valve that uses a rotating ball with a central bore to control the flow of liquids or gases. When the handle is turned 90\u00b0, the bore aligns with the pipeline to allow flow or turns perpendicular to stop flow. Ball valves are known for their quick operation, tight sealing, and long service life",
     specs: {
       "Product": "Ball Valve",
       "Brand": "Supreme Industries",
@@ -185,7 +185,7 @@ export const PLUMBING_PRODUCTS = [
     priorityLabel: "1st Priority",
     color: "amber",
     image: "/images/products/plumbing/plumb_item_7.png",
-    description: "Industrial-grade Flush Valve supplied by Bahjat Enterprises under the Kisan Mouldings brand standard. Engineered for heavy-duty plumbing, fluid handling, and commercial building services. A Flush Valve is a plumbing valve that releases a controlled quantity of water to flush a toilet or urinal. It opens when the flush mechanism is operated and closes automatically after the required amount of water has been discharged",
+    description: "Industrial-grade Flush Valve supplied by Bahjat Enterprises to certified industrial standards. Engineered for heavy-duty plumbing, fluid handling, and commercial building services. A Flush Valve is a plumbing valve that releases a controlled quantity of water to flush a toilet or urinal. It opens when the flush mechanism is operated and closes automatically after the required amount of water has been discharged",
     specs: {
       "Product": "Flush Valve",
       "Brand": "Kisan Mouldings",
@@ -212,7 +212,7 @@ export const PLUMBING_PRODUCTS = [
     priorityLabel: "1st Priority",
     color: "amber",
     image: "/images/products/plumbing/plumb_item_8.png",
-    description: "Industrial-grade Angle Valve supplied by Bahjat Enterprises under the Captain Pipes brand standard. Engineered for heavy-duty plumbing, fluid handling, and commercial building services. Angle Stop Valve, Angle Cock, Stop Valve, An Angle Valve is a plumbing shut-off valve in which the inlet and outlet are positioned at approximately 90\u00b0 to each other. It is commonly used to control water supply to wash basins, toilets, sinks, and other sanitary fixtures",
+    description: "Industrial-grade Angle Valve supplied by Bahjat Enterprises to certified industrial standards. Engineered for heavy-duty plumbing, fluid handling, and commercial building services. Angle Stop Valve, Angle Cock, Stop Valve, An Angle Valve is a plumbing shut-off valve in which the inlet and outlet are positioned at approximately 90\u00b0 to each other. It is commonly used to control water supply to wash basins, toilets, sinks, and other sanitary fixtures",
     specs: {
       "Product": "Angle Valve",
       "Brand": "Captain Pipes",
@@ -322,7 +322,7 @@ export const PLUMBING_PRODUCTS = [
     priorityLabel: "1st Priority",
     color: "amber",
     image: "/images/products/plumbing/plumb_item_12.png",
-    description: "Industrial-grade Stop Valve supplied by Bahjat Enterprises under the Jaquar brand standard. Engineered for heavy-duty plumbing, fluid handling, and commercial building services. Shut-Off Valve, Isolation Valve, A Stop Valve is a manual shut-off valve used to completely stop or allow the flow of water or other fluids in a pipeline. It is commonly installed to isolate individual fixtures, equipment, or sections of a piping system for maintenance",
+    description: "Industrial-grade Stop Valve supplied by Bahjat Enterprises to certified industrial standards. Engineered for heavy-duty plumbing, fluid handling, and commercial building services. Shut-Off Valve, Isolation Valve, A Stop Valve is a manual shut-off valve used to completely stop or allow the flow of water or other fluids in a pipeline. It is commonly installed to isolate individual fixtures, equipment, or sections of a piping system for maintenance",
     specs: {
       "Product": "Stop Valve",
       "Brand": "Jaquar",
@@ -352,7 +352,7 @@ export const PLUMBING_PRODUCTS = [
     priorityLabel: "1st Priority",
     color: "amber",
     image: "/images/products/plumbing/plumb_item_13.png",
-    description: "Industrial-grade Angle Stop Valve supplied by Bahjat Enterprises under the Hindware brand standard. Engineered for heavy-duty plumbing, fluid handling, and commercial building services. Angle Valve, Angle Stop Cock, An Angle Stop Valve is a manual shut-off valve with the inlet and outlet positioned at approximately 90\u00b0. It is mainly used to independently control the water supply to sanitary fixtures such as wash basins, toilets, sinks, and geysers",
+    description: "Industrial-grade Angle Stop Valve supplied by Bahjat Enterprises to certified industrial standards. Engineered for heavy-duty plumbing, fluid handling, and commercial building services. Angle Valve, Angle Stop Cock, An Angle Stop Valve is a manual shut-off valve with the inlet and outlet positioned at approximately 90\u00b0. It is mainly used to independently control the water supply to sanitary fixtures such as wash basins, toilets, sinks, and geysers",
     specs: {
       "Product": "Angle Stop Valve",
       "Brand": "Hindware",
@@ -410,7 +410,7 @@ export const PLUMBING_PRODUCTS = [
     priorityLabel: "1st Priority",
     color: "amber",
     image: "/images/products/plumbing/plumb_item_15.png",
-    description: "Industrial-grade Water Outlet Valve supplied by Bahjat Enterprises under the Kerovit brand standard. Engineered for heavy-duty plumbing, fluid handling, and commercial building services. A Water Outlet Valve is a valve installed at the water discharge/outlet point of a tank, pipeline, or water system to control, isolate, or regulate the flow of water",
+    description: "Industrial-grade Water Outlet Valve supplied by Bahjat Enterprises to certified industrial standards. Engineered for heavy-duty plumbing, fluid handling, and commercial building services. A Water Outlet Valve is a valve installed at the water discharge/outlet point of a tank, pipeline, or water system to control, isolate, or regulate the flow of water",
     specs: {
       "Product": "Water Outlet Valve",
       "Brand": "Kerovit",
@@ -438,7 +438,7 @@ export const PLUMBING_PRODUCTS = [
     priorityLabel: "1st Priority",
     color: "amber",
     image: "/images/products/plumbing/plumb_item_16.png",
-    description: "Industrial-grade Hose Bib Valve supplied by Bahjat Enterprises under the Kajaria Ceramics brand standard. Engineered for heavy-duty plumbing, fluid handling, and commercial building services. Hose Bibb, Hose Cock, Bib Tap, A Hose Bib Valve is an outdoor water supply shut-off valve with a threaded hose connection. It allows a hose to be connected directly for watering, washing, cleaning, or other utility-water applications",
+    description: "Industrial-grade Hose Bib Valve supplied by Bahjat Enterprises to certified industrial standards. Engineered for heavy-duty plumbing, fluid handling, and commercial building services. Hose Bibb, Hose Cock, Bib Tap, A Hose Bib Valve is an outdoor water supply shut-off valve with a threaded hose connection. It allows a hose to be connected directly for watering, washing, cleaning, or other utility-water applications",
     specs: {
       "Product": "Hose Bib Valve",
       "Brand": "Kajaria Ceramics",
@@ -467,7 +467,7 @@ export const PLUMBING_PRODUCTS = [
     priorityLabel: "1st Priority",
     color: "amber",
     image: "/images/products/plumbing/plumb_item_17.png",
-    description: "Industrial-grade Hose Bib Tap supplied by Bahjat Enterprises under the Ess Ess brand standard. Engineered for heavy-duty plumbing, fluid handling, and commercial building services. A Hose Bib Tap is an outdoor/service water tap with a threaded outlet designed for connecting a hose. It is commonly used for gardens, cleaning areas, utility rooms, and water supply points",
+    description: "Industrial-grade Hose Bib Tap supplied by Bahjat Enterprises to certified industrial standards. Engineered for heavy-duty plumbing, fluid handling, and commercial building services. A Hose Bib Tap is an outdoor/service water tap with a threaded outlet designed for connecting a hose. It is commonly used for gardens, cleaning areas, utility rooms, and water supply points",
     specs: {
       "Product": "Hose Bib Tap",
       "Brand": "Ess Ess",
@@ -632,7 +632,7 @@ export const PLUMBING_PRODUCTS = [
     priorityLabel: "1st Priority",
     color: "amber",
     image: "/images/products/plumbing/plumb_item_23.png",
-    description: "Industrial-grade Mini Stop Cock supplied by Bahjat Enterprises under the Viega brand standard. Engineered for heavy-duty plumbing, fluid handling, and commercial building services. A mini stop cock is a compact shut-off valve used to control or isolate the water supply to individual plumbing fixtures and appliances. It allows the water supply to be turned on or off without shutting down the entire plumbing system",
+    description: "Industrial-grade Mini Stop Cock supplied by Bahjat Enterprises to certified industrial standards. Engineered for heavy-duty plumbing, fluid handling, and commercial building services. A mini stop cock is a compact shut-off valve used to control or isolate the water supply to individual plumbing fixtures and appliances. It allows the water supply to be turned on or off without shutting down the entire plumbing system",
     specs: {
       "Product": "Mini Stop Cock",
       "Brand": "Viega",
@@ -656,7 +656,7 @@ export const PLUMBING_PRODUCTS = [
     priorityLabel: "1st Priority",
     color: "amber",
     image: "/images/products/plumbing/plumb_item_24.png",
-    description: "Industrial-grade Angle Cock supplied by Bahjat Enterprises under the Roca brand standard. Engineered for heavy-duty plumbing, fluid handling, and commercial building services. An Angle Cock is a plumbing shut-off valve installed where the water supply line changes direction, typically 90\u00b0, such as at a wash basin, toilet, or sink, Chrome-plated brass 90\u00b0 water supply shut-off valve with threaded inlet and outlet, suitable for sanitary and plumbing applications",
+    description: "Industrial-grade Angle Cock supplied by Bahjat Enterprises to certified industrial standards. Engineered for heavy-duty plumbing, fluid handling, and commercial building services. An Angle Cock is a plumbing shut-off valve installed where the water supply line changes direction, typically 90\u00b0, such as at a wash basin, toilet, or sink, Chrome-plated brass 90\u00b0 water supply shut-off valve with threaded inlet and outlet, suitable for sanitary and plumbing applications",
     specs: {
       "Product": "Angle Cock",
       "Brand": "Roca",
@@ -683,7 +683,7 @@ export const PLUMBING_PRODUCTS = [
     priorityLabel: "1st Priority",
     color: "amber",
     image: "/images/products/plumbing/plumb_item_25.png",
-    description: "Industrial-grade Pipe Joint Compound supplied by Bahjat Enterprises under the TOTO brand standard. Engineered for heavy-duty plumbing, fluid handling, and commercial building services. A jointing compound is a sealing material used to fill gaps and create leak-proof joints between threaded pipes, fittings, flanges, and other connected components. It improves sealing performance and helps prevent fluid or gas leakage",
+    description: "Industrial-grade Pipe Joint Compound supplied by Bahjat Enterprises to certified industrial standards. Engineered for heavy-duty plumbing, fluid handling, and commercial building services. A jointing compound is a sealing material used to fill gaps and create leak-proof joints between threaded pipes, fittings, flanges, and other connected components. It improves sealing performance and helps prevent fluid or gas leakage",
     specs: {
       "Product": "Pipe Joint Compound",
       "Brand": "TOTO",
@@ -707,7 +707,7 @@ export const PLUMBING_PRODUCTS = [
     priorityLabel: "1st Priority",
     color: "amber",
     image: "/images/products/plumbing/plumb_item_26.png",
-    description: "Industrial-grade Thread Locking Compound supplied by Bahjat Enterprises under the Kohler brand standard. Engineered for heavy-duty plumbing, fluid handling, and commercial building services. A thread locking compound is an adhesive applied to threaded fasteners such as bolts, nuts, and screws to prevent loosening caused by vibration, shock, thermal expansion, and mechanical stress",
+    description: "Industrial-grade Thread Locking Compound supplied by Bahjat Enterprises to certified industrial standards. Engineered for heavy-duty plumbing, fluid handling, and commercial building services. A thread locking compound is an adhesive applied to threaded fasteners such as bolts, nuts, and screws to prevent loosening caused by vibration, shock, thermal expansion, and mechanical stress",
     specs: {
       "Product": "Thread Locking Compound",
       "Brand": "Kohler",
@@ -732,7 +732,7 @@ export const PLUMBING_PRODUCTS = [
     priorityLabel: "1st Priority",
     color: "amber",
     image: "/images/products/plumbing/plumb_item_27.png",
-    description: "Industrial-grade Anti Seize Compound supplied by Bahjat Enterprises under the American Standard brand standard. Engineered for heavy-duty plumbing, fluid handling, and commercial building services. An Anti-Seize Compound is a protective paste applied to threads, bolts, nuts, studs, and other metal contact surfaces to prevent seizing, galling, corrosion, and difficult dismantling, High-temperature protective compound for application on threaded fasteners and metal contact surfaces to prevent seizure, galling and corrosion during assembly and dismantling",
+    description: "Industrial-grade Anti Seize Compound supplied by Bahjat Enterprises to certified industrial standards. Engineered for heavy-duty plumbing, fluid handling, and commercial building services. An Anti-Seize Compound is a protective paste applied to threads, bolts, nuts, studs, and other metal contact surfaces to prevent seizing, galling, corrosion, and difficult dismantling, High-temperature protective compound for application on threaded fasteners and metal contact surfaces to prevent seizure, galling and corrosion during assembly and dismantling",
     specs: {
       "Product": "Anti Seize Compound",
       "Brand": "American Standard",
@@ -783,7 +783,7 @@ export const PLUMBING_PRODUCTS = [
     priorityLabel: "1st Priority",
     color: "amber",
     image: "/images/products/plumbing/plumb_item_29.png",
-    description: "Industrial-grade Close Nipple supplied by Bahjat Enterprises under the Moen brand standard. Engineered for heavy-duty plumbing, fluid handling, and commercial building services. Close Nipple is a short piece of threaded pipe used to connect two female-threaded fittings, valves, or pipes. It is called a close nipple because it has threads along almost its entire length, leaving little or no unthreaded section between the connections",
+    description: "Industrial-grade Close Nipple supplied by Bahjat Enterprises to certified industrial standards. Engineered for heavy-duty plumbing, fluid handling, and commercial building services. Close Nipple is a short piece of threaded pipe used to connect two female-threaded fittings, valves, or pipes. It is called a close nipple because it has threads along almost its entire length, leaving little or no unthreaded section between the connections",
     specs: {
       "Product": "Close Nipple",
       "Brand": "Moen",
@@ -807,7 +807,7 @@ export const PLUMBING_PRODUCTS = [
     priorityLabel: "1st Priority",
     color: "amber",
     image: "/images/products/plumbing/plumb_item_30.png",
-    description: "Industrial-grade Hex Nipple supplied by Bahjat Enterprises under the Sloan brand standard. Engineered for heavy-duty plumbing, fluid handling, and commercial building services. Hex Nipple (Galvanized Iron Hex Nipple) is a threaded pipe fitting with male threads on both ends and a hexagonal section in the center. The hexagonal body allows the fitting to be easily tightened or removed with a wrench",
+    description: "Industrial-grade Hex Nipple supplied by Bahjat Enterprises to certified industrial standards. Engineered for heavy-duty plumbing, fluid handling, and commercial building services. Hex Nipple (Galvanized Iron Hex Nipple) is a threaded pipe fitting with male threads on both ends and a hexagonal section in the center. The hexagonal body allows the fitting to be easily tightened or removed with a wrench",
     specs: {
       "Product": "Hex Nipple",
       "Brand": "Sloan",
@@ -832,7 +832,7 @@ export const PLUMBING_PRODUCTS = [
     priorityLabel: "1st Priority",
     color: "amber",
     image: "/images/products/plumbing/plumb_item_31.png",
-    description: "Industrial-grade Long Nipple supplied by Bahjat Enterprises under the Watts Water Technologies brand standard. Engineered for heavy-duty plumbing, fluid handling, and commercial building services. Long Nipple is a threaded pipe fitting used to connect two female-threaded pipes, fittings, or valves when a greater distance or extension is required. It is longer than a standard pipe nipple and usually has male threads on both ends",
+    description: "Industrial-grade Long Nipple supplied by Bahjat Enterprises to certified industrial standards. Engineered for heavy-duty plumbing, fluid handling, and commercial building services. Long Nipple is a threaded pipe fitting used to connect two female-threaded pipes, fittings, or valves when a greater distance or extension is required. It is longer than a standard pipe nipple and usually has male threads on both ends",
     specs: {
       "Product": "Long Nipple",
       "Brand": "Watts Water Technologies",
@@ -856,7 +856,7 @@ export const PLUMBING_PRODUCTS = [
     priorityLabel: "1st Priority",
     color: "amber",
     image: "/images/products/plumbing/plumb_item_32.png",
-    description: "Industrial-grade Reducing Nipple supplied by Bahjat Enterprises under the Zurn Elkay brand standard. Engineered for heavy-duty plumbing, fluid handling, and commercial building services. Reducing Nipple is a threaded pipe fitting used to connect two female-threaded pipes or fittings of different sizes. It has male threads on both ends, with one end larger than the other, allowing the pipe size to be reduced within a piping system",
+    description: "Industrial-grade Reducing Nipple supplied by Bahjat Enterprises to certified industrial standards. Engineered for heavy-duty plumbing, fluid handling, and commercial building services. Reducing Nipple is a threaded pipe fitting used to connect two female-threaded pipes or fittings of different sizes. It has male threads on both ends, with one end larger than the other, allowing the pipe size to be reduced within a piping system",
     specs: {
       "Product": "Reducing Nipple",
       "Brand": "Zurn Elkay",
@@ -881,7 +881,7 @@ export const PLUMBING_PRODUCTS = [
     priorityLabel: "1st Priority",
     color: "amber",
     image: "/images/products/plumbing/plumb_item_33.png",
-    description: "Industrial-grade Barrel Nipple supplied by Bahjat Enterprises under the Wavin brand standard. Engineered for heavy-duty plumbing, fluid handling, and commercial building services. A Barrel Nipple is a short, straight pipe fitting with male threads on both ends, used to connect two female-threaded pipes, valves, or fittings, Barrel Nipple \u2013 Straight threaded pipe nipple with male threads at both ends, suitable for connecting female-threaded pipes/fittings, material, size and thread standard as specified",
+    description: "Industrial-grade Barrel Nipple supplied by Bahjat Enterprises to certified industrial standards. Engineered for heavy-duty plumbing, fluid handling, and commercial building services. A Barrel Nipple is a short, straight pipe fitting with male threads on both ends, used to connect two female-threaded pipes, valves, or fittings, Barrel Nipple \u2013 Straight threaded pipe nipple with male threads at both ends, suitable for connecting female-threaded pipes/fittings, material, size and thread standard as specified",
     specs: {
       "Product": "Barrel Nipple",
       "Brand": "Wavin",
@@ -934,7 +934,7 @@ export const PLUMBING_PRODUCTS = [
     priorityLabel: "1st Priority",
     color: "amber",
     image: "/images/products/plumbing/plumb_item_35.png",
-    description: "Industrial-grade Wash Basin supplied by Bahjat Enterprises under the John Guest brand standard. Engineered for heavy-duty plumbing, fluid handling, and commercial building services. Wash Basin (also called a hand basin, wash sink, or lavatory) is a sanitary fixture used for washing hands, face, and other personal hygiene activities. It is commonly installed in bathrooms, washrooms, kitchens, hospitals, and commercial buildings",
+    description: "Industrial-grade Wash Basin supplied by Bahjat Enterprises to certified industrial standards. Engineered for heavy-duty plumbing, fluid handling, and commercial building services. Wash Basin (also called a hand basin, wash sink, or lavatory) is a sanitary fixture used for washing hands, face, and other personal hygiene activities. It is commonly installed in bathrooms, washrooms, kitchens, hospitals, and commercial buildings",
     specs: {
       "Product": "Wash Basin",
       "Brand": "John Guest",
@@ -1065,7 +1065,7 @@ export const PLUMBING_PRODUCTS = [
     priorityLabel: "1st Priority",
     color: "amber",
     image: "/images/products/plumbing/plumb_item_40.png",
-    description: "Industrial-grade Basin Mixer SS supplied by Bahjat Enterprises under the McAlpine brand standard. Engineered for heavy-duty plumbing, fluid handling, and commercial building services. A Basin Mixer SS is a stainless-steel wash-basin mixer tap that combines hot and cold water into a single controlled outlet, Basin Mixer SS \u2013 Stainless-steel wash-basin mixer tap, preferably SS 304, single-lever type with hot/cold water mixing and deck-mounted installation, complete with suitable accessories",
+    description: "Industrial-grade Basin Mixer SS supplied by Bahjat Enterprises to certified industrial standards. Engineered for heavy-duty plumbing, fluid handling, and commercial building services. A Basin Mixer SS is a stainless-steel wash-basin mixer tap that combines hot and cold water into a single controlled outlet, Basin Mixer SS \u2013 Stainless-steel wash-basin mixer tap, preferably SS 304, single-lever type with hot/cold water mixing and deck-mounted installation, complete with suitable accessories",
     specs: {
       "Product": "Basin Mixer SS",
       "Brand": "McAlpine",
@@ -1220,7 +1220,7 @@ export const PLUMBING_PRODUCTS = [
     priorityLabel: "1st Priority",
     color: "amber",
     image: "/images/products/plumbing/plumb_item_46.png",
-    description: "Industrial-grade Pipe Clip With Nail supplied by Bahjat Enterprises under the Valsir brand standard. Engineered for heavy-duty plumbing, fluid handling, and commercial building services. A pipe clip with a nail is a fastening device used to secure pipes, tubes, or electrical conduits directly to walls, ceilings, or other surfaces. The clip includes a pre-attached nail that allows for quick and easy installation",
+    description: "Industrial-grade Pipe Clip With Nail supplied by Bahjat Enterprises to certified industrial standards. Engineered for heavy-duty plumbing, fluid handling, and commercial building services. A pipe clip with a nail is a fastening device used to secure pipes, tubes, or electrical conduits directly to walls, ceilings, or other surfaces. The clip includes a pre-attached nail that allows for quick and easy installation",
     specs: {
       "Product": "Pipe Clip With Nail",
       "Brand": "Valsir",
@@ -1245,7 +1245,7 @@ export const PLUMBING_PRODUCTS = [
     priorityLabel: "1st Priority",
     color: "amber",
     image: "/images/products/plumbing/plumb_item_47.png",
-    description: "Industrial-grade Pipe Saddle Clip supplied by Bahjat Enterprises under the Franke brand standard. Engineered for heavy-duty plumbing, fluid handling, and commercial building services. A pipe saddle clip is a pipe support and fastening device used to secure pipes, tubes, and conduits to walls, ceilings, or other flat surfaces. Its curved, saddle-shaped design fits around the pipe and holds it firmly in place",
+    description: "Industrial-grade Pipe Saddle Clip supplied by Bahjat Enterprises to certified industrial standards. Engineered for heavy-duty plumbing, fluid handling, and commercial building services. A pipe saddle clip is a pipe support and fastening device used to secure pipes, tubes, and conduits to walls, ceilings, or other flat surfaces. Its curved, saddle-shaped design fits around the pipe and holds it firmly in place",
     specs: {
       "Product": "Pipe Saddle Clip",
       "Brand": "Franke",
@@ -1320,7 +1320,7 @@ export const PLUMBING_PRODUCTS = [
     priorityLabel: "1st Priority",
     color: "amber",
     image: "/images/products/plumbing/plumb_item_50.png",
-    description: "Industrial-grade Hose Clamp Heavy Duty supplied by Bahjat Enterprises under the (51\u2013100) brand standard. Engineered for heavy-duty plumbing, fluid handling, and commercial building services. A heavy-duty hose clamp is a high-strength fastening device used to secure large hoses to pipes, fittings, and connectors in high-pressure and demanding applications. It provides greater clamping force than a standard hose clamp, ensuring a secure and leak-resistant connection, Material \" Stainless steel (SS 304, SS 316), Carbon steel, Zinc-plated steel, Galvanized steel, T-Bolt Hose Clamp, Double-Bolt Hose Clamp, Constant-Tension Hose Clamp, Lined Heavy-Duty Hose Clamp",
+    description: "Industrial-grade Hose Clamp Heavy Duty supplied by Bahjat Enterprises to certified industrial standards. Engineered for heavy-duty plumbing, fluid handling, and commercial building services. A heavy-duty hose clamp is a high-strength fastening device used to secure large hoses to pipes, fittings, and connectors in high-pressure and demanding applications. It provides greater clamping force than a standard hose clamp, ensuring a secure and leak-resistant connection, Material \" Stainless steel (SS 304, SS 316), Carbon steel, Zinc-plated steel, Galvanized steel, T-Bolt Hose Clamp, Double-Bolt Hose Clamp, Constant-Tension Hose Clamp, Lined Heavy-Duty Hose Clamp",
     specs: {
       "Product": "Hose Clamp Heavy Duty",
       "Brand": "(51\u2013100)",
@@ -1496,7 +1496,7 @@ export const PLUMBING_PRODUCTS = [
     priorityLabel: "1st Priority",
     color: "amber",
     image: "/images/products/plumbing/plumb_item_57.png",
-    description: "Industrial-grade U Clamp supplied by Bahjat Enterprises under the Texmo Industries brand standard. Engineered for heavy-duty plumbing, fluid handling, and commercial building services. A U clamp is a U-shaped fastening device used to secure pipes, tubes, rods, cables, and other cylindrical objects to a wall, ceiling, support frame, or structural surface, The clamp wraps around the object and is tightened with nuts and bolts to hold it firmly in place",
+    description: "Industrial-grade U Clamp supplied by Bahjat Enterprises to certified industrial standards. Engineered for heavy-duty plumbing, fluid handling, and commercial building services. A U clamp is a U-shaped fastening device used to secure pipes, tubes, rods, cables, and other cylindrical objects to a wall, ceiling, support frame, or structural surface, The clamp wraps around the object and is tightened with nuts and bolts to hold it firmly in place",
     specs: {
       "Product": "U Clamp",
       "Brand": "Texmo Industries",
@@ -1522,7 +1522,7 @@ export const PLUMBING_PRODUCTS = [
     priorityLabel: "1st Priority",
     color: "amber",
     image: "/images/products/plumbing/plumb_item_58.png",
-    description: "Industrial-grade Wall Clamp supplied by Bahjat Enterprises under the Crompton brand standard. Engineered for heavy-duty plumbing, fluid handling, and commercial building services. A wall clamp is a fastening device used to secure pipes, tubes, conduits, cables, or structural components to a wall or other vertical surface. It provides support, prevents movement, and helps maintain proper alignment",
+    description: "Industrial-grade Wall Clamp supplied by Bahjat Enterprises to certified industrial standards. Engineered for heavy-duty plumbing, fluid handling, and commercial building services. A wall clamp is a fastening device used to secure pipes, tubes, conduits, cables, or structural components to a wall or other vertical surface. It provides support, prevents movement, and helps maintain proper alignment",
     specs: {
       "Product": "Wall Clamp",
       "Brand": "Crompton",
@@ -1624,7 +1624,7 @@ export const PLUMBING_PRODUCTS = [
     priorityLabel: "1st Priority",
     color: "amber",
     image: "/images/products/plumbing/plumb_item_62.png",
-    description: "Industrial-grade Braided Flexiable Hose supplied by Bahjat Enterprises under the Racold brand standard. Engineered for heavy-duty plumbing, fluid handling, and commercial building services. A Braided Flexible Hose is a flexible hose reinforced with a braided metal or synthetic layer, used for reliable connections in water, plumbing, sanitary, and other fluid applicationsBraided Flexible Hose \u2013 Reinforced flexible hose with stainless-steel/synthetic braided outer layer and suitable threaded end connections, for water/plumbing applications, size and length as specified",
+    description: "Industrial-grade Braided Flexiable Hose supplied by Bahjat Enterprises to certified industrial standards. Engineered for heavy-duty plumbing, fluid handling, and commercial building services. A Braided Flexible Hose is a flexible hose reinforced with a braided metal or synthetic layer, used for reliable connections in water, plumbing, sanitary, and other fluid applicationsBraided Flexible Hose \u2013 Reinforced flexible hose with stainless-steel/synthetic braided outer layer and suitable threaded end connections, for water/plumbing applications, size and length as specified",
     specs: {
       "Product": "Braided Flexiable Hose",
       "Brand": "Racold",
@@ -1651,7 +1651,7 @@ export const PLUMBING_PRODUCTS = [
     priorityLabel: "1st Priority",
     color: "amber",
     image: "/images/products/plumbing/plumb_item_63.png",
-    description: "Industrial-grade Air Hose supplied by Bahjat Enterprises under the V-Guard brand standard. Engineered for heavy-duty plumbing, fluid handling, and commercial building services. An Air Hose is a flexible hose used to carry compressed air from an air compressor or air supply line to pneumatic tools, machinery, and equipment, Air Hose \u2013 Flexible reinforced hose suitable for compressed-air applications, complete with compatible end fittings/couplings, size, length and working pressure as specified",
+    description: "Industrial-grade Air Hose supplied by Bahjat Enterprises to certified industrial standards. Engineered for heavy-duty plumbing, fluid handling, and commercial building services. An Air Hose is a flexible hose used to carry compressed air from an air compressor or air supply line to pneumatic tools, machinery, and equipment, Air Hose \u2013 Flexible reinforced hose suitable for compressed-air applications, complete with compatible end fittings/couplings, size, length and working pressure as specified",
     specs: {
       "Product": "Air Hose",
       "Brand": "V-Guard",
@@ -1678,7 +1678,7 @@ export const PLUMBING_PRODUCTS = [
     priorityLabel: "1st Priority",
     color: "amber",
     image: "/images/products/plumbing/plumb_item_64.png",
-    description: "Industrial-grade Lay Flat Hose supplied by Bahjat Enterprises under the AO Smith brand standard. Engineered for heavy-duty plumbing, fluid handling, and commercial building services. A lay flat hose is a flexible hose designed to collapse and lie flat when not in use and expand when filled with water or other fluids. It is lightweight, easy to transport, and commonly used for fluid transfer applications",
+    description: "Industrial-grade Lay Flat Hose supplied by Bahjat Enterprises to certified industrial standards. Engineered for heavy-duty plumbing, fluid handling, and commercial building services. A lay flat hose is a flexible hose designed to collapse and lie flat when not in use and expand when filled with water or other fluids. It is lightweight, easy to transport, and commonly used for fluid transfer applications",
     specs: {
       "Product": "Lay Flat Hose",
       "Brand": "AO Smith",
@@ -1703,7 +1703,7 @@ export const PLUMBING_PRODUCTS = [
     priorityLabel: "1st Priority",
     color: "amber",
     image: "/images/products/plumbing/plumb_item_65.png",
-    description: "Industrial-grade Nylon Braided Hose supplied by Bahjat Enterprises under the Polycab brand standard. Engineered for heavy-duty plumbing, fluid handling, and commercial building services. A nylon braided hose is a flexible hose reinforced with an outer layer of woven nylon fibers. The braided construction increases the hose's strength, pressure resistance, flexibility, and durability",
+    description: "Industrial-grade Nylon Braided Hose supplied by Bahjat Enterprises to certified industrial standards. Engineered for heavy-duty plumbing, fluid handling, and commercial building services. A nylon braided hose is a flexible hose reinforced with an outer layer of woven nylon fibers. The braided construction increases the hose's strength, pressure resistance, flexibility, and durability",
     specs: {
       "Product": "Nylon Braided Hose",
       "Brand": "Polycab",
@@ -1778,7 +1778,7 @@ export const PLUMBING_PRODUCTS = [
     priorityLabel: "1st Priority",
     color: "amber",
     image: "/images/products/plumbing/plumb_item_68.png",
-    description: "Industrial-grade PVC Braided Hose supplied by Bahjat Enterprises under the Skipper brand standard. Engineered for heavy-duty plumbing, fluid handling, and commercial building services. A PVC braided hose is a flexible hose reinforced with a braided fiber layer between the inner and outer PVC layers. The reinforcement increases the hose's strength, pressure resistance, and durability while maintaining flexibility",
+    description: "Industrial-grade PVC Braided Hose supplied by Bahjat Enterprises to certified industrial standards. Engineered for heavy-duty plumbing, fluid handling, and commercial building services. A PVC braided hose is a flexible hose reinforced with a braided fiber layer between the inner and outer PVC layers. The reinforcement increases the hose's strength, pressure resistance, and durability while maintaining flexibility",
     specs: {
       "Product": "PVC Braided Hose",
       "Brand": "Skipper",
@@ -1854,7 +1854,7 @@ export const PLUMBING_PRODUCTS = [
     priorityLabel: "1st Priority",
     color: "amber",
     image: "/images/products/plumbing/plumb_item_71.png",
-    description: "Industrial-grade Kitchen Sink supplied by Bahjat Enterprises under the APL Apollo brand standard. Engineered for heavy-duty plumbing, fluid handling, and commercial building services. A Kitchen Sink is a sink used for washing dishes, vegetables, food preparation, and general kitchen cleaning",
+    description: "Industrial-grade Kitchen Sink supplied by Bahjat Enterprises to certified industrial standards. Engineered for heavy-duty plumbing, fluid handling, and commercial building services. A Kitchen Sink is a sink used for washing dishes, vegetables, food preparation, and general kitchen cleaning",
     specs: {
       "Product": "Kitchen Sink",
       "Brand": "APL Apollo",
@@ -1904,7 +1904,7 @@ export const PLUMBING_PRODUCTS = [
     priorityLabel: "1st Priority",
     color: "amber",
     image: "/images/products/plumbing/plumb_item_73.png",
-    description: "Industrial-grade Sink Mixer Tap supplied by Bahjat Enterprises under the Saint-Gobain PAM brand standard. Engineered for heavy-duty plumbing, fluid handling, and commercial building services. A Sink Mixer Tap is a faucet that combines hot and cold water into a single outlet. The user can control the water flow and temperature using one or two handles",
+    description: "Industrial-grade Sink Mixer Tap supplied by Bahjat Enterprises to certified industrial standards. Engineered for heavy-duty plumbing, fluid handling, and commercial building services. A Sink Mixer Tap is a faucet that combines hot and cold water into a single outlet. The user can control the water flow and temperature using one or two handles",
     specs: {
       "Product": "Sink Mixer Tap",
       "Brand": "Saint-Gobain PAM",
@@ -2007,7 +2007,7 @@ export const PLUMBING_PRODUCTS = [
     priorityLabel: "1st Priority",
     color: "amber",
     image: "/images/products/plumbing/plumb_item_77.png",
-    description: "Industrial-grade Utility Hose supplied by Bahjat Enterprises under the AKG Group brand standard. Engineered for heavy-duty plumbing, fluid handling, and commercial building services. A utility hose is a multipurpose flexible hose designed to transfer water, air, light chemicals, and other non-corrosive fluids in residential, commercial, agricultural, and industrial applications",
+    description: "Industrial-grade Utility Hose supplied by Bahjat Enterprises to certified industrial standards. Engineered for heavy-duty plumbing, fluid handling, and commercial building services. A utility hose is a multipurpose flexible hose designed to transfer water, air, light chemicals, and other non-corrosive fluids in residential, commercial, agricultural, and industrial applications",
     specs: {
       "Product": "Utility Hose",
       "Brand": "AKG Group",
@@ -2107,7 +2107,7 @@ export const PLUMBING_PRODUCTS = [
     priorityLabel: "1st Priority",
     color: "amber",
     image: "/images/products/plumbing/plumb_item_81.png",
-    description: "Industrial-grade Faucet Spray Hose supplied by Bahjat Enterprises under the Pidilite Industries brand standard. Engineered for heavy-duty plumbing, fluid handling, and commercial building services. A faucet spray hose is a flexible hose that connects a spray head to a kitchen or bathroom faucet, allowing water to be directed more easily for cleaning, rinsing, and washing",
+    description: "Industrial-grade Faucet Spray Hose supplied by Bahjat Enterprises to certified industrial standards. Engineered for heavy-duty plumbing, fluid handling, and commercial building services. A faucet spray hose is a flexible hose that connects a spray head to a kitchen or bathroom faucet, allowing water to be directed more easily for cleaning, rinsing, and washing",
     specs: {
       "Product": "Faucet Spray Hose",
       "Brand": "Pidilite Industries",
@@ -2159,7 +2159,7 @@ export const PLUMBING_PRODUCTS = [
     priorityLabel: "1st Priority",
     color: "amber",
     image: "/images/products/plumbing/plumb_item_83.png",
-    description: "Industrial-grade Flex Hose & Pipes supplied by Bahjat Enterprises under the Henkel brand standard. Engineered for heavy-duty plumbing, fluid handling, and commercial building services. Flexible hoses and pipes are tubing systems designed to transport liquids, gases, air, steam, chemicals, and other materials while allowing movement, vibration absorption, and easy installation, Types of flexible hoses and pipes: PVC braided hose, Nylon braided hose, Stainless steel flexible hose, Rubber hose, Spiral hose, Suction hose, Lay-flat hose, Chemical-resistant hose, Steam hose, Drain hose",
+    description: "Industrial-grade Flex Hose & Pipes supplied by Bahjat Enterprises to certified industrial standards. Engineered for heavy-duty plumbing, fluid handling, and commercial building services. Flexible hoses and pipes are tubing systems designed to transport liquids, gases, air, steam, chemicals, and other materials while allowing movement, vibration absorption, and easy installation, Types of flexible hoses and pipes: PVC braided hose, Nylon braided hose, Stainless steel flexible hose, Rubber hose, Spiral hose, Suction hose, Lay-flat hose, Chemical-resistant hose, Steam hose, Drain hose",
     specs: {
       "Product": "Flex Hose & Pipes",
       "Brand": "Henkel",
@@ -2208,7 +2208,7 @@ export const PLUMBING_PRODUCTS = [
     priorityLabel: "1st Priority",
     color: "amber",
     image: "/images/products/plumbing/plumb_item_85.png",
-    description: "Industrial-grade Basin Flex Hose supplied by Bahjat Enterprises under the Resideo brand standard. Engineered for heavy-duty plumbing, fluid handling, and commercial building services. A Basin Flex Hose is a flexible water-supply connection used to connect a wash-basin tap or mixer to the water supply/angle cock. Its flexibility makes installation easier where rigid piping cannot be aligned directly, Basin Flex Hose \u2013 Flexible braided water-supply hose with suitable threaded end connections for connecting wash-basin tap/mixer to angle cock, size and length as specified",
+    description: "Industrial-grade Basin Flex Hose supplied by Bahjat Enterprises to certified industrial standards. Engineered for heavy-duty plumbing, fluid handling, and commercial building services. A Basin Flex Hose is a flexible water-supply connection used to connect a wash-basin tap or mixer to the water supply/angle cock. Its flexibility makes installation easier where rigid piping cannot be aligned directly, Basin Flex Hose \u2013 Flexible braided water-supply hose with suitable threaded end connections for connecting wash-basin tap/mixer to angle cock, size and length as specified",
     specs: {
       "Product": "Basin Flex Hose",
       "Brand": "Resideo",
@@ -2318,7 +2318,7 @@ export const PLUMBING_PRODUCTS = [
     priorityLabel: "1st Priority",
     color: "amber",
     image: "/images/products/plumbing/plumb_item_89.png",
-    description: "Industrial-grade Cross supplied by Bahjat Enterprises under the RIDGID brand standard. Engineered for heavy-duty plumbing, fluid handling, and commercial building services. A Brass Cross is a four-way pipe fitting used to connect four pipes or fittings at right angles, typically with one inlet and three outlets",
+    description: "Industrial-grade Cross supplied by Bahjat Enterprises to certified industrial standards. Engineered for heavy-duty plumbing, fluid handling, and commercial building services. A Brass Cross is a four-way pipe fitting used to connect four pipes or fittings at right angles, typically with one inlet and three outlets",
     specs: {
       "Product": "Cross",
       "Brand": "RIDGID",
@@ -2342,7 +2342,7 @@ export const PLUMBING_PRODUCTS = [
     priorityLabel: "1st Priority",
     color: "amber",
     image: "/images/products/plumbing/plumb_item_90.png",
-    description: "Industrial-grade CPVC Cross supplied by Bahjat Enterprises under the REMS brand standard. Engineered for heavy-duty plumbing, fluid handling, and commercial building services. A CPVC Four-Way Cross, Cross Tee is a four-way CPVC pipe fitting used to connect four CPVC pipes at 90\u00b0 to each other. It is commonly used to create branch connections in hot and cold water distribution systems",
+    description: "Industrial-grade CPVC Cross supplied by Bahjat Enterprises to certified industrial standards. Engineered for heavy-duty plumbing, fluid handling, and commercial building services. A CPVC Four-Way Cross, Cross Tee is a four-way CPVC pipe fitting used to connect four CPVC pipes at 90\u00b0 to each other. It is commonly used to create branch connections in hot and cold water distribution systems",
     specs: {
       "Product": "CPVC Cross",
       "Brand": "REMS",
@@ -2366,7 +2366,7 @@ export const PLUMBING_PRODUCTS = [
     priorityLabel: "1st Priority",
     color: "amber",
     image: "/images/products/plumbing/plumb_item_91.png",
-    description: "Industrial-grade Equal Cross supplied by Bahjat Enterprises under the Rothenberger brand standard. Engineered for heavy-duty plumbing, fluid handling, and commercial building services. An equal cross is a four-way pipe fitting used to connect four pipes of the same diameter. It allows fluid to flow in four different directions from a central connection point, Unlike a reducing cross, all four openings of an equal cross have the same size",
+    description: "Industrial-grade Equal Cross supplied by Bahjat Enterprises to certified industrial standards. Engineered for heavy-duty plumbing, fluid handling, and commercial building services. An equal cross is a four-way pipe fitting used to connect four pipes of the same diameter. It allows fluid to flow in four different directions from a central connection point, Unlike a reducing cross, all four openings of an equal cross have the same size",
     specs: {
       "Product": "Equal Cross",
       "Brand": "Rothenberger",
@@ -2414,7 +2414,7 @@ export const PLUMBING_PRODUCTS = [
     priorityLabel: "1st Priority",
     color: "amber",
     image: "/images/products/plumbing/plumb_item_93.png",
-    description: "Industrial-grade Brass Hose Connector supplied by Bahjat Enterprises under the Bahco brand standard. Engineered for heavy-duty plumbing, fluid handling, and commercial building services. A Brass Hose Connector is a fitting used to connect a flexible hose to a pipe, tap, valve, or another hose",
+    description: "Industrial-grade Brass Hose Connector supplied by Bahjat Enterprises to certified industrial standards. Engineered for heavy-duty plumbing, fluid handling, and commercial building services. A Brass Hose Connector is a fitting used to connect a flexible hose to a pipe, tap, valve, or another hose",
     specs: {
       "Product": "Brass Hose Connector",
       "Brand": "Bahco",
@@ -2440,7 +2440,7 @@ export const PLUMBING_PRODUCTS = [
     priorityLabel: "1st Priority",
     color: "amber",
     image: "/images/products/plumbing/plumb_item_94.png",
-    description: "Industrial-grade Double Ball Sink Connector supplied by Bahjat Enterprises under the Stanley brand standard. Engineered for heavy-duty plumbing, fluid handling, and commercial building services. A Double Ball Sink Connector is a plumbing fitting that has two independent ball valves connected to a single water supply point. It allows two fixtures or appliances to receive water while each outlet can be turned on or off separately",
+    description: "Industrial-grade Double Ball Sink Connector supplied by Bahjat Enterprises to certified industrial standards. Engineered for heavy-duty plumbing, fluid handling, and commercial building services. A Double Ball Sink Connector is a plumbing fitting that has two independent ball valves connected to a single water supply point. It allows two fixtures or appliances to receive water while each outlet can be turned on or off separately",
     specs: {
       "Product": "Double Ball Sink Connector",
       "Brand": "Stanley",
@@ -2702,7 +2702,7 @@ export const PLUMBING_PRODUCTS = [
     priorityLabel: "1st Priority",
     color: "amber",
     image: "/images/products/plumbing/plumb_item_104.png",
-    description: "Industrial-grade Brass Hose Nozzle supplied by Bahjat Enterprises under the Aqua Plumb brand standard. Engineered for heavy-duty plumbing, fluid handling, and commercial building services. A Brass Hose Nozzle is a nozzle fitted at the end of a hose to control, direct, and adjust the water spray or jet",
+    description: "Industrial-grade Brass Hose Nozzle supplied by Bahjat Enterprises to certified industrial standards. Engineered for heavy-duty plumbing, fluid handling, and commercial building services. A Brass Hose Nozzle is a nozzle fitted at the end of a hose to control, direct, and adjust the water spray or jet",
     specs: {
       "Product": "Brass Hose Nozzle",
       "Brand": "Aqua Plumb",
@@ -2728,7 +2728,7 @@ export const PLUMBING_PRODUCTS = [
     priorityLabel: "1st Priority",
     color: "amber",
     image: "/images/products/plumbing/plumb_item_105.png",
-    description: "Industrial-grade Brass Hose Union supplied by Bahjat Enterprises under the Ashirvad Pipes brand standard. Engineered for heavy-duty plumbing, fluid handling, and commercial building services. A Brass Hose Union is a detachable fitting used to connect two hose sections or connect a hose to a pipe/fitting, while allowing easy disconnection for maintenance",
+    description: "Industrial-grade Brass Hose Union supplied by Bahjat Enterprises to certified industrial standards. Engineered for heavy-duty plumbing, fluid handling, and commercial building services. A Brass Hose Union is a detachable fitting used to connect two hose sections or connect a hose to a pipe/fitting, while allowing easy disconnection for maintenance",
     specs: {
       "Product": "Brass Hose Union",
       "Brand": "Ashirvad Pipes",
@@ -2754,7 +2754,7 @@ export const PLUMBING_PRODUCTS = [
     priorityLabel: "1st Priority",
     color: "amber",
     image: "/images/products/plumbing/plumb_item_106.png",
-    description: "Industrial-grade Union supplied by Bahjat Enterprises under the Ashirvad Pipes brand standard. Engineered for heavy-duty plumbing, fluid handling, and commercial building services. Pipe Union, Plumbing Union, Union Fitting, A Pipe Union is a plumbing fitting used to connect two pipes and allow easy disconnection without rotating or moving the pipes",
+    description: "Industrial-grade Union supplied by Bahjat Enterprises to certified industrial standards. Engineered for heavy-duty plumbing, fluid handling, and commercial building services. Pipe Union, Plumbing Union, Union Fitting, A Pipe Union is a plumbing fitting used to connect two pipes and allow easy disconnection without rotating or moving the pipes",
     specs: {
       "Product": "Union",
       "Brand": "Ashirvad Pipes",
@@ -2779,7 +2779,7 @@ export const PLUMBING_PRODUCTS = [
     priorityLabel: "1st Priority",
     color: "amber",
     image: "/images/products/plumbing/plumb_item_107.png",
-    description: "Industrial-grade Brass Locknut supplied by Bahjat Enterprises under the Aqua Plumb brand standard. Engineered for heavy-duty plumbing, fluid handling, and commercial building services. A Brass Locknut is a threaded nut used to secure a fitting, valve, pipe component, or threaded connection in position and prevent it from loosening",
+    description: "Industrial-grade Brass Locknut supplied by Bahjat Enterprises to certified industrial standards. Engineered for heavy-duty plumbing, fluid handling, and commercial building services. A Brass Locknut is a threaded nut used to secure a fitting, valve, pipe component, or threaded connection in position and prevent it from loosening",
     specs: {
       "Product": "Brass Locknut",
       "Brand": "Aqua Plumb",
@@ -2858,7 +2858,7 @@ export const PLUMBING_PRODUCTS = [
     priorityLabel: "1st Priority",
     color: "amber",
     image: "/images/products/plumbing/plumb_item_110.png",
-    description: "Industrial-grade O Ring Kit supplied by Bahjat Enterprises under the Supreme Industries brand standard. Engineered for heavy-duty plumbing, fluid handling, and commercial building services. O-Ring Seal Kit, Rubber O-Ring Set, O-Ring Assortment Kit, An O-Ring Kit is a collection of rubber sealing rings in different sizes and thicknesses, used to replace worn or damaged seals",
+    description: "Industrial-grade O Ring Kit supplied by Bahjat Enterprises to certified industrial standards. Engineered for heavy-duty plumbing, fluid handling, and commercial building services. O-Ring Seal Kit, Rubber O-Ring Set, O-Ring Assortment Kit, An O-Ring Kit is a collection of rubber sealing rings in different sizes and thicknesses, used to replace worn or damaged seals",
     specs: {
       "Product": "O Ring Kit",
       "Brand": "Supreme Industries",
@@ -2883,7 +2883,7 @@ export const PLUMBING_PRODUCTS = [
     priorityLabel: "1st Priority",
     color: "amber",
     image: "/images/products/plumbing/plumb_item_111.png",
-    description: "Industrial-grade Brass Pipe Socket supplied by Bahjat Enterprises under the Astral Limited brand standard. Engineered for heavy-duty plumbing, fluid handling, and commercial building services. A Brass Pipe Socket is a threaded fitting used to join two pipes or fittings with male threads. It normally has female threads on both sides, Male Thread \u2192 Brass Pipe Socket \u2192 Male Thread",
+    description: "Industrial-grade Brass Pipe Socket supplied by Bahjat Enterprises to certified industrial standards. Engineered for heavy-duty plumbing, fluid handling, and commercial building services. A Brass Pipe Socket is a threaded fitting used to join two pipes or fittings with male threads. It normally has female threads on both sides, Male Thread \u2192 Brass Pipe Socket \u2192 Male Thread",
     specs: {
       "Product": "Brass Pipe Socket",
       "Brand": "Astral Limited",
@@ -2911,7 +2911,7 @@ export const PLUMBING_PRODUCTS = [
     priorityLabel: "1st Priority",
     color: "amber",
     image: "/images/products/plumbing/plumb_item_112.png",
-    description: "Industrial-grade Double Socket supplied by Bahjat Enterprises under the Prince Pipes and Fittings brand standard. Engineered for heavy-duty plumbing, fluid handling, and commercial building services. Socket Coupling, Double Socket Coupling, Straight Coupler, A Double Socket is a pipe coupling fitting with a socket (female) connection at both ends, used to join two pipes of the same diameter in a straight line. It is commonly used in plumbing, water supply, drainage, irrigation, and industrial piping systems",
+    description: "Industrial-grade Double Socket supplied by Bahjat Enterprises to certified industrial standards. Engineered for heavy-duty plumbing, fluid handling, and commercial building services. Socket Coupling, Double Socket Coupling, Straight Coupler, A Double Socket is a pipe coupling fitting with a socket (female) connection at both ends, used to join two pipes of the same diameter in a straight line. It is commonly used in plumbing, water supply, drainage, irrigation, and industrial piping systems",
     specs: {
       "Product": "Double Socket",
       "Brand": "Prince Pipes and Fittings",
@@ -2938,7 +2938,7 @@ export const PLUMBING_PRODUCTS = [
     priorityLabel: "1st Priority",
     color: "amber",
     image: "/images/products/plumbing/plumb_item_113.png",
-    description: "Industrial-grade GI Reducing Socket supplied by Bahjat Enterprises under the Prince Pipes and Fittings brand standard. Engineered for heavy-duty plumbing, fluid handling, and commercial building services. GI Reducing Socket / Reducing Coupling / GI Female Reducer, A GI Reducing Socket is a galvanized iron (GI) threaded pipe fitting used to connect two pipes of different diameters. It has female threads on both ends",
+    description: "Industrial-grade GI Reducing Socket supplied by Bahjat Enterprises to certified industrial standards. Engineered for heavy-duty plumbing, fluid handling, and commercial building services. GI Reducing Socket / Reducing Coupling / GI Female Reducer, A GI Reducing Socket is a galvanized iron (GI) threaded pipe fitting used to connect two pipes of different diameters. It has female threads on both ends",
     specs: {
       "Product": "GI Reducing Socket",
       "Brand": "Prince Pipes and Fittings",
@@ -3035,7 +3035,7 @@ export const PLUMBING_PRODUCTS = [
     priorityLabel: "1st Priority",
     color: "amber",
     image: "/images/products/plumbing/plumb_item_117.png",
-    description: "Industrial-grade Compression Coupling supplied by Bahjat Enterprises under the Finolex Industries brand standard. Engineered for heavy-duty plumbing, fluid handling, and commercial building services. Compression Pipe Coupling / Compression Connector, A Compression Coupling is a pipe fitting used to join two pipes together using compression nuts and sealing rings (ferrules). It provides a watertight connection without welding, soldering, or threading",
+    description: "Industrial-grade Compression Coupling supplied by Bahjat Enterprises to certified industrial standards. Engineered for heavy-duty plumbing, fluid handling, and commercial building services. Compression Pipe Coupling / Compression Connector, A Compression Coupling is a pipe fitting used to join two pipes together using compression nuts and sealing rings (ferrules). It provides a watertight connection without welding, soldering, or threading",
     specs: {
       "Product": "Compression Coupling",
       "Brand": "Finolex Industries",
@@ -3084,7 +3084,7 @@ export const PLUMBING_PRODUCTS = [
     priorityLabel: "1st Priority",
     color: "amber",
     image: "/images/products/plumbing/plumb_item_119.png",
-    description: "Industrial-grade Brass Pipe Tee supplied by Bahjat Enterprises under the Astral Limited brand standard. Engineered for heavy-duty plumbing, fluid handling, and commercial building services. A Brass Pipe Tee is a T-shaped fitting used to connect three pipes or fittings. It allows the pipeline to be divided, combined, or branched in different directions, Main Pipe \u2192 Brass Pipe Tee \u2192 Branch Connection",
+    description: "Industrial-grade Brass Pipe Tee supplied by Bahjat Enterprises to certified industrial standards. Engineered for heavy-duty plumbing, fluid handling, and commercial building services. A Brass Pipe Tee is a T-shaped fitting used to connect three pipes or fittings. It allows the pipeline to be divided, combined, or branched in different directions, Main Pipe \u2192 Brass Pipe Tee \u2192 Branch Connection",
     specs: {
       "Product": "Brass Pipe Tee",
       "Brand": "Astral Limited",
@@ -3137,7 +3137,7 @@ export const PLUMBING_PRODUCTS = [
     priorityLabel: "1st Priority",
     color: "amber",
     image: "/images/products/plumbing/plumb_item_121.png",
-    description: "Industrial-grade Tee supplied by Bahjat Enterprises under the Finolex Industries brand standard. Engineered for heavy-duty plumbing, fluid handling, and commercial building services. T-Joint / Tee Fitting, A Tee is a pipe fitting used to connect three pipes and create a branch in a plumbing or piping system. It has one inlet and two outlets, usually at a 90\u00b0 angle",
+    description: "Industrial-grade Tee supplied by Bahjat Enterprises to certified industrial standards. Engineered for heavy-duty plumbing, fluid handling, and commercial building services. T-Joint / Tee Fitting, A Tee is a pipe fitting used to connect three pipes and create a branch in a plumbing or piping system. It has one inlet and two outlets, usually at a 90\u00b0 angle",
     specs: {
       "Product": "Tee",
       "Brand": "Finolex Industries",
@@ -3209,7 +3209,7 @@ export const PLUMBING_PRODUCTS = [
     priorityLabel: "1st Priority",
     color: "amber",
     image: "/images/products/plumbing/plumb_item_124.png",
-    description: "Industrial-grade Lateral Tee supplied by Bahjat Enterprises under the Finolex Industries brand standard. Engineered for heavy-duty plumbing, fluid handling, and commercial building services. A Lateral Tee is a pipe fitting used to create a branch connection at an angle, rather than the 90\u00b0 branch of a standard tee. The branch is commonly set at 45\u00b0 to improve flow and reduce turbulence",
+    description: "Industrial-grade Lateral Tee supplied by Bahjat Enterprises to certified industrial standards. Engineered for heavy-duty plumbing, fluid handling, and commercial building services. A Lateral Tee is a pipe fitting used to create a branch connection at an angle, rather than the 90\u00b0 branch of a standard tee. The branch is commonly set at 45\u00b0 to improve flow and reduce turbulence",
     specs: {
       "Product": "Lateral Tee",
       "Brand": "Finolex Industries",
@@ -3236,7 +3236,7 @@ export const PLUMBING_PRODUCTS = [
     priorityLabel: "1st Priority",
     color: "amber",
     image: "/images/products/plumbing/plumb_item_125.png",
-    description: "Industrial-grade Brass Reducing Bush supplied by Bahjat Enterprises under the Aqua Plumb brand standard. Engineered for heavy-duty plumbing, fluid handling, and commercial building services. A Brass Reducing Bush is a threaded pipe fitting used to connect two pipes or fittings of different sizes. It reduces the diameter of a threaded opening, allowing a smaller pipe to be connected to a larger fitting",
+    description: "Industrial-grade Brass Reducing Bush supplied by Bahjat Enterprises to certified industrial standards. Engineered for heavy-duty plumbing, fluid handling, and commercial building services. A Brass Reducing Bush is a threaded pipe fitting used to connect two pipes or fittings of different sizes. It reduces the diameter of a threaded opening, allowing a smaller pipe to be connected to a larger fitting",
     specs: {
       "Product": "Brass Reducing Bush",
       "Brand": "Aqua Plumb",
@@ -3261,7 +3261,7 @@ export const PLUMBING_PRODUCTS = [
     priorityLabel: "1st Priority",
     color: "amber",
     image: "/images/products/plumbing/plumb_item_126.png",
-    description: "Industrial-grade Reducer Bush supplied by Bahjat Enterprises under the Supreme Industries brand standard. Engineered for heavy-duty plumbing, fluid handling, and commercial building services. A CPVC. PVC Reducer Bush (also called a CPVC Reducing Bush or Reducing Bushing) is a PVC, CPVC fitting used to reduce the size of a pipeline by connecting a larger PVC, CPVC fitting or socket to a smaller PVC, CPVC pipe. It is commonly used in hot and cold water plumbing systems",
+    description: "Industrial-grade Reducer Bush supplied by Bahjat Enterprises to certified industrial standards. Engineered for heavy-duty plumbing, fluid handling, and commercial building services. A CPVC. PVC Reducer Bush (also called a CPVC Reducing Bush or Reducing Bushing) is a PVC, CPVC fitting used to reduce the size of a pipeline by connecting a larger PVC, CPVC fitting or socket to a smaller PVC, CPVC pipe. It is commonly used in hot and cold water plumbing systems",
     specs: {
       "Product": "Reducer Bush",
       "Brand": "Supreme Industries",
@@ -3557,7 +3557,7 @@ export const PLUMBING_PRODUCTS = [
     priorityLabel: "1st Priority",
     color: "amber",
     image: "/images/products/plumbing/plumb_item_138.png",
-    description: "Industrial-grade Drain Cover supplied by Bahjat Enterprises under the Supreme Industries brand standard. Engineered for heavy-duty plumbing, fluid handling, and commercial building services. Floor Drain Cover, Drain Grate, Drain Grating, A Drain Cover is a protective cover installed over a floor drain, channel drain, or manhole opening. It allows water to enter the drainage system while preventing debris, leaves, and large objects from entering, and provides a safe walking or driving surface",
+    description: "Industrial-grade Drain Cover supplied by Bahjat Enterprises to certified industrial standards. Engineered for heavy-duty plumbing, fluid handling, and commercial building services. Floor Drain Cover, Drain Grate, Drain Grating, A Drain Cover is a protective cover installed over a floor drain, channel drain, or manhole opening. It allows water to enter the drainage system while preventing debris, leaves, and large objects from entering, and provides a safe walking or driving surface",
     specs: {
       "Product": "Drain Cover",
       "Brand": "Supreme Industries",
@@ -3585,7 +3585,7 @@ export const PLUMBING_PRODUCTS = [
     priorityLabel: "1st Priority",
     color: "amber",
     image: "/images/products/plumbing/plumb_item_139.png",
-    description: "Industrial-grade Drain Cover Plate supplied by Bahjat Enterprises under the Supreme Industries brand standard. Engineered for heavy-duty plumbing, fluid handling, and commercial building services. Floor Drain Cover Plate, Drain Grate Plate, Floor Drain Plate, A Drain Cover Plate is a flat protective cover installed over a floor drain or drainage outlet. It allows water to pass through while preventing debris from entering the drainage system and provides a neat, finished appearance",
+    description: "Industrial-grade Drain Cover Plate supplied by Bahjat Enterprises to certified industrial standards. Engineered for heavy-duty plumbing, fluid handling, and commercial building services. Floor Drain Cover Plate, Drain Grate Plate, Floor Drain Plate, A Drain Cover Plate is a flat protective cover installed over a floor drain or drainage outlet. It allows water to pass through while preventing debris from entering the drainage system and provides a neat, finished appearance",
     specs: {
       "Product": "Drain Cover Plate",
       "Brand": "Supreme Industries",
@@ -3611,7 +3611,7 @@ export const PLUMBING_PRODUCTS = [
     priorityLabel: "1st Priority",
     color: "amber",
     image: "/images/products/plumbing/plumb_item_140.png",
-    description: "Industrial-grade Drain Trap Cover supplied by Bahjat Enterprises under the Cera Sanitaryware brand standard. Engineered for heavy-duty plumbing, fluid handling, and commercial building services. Floor Drain Cover, Drain Trap Grate, Floor Trap Cover, A Drain Trap Cover is a protective cover fitted over a floor drain or drain trap to allow wastewater to pass while preventing debris, insects, and unpleasant sewer odors from escaping. It also enhances safety and provides a clean, finished appearance",
+    description: "Industrial-grade Drain Trap Cover supplied by Bahjat Enterprises to certified industrial standards. Engineered for heavy-duty plumbing, fluid handling, and commercial building services. Floor Drain Cover, Drain Trap Grate, Floor Trap Cover, A Drain Trap Cover is a protective cover fitted over a floor drain or drain trap to allow wastewater to pass while preventing debris, insects, and unpleasant sewer odors from escaping. It also enhances safety and provides a clean, finished appearance",
     specs: {
       "Product": "Drain Trap Cover",
       "Brand": "Cera Sanitaryware",
@@ -3687,7 +3687,7 @@ export const PLUMBING_PRODUCTS = [
     priorityLabel: "1st Priority",
     color: "amber",
     image: "/images/products/plumbing/plumb_item_143.png",
-    description: "Industrial-grade Toilet Seat Cover supplied by Bahjat Enterprises under the Supreme Industries brand standard. Engineered for heavy-duty plumbing, fluid handling, and commercial building services. A Toilet Seat Cover is the hinged lid fitted on top of a toilet seat. It provides hygiene, privacy, and protection when the toilet is not in use",
+    description: "Industrial-grade Toilet Seat Cover supplied by Bahjat Enterprises to certified industrial standards. Engineered for heavy-duty plumbing, fluid handling, and commercial building services. A Toilet Seat Cover is the hinged lid fitted on top of a toilet seat. It provides hygiene, privacy, and protection when the toilet is not in use",
     specs: {
       "Product": "Toilet Seat Cover",
       "Brand": "Supreme Industries",
@@ -3815,7 +3815,7 @@ export const PLUMBING_PRODUCTS = [
     priorityLabel: "1st Priority",
     color: "amber",
     image: "/images/products/plumbing/plumb_item_148.png",
-    description: "Industrial-grade Plastic Drain Cover supplied by Bahjat Enterprises under the Supreme Industries brand standard. Engineered for heavy-duty plumbing, fluid handling, and commercial building services. A Plastic Drain Cover is a lightweight cover or grate fitted over a floor drain to allow wastewater to pass while preventing larger debris from entering the drainage pipe",
+    description: "Industrial-grade Plastic Drain Cover supplied by Bahjat Enterprises to certified industrial standards. Engineered for heavy-duty plumbing, fluid handling, and commercial building services. A Plastic Drain Cover is a lightweight cover or grate fitted over a floor drain to allow wastewater to pass while preventing larger debris from entering the drainage pipe",
     specs: {
       "Product": "Plastic Drain Cover",
       "Brand": "Supreme Industries",
@@ -3894,7 +3894,7 @@ export const PLUMBING_PRODUCTS = [
     priorityLabel: "1st Priority",
     color: "amber",
     image: "/images/products/plumbing/plumb_item_151.png",
-    description: "Industrial-grade Towel Rod supplied by Bahjat Enterprises under the Supreme Industries brand standard. Engineered for heavy-duty plumbing, fluid handling, and commercial building services. Towel Rod \u2014 a bathroom accessory used to hang and dry towels. It is generally wall-mounted and available in straight or double-rod designs",
+    description: "Industrial-grade Towel Rod supplied by Bahjat Enterprises to certified industrial standards. Engineered for heavy-duty plumbing, fluid handling, and commercial building services. Towel Rod \u2014 a bathroom accessory used to hang and dry towels. It is generally wall-mounted and available in straight or double-rod designs",
     specs: {
       "Product": "Towel Rod",
       "Brand": "Supreme Industries",
@@ -3918,7 +3918,7 @@ export const PLUMBING_PRODUCTS = [
     priorityLabel: "1st Priority",
     color: "amber",
     image: "/images/products/plumbing/plumb_item_152.png",
-    description: "Industrial-grade Flush Tank supplied by Bahjat Enterprises under the Supreme Industries brand standard. Engineered for heavy-duty plumbing, fluid handling, and commercial building services. A Flush Tank is a water storage tank used with a toilet (WC) to hold and release water for flushing the toilet bowl. It can be exposed or concealed behind the wall",
+    description: "Industrial-grade Flush Tank supplied by Bahjat Enterprises to certified industrial standards. Engineered for heavy-duty plumbing, fluid handling, and commercial building services. A Flush Tank is a water storage tank used with a toilet (WC) to hold and release water for flushing the toilet bowl. It can be exposed or concealed behind the wall",
     specs: {
       "Product": "Flush Tank",
       "Brand": "Supreme Industries",
@@ -4097,7 +4097,7 @@ export const PLUMBING_PRODUCTS = [
     priorityLabel: "1st Priority",
     color: "amber",
     image: "/images/products/plumbing/plumb_item_159.png",
-    description: "Industrial-grade Conduit Junction Box supplied by Bahjat Enterprises under the Supreme Industries brand standard. Engineered for heavy-duty plumbing, fluid handling, and commercial building services. A Conduit Junction Box is an electrical enclosure used to join, split, or redirect electrical conduits and wires. It protects cable connections and provides access for inspection and maintenance",
+    description: "Industrial-grade Conduit Junction Box supplied by Bahjat Enterprises to certified industrial standards. Engineered for heavy-duty plumbing, fluid handling, and commercial building services. A Conduit Junction Box is an electrical enclosure used to join, split, or redirect electrical conduits and wires. It protects cable connections and provides access for inspection and maintenance",
     specs: {
       "Product": "Conduit Junction Box",
       "Brand": "Supreme Industries",
@@ -4226,7 +4226,7 @@ export const PLUMBING_PRODUCTS = [
     priorityLabel: "1st Priority",
     color: "amber",
     image: "/images/products/plumbing/plumb_item_164.png",
-    description: "Industrial-grade Pipe End Cap supplied by Bahjat Enterprises under the Astral Limited brand standard. Engineered for heavy-duty plumbing, fluid handling, and commercial building services. A Pipe End Cap is a fitting used to close or seal the open end of a pipe. It prevents water, air, dirt, or other materials from entering or leaving the pipe",
+    description: "Industrial-grade Pipe End Cap supplied by Bahjat Enterprises to certified industrial standards. Engineered for heavy-duty plumbing, fluid handling, and commercial building services. A Pipe End Cap is a fitting used to close or seal the open end of a pipe. It prevents water, air, dirt, or other materials from entering or leaving the pipe",
     specs: {
       "Product": "Pipe End Cap",
       "Brand": "Astral Limited",
@@ -4303,7 +4303,7 @@ export const PLUMBING_PRODUCTS = [
     priorityLabel: "1st Priority",
     color: "amber",
     image: "/images/products/plumbing/plumb_item_167.png",
-    description: "Industrial-grade CPVC Cleaner supplied by Bahjat Enterprises under the Supreme Industries brand standard. Engineered for heavy-duty plumbing, fluid handling, and commercial building services. CPVC Cleaner is a chemical preparation used to clean and prepare CPVC (Chlorinated Polyvinyl Chloride) pipes and fittings before applying CPVC solvent cement. It removes dirt, grease, oil, moisture, and surface contaminants to ensure a strong, leak-proof solvent-welded joint",
+    description: "Industrial-grade CPVC Cleaner supplied by Bahjat Enterprises to certified industrial standards. Engineered for heavy-duty plumbing, fluid handling, and commercial building services. CPVC Cleaner is a chemical preparation used to clean and prepare CPVC (Chlorinated Polyvinyl Chloride) pipes and fittings before applying CPVC solvent cement. It removes dirt, grease, oil, moisture, and surface contaminants to ensure a strong, leak-proof solvent-welded joint",
     specs: {
       "Product": "CPVC Cleaner",
       "Brand": "Supreme Industries",
@@ -4328,7 +4328,7 @@ export const PLUMBING_PRODUCTS = [
     priorityLabel: "1st Priority",
     color: "amber",
     image: "/images/products/plumbing/plumb_item_168.png",
-    description: "Industrial-grade CPVC Solvent Cement supplied by Bahjat Enterprises under the Ashirvad Pipes brand standard. Engineered for heavy-duty plumbing, fluid handling, and commercial building services. CPVC Solvent Cement is a specialized adhesive used to permanently join CPVC (Chlorinated Polyvinyl Chloride) pipes and fittings. It chemically softens and fuses the mating surfaces, creating a strong, leak-proof joint",
+    description: "Industrial-grade CPVC Solvent Cement supplied by Bahjat Enterprises to certified industrial standards. Engineered for heavy-duty plumbing, fluid handling, and commercial building services. CPVC Solvent Cement is a specialized adhesive used to permanently join CPVC (Chlorinated Polyvinyl Chloride) pipes and fittings. It chemically softens and fuses the mating surfaces, creating a strong, leak-proof joint",
     specs: {
       "Product": "CPVC Solvent Cement",
       "Brand": "Ashirvad Pipes",
@@ -4352,7 +4352,7 @@ export const PLUMBING_PRODUCTS = [
     priorityLabel: "1st Priority",
     color: "amber",
     image: "/images/products/plumbing/plumb_item_169.png",
-    description: "Industrial-grade PVC Solvent Cement supplied by Bahjat Enterprises under the Ashirvad Pipes brand standard. Engineered for heavy-duty plumbing, fluid handling, and commercial building services. PVC Solvent Cement is a chemical adhesive used to join PVC pipes and fittings. It softens the mating PVC surfaces and, as the joint cures, forms a strong, permanent connection",
+    description: "Industrial-grade PVC Solvent Cement supplied by Bahjat Enterprises to certified industrial standards. Engineered for heavy-duty plumbing, fluid handling, and commercial building services. PVC Solvent Cement is a chemical adhesive used to join PVC pipes and fittings. It softens the mating PVC surfaces and, as the joint cures, forms a strong, permanent connection",
     specs: {
       "Product": "PVC Solvent Cement",
       "Brand": "Ashirvad Pipes",
@@ -4502,7 +4502,7 @@ export const PLUMBING_PRODUCTS = [
     priorityLabel: "1st Priority",
     color: "amber",
     image: "/images/products/plumbing/plumb_item_175.png",
-    description: "Industrial-grade Utility Faucet supplied by Bahjat Enterprises under the Supreme Industries brand standard. Engineered for heavy-duty plumbing, fluid handling, and commercial building services. A Utility Faucet is a general-purpose water tap used for cleaning, washing, filling buckets, laundry areas, utility sinks, garages, workshops, and service areas",
+    description: "Industrial-grade Utility Faucet supplied by Bahjat Enterprises to certified industrial standards. Engineered for heavy-duty plumbing, fluid handling, and commercial building services. A Utility Faucet is a general-purpose water tap used for cleaning, washing, filling buckets, laundry areas, utility sinks, garages, workshops, and service areas",
     specs: {
       "Product": "Utility Faucet",
       "Brand": "Supreme Industries",
@@ -4525,7 +4525,7 @@ export const PLUMBING_PRODUCTS = [
     priorityLabel: "1st Priority",
     color: "amber",
     image: "/images/products/plumbing/plumb_item_176.png",
-    description: "Industrial-grade Health Faucet ( Jet Spray) supplied by Bahjat Enterprises under the Supreme Industries brand standard. Engineered for heavy-duty plumbing, fluid handling, and commercial building services. A Health Faucet (Jet Spray) is a handheld bathroom spray used for personal hygiene and toilet cleaning. It is connected to the water supply through a flexible hose and operated using a trigger or lever, Handheld spray head, Flexible SS/PVC hose, Wall-mounted holder, Trigger/lever control, Chrome-plated brass, SS, ABS",
+    description: "Industrial-grade Health Faucet ( Jet Spray) supplied by Bahjat Enterprises to certified industrial standards. Engineered for heavy-duty plumbing, fluid handling, and commercial building services. A Health Faucet (Jet Spray) is a handheld bathroom spray used for personal hygiene and toilet cleaning. It is connected to the water supply through a flexible hose and operated using a trigger or lever, Handheld spray head, Flexible SS/PVC hose, Wall-mounted holder, Trigger/lever control, Chrome-plated brass, SS, ABS",
     specs: {
       "Product": "Health Faucet ( Jet Spray)",
       "Brand": "Supreme Industries",
@@ -4572,7 +4572,7 @@ export const PLUMBING_PRODUCTS = [
     priorityLabel: "1st Priority",
     color: "amber",
     image: "/images/products/plumbing/plumb_item_178.png",
-    description: "Industrial-grade Elbow supplied by Bahjat Enterprises under the Prince Pipes and Fittings brand standard. Engineered for heavy-duty plumbing, fluid handling, and commercial building services. Type : 90\u00b0 Elbow, 45\u00b0 Elbow, 22.5\u00b0 Elbow, 180\u00b0 Elbow (Return Bend), Long Radius (LR) Elbow, Short Radius (SR) Elbow, Nominal Size x Metric (Approx.) : \u00bd\" x 15 mm, \u00be\" x 20 mm, 1\" x 25 mm, 1\u00bc\" x 32 mm, 1\u00bd\" x 40 mm, 2\" x 50 mm, 2\u00bd\" x 65 mm, 3\" x 80 mm, 4\" x 100 mm, 6\" x 150 mm, 8\" x 200 mm, 10\" x 250 mm, 12\" x 300 mm",
+    description: "Industrial-grade Elbow supplied by Bahjat Enterprises to certified industrial standards. Engineered for heavy-duty plumbing, fluid handling, and commercial building services. Type : 90\u00b0 Elbow, 45\u00b0 Elbow, 22.5\u00b0 Elbow, 180\u00b0 Elbow (Return Bend), Long Radius (LR) Elbow, Short Radius (SR) Elbow, Nominal Size x Metric (Approx.) : \u00bd\" x 15 mm, \u00be\" x 20 mm, 1\" x 25 mm, 1\u00bc\" x 32 mm, 1\u00bd\" x 40 mm, 2\" x 50 mm, 2\u00bd\" x 65 mm, 3\" x 80 mm, 4\" x 100 mm, 6\" x 150 mm, 8\" x 200 mm, 10\" x 250 mm, 12\" x 300 mm",
     specs: {
       "Product": "Elbow",
       "Brand": "Prince Pipes and Fittings",
@@ -4596,7 +4596,7 @@ export const PLUMBING_PRODUCTS = [
     priorityLabel: "1st Priority",
     color: "amber",
     image: "/images/products/plumbing/plumb_item_179.png",
-    description: "Industrial-grade Conduit Elbow supplied by Bahjat Enterprises under the Prince Pipes and Fittings brand standard. Engineered for heavy-duty plumbing, fluid handling, and commercial building services. A Conduit Elbow is a fitting used to change the direction of an electrical conduit, typically by 45\u00b0 or 90\u00b0, while protecting and guiding electrical wires and cables",
+    description: "Industrial-grade Conduit Elbow supplied by Bahjat Enterprises to certified industrial standards. Engineered for heavy-duty plumbing, fluid handling, and commercial building services. A Conduit Elbow is a fitting used to change the direction of an electrical conduit, typically by 45\u00b0 or 90\u00b0, while protecting and guiding electrical wires and cables",
     specs: {
       "Product": "Conduit Elbow",
       "Brand": "Prince Pipes and Fittings",
@@ -4670,7 +4670,7 @@ export const PLUMBING_PRODUCTS = [
     priorityLabel: "1st Priority",
     color: "amber",
     image: "/images/products/plumbing/plumb_item_182.png",
-    description: "Industrial-grade Coupling supplied by Bahjat Enterprises under the Finolex Industries brand standard. Engineered for heavy-duty plumbing, fluid handling, and commercial building services. A Female Coupler is a pipe fitting used to join two pipes or connect a pipe to a male-threaded fitting. It has female threads on the inside when used as a threaded fitting",
+    description: "Industrial-grade Coupling supplied by Bahjat Enterprises to certified industrial standards. Engineered for heavy-duty plumbing, fluid handling, and commercial building services. A Female Coupler is a pipe fitting used to join two pipes or connect a pipe to a male-threaded fitting. It has female threads on the inside when used as a threaded fitting",
     specs: {
       "Product": "Coupling",
       "Brand": "Finolex Industries",
@@ -4719,7 +4719,7 @@ export const PLUMBING_PRODUCTS = [
     priorityLabel: "1st Priority",
     color: "amber",
     image: "/images/products/plumbing/plumb_item_184.png",
-    description: "Industrial-grade Flex Conduit supplied by Bahjat Enterprises under the Supreme Industries brand standard. Engineered for heavy-duty plumbing, fluid handling, and commercial building services. A Flex Conduit (Flexible Conduit) is a flexible protective tube used to route and protect electrical cables and wires where movement, bending, or difficult routing is required",
+    description: "Industrial-grade Flex Conduit supplied by Bahjat Enterprises to certified industrial standards. Engineered for heavy-duty plumbing, fluid handling, and commercial building services. A Flex Conduit (Flexible Conduit) is a flexible protective tube used to route and protect electrical cables and wires where movement, bending, or difficult routing is required",
     specs: {
       "Product": "Flex Conduit",
       "Brand": "Supreme Industries",
@@ -4742,7 +4742,7 @@ export const PLUMBING_PRODUCTS = [
     priorityLabel: "1st Priority",
     color: "amber",
     image: "/images/products/plumbing/plumb_item_185.png",
-    description: "Industrial-grade Float Switch supplied by Bahjat Enterprises under the Supreme Industries brand standard. Engineered for heavy-duty plumbing, fluid handling, and commercial building services. A Float Switch is an electrical level-control device that uses a floating mechanism to detect liquid level and automatically switch a pump, valve, alarm, or other electrical equipment ON or OFF, Water tanks, Sump pumps, Drainage systems, Sewage tanks, Pump automation",
+    description: "Industrial-grade Float Switch supplied by Bahjat Enterprises to certified industrial standards. Engineered for heavy-duty plumbing, fluid handling, and commercial building services. A Float Switch is an electrical level-control device that uses a floating mechanism to detect liquid level and automatically switch a pump, valve, alarm, or other electrical equipment ON or OFF, Water tanks, Sump pumps, Drainage systems, Sewage tanks, Pump automation",
     specs: {
       "Product": "Float Switch",
       "Brand": "Supreme Industries",
@@ -4766,7 +4766,7 @@ export const PLUMBING_PRODUCTS = [
     priorityLabel: "1st Priority",
     color: "amber",
     image: "/images/products/plumbing/plumb_item_186.png",
-    description: "Industrial-grade Pipe Plug supplied by Bahjat Enterprises under the Astral Limited brand standard. Engineered for heavy-duty plumbing, fluid handling, and commercial building services. A Plug is a plumbing fitting used to close or seal the end of a pipe, fitting, drain, or unused connection",
+    description: "Industrial-grade Pipe Plug supplied by Bahjat Enterprises to certified industrial standards. Engineered for heavy-duty plumbing, fluid handling, and commercial building services. A Plug is a plumbing fitting used to close or seal the end of a pipe, fitting, drain, or unused connection",
     specs: {
       "Product": "Pipe Plug",
       "Brand": "Astral Limited",
@@ -4790,7 +4790,7 @@ export const PLUMBING_PRODUCTS = [
     priorityLabel: "1st Priority",
     color: "amber",
     image: "/images/products/plumbing/plumb_item_187.png",
-    description: "Industrial-grade Nylon Wall Plug supplied by Bahjat Enterprises under the Supreme Industries brand standard. Engineered for heavy-duty plumbing, fluid handling, and commercial building services. A Nylon Wall Plug is a plastic fixing anchor inserted into a drilled hole in masonry, brick, or concrete. When a screw is tightened, the plug expands inside the hole to securely hold the fixture",
+    description: "Industrial-grade Nylon Wall Plug supplied by Bahjat Enterprises to certified industrial standards. Engineered for heavy-duty plumbing, fluid handling, and commercial building services. A Nylon Wall Plug is a plastic fixing anchor inserted into a drilled hole in masonry, brick, or concrete. When a screw is tightened, the plug expands inside the hole to securely hold the fixture",
     specs: {
       "Product": "Nylon Wall Plug",
       "Brand": "Supreme Industries",
@@ -4963,7 +4963,7 @@ export const PLUMBING_PRODUCTS = [
     priorityLabel: "1st Priority",
     color: "amber",
     image: "/images/products/plumbing/plumb_item_194.png",
-    description: "Industrial-grade Mixer Basin supplied by Bahjat Enterprises under the Grohe brand standard. Engineered for heavy-duty plumbing, fluid handling, and commercial building services. A Mixer is a plumbing fixture that combines hot and cold water and allows the user to control the water flow and temperature from one fitting",
+    description: "Industrial-grade Mixer Basin supplied by Bahjat Enterprises to certified industrial standards. Engineered for heavy-duty plumbing, fluid handling, and commercial building services. A Mixer is a plumbing fixture that combines hot and cold water and allows the user to control the water flow and temperature from one fitting",
     specs: {
       "Product": "Mixer Basin",
       "Brand": "Grohe",
@@ -5128,7 +5128,7 @@ export const PLUMBING_PRODUCTS = [
     priorityLabel: "1st Priority",
     color: "amber",
     image: "/images/products/plumbing/plumb_item_201.png",
-    description: "Industrial-grade Pipes supplied by Bahjat Enterprises under the Astral Limited brand standard. Engineered for heavy-duty plumbing, fluid handling, and commercial building services. PVC Pipe ( Polyvinyl Chloride ) Water supply, drainage, irrigation, UPVC Pipe ( Unplasticized Polyvinyl Chloride ) Cold water supply, plumbing, CPVC Pipe ( Chlorinated Polyvinyl Chloride) Hot and cold water systems, HDPE Pipe ( High-Density Polyethylene) Water distribution, gas pipelines, PPR Pipe ( Polypropylene Random Copolymer) Hot and cold water plumbing, GI Pipe ( Galvanized Iron) Water supply, fire fighting, scaffolding, MS Pipe ( Mild Steel ) Structural work, fabrication, industrial piping, Stainless Steel Pipe ( Stainless Steel) Food, pharmaceutical, chemical industries, Copper Pipe , Refrigeration, HVAC, plumbing, Cast Iron Pipe ( CI ) Drainage and sewer systems, Ductile Iron Pipe ( DI ) Municipal water supply, Concrete Pipe ( RCC Pipe ) Stormwater drainage, sewage, Acrylonitrile Butadiene Styrene (ABS Pipe ) Drain, waste, and vent systems, Cross-Linked Polyethylene (PEX) XLPE Pipe , Residential plumbing and radiant heating, Flexible Hose Pipe, Garden, irrigation, industrial transfer, Water Supply Pipe, Drainage Pipe, Sewer Pipe, Gas Pipe, Fire Fighting Pipe, Irrigation Pipe, Chemical Process Pipe, Steam Pipe, Oil & Gas Pipeline, HVAC Pipe, ERW (Electric Resistance Welded) Pipe, EFW (Electric Fusion Welded) Pipe, SAW (Submerged Arc Welded) Pipe, Spiral Welded Pipe, Inch (in) x NB (mm) x DN : 1/8\" x 6 mm x DN 6, 1/4\" x 8 mm x DN 8, 3/8\" x 10 mm x DN 10, 1/2\" x 15 mm x DN 15, 3/4\" x 20 mm x DN 20, 1\" x 25 mm x DN 25, 1\u00bc\" x 32 mm x DN 32, 1\u00bd\" x 40 mm x DN 40, 2\" x 50 mm x DN 50, 2\u00bd\" x 65 mm x DN 65, 3\" x 80 mm x DN 80, 4\" x 100 mm x DN 100, 5\" x 125 mm x DN 125, 6\" X 150 mm x DN 150, 8\" x 200 mm x DN 200, 10\" x 250 mm x DN 250, 12\" x 300 mm x DN 300, 14\" x 350 mm x DN 350, 16\" x 400 mm x DN 400, 18\" x 450 mm x DN 450, 20\" x 500 mm x DN 500, 24\" x 600 mm x DN 600, Common Pipe Schedules (Wall Thickness) : Schedule 10, Schedule 20, Schedule 40 (Standard), Schedule 80 (Heavy), Schedule 160 (Extra Heavy)",
+    description: "Industrial-grade Pipes supplied by Bahjat Enterprises to certified industrial standards. Engineered for heavy-duty plumbing, fluid handling, and commercial building services. PVC Pipe ( Polyvinyl Chloride ) Water supply, drainage, irrigation, UPVC Pipe ( Unplasticized Polyvinyl Chloride ) Cold water supply, plumbing, CPVC Pipe ( Chlorinated Polyvinyl Chloride) Hot and cold water systems, HDPE Pipe ( High-Density Polyethylene) Water distribution, gas pipelines, PPR Pipe ( Polypropylene Random Copolymer) Hot and cold water plumbing, GI Pipe ( Galvanized Iron) Water supply, fire fighting, scaffolding, MS Pipe ( Mild Steel ) Structural work, fabrication, industrial piping, Stainless Steel Pipe ( Stainless Steel) Food, pharmaceutical, chemical industries, Copper Pipe , Refrigeration, HVAC, plumbing, Cast Iron Pipe ( CI ) Drainage and sewer systems, Ductile Iron Pipe ( DI ) Municipal water supply, Concrete Pipe ( RCC Pipe ) Stormwater drainage, sewage, Acrylonitrile Butadiene Styrene (ABS Pipe ) Drain, waste, and vent systems, Cross-Linked Polyethylene (PEX) XLPE Pipe , Residential plumbing and radiant heating, Flexible Hose Pipe, Garden, irrigation, industrial transfer, Water Supply Pipe, Drainage Pipe, Sewer Pipe, Gas Pipe, Fire Fighting Pipe, Irrigation Pipe, Chemical Process Pipe, Steam Pipe, Oil & Gas Pipeline, HVAC Pipe, ERW (Electric Resistance Welded) Pipe, EFW (Electric Fusion Welded) Pipe, SAW (Submerged Arc Welded) Pipe, Spiral Welded Pipe, Inch (in) x NB (mm) x DN : 1/8\" x 6 mm x DN 6, 1/4\" x 8 mm x DN 8, 3/8\" x 10 mm x DN 10, 1/2\" x 15 mm x DN 15, 3/4\" x 20 mm x DN 20, 1\" x 25 mm x DN 25, 1\u00bc\" x 32 mm x DN 32, 1\u00bd\" x 40 mm x DN 40, 2\" x 50 mm x DN 50, 2\u00bd\" x 65 mm x DN 65, 3\" x 80 mm x DN 80, 4\" x 100 mm x DN 100, 5\" x 125 mm x DN 125, 6\" X 150 mm x DN 150, 8\" x 200 mm x DN 200, 10\" x 250 mm x DN 250, 12\" x 300 mm x DN 300, 14\" x 350 mm x DN 350, 16\" x 400 mm x DN 400, 18\" x 450 mm x DN 450, 20\" x 500 mm x DN 500, 24\" x 600 mm x DN 600, Common Pipe Schedules (Wall Thickness) : Schedule 10, Schedule 20, Schedule 40 (Standard), Schedule 80 (Heavy), Schedule 160 (Extra Heavy)",
     specs: {
       "Product": "Pipes",
       "Brand": "Astral Limited",
@@ -5355,7 +5355,7 @@ export const PLUMBING_PRODUCTS = [
     priorityLabel: "1st Priority",
     color: "amber",
     image: "/images/products/plumbing/plumb_item_210.png",
-    description: "Industrial-grade PVC Conduit Pipe supplied by Bahjat Enterprises under the Astral Limited brand standard. Engineered for heavy-duty plumbing, fluid handling, and commercial building services. PVC Conduit Pipe is a rigid plastic pipe, generally made from uPVC/PVC, used to protect and route electrical wires and cables",
+    description: "Industrial-grade PVC Conduit Pipe supplied by Bahjat Enterprises to certified industrial standards. Engineered for heavy-duty plumbing, fluid handling, and commercial building services. PVC Conduit Pipe is a rigid plastic pipe, generally made from uPVC/PVC, used to protect and route electrical wires and cables",
     specs: {
       "Product": "PVC Conduit Pipe",
       "Brand": "Astral Limited",
@@ -5459,7 +5459,7 @@ export const PLUMBING_PRODUCTS = [
     priorityLabel: "1st Priority",
     color: "amber",
     image: "/images/products/plumbing/plumb_item_214.png",
-    description: "Industrial-grade Shower Hose supplied by Bahjat Enterprises under the Jaquar brand standard. Engineered for heavy-duty plumbing, fluid handling, and commercial building services. A shower hose is a flexible hose that connects a handheld shower head to the water supply outlet or shower mixer, allowing water to flow while enabling the shower head to move freely",
+    description: "Industrial-grade Shower Hose supplied by Bahjat Enterprises to certified industrial standards. Engineered for heavy-duty plumbing, fluid handling, and commercial building services. A shower hose is a flexible hose that connects a handheld shower head to the water supply outlet or shower mixer, allowing water to flow while enabling the shower head to move freely",
     specs: {
       "Product": "Shower Hose",
       "Brand": "Jaquar",
@@ -5484,7 +5484,7 @@ export const PLUMBING_PRODUCTS = [
     priorityLabel: "1st Priority",
     color: "amber",
     image: "/images/products/plumbing/plumb_item_215.png",
-    description: "Industrial-grade Shower Rail Kit supplied by Bahjat Enterprises under the Jaquar brand standard. Engineered for heavy-duty plumbing, fluid handling, and commercial building services. A Shower Rail Kit is a complete shower accessory set that allows a hand shower to be mounted and adjusted vertically on a wall-mounted rail, Shower Slider Rail Kit, Hand Shower Rail Set, Shower Slide Bar Kit",
+    description: "Industrial-grade Shower Rail Kit supplied by Bahjat Enterprises to certified industrial standards. Engineered for heavy-duty plumbing, fluid handling, and commercial building services. A Shower Rail Kit is a complete shower accessory set that allows a hand shower to be mounted and adjusted vertically on a wall-mounted rail, Shower Slider Rail Kit, Hand Shower Rail Set, Shower Slide Bar Kit",
     specs: {
       "Product": "Shower Rail Kit",
       "Brand": "Jaquar",
@@ -5533,7 +5533,7 @@ export const PLUMBING_PRODUCTS = [
     priorityLabel: "1st Priority",
     color: "amber",
     image: "/images/products/plumbing/plumb_item_217.png",
-    description: "Industrial-grade Shower Head SS supplied by Bahjat Enterprises under the Jaquar brand standard. Engineered for heavy-duty plumbing, fluid handling, and commercial building services. A Shower Head is a plumbing fixture that sprays water for bathing",
+    description: "Industrial-grade Shower Head SS supplied by Bahjat Enterprises to certified industrial standards. Engineered for heavy-duty plumbing, fluid handling, and commercial building services. A Shower Head is a plumbing fixture that sprays water for bathing",
     specs: {
       "Product": "Shower Head SS",
       "Brand": "Jaquar",
@@ -5559,7 +5559,7 @@ export const PLUMBING_PRODUCTS = [
     priorityLabel: "1st Priority",
     color: "amber",
     image: "/images/products/plumbing/plumb_item_218.png",
-    description: "Industrial-grade Hand Shower supplied by Bahjat Enterprises under the Jaquar brand standard. Engineered for heavy-duty plumbing, fluid handling, and commercial building services. A Hand Shower is a handheld shower spray connected to a flexible hose, allowing the user to direct the water manually",
+    description: "Industrial-grade Hand Shower supplied by Bahjat Enterprises to certified industrial standards. Engineered for heavy-duty plumbing, fluid handling, and commercial building services. A Hand Shower is a handheld shower spray connected to a flexible hose, allowing the user to direct the water manually",
     specs: {
       "Product": "Hand Shower",
       "Brand": "Jaquar",
@@ -5585,7 +5585,7 @@ export const PLUMBING_PRODUCTS = [
     priorityLabel: "1st Priority",
     color: "amber",
     image: "/images/products/plumbing/plumb_item_219.png",
-    description: "Industrial-grade Washer supplied by Bahjat Enterprises under the Supreme Industries brand standard. Engineered for heavy-duty plumbing, fluid handling, and commercial building services. Washer \u2014 a small flat component placed under a nut, bolt, screw, tap fitting, or plumbing connection to distribute pressure, prevent leakage, or protect the surface. Type: Flat Washer, Spring Washer, Rubber Washer, Fibre Washer, EPDM Washer, PTFE Washer, Lock Washer, Silicon Washer, Copper Washer, Tap Washer, Sealing Washer, SS Washer, Nylon Washer",
+    description: "Industrial-grade Washer supplied by Bahjat Enterprises to certified industrial standards. Engineered for heavy-duty plumbing, fluid handling, and commercial building services. Washer \u2014 a small flat component placed under a nut, bolt, screw, tap fitting, or plumbing connection to distribute pressure, prevent leakage, or protect the surface. Type: Flat Washer, Spring Washer, Rubber Washer, Fibre Washer, EPDM Washer, PTFE Washer, Lock Washer, Silicon Washer, Copper Washer, Tap Washer, Sealing Washer, SS Washer, Nylon Washer",
     specs: {
       "Product": "Washer",
       "Brand": "Supreme Industries",
@@ -5752,7 +5752,7 @@ export const PLUMBING_PRODUCTS = [
     priorityLabel: "1st Priority",
     color: "amber",
     image: "/images/products/plumbing/plumb_item_226.png",
-    description: "Industrial-grade Toilet Pan supplied by Bahjat Enterprises under the Supreme Industries brand standard. Engineered for heavy-duty plumbing, fluid handling, and commercial building services. A Toilet Pan is the main ceramic sanitary fixture used for urination and defecation, connected to the soil/waste pipe and flushing system",
+    description: "Industrial-grade Toilet Pan supplied by Bahjat Enterprises to certified industrial standards. Engineered for heavy-duty plumbing, fluid handling, and commercial building services. A Toilet Pan is the main ceramic sanitary fixture used for urination and defecation, connected to the soil/waste pipe and flushing system",
     specs: {
       "Product": "Toilet Pan",
       "Brand": "Supreme Industries",
@@ -5777,7 +5777,7 @@ export const PLUMBING_PRODUCTS = [
     priorityLabel: "1st Priority",
     color: "amber",
     image: "/images/products/plumbing/plumb_item_227.png",
-    description: "Industrial-grade Toilet Paper Holder supplied by Bahjat Enterprises under the Supreme Industries brand standard. Engineered for heavy-duty plumbing, fluid handling, and commercial building services. A Toilet Paper Holder is a bathroom accessory used to hold and dispense toilet paper conveniently beside the toilet",
+    description: "Industrial-grade Toilet Paper Holder supplied by Bahjat Enterprises to certified industrial standards. Engineered for heavy-duty plumbing, fluid handling, and commercial building services. A Toilet Paper Holder is a bathroom accessory used to hold and dispense toilet paper conveniently beside the toilet",
     specs: {
       "Product": "Toilet Paper Holder",
       "Brand": "Supreme Industries",
@@ -5801,7 +5801,7 @@ export const PLUMBING_PRODUCTS = [
     priorityLabel: "1st Priority",
     color: "amber",
     image: "/images/products/plumbing/plumb_item_228.png",
-    description: "Industrial-grade Urinal supplied by Bahjat Enterprises under the Supreme Industries brand standard. Engineered for heavy-duty plumbing, fluid handling, and commercial building services. A Urinal is a sanitary plumbing fixture designed primarily for urination. It is commonly installed in commercial, public, and institutional washrooms",
+    description: "Industrial-grade Urinal supplied by Bahjat Enterprises to certified industrial standards. Engineered for heavy-duty plumbing, fluid handling, and commercial building services. A Urinal is a sanitary plumbing fixture designed primarily for urination. It is commonly installed in commercial, public, and institutional washrooms",
     specs: {
       "Product": "Urinal",
       "Brand": "Supreme Industries",
@@ -5826,7 +5826,7 @@ export const PLUMBING_PRODUCTS = [
     priorityLabel: "1st Priority",
     color: "amber",
     image: "/images/products/plumbing/plumb_item_229.png",
-    description: "Industrial-grade Cistern supplied by Bahjat Enterprises under the Supreme Industries brand standard. Engineered for heavy-duty plumbing, fluid handling, and commercial building services. Cistern \u2014 a tank that stores water for flushing a toilet (WC). It releases a controlled amount of water into the toilet bowl when the flush is operated",
+    description: "Industrial-grade Cistern supplied by Bahjat Enterprises to certified industrial standards. Engineered for heavy-duty plumbing, fluid handling, and commercial building services. Cistern \u2014 a tank that stores water for flushing a toilet (WC). It releases a controlled amount of water into the toilet bowl when the flush is operated",
     specs: {
       "Product": "Cistern",
       "Brand": "Supreme Industries",
@@ -5850,7 +5850,7 @@ export const PLUMBING_PRODUCTS = [
     priorityLabel: "1st Priority",
     color: "amber",
     image: "/images/products/plumbing/plumb_item_230.png",
-    description: "Industrial-grade Concealed Cistern supplied by Bahjat Enterprises under the Supreme Industries brand standard. Engineered for heavy-duty plumbing, fluid handling, and commercial building services. Concealed Cistern \u2014 a toilet water tank installed inside a wall or behind a false wall/panel, leaving only the flush plate visible. It provides a clean, modern bathroom appearance",
+    description: "Industrial-grade Concealed Cistern supplied by Bahjat Enterprises to certified industrial standards. Engineered for heavy-duty plumbing, fluid handling, and commercial building services. Concealed Cistern \u2014 a toilet water tank installed inside a wall or behind a false wall/panel, leaving only the flush plate visible. It provides a clean, modern bathroom appearance",
     specs: {
       "Product": "Concealed Cistern",
       "Brand": "Supreme Industries",

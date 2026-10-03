@@ -1,5 +1,5 @@
 // ============================================================
-// BAHJAT ENTERPRISES - COMPLETE INSTRUMENTATION PRODUCT CATALOG (104 ITEMS)
+// BAHJAT ENTERPRISES - COMPLETE INSTRUMENTATION PRODUCT CATALOG (202 ITEMS)
 // Extracted & mapped directly from Instrumenttion Product List With Photo.xlsx
 // Verified photographs extracted directly from Excel drawings
 // Official Brands from Instrumentation Product Brand List.xlsx
@@ -14,7 +14,7 @@ export const INSTRUMENTATION_PRODUCTS = [
     category: "instrumentation",
     subCategory: "Control Valves & Actuators",
     image: "/images/products/instrumentation/inst_item_1.png",
-    description: "Industrial-grade Actuator supplied by Bahjat Enterprises under the Rotork engineering standard. Engineered for process control, oil & gas, refineries, and petrochemical applications. An actuator is a device that converts a control signal or energy into mechanical movement to operate equipment such as a valve, damper, or mechanism",
+    description: "Industrial-grade Actuator supplied by Bahjat Enterprises to certified industrial standards. Engineered for process control, oil & gas, refineries, and petrochemical applications. An actuator is a device that converts a control signal or energy into mechanical movement to operate equipment such as a valve, damper, or mechanism",
     specs: {
       "Product": "Actuator",
       "Brand": "Rotork",
@@ -40,7 +40,7 @@ export const INSTRUMENTATION_PRODUCTS = [
     category: "instrumentation",
     subCategory: "Pneumatic & Air Supplies",
     image: "/images/products/instrumentation/inst_item_2.png",
-    description: "Industrial-grade Air Header supplied by Bahjat Enterprises under the SMC engineering standard. Engineered for process control, oil & gas, refineries, and petrochemical applications. An Air Header is a pipe/manifold used to collect and distribute compressed air to multiple pneumatic instruments or equipment",
+    description: "Industrial-grade Air Header supplied by Bahjat Enterprises to certified industrial standards. Engineered for process control, oil & gas, refineries, and petrochemical applications. An Air Header is a pipe/manifold used to collect and distribute compressed air to multiple pneumatic instruments or equipment",
     specs: {
       "Product": "Air Header",
       "Brand": "SMC",
@@ -62,7 +62,7 @@ export const INSTRUMENTATION_PRODUCTS = [
     category: "instrumentation",
     subCategory: "Pneumatic & Air Supplies",
     image: "/images/products/instrumentation/inst_item_3.png",
-    description: "Industrial-grade Air Regulator supplied by Bahjat Enterprises under the SMC engineering standard. Engineered for process control, oil & gas, refineries, and petrochemical applications. An Air Regulator controls and reduces compressed-air pressure to the required downstream pressure",
+    description: "Industrial-grade Air Regulator supplied by Bahjat Enterprises to certified industrial standards. Engineered for process control, oil & gas, refineries, and petrochemical applications. An Air Regulator controls and reduces compressed-air pressure to the required downstream pressure",
     specs: {
       "Product": "Air Regulator",
       "Brand": "SMC",
@@ -87,7 +87,7 @@ export const INSTRUMENTATION_PRODUCTS = [
     category: "instrumentation",
     subCategory: "Analyzers & Calibration",
     image: "/images/products/instrumentation/inst_item_4.png",
-    description: "Industrial-grade Analyzer supplied by Bahjat Enterprises under the ABB engineering standard. Engineered for process control, oil & gas, refineries, and petrochemical applications. An Analyzer is an instrument used to measure, detect, or determine the concentration/properties of a specific substance in a process, gas, liquid, or sample",
+    description: "Industrial-grade Analyzer supplied by Bahjat Enterprises to certified industrial standards. Engineered for process control, oil & gas, refineries, and petrochemical applications. An Analyzer is an instrument used to measure, detect, or determine the concentration/properties of a specific substance in a process, gas, liquid, or sample",
     specs: {
       "Product": "Analyzer",
       "Brand": "ABB",
@@ -107,7 +107,7 @@ export const INSTRUMENTATION_PRODUCTS = [
     category: "instrumentation",
     subCategory: "Instrument Valves & Manifolds",
     image: "/images/products/instrumentation/inst_item_5.png",
-    description: "Industrial-grade Angle Needle Valve supplied by Bahjat Enterprises under the Parker engineering standard. Engineered for process control, oil & gas, refineries, and petrochemical applications. An Angle Needle Valve is a precision valve used to accurately control or regulate the flow of liquids or gases. Its inlet and outlet are positioned at approximately 90\u00b0, making it useful where piping direction needs to change",
+    description: "Industrial-grade Angle Needle Valve supplied by Bahjat Enterprises to certified industrial standards. Engineered for process control, oil & gas, refineries, and petrochemical applications. An Angle Needle Valve is a precision valve used to accurately control or regulate the flow of liquids or gases. Its inlet and outlet are positioned at approximately 90\u00b0, making it useful where piping direction needs to change",
     specs: {
       "Product": "Angle Needle Valve",
       "Brand": "Parker",
@@ -134,7 +134,7 @@ export const INSTRUMENTATION_PRODUCTS = [
     category: "instrumentation",
     subCategory: "Pneumatic & Air Supplies",
     image: "/images/products/instrumentation/inst_item_6.png",
-    description: "Industrial-grade Air Admittance Valve supplied by Bahjat Enterprises under the Emerson engineering standard. Engineered for process control, oil & gas, refineries, and petrochemical applications. AAV, Air Vent Valve, Plumbing Air Valve, An Air Admittance Valve (AAV) is a one-way plumbing vent valve that allows air to enter the drainage system when negative pressure occurs, while preventing sewer gases and foul odors from escaping into the building. It is commonly used as an alternative to conventional vent pipes in drainage and waste systems. Material : uPVC, ABS, Polypropylene (PP), EPDM or Silicone Rubber Seal, Stainless Steel Spring (spring-operated models)",
+    description: "Industrial-grade Air Admittance Valve supplied by Bahjat Enterprises to certified industrial standards. Engineered for process control, oil & gas, refineries, and petrochemical applications. AAV, Air Vent Valve, Plumbing Air Valve, An Air Admittance Valve (AAV) is a one-way plumbing vent valve that allows air to enter the drainage system when negative pressure occurs, while preventing sewer gases and foul odors from escaping into the building. It is commonly used as an alternative to conventional vent pipes in drainage and waste systems. Material : uPVC, ABS, Polypropylene (PP), EPDM or Silicone Rubber Seal, Stainless Steel Spring (spring-operated models)",
     specs: {
       "Product": "Air Admittance Valve",
       "Brand": "Emerson",
@@ -156,7 +156,7 @@ export const INSTRUMENTATION_PRODUCTS = [
     category: "instrumentation",
     subCategory: "Pneumatic & Air Supplies",
     image: "/images/products/instrumentation/inst_item_7.png",
-    description: "Industrial-grade Air Release Valve supplied by Bahjat Enterprises under the Emerson engineering standard. Engineered for process control, oil & gas, refineries, and petrochemical applications. Automatic Air Vent Valve, Air Vent Valve, An Air Release Valve is a pipeline valve designed to automatically release trapped air from pressurized liquid pipelines while preventing water leakage. It improves flow efficiency, reduces pressure losses, and protects pipelines and equipment from air pockets and related damage",
+    description: "Industrial-grade Air Release Valve supplied by Bahjat Enterprises to certified industrial standards. Engineered for process control, oil & gas, refineries, and petrochemical applications. Automatic Air Vent Valve, Air Vent Valve, An Air Release Valve is a pipeline valve designed to automatically release trapped air from pressurized liquid pipelines while preventing water leakage. It improves flow efficiency, reduces pressure losses, and protects pipelines and equipment from air pockets and related damage",
     specs: {
       "Product": "Air Release Valve",
       "Brand": "Emerson",
@@ -179,7 +179,7 @@ export const INSTRUMENTATION_PRODUCTS = [
     category: "instrumentation",
     subCategory: "Pneumatic & Air Supplies",
     image: "/images/products/instrumentation/inst_item_8.png",
-    description: "Industrial-grade Air Vent Valve supplied by Bahjat Enterprises under the Emerson engineering standard. Engineered for process control, oil & gas, refineries, and petrochemical applications. Automatic Air Vent, Automatic Air Release Valve, Float Air Vent, An Air Vent Valve is an automatic valve used to release trapped air from water-filled piping systems while preventing water leakage. It improves system efficiency, maintains proper flow, and protects pumps, pipelines, and equipment from air pockets and pressure-related problems",
+    description: "Industrial-grade Air Vent Valve supplied by Bahjat Enterprises to certified industrial standards. Engineered for process control, oil & gas, refineries, and petrochemical applications. Automatic Air Vent, Automatic Air Release Valve, Float Air Vent, An Air Vent Valve is an automatic valve used to release trapped air from water-filled piping systems while preventing water leakage. It improves system efficiency, maintains proper flow, and protects pumps, pipelines, and equipment from air pockets and pressure-related problems",
     specs: {
       "Product": "Air Vent Valve",
       "Brand": "Emerson",
@@ -202,7 +202,7 @@ export const INSTRUMENTATION_PRODUCTS = [
     category: "instrumentation",
     subCategory: "Instrument Valves & Manifolds",
     image: "/images/products/instrumentation/inst_item_9.png",
-    description: "Industrial-grade Bleed Valve supplied by Bahjat Enterprises under the Parker engineering standard. Engineered for process control, oil & gas, refineries, and petrochemical applications. A Bleed Valve is used to release trapped pressure, air, gas, or liquid from a piping or instrumentation system. It is commonly installed with pressure gauges, transmitters, and isolation valves",
+    description: "Industrial-grade Bleed Valve supplied by Bahjat Enterprises to certified industrial standards. Engineered for process control, oil & gas, refineries, and petrochemical applications. A Bleed Valve is used to release trapped pressure, air, gas, or liquid from a piping or instrumentation system. It is commonly installed with pressure gauges, transmitters, and isolation valves",
     specs: {
       "Product": "Bleed Valve",
       "Brand": "Parker",
@@ -226,7 +226,7 @@ export const INSTRUMENTATION_PRODUCTS = [
     category: "instrumentation",
     subCategory: "Instrument Valves & Manifolds",
     image: "/images/products/instrumentation/inst_item_10.png",
-    description: "Industrial-grade Block Valve supplied by Bahjat Enterprises under the Parker engineering standard. Engineered for process control, oil & gas, refineries, and petrochemical applications. A Block Valve is a valve used to completely stop or isolate the flow of a liquid or gas in a pipeline or process system. It is mainly used for isolation rather than flow regulation",
+    description: "Industrial-grade Block Valve supplied by Bahjat Enterprises to certified industrial standards. Engineered for process control, oil & gas, refineries, and petrochemical applications. A Block Valve is a valve used to completely stop or isolate the flow of a liquid or gas in a pipeline or process system. It is mainly used for isolation rather than flow regulation",
     specs: {
       "Product": "Block Valve",
       "Brand": "Parker",
@@ -249,7 +249,7 @@ export const INSTRUMENTATION_PRODUCTS = [
     category: "instrumentation",
     subCategory: "Instrument Fittings & Tubing",
     image: "/images/products/instrumentation/inst_item_11.png",
-    description: "Industrial-grade Bulkhead Compression Union supplied by Bahjat Enterprises under the Swagelok engineering standard. Engineered for process control, oil & gas, refineries, and petrochemical applications. A Bulkhead Compression Union is a tube fitting used to join two tubes while allowing the connection to pass through a panel, tank wall, enclosure, or bulkhead. It uses compression ferrules to provide a secure, leak-resistant connection",
+    description: "Industrial-grade Bulkhead Compression Union supplied by Bahjat Enterprises to certified industrial standards. Engineered for process control, oil & gas, refineries, and petrochemical applications. A Bulkhead Compression Union is a tube fitting used to join two tubes while allowing the connection to pass through a panel, tank wall, enclosure, or bulkhead. It uses compression ferrules to provide a secure, leak-resistant connection",
     specs: {
       "Product": "Bulkhead Compression Union",
       "Brand": "Swagelok",
@@ -273,7 +273,7 @@ export const INSTRUMENTATION_PRODUCTS = [
     category: "instrumentation",
     subCategory: "Instrument Fittings & Tubing",
     image: "/images/products/instrumentation/inst_item_12.png",
-    description: "Industrial-grade Bulkhead Elbow supplied by Bahjat Enterprises under the Swagelok engineering standard. Engineered for process control, oil & gas, refineries, and petrochemical applications. A Bulkhead Elbow is a tube/pipe fitting used to change the flow direction by 90\u00b0 while passing through a panel, tank wall, or bulkhead. It provides a secure connection on both sides of the wall",
+    description: "Industrial-grade Bulkhead Elbow supplied by Bahjat Enterprises to certified industrial standards. Engineered for process control, oil & gas, refineries, and petrochemical applications. A Bulkhead Elbow is a tube/pipe fitting used to change the flow direction by 90\u00b0 while passing through a panel, tank wall, or bulkhead. It provides a secure connection on both sides of the wall",
     specs: {
       "Product": "Bulkhead Elbow",
       "Brand": "Swagelok",
@@ -297,7 +297,7 @@ export const INSTRUMENTATION_PRODUCTS = [
     category: "instrumentation",
     subCategory: "Instrument Fittings & Tubing",
     image: "/images/products/instrumentation/inst_item_13.png",
-    description: "Industrial-grade Bulkhead Tee supplied by Bahjat Enterprises under the Swagelok engineering standard. Engineered for process control, oil & gas, refineries, and petrochemical applications. A Bulkhead Tee is a tube fitting used to create a 90\u00b0 branch connection while passing through a panel, tank wall, or bulkhead. It is commonly used in instrumentation and fluid-control systems",
+    description: "Industrial-grade Bulkhead Tee supplied by Bahjat Enterprises to certified industrial standards. Engineered for process control, oil & gas, refineries, and petrochemical applications. A Bulkhead Tee is a tube fitting used to create a 90\u00b0 branch connection while passing through a panel, tank wall, or bulkhead. It is commonly used in instrumentation and fluid-control systems",
     specs: {
       "Product": "Bulkhead Tee",
       "Brand": "Swagelok",
@@ -321,7 +321,7 @@ export const INSTRUMENTATION_PRODUCTS = [
     category: "instrumentation",
     subCategory: "Control Valves & Actuators",
     image: "/images/products/instrumentation/inst_item_14.png",
-    description: "Industrial-grade Butterfly Valve supplied by Bahjat Enterprises under the Samson engineering standard. Engineered for process control, oil & gas, refineries, and petrochemical applications. A Butterfly Valve is a quarter-turn rotary valve used to isolate or regulate the flow of liquids, gases, or slurries. It operates by rotating a circular disc 90\u00b0 inside the valve body, providing quick operation, compact design, and low pressure loss",
+    description: "Industrial-grade Butterfly Valve supplied by Bahjat Enterprises to certified industrial standards. Engineered for process control, oil & gas, refineries, and petrochemical applications. A Butterfly Valve is a quarter-turn rotary valve used to isolate or regulate the flow of liquids, gases, or slurries. It operates by rotating a circular disc 90\u00b0 inside the valve body, providing quick operation, compact design, and low pressure loss",
     specs: {
       "Product": "Butterfly Valve",
       "Brand": "Samson",
@@ -346,7 +346,7 @@ export const INSTRUMENTATION_PRODUCTS = [
     category: "instrumentation",
     subCategory: "Process Measurement Instruments",
     image: "/images/products/instrumentation/inst_item_15.png",
-    description: "Industrial-grade Balancing Valve supplied by Bahjat Enterprises under the Emerson engineering standard. Engineered for process control, oil & gas, refineries, and petrochemical applications. Flow Balancing Valve, Circuit Balancing Valve, A Balancing Valve is a flow control valve used to regulate and balance the flow of water in hydronic heating, cooling, and HVAC systems. It ensures that each branch or terminal unit receives the correct design flow, improving system efficiency, comfort, and energy performance",
+    description: "Industrial-grade Balancing Valve supplied by Bahjat Enterprises to certified industrial standards. Engineered for process control, oil & gas, refineries, and petrochemical applications. Flow Balancing Valve, Circuit Balancing Valve, A Balancing Valve is a flow control valve used to regulate and balance the flow of water in hydronic heating, cooling, and HVAC systems. It ensures that each branch or terminal unit receives the correct design flow, improving system efficiency, comfort, and energy performance",
     specs: {
       "Product": "Balancing Valve",
       "Brand": "Emerson",
@@ -369,7 +369,7 @@ export const INSTRUMENTATION_PRODUCTS = [
     category: "instrumentation",
     subCategory: "Level Instruments & Switches",
     image: "/images/products/instrumentation/inst_item_16.png",
-    description: "Industrial-grade Capacitance Level Switch supplied by Bahjat Enterprises under the VEGA engineering standard. Engineered for process control, oil & gas, refineries, and petrochemical applications. A Capacitance Level Switch is an industrial instrument used to detect the presence or absence of a liquid, powder, or granular material at a specific level inside a tank, vessel, or silo, It works by detecting a change in electrical capacitance when the material reaches the sensing probe",
+    description: "Industrial-grade Capacitance Level Switch supplied by Bahjat Enterprises to certified industrial standards. Engineered for process control, oil & gas, refineries, and petrochemical applications. A Capacitance Level Switch is an industrial instrument used to detect the presence or absence of a liquid, powder, or granular material at a specific level inside a tank, vessel, or silo, It works by detecting a change in electrical capacitance when the material reaches the sensing probe",
     specs: {
       "Product": "Capacitance Level Switch",
       "Brand": "VEGA",
@@ -392,7 +392,7 @@ export const INSTRUMENTATION_PRODUCTS = [
     category: "instrumentation",
     subCategory: "Instrument Fittings & Tubing",
     image: "/images/products/instrumentation/inst_item_17.png",
-    description: "Industrial-grade Compression Adapter supplied by Bahjat Enterprises under the Swagelok engineering standard. Engineered for process control, oil & gas, refineries, and petrochemical applications. A Compression Adapter is a fitting used to connect compression tubing to another connection type, such as a male/female threaded port. It uses a compression ferrule and nut to create a secure, leak-resistant connection",
+    description: "Industrial-grade Compression Adapter supplied by Bahjat Enterprises to certified industrial standards. Engineered for process control, oil & gas, refineries, and petrochemical applications. A Compression Adapter is a fitting used to connect compression tubing to another connection type, such as a male/female threaded port. It uses a compression ferrule and nut to create a secure, leak-resistant connection",
     specs: {
       "Product": "Compression Adapter",
       "Brand": "Swagelok",
@@ -414,7 +414,7 @@ export const INSTRUMENTATION_PRODUCTS = [
     category: "instrumentation",
     subCategory: "Instrument Fittings & Tubing",
     image: "/images/products/instrumentation/inst_item_18.png",
-    description: "Industrial-grade Compression Cross supplied by Bahjat Enterprises under the Swagelok engineering standard. Engineered for process control, oil & gas, refineries, and petrochemical applications. A Compression Cross is a tube fitting used to connect four tubes at a common point, forming a cross-shaped connection. Compression nuts and ferrules provide a secure, leak-resistant joint",
+    description: "Industrial-grade Compression Cross supplied by Bahjat Enterprises to certified industrial standards. Engineered for process control, oil & gas, refineries, and petrochemical applications. A Compression Cross is a tube fitting used to connect four tubes at a common point, forming a cross-shaped connection. Compression nuts and ferrules provide a secure, leak-resistant joint",
     specs: {
       "Product": "Compression Cross",
       "Brand": "Swagelok",
@@ -437,7 +437,7 @@ export const INSTRUMENTATION_PRODUCTS = [
     category: "instrumentation",
     subCategory: "Instrument Fittings & Tubing",
     image: "/images/products/instrumentation/inst_item_19.png",
-    description: "Industrial-grade Compression Elbow supplied by Bahjat Enterprises under the Swagelok engineering standard. Engineered for process control, oil & gas, refineries, and petrochemical applications. A Compression Elbow is a tube fitting used to change the direction of tubing, usually by 90\u00b0, while providing a leak-resistant connection using compression ferrules",
+    description: "Industrial-grade Compression Elbow supplied by Bahjat Enterprises to certified industrial standards. Engineered for process control, oil & gas, refineries, and petrochemical applications. A Compression Elbow is a tube fitting used to change the direction of tubing, usually by 90\u00b0, while providing a leak-resistant connection using compression ferrules",
     specs: {
       "Product": "Compression Elbow",
       "Brand": "Swagelok",
@@ -461,7 +461,7 @@ export const INSTRUMENTATION_PRODUCTS = [
     category: "instrumentation",
     subCategory: "Level Instruments & Switches",
     image: "/images/products/instrumentation/inst_item_20.png",
-    description: "Industrial-grade Conductivity Level Switch supplied by Bahjat Enterprises under the VEGA engineering standard. Engineered for process control, oil & gas, refineries, and petrochemical applications. A Conductivity Level Switch (also called a Conductive Level Switch) detects the presence or absence of electrically conductive liquids at a specific level in a tank or vessel, It works by using electrodes/probes to detect electrical conductivity when the liquid completes an electrical circuit between the probe and a reference electrode",
+    description: "Industrial-grade Conductivity Level Switch supplied by Bahjat Enterprises to certified industrial standards. Engineered for process control, oil & gas, refineries, and petrochemical applications. A Conductivity Level Switch (also called a Conductive Level Switch) detects the presence or absence of electrically conductive liquids at a specific level in a tank or vessel, It works by using electrodes/probes to detect electrical conductivity when the liquid completes an electrical circuit between the probe and a reference electrode",
     specs: {
       "Product": "Conductivity Level Switch",
       "Brand": "VEGA",
@@ -484,7 +484,7 @@ export const INSTRUMENTATION_PRODUCTS = [
     category: "instrumentation",
     subCategory: "Control Valves & Actuators",
     image: "/images/products/instrumentation/inst_item_21.png",
-    description: "Industrial-grade Control Valve supplied by Bahjat Enterprises under the Samson engineering standard. Engineered for process control, oil & gas, refineries, and petrochemical applications. A Control Valve is an automatically operated valve used to regulate the flow, pressure, temperature, or level of a process fluid. It receives a control signal from a controller and adjusts its opening accordingly",
+    description: "Industrial-grade Control Valve supplied by Bahjat Enterprises to certified industrial standards. Engineered for process control, oil & gas, refineries, and petrochemical applications. A Control Valve is an automatically operated valve used to regulate the flow, pressure, temperature, or level of a process fluid. It receives a control signal from a controller and adjusts its opening accordingly",
     specs: {
       "Product": "Control Valve",
       "Brand": "Samson",
@@ -511,7 +511,7 @@ export const INSTRUMENTATION_PRODUCTS = [
     category: "instrumentation",
     subCategory: "Flow Meters & Flow Sensors",
     image: "/images/products/instrumentation/inst_item_22.png",
-    description: "Industrial-grade Coriolis Flow Meter supplied by Bahjat Enterprises under the Endress+Hauser (E+H) engineering standard. Engineered for process control, oil & gas, refineries, and petrochemical applications. A Coriolis Flow Meter is a precision instrument used to directly measure the mass flow rate of liquids or gases. It can also provide density and temperature measurements in many models",
+    description: "Industrial-grade Coriolis Flow Meter supplied by Bahjat Enterprises to certified industrial standards. Engineered for process control, oil & gas, refineries, and petrochemical applications. A Coriolis Flow Meter is a precision instrument used to directly measure the mass flow rate of liquids or gases. It can also provide density and temperature measurements in many models",
     specs: {
       "Product": "Coriolis Flow Meter",
       "Brand": "Endress+Hauser (E+H)",
@@ -542,7 +542,7 @@ export const INSTRUMENTATION_PRODUCTS = [
     category: "instrumentation",
     subCategory: "Analyzers & Calibration",
     image: "/images/products/instrumentation/inst_item_23.png",
-    description: "Industrial-grade Dew Point Meter supplied by Bahjat Enterprises under the ABB engineering standard. Engineered for process control, oil & gas, refineries, and petrochemical applications. A Dew Point Meter is an instrument used to measure the dew point temperature of air or gas. Dew point indicates the temperature at which moisture in the gas begins to condense into liquid",
+    description: "Industrial-grade Dew Point Meter supplied by Bahjat Enterprises to certified industrial standards. Engineered for process control, oil & gas, refineries, and petrochemical applications. A Dew Point Meter is an instrument used to measure the dew point temperature of air or gas. Dew point indicates the temperature at which moisture in the gas begins to condense into liquid",
     specs: {
       "Product": "Dew Point Meter",
       "Brand": "ABB",
@@ -568,7 +568,7 @@ export const INSTRUMENTATION_PRODUCTS = [
     category: "instrumentation",
     subCategory: "Pressure Gauges & Indicators",
     image: "/images/products/instrumentation/inst_item_24.png",
-    description: "Industrial-grade Differential Pressure Gauge supplied by Bahjat Enterprises under the Rosemount engineering standard. Engineered for process control, oil & gas, refineries, and petrochemical applications. A Differential Pressure (DP) Gauge measures the difference in pressure between two points in a system. It has two pressure connections\u2014High (H) and Low (L)\u2014and displays the pressure difference",
+    description: "Industrial-grade Differential Pressure Gauge supplied by Bahjat Enterprises to certified industrial standards. Engineered for process control, oil & gas, refineries, and petrochemical applications. A Differential Pressure (DP) Gauge measures the difference in pressure between two points in a system. It has two pressure connections\u2014High (H) and Low (L)\u2014and displays the pressure difference",
     specs: {
       "Product": "Differential Pressure Gauge",
       "Brand": "Rosemount",
@@ -598,7 +598,7 @@ export const INSTRUMENTATION_PRODUCTS = [
     category: "instrumentation",
     subCategory: "Pressure Transmitters & Switches",
     image: "/images/products/instrumentation/inst_item_25.png",
-    description: "Industrial-grade Differential Pressure Transmitter supplied by Bahjat Enterprises under the Rosemount engineering standard. Engineered for process control, oil & gas, refineries, and petrochemical applications. Differential Pressure Transmitter (DP Transmitter), A Differential Pressure Transmitter (DP Transmitter) measures the difference in pressure between two points and converts it into an electrical signal, commonly 4\u201320 mA, for monitoring and control",
+    description: "Industrial-grade Differential Pressure Transmitter supplied by Bahjat Enterprises to certified industrial standards. Engineered for process control, oil & gas, refineries, and petrochemical applications. Differential Pressure Transmitter (DP Transmitter), A Differential Pressure Transmitter (DP Transmitter) measures the difference in pressure between two points and converts it into an electrical signal, commonly 4\u201320 mA, for monitoring and control",
     specs: {
       "Product": "Differential Pressure Transmitter",
       "Brand": "Rosemount",
@@ -625,7 +625,7 @@ export const INSTRUMENTATION_PRODUCTS = [
     category: "instrumentation",
     subCategory: "Pressure Gauges & Indicators",
     image: "/images/products/instrumentation/inst_item_26.png",
-    description: "Industrial-grade Digital Pressure Gauge supplied by Bahjat Enterprises under the WIKA engineering standard. Engineered for process control, oil & gas, refineries, and petrochemical applications. A Digital Pressure Gauge is an electronic instrument used to measure and display pressure digitally on an LCD/LED screen. It provides a direct numerical pressure reading and is commonly used for water, air, gas, hydraulic, and industrial applications",
+    description: "Industrial-grade Digital Pressure Gauge supplied by Bahjat Enterprises to certified industrial standards. Engineered for process control, oil & gas, refineries, and petrochemical applications. A Digital Pressure Gauge is an electronic instrument used to measure and display pressure digitally on an LCD/LED screen. It provides a direct numerical pressure reading and is commonly used for water, air, gas, hydraulic, and industrial applications",
     specs: {
       "Product": "Digital Pressure Gauge",
       "Brand": "WIKA",
@@ -648,7 +648,7 @@ export const INSTRUMENTATION_PRODUCTS = [
     category: "instrumentation",
     subCategory: "Temperature Instruments & Sensors",
     image: "/images/products/instrumentation/inst_item_27.png",
-    description: "Industrial-grade Digital Thermometer supplied by Bahjat Enterprises under the Yokogawa engineering standard. Engineered for process control, oil & gas, refineries, and petrochemical applications. A Digital Thermometer is an electronic instrument used to measure and display temperature digitally. It uses a temperature sensor such as a thermistor, RTD, or thermocouple depending on the application",
+    description: "Industrial-grade Digital Thermometer supplied by Bahjat Enterprises to certified industrial standards. Engineered for process control, oil & gas, refineries, and petrochemical applications. A Digital Thermometer is an electronic instrument used to measure and display temperature digitally. It uses a temperature sensor such as a thermistor, RTD, or thermocouple depending on the application",
     specs: {
       "Product": "Digital Thermometer",
       "Brand": "Yokogawa",
@@ -675,7 +675,7 @@ export const INSTRUMENTATION_PRODUCTS = [
     category: "instrumentation",
     subCategory: "Control Valves & Actuators",
     image: "/images/products/instrumentation/inst_item_28.png",
-    description: "Industrial-grade Diaphram Valve supplied by Bahjat Enterprises under the Samson engineering standard. Engineered for process control, oil & gas, refineries, and petrochemical applications. Membrane Valve, A Diaphragm Valve is a linear motion valve that uses a flexible diaphragm to control, regulate, or isolate the flow of liquids, gases, and slurries. The diaphragm is pressed against a seat or weir to create a leak-tight seal, making it ideal for corrosive, abrasive, and hygienic applications",
+    description: "Industrial-grade Diaphram Valve supplied by Bahjat Enterprises to certified industrial standards. Engineered for process control, oil & gas, refineries, and petrochemical applications. Membrane Valve, A Diaphragm Valve is a linear motion valve that uses a flexible diaphragm to control, regulate, or isolate the flow of liquids, gases, and slurries. The diaphragm is pressed against a seat or weir to create a leak-tight seal, making it ideal for corrosive, abrasive, and hygienic applications",
     specs: {
       "Product": "Diaphram Valve",
       "Brand": "Samson",
@@ -700,7 +700,7 @@ export const INSTRUMENTATION_PRODUCTS = [
     category: "instrumentation",
     subCategory: "Process Pumps & Dosing",
     image: "/images/products/instrumentation/inst_item_29.png",
-    description: "Industrial-grade Dosing Pump supplied by Bahjat Enterprises under the Danfoss engineering standard. Engineered for process control, oil & gas, refineries, and petrochemical applications. Diaphragm Dosing Pump \u2013 Most common; leak-resistant and suitable for corrosive chemicals, Solenoid Dosing Pump \u2013 Compact, electrically actuated, ideal for low flow rates",
+    description: "Industrial-grade Dosing Pump supplied by Bahjat Enterprises to certified industrial standards. Engineered for process control, oil & gas, refineries, and petrochemical applications. Diaphragm Dosing Pump \u2013 Most common; leak-resistant and suitable for corrosive chemicals, Solenoid Dosing Pump \u2013 Compact, electrically actuated, ideal for low flow rates",
     specs: {
       "Product": "Dosing Pump",
       "Brand": "Danfoss",
@@ -723,7 +723,7 @@ export const INSTRUMENTATION_PRODUCTS = [
     category: "instrumentation",
     subCategory: "Level Instruments & Switches",
     image: "/images/products/instrumentation/inst_item_30.png",
-    description: "Industrial-grade DRUM LEVEL TRANSMITTER supplied by Bahjat Enterprises under the VEGA engineering standard. Engineered for process control, oil & gas, refineries, and petrochemical applications. A Drum Level Transmitter is an industrial instrument used to continuously measure the liquid/water level inside a drum, especially a boiler steam drum, and transmit the measurement to a control system such as a DCS, PLC, or SCADA",
+    description: "Industrial-grade DRUM LEVEL TRANSMITTER supplied by Bahjat Enterprises to certified industrial standards. Engineered for process control, oil & gas, refineries, and petrochemical applications. A Drum Level Transmitter is an industrial instrument used to continuously measure the liquid/water level inside a drum, especially a boiler steam drum, and transmit the measurement to a control system such as a DCS, PLC, or SCADA",
     specs: {
       "Product": "DRUM LEVEL TRANSMITTER",
       "Brand": "VEGA",
@@ -752,7 +752,7 @@ export const INSTRUMENTATION_PRODUCTS = [
     category: "instrumentation",
     subCategory: "Flow Meters & Flow Sensors",
     image: "/images/products/instrumentation/inst_item_31.png",
-    description: "Industrial-grade Electromagnetic Flow Meter supplied by Bahjat Enterprises under the Endress+Hauser (E+H) engineering standard. Engineered for process control, oil & gas, refineries, and petrochemical applications. An Electromagnetic Flow Meter (Magnetic Flow Meter / Mag Meter) is an instrument used to measure the flow rate of electrically conductive liquids in a pipeline. It works on Faraday's law of electromagnetic induction and has no moving parts",
+    description: "Industrial-grade Electromagnetic Flow Meter supplied by Bahjat Enterprises to certified industrial standards. Engineered for process control, oil & gas, refineries, and petrochemical applications. An Electromagnetic Flow Meter (Magnetic Flow Meter / Mag Meter) is an instrument used to measure the flow rate of electrically conductive liquids in a pipeline. It works on Faraday's law of electromagnetic induction and has no moving parts",
     specs: {
       "Product": "Electromagnetic Flow Meter",
       "Brand": "Endress+Hauser (E+H)",
@@ -779,7 +779,7 @@ export const INSTRUMENTATION_PRODUCTS = [
     category: "instrumentation",
     subCategory: "Control Valves & Actuators",
     image: "/images/products/instrumentation/inst_item_32.png",
-    description: "Industrial-grade Electric Actuator Valve supplied by Bahjat Enterprises under the Rotork engineering standard. Engineered for process control, oil & gas, refineries, and petrochemical applications. An Electric Actuator Valve is a valve fitted with an electric motor actuator that allows the valve to be opened, closed, or positioned automatically. It is commonly used where remote or automated flow control is required",
+    description: "Industrial-grade Electric Actuator Valve supplied by Bahjat Enterprises to certified industrial standards. Engineered for process control, oil & gas, refineries, and petrochemical applications. An Electric Actuator Valve is a valve fitted with an electric motor actuator that allows the valve to be opened, closed, or positioned automatically. It is commonly used where remote or automated flow control is required",
     specs: {
       "Product": "Electric Actuator Valve",
       "Brand": "Rotork",
@@ -807,7 +807,7 @@ export const INSTRUMENTATION_PRODUCTS = [
     category: "instrumentation",
     subCategory: "Flow Meters & Flow Sensors",
     image: "/images/products/instrumentation/inst_item_33.png",
-    description: "Industrial-grade ELECTROMAGNETIC FLOWMETER supplied by Bahjat Enterprises under the Endress+Hauser (E+H) engineering standard. Engineered for process control, oil & gas, refineries, and petrochemical applications. An Electromagnetic Flowmeter (Magnetic Flowmeter / Magmeter) is an instrument used to measure the volumetric flow rate of electrically conductive liquids in pipelines. It operates using Faraday\u2019s law of electromagnetic induction and has no moving parts, Common Types Flanged Electromagnetic Flowmeter",
+    description: "Industrial-grade ELECTROMAGNETIC FLOWMETER supplied by Bahjat Enterprises to certified industrial standards. Engineered for process control, oil & gas, refineries, and petrochemical applications. An Electromagnetic Flowmeter (Magnetic Flowmeter / Magmeter) is an instrument used to measure the volumetric flow rate of electrically conductive liquids in pipelines. It operates using Faraday\u2019s law of electromagnetic induction and has no moving parts, Common Types Flanged Electromagnetic Flowmeter",
     specs: {
       "Product": "ELECTROMAGNETIC FLOWMETER",
       "Brand": "Endress+Hauser (E+H)",
@@ -839,7 +839,7 @@ export const INSTRUMENTATION_PRODUCTS = [
     category: "instrumentation",
     subCategory: "Instrument Fittings & Tubing",
     image: "/images/products/instrumentation/inst_item_34.png",
-    description: "Industrial-grade Ferrule Set supplied by Bahjat Enterprises under the Swagelok engineering standard. Engineered for process control, oil & gas, refineries, and petrochemical applications. A Ferrule Set is a set of precision components used in tube compression fittings to grip and seal tubing. A typical double-ferrule set consists of a front ferrule and back ferrule",
+    description: "Industrial-grade Ferrule Set supplied by Bahjat Enterprises to certified industrial standards. Engineered for process control, oil & gas, refineries, and petrochemical applications. A Ferrule Set is a set of precision components used in tube compression fittings to grip and seal tubing. A typical double-ferrule set consists of a front ferrule and back ferrule",
     specs: {
       "Product": "Ferrule Set",
       "Brand": "Swagelok",
@@ -863,7 +863,7 @@ export const INSTRUMENTATION_PRODUCTS = [
     category: "instrumentation",
     subCategory: "Pneumatic & Air Supplies",
     image: "/images/products/instrumentation/inst_item_35.png",
-    description: "Industrial-grade Filter Regulator supplied by Bahjat Enterprises under the SMC engineering standard. Engineered for process control, oil & gas, refineries, and petrochemical applications. A Filter Regulator (Filter-Regulator) is a pneumatic device that filters contaminants from compressed air and regulates the outlet pressure to a desired, stable level. It combines a filter and a pressure regulator in one unit, Air Filter Element, Pressure Regulator, Bowl, Drain Valve, Pressure Gauge \u2013 Displays regulated outlet pressure",
+    description: "Industrial-grade Filter Regulator supplied by Bahjat Enterprises to certified industrial standards. Engineered for process control, oil & gas, refineries, and petrochemical applications. A Filter Regulator (Filter-Regulator) is a pneumatic device that filters contaminants from compressed air and regulates the outlet pressure to a desired, stable level. It combines a filter and a pressure regulator in one unit, Air Filter Element, Pressure Regulator, Bowl, Drain Valve, Pressure Gauge \u2013 Displays regulated outlet pressure",
     specs: {
       "Product": "Filter Regulator",
       "Brand": "SMC",
@@ -889,7 +889,7 @@ export const INSTRUMENTATION_PRODUCTS = [
     category: "instrumentation",
     subCategory: "Flow Meters & Flow Sensors",
     image: "/images/products/instrumentation/inst_item_36.png",
-    description: "Industrial-grade Flow Meter supplied by Bahjat Enterprises under the Endress+Hauser (E+H) engineering standard. Engineered for process control, oil & gas, refineries, and petrochemical applications. A Flow Meter is an instrument used to measure the flow rate of a liquid, gas, or steam through a pipeline. The reading may be displayed locally or transmitted to a PLC, DCS, or SCADA system, Electromagnetic Flow Meter, Coriolis Flow Meter, Vortex Flow Meter, Ultrasonic Flow Meter, Turbine Flow Meter, Rotameter, Orifice Flow Meter, Positive Displacement Flow Meter, Variable Area Flow Meter",
+    description: "Industrial-grade Flow Meter supplied by Bahjat Enterprises to certified industrial standards. Engineered for process control, oil & gas, refineries, and petrochemical applications. A Flow Meter is an instrument used to measure the flow rate of a liquid, gas, or steam through a pipeline. The reading may be displayed locally or transmitted to a PLC, DCS, or SCADA system, Electromagnetic Flow Meter, Coriolis Flow Meter, Vortex Flow Meter, Ultrasonic Flow Meter, Turbine Flow Meter, Rotameter, Orifice Flow Meter, Positive Displacement Flow Meter, Variable Area Flow Meter",
     specs: {
       "Product": "Flow Meter",
       "Brand": "Endress+Hauser (E+H)",
@@ -915,7 +915,7 @@ export const INSTRUMENTATION_PRODUCTS = [
     category: "instrumentation",
     subCategory: "Flow Meters & Flow Sensors",
     image: "/images/products/instrumentation/inst_item_37.png",
-    description: "Industrial-grade Flow Restrictor supplied by Bahjat Enterprises under the Emerson engineering standard. Engineered for process control, oil & gas, refineries, and petrochemical applications. A Flow Restrictor is a device used to limit or control the flow rate of a liquid or gas through a pipeline or tubing. It creates a controlled pressure drop and helps prevent excessive flow",
+    description: "Industrial-grade Flow Restrictor supplied by Bahjat Enterprises to certified industrial standards. Engineered for process control, oil & gas, refineries, and petrochemical applications. A Flow Restrictor is a device used to limit or control the flow rate of a liquid or gas through a pipeline or tubing. It creates a controlled pressure drop and helps prevent excessive flow",
     specs: {
       "Product": "Flow Restrictor",
       "Brand": "Emerson",
@@ -940,7 +940,7 @@ export const INSTRUMENTATION_PRODUCTS = [
     category: "instrumentation",
     subCategory: "Flow Meters & Flow Sensors",
     image: "/images/products/instrumentation/inst_item_38.png",
-    description: "Industrial-grade Flow Switch supplied by Bahjat Enterprises under the Emerson engineering standard. Engineered for process control, oil & gas, refineries, and petrochemical applications. A Flow Switch is a device that detects the presence, absence, or change of fluid flow in a pipe and switches an electrical contact when the flow reaches a preset level",
+    description: "Industrial-grade Flow Switch supplied by Bahjat Enterprises to certified industrial standards. Engineered for process control, oil & gas, refineries, and petrochemical applications. A Flow Switch is a device that detects the presence, absence, or change of fluid flow in a pipe and switches an electrical contact when the flow reaches a preset level",
     specs: {
       "Product": "Flow Switch",
       "Brand": "Emerson",
@@ -965,7 +965,7 @@ export const INSTRUMENTATION_PRODUCTS = [
     category: "instrumentation",
     subCategory: "Flow Meters & Flow Sensors",
     image: "/images/products/instrumentation/inst_item_39.png",
-    description: "Industrial-grade Flow Transmitter supplied by Bahjat Enterprises under the Emerson engineering standard. Engineered for process control, oil & gas, refineries, and petrochemical applications. A Flow Transmitter (FT) is an industrial instrument that measures fluid flow rate and converts the measurement into a standard output signal, commonly 4\u201320 mA, for monitoring and control through a PLC, DCS, or SCADA system",
+    description: "Industrial-grade Flow Transmitter supplied by Bahjat Enterprises to certified industrial standards. Engineered for process control, oil & gas, refineries, and petrochemical applications. A Flow Transmitter (FT) is an industrial instrument that measures fluid flow rate and converts the measurement into a standard output signal, commonly 4\u201320 mA, for monitoring and control through a PLC, DCS, or SCADA system",
     specs: {
       "Product": "Flow Transmitter",
       "Brand": "Emerson",
@@ -990,7 +990,7 @@ export const INSTRUMENTATION_PRODUCTS = [
     category: "instrumentation",
     subCategory: "Flow Meters & Flow Sensors",
     image: "/images/products/instrumentation/inst_item_40.png",
-    description: "Industrial-grade FLOW SENSOR supplied by Bahjat Enterprises under the Endress+Hauser (E+H) engineering standard. Engineered for process control, oil & gas, refineries, and petrochemical applications. A Flow Sensor is a sensing device used to detect and measure the flow of a liquid, gas, or steam. It provides the primary measurement that can be displayed locally or processed by a flow transmitter/controller. Measurement- Flow Rate",
+    description: "Industrial-grade FLOW SENSOR supplied by Bahjat Enterprises to certified industrial standards. Engineered for process control, oil & gas, refineries, and petrochemical applications. A Flow Sensor is a sensing device used to detect and measure the flow of a liquid, gas, or steam. It provides the primary measurement that can be displayed locally or processed by a flow transmitter/controller. Measurement- Flow Rate",
     specs: {
       "Product": "FLOW SENSOR",
       "Brand": "Endress+Hauser (E+H)",
@@ -1013,7 +1013,7 @@ export const INSTRUMENTATION_PRODUCTS = [
     category: "instrumentation",
     subCategory: "Control Valves & Actuators",
     image: "/images/products/instrumentation/inst_item_41.png",
-    description: "Industrial-grade Globe Valve supplied by Bahjat Enterprises under the Samson engineering standard. Engineered for process control, oil & gas, refineries, and petrochemical applications. Stop Valve, Throttling Valve",
+    description: "Industrial-grade Globe Valve supplied by Bahjat Enterprises to certified industrial standards. Engineered for process control, oil & gas, refineries, and petrochemical applications. Stop Valve, Throttling Valve",
     specs: {
       "Product": "Globe Valve",
       "Brand": "Samson",
@@ -1039,7 +1039,7 @@ export const INSTRUMENTATION_PRODUCTS = [
     category: "instrumentation",
     subCategory: "Pressure Gauges & Indicators",
     image: "/images/products/instrumentation/inst_item_42.png",
-    description: "Industrial-grade Gauge Adapter supplied by Bahjat Enterprises under the WIKA engineering standard. Engineered for process control, oil & gas, refineries, and petrochemical applications. A Gauge Adapter is a fitting used to connect a pressure gauge to a pipe, vessel, manifold, or process line. It provides the correct thread, size, and connection arrangement between the gauge and the process connection",
+    description: "Industrial-grade Gauge Adapter supplied by Bahjat Enterprises to certified industrial standards. Engineered for process control, oil & gas, refineries, and petrochemical applications. A Gauge Adapter is a fitting used to connect a pressure gauge to a pipe, vessel, manifold, or process line. It provides the correct thread, size, and connection arrangement between the gauge and the process connection",
     specs: {
       "Product": "Gauge Adapter",
       "Brand": "WIKA",
@@ -1062,7 +1062,7 @@ export const INSTRUMENTATION_PRODUCTS = [
     category: "instrumentation",
     subCategory: "Pressure Gauges & Indicators",
     image: "/images/products/instrumentation/inst_item_43.png",
-    description: "Industrial-grade Gauge Isolator supplied by Bahjat Enterprises under the WIKA engineering standard. Engineered for process control, oil & gas, refineries, and petrochemical applications. A Gauge Isolator is a valve used to isolate a pressure gauge from the process line. It allows the gauge to be removed, serviced, or replaced while preventing process fluid from entering the gauge",
+    description: "Industrial-grade Gauge Isolator supplied by Bahjat Enterprises to certified industrial standards. Engineered for process control, oil & gas, refineries, and petrochemical applications. A Gauge Isolator is a valve used to isolate a pressure gauge from the process line. It allows the gauge to be removed, serviced, or replaced while preventing process fluid from entering the gauge",
     specs: {
       "Product": "Gauge Isolator",
       "Brand": "WIKA",
@@ -1084,7 +1084,7 @@ export const INSTRUMENTATION_PRODUCTS = [
     category: "instrumentation",
     subCategory: "Pressure Gauges & Indicators",
     image: "/images/products/instrumentation/inst_item_44.png",
-    description: "Industrial-grade Gauge Valve supplied by Bahjat Enterprises under the Parker engineering standard. Engineered for process control, oil & gas, refineries, and petrochemical applications. A Gauge Valve is an isolation valve installed between a pressure gauge and the process line. It allows the gauge to be isolated for maintenance, calibration, replacement, or pressure checking",
+    description: "Industrial-grade Gauge Valve supplied by Bahjat Enterprises to certified industrial standards. Engineered for process control, oil & gas, refineries, and petrochemical applications. A Gauge Valve is an isolation valve installed between a pressure gauge and the process line. It allows the gauge to be isolated for maintenance, calibration, replacement, or pressure checking",
     specs: {
       "Product": "Gauge Valve",
       "Brand": "Parker",
@@ -1107,7 +1107,7 @@ export const INSTRUMENTATION_PRODUCTS = [
     category: "instrumentation",
     subCategory: "Controllers, PLCs & Automation",
     image: "/images/products/instrumentation/inst_item_45.png",
-    description: "Industrial-grade HMI supplied by Bahjat Enterprises under the Siemens engineering standard. Engineered for process control, oil & gas, refineries, and petrochemical applications. HMI \u2014 Human Machine Interface, HMI (Human Machine Interface) is an industrial display/control device that allows an operator to monitor and control machines, processes, and equipment",
+    description: "Industrial-grade HMI supplied by Bahjat Enterprises to certified industrial standards. Engineered for process control, oil & gas, refineries, and petrochemical applications. HMI \u2014 Human Machine Interface, HMI (Human Machine Interface) is an industrial display/control device that allows an operator to monitor and control machines, processes, and equipment",
     specs: {
       "Product": "HMI",
       "Brand": "Siemens",
@@ -1132,7 +1132,7 @@ export const INSTRUMENTATION_PRODUCTS = [
     category: "instrumentation",
     subCategory: "Controllers, PLCs & Automation",
     image: "/images/products/instrumentation/inst_item_46.png",
-    description: "Industrial-grade I/P Converter supplied by Bahjat Enterprises under the Siemens engineering standard. Engineered for process control, oil & gas, refineries, and petrochemical applications. An I/P Converter (Current-to-Pressure Converter) converts an electrical 4\u201320 mA current signal into a proportional pneumatic pressure signal, commonly 3\u201315 psi or 0.2\u20131.0 bar",
+    description: "Industrial-grade I/P Converter supplied by Bahjat Enterprises to certified industrial standards. Engineered for process control, oil & gas, refineries, and petrochemical applications. An I/P Converter (Current-to-Pressure Converter) converts an electrical 4\u201320 mA current signal into a proportional pneumatic pressure signal, commonly 3\u201315 psi or 0.2\u20131.0 bar",
     specs: {
       "Product": "I/P Converter",
       "Brand": "Siemens",
@@ -1157,7 +1157,7 @@ export const INSTRUMENTATION_PRODUCTS = [
     category: "instrumentation",
     subCategory: "Instrument Valves & Manifolds",
     image: "/images/products/instrumentation/inst_item_47.png",
-    description: "Industrial-grade Instrument Valves supplied by Bahjat Enterprises under the Emerson engineering standard. Engineered for process control, oil & gas, refineries, and petrochemical applications. Instrument Valves are precision valves used to control, isolate, vent, drain, or regulate fluids and gases in instrumentation systems. They are commonly installed with pressure, flow, level, and temperature instruments",
+    description: "Industrial-grade Instrument Valves supplied by Bahjat Enterprises to certified industrial standards. Engineered for process control, oil & gas, refineries, and petrochemical applications. Instrument Valves are precision valves used to control, isolate, vent, drain, or regulate fluids and gases in instrumentation systems. They are commonly installed with pressure, flow, level, and temperature instruments",
     specs: {
       "Product": "Instrument Valves",
       "Brand": "Emerson",
@@ -1181,7 +1181,7 @@ export const INSTRUMENTATION_PRODUCTS = [
     category: "instrumentation",
     subCategory: "Level Instruments & Switches",
     image: "/images/products/instrumentation/inst_item_48.png",
-    description: "Industrial-grade Level Controller supplied by Bahjat Enterprises under the Siemens engineering standard. Engineered for process control, oil & gas, refineries, and petrochemical applications. A Level Controller is an instrument used to monitor and control the level of a liquid or bulk material in a tank, vessel, boiler, or process equipment. It maintains the level within a desired range by sending a control signal to a valve, pump, or other final control element",
+    description: "Industrial-grade Level Controller supplied by Bahjat Enterprises to certified industrial standards. Engineered for process control, oil & gas, refineries, and petrochemical applications. A Level Controller is an instrument used to monitor and control the level of a liquid or bulk material in a tank, vessel, boiler, or process equipment. It maintains the level within a desired range by sending a control signal to a valve, pump, or other final control element",
     specs: {
       "Product": "Level Controller",
       "Brand": "Siemens",
@@ -1206,7 +1206,7 @@ export const INSTRUMENTATION_PRODUCTS = [
     category: "instrumentation",
     subCategory: "Pressure Gauges & Indicators",
     image: "/images/products/instrumentation/inst_item_49.png",
-    description: "Industrial-grade Level Gauge supplied by Bahjat Enterprises under the VEGA engineering standard. Engineered for process control, oil & gas, refineries, and petrochemical applications. A Level Gauge is a mechanical or visual instrument used to indicate the level of liquid inside a tank, vessel, boiler, or process equipment. It provides a direct visual indication without necessarily requiring electrical power",
+    description: "Industrial-grade Level Gauge supplied by Bahjat Enterprises to certified industrial standards. Engineered for process control, oil & gas, refineries, and petrochemical applications. A Level Gauge is a mechanical or visual instrument used to indicate the level of liquid inside a tank, vessel, boiler, or process equipment. It provides a direct visual indication without necessarily requiring electrical power",
     specs: {
       "Product": "Level Gauge",
       "Brand": "VEGA",
@@ -1229,7 +1229,7 @@ export const INSTRUMENTATION_PRODUCTS = [
     category: "instrumentation",
     subCategory: "Level Instruments & Switches",
     image: "/images/products/instrumentation/inst_item_50.png",
-    description: "Industrial-grade Level Switch supplied by Bahjat Enterprises under the VEGA engineering standard. Engineered for process control, oil & gas, refineries, and petrochemical applications. A Level Switch is a point-level instrument that detects when a liquid or solid material reaches a preset high or low level in a tank, vessel, hopper, or process equipment. It typically provides an ON/OFF signal to start/stop a pump or activate an alarm",
+    description: "Industrial-grade Level Switch supplied by Bahjat Enterprises to certified industrial standards. Engineered for process control, oil & gas, refineries, and petrochemical applications. A Level Switch is a point-level instrument that detects when a liquid or solid material reaches a preset high or low level in a tank, vessel, hopper, or process equipment. It typically provides an ON/OFF signal to start/stop a pump or activate an alarm",
     specs: {
       "Product": "Level Switch",
       "Brand": "VEGA",
@@ -1253,7 +1253,7 @@ export const INSTRUMENTATION_PRODUCTS = [
     category: "instrumentation",
     subCategory: "Analyzers & Calibration",
     image: "/images/products/instrumentation/inst_item_51.png",
-    description: "Industrial-grade Loop Calibrator supplied by Bahjat Enterprises under the Fluke engineering standard. Engineered for process control, oil & gas, refineries, and petrochemical applications. A Loop Calibrator is a portable test instrument used to generate, measure, and simulate electrical signals in industrial instrumentation loops, especially 4\u201320 mA current loops. It is commonly used for testing and calibrating transmitters, control valves, indicators, and PLC/DCS I/O, Measure 4\u201320 mA loop current, Source/simulate 4\u201320 mA, Simulate transmitter outputs, Check instrument loop wiring, Test PLC/DCS analog inputs, Perform transmitter calibration, Measure loop voltage, Typical Specifications",
+    description: "Industrial-grade Loop Calibrator supplied by Bahjat Enterprises to certified industrial standards. Engineered for process control, oil & gas, refineries, and petrochemical applications. A Loop Calibrator is a portable test instrument used to generate, measure, and simulate electrical signals in industrial instrumentation loops, especially 4\u201320 mA current loops. It is commonly used for testing and calibrating transmitters, control valves, indicators, and PLC/DCS I/O, Measure 4\u201320 mA loop current, Source/simulate 4\u201320 mA, Simulate transmitter outputs, Check instrument loop wiring, Test PLC/DCS analog inputs, Perform transmitter calibration, Measure loop voltage, Typical Specifications",
     specs: {
       "Product": "Loop Calibrator",
       "Brand": "Fluke",
@@ -1278,7 +1278,7 @@ export const INSTRUMENTATION_PRODUCTS = [
     category: "instrumentation",
     subCategory: "Instrument Fittings & Tubing",
     image: "/images/products/instrumentation/inst_item_52.png",
-    description: "Industrial-grade Male Adapter supplied by Bahjat Enterprises under the Swagelok engineering standard. Engineered for process control, oil & gas, refineries, and petrochemical applications. A Male Adapter is a pipe or tubing fitting used to connect a tube/pipe to a female-threaded fitting, valve, instrument, or equipment. One end has a male thread, while the other end may be a compression, push-fit, socket, or another connection type",
+    description: "Industrial-grade Male Adapter supplied by Bahjat Enterprises to certified industrial standards. Engineered for process control, oil & gas, refineries, and petrochemical applications. A Male Adapter is a pipe or tubing fitting used to connect a tube/pipe to a female-threaded fitting, valve, instrument, or equipment. One end has a male thread, while the other end may be a compression, push-fit, socket, or another connection type",
     specs: {
       "Product": "Male Adapter",
       "Brand": "Swagelok",
@@ -1302,7 +1302,7 @@ export const INSTRUMENTATION_PRODUCTS = [
     category: "instrumentation",
     subCategory: "Instrument Fittings & Tubing",
     image: "/images/products/instrumentation/inst_item_53.png",
-    description: "Industrial-grade Male Branch Tee supplied by Bahjat Enterprises under the Swagelok engineering standard. Engineered for process control, oil & gas, refineries, and petrochemical applications. A Male Branch Tee is a three-way instrumentation or tubing fitting used to create a branch connection, where the branch outlet has a male threaded connection. It is commonly used to connect instruments, valves, gauges, and tubing.SS304/ SS316/ SS316L, CS, Brass, Monel, Hastelloy, Inconel",
+    description: "Industrial-grade Male Branch Tee supplied by Bahjat Enterprises to certified industrial standards. Engineered for process control, oil & gas, refineries, and petrochemical applications. A Male Branch Tee is a three-way instrumentation or tubing fitting used to create a branch connection, where the branch outlet has a male threaded connection. It is commonly used to connect instruments, valves, gauges, and tubing.SS304/ SS316/ SS316L, CS, Brass, Monel, Hastelloy, Inconel",
     specs: {
       "Product": "Male Branch Tee",
       "Brand": "Swagelok",
@@ -1327,7 +1327,7 @@ export const INSTRUMENTATION_PRODUCTS = [
     category: "instrumentation",
     subCategory: "Instrument Fittings & Tubing",
     image: "/images/products/instrumentation/inst_item_54.png",
-    description: "Industrial-grade Male Elbow supplied by Bahjat Enterprises under the Swagelok engineering standard. Engineered for process control, oil & gas, refineries, and petrochemical applications. A Male Elbow is a pipe or tubing fitting used to change the direction of a line, typically by 90\u00b0, while providing a male threaded connection on one end. It is commonly used in instrumentation, pneumatic, hydraulic, and process piping systems. SS304/ SS316/ SS316L, CS, Brass, Monel, Hastelloy, Inconel",
+    description: "Industrial-grade Male Elbow supplied by Bahjat Enterprises to certified industrial standards. Engineered for process control, oil & gas, refineries, and petrochemical applications. A Male Elbow is a pipe or tubing fitting used to change the direction of a line, typically by 90\u00b0, while providing a male threaded connection on one end. It is commonly used in instrumentation, pneumatic, hydraulic, and process piping systems. SS304/ SS316/ SS316L, CS, Brass, Monel, Hastelloy, Inconel",
     specs: {
       "Product": "Male Elbow",
       "Brand": "Swagelok",
@@ -1352,7 +1352,7 @@ export const INSTRUMENTATION_PRODUCTS = [
     category: "instrumentation",
     subCategory: "Instrument Fittings & Tubing",
     image: "/images/products/instrumentation/inst_item_55.png",
-    description: "Industrial-grade Male-to-Male Adapter supplied by Bahjat Enterprises under the Swagelok engineering standard. Engineered for process control, oil & gas, refineries, and petrochemical applications. A Male-to-Male Adapter is a threaded fitting used to connect two female-threaded components. Both ends have male threads, allowing connection between two valves, gauges, pipes, fittings, or instruments with female ports",
+    description: "Industrial-grade Male-to-Male Adapter supplied by Bahjat Enterprises to certified industrial standards. Engineered for process control, oil & gas, refineries, and petrochemical applications. A Male-to-Male Adapter is a threaded fitting used to connect two female-threaded components. Both ends have male threads, allowing connection between two valves, gauges, pipes, fittings, or instruments with female ports",
     specs: {
       "Product": "Male-to-Male Adapter",
       "Brand": "Swagelok",
@@ -1381,7 +1381,7 @@ export const INSTRUMENTATION_PRODUCTS = [
     category: "instrumentation",
     subCategory: "Instrument Valves & Manifolds",
     image: "/images/products/instrumentation/inst_item_56.png",
-    description: "Industrial-grade Metering Valve supplied by Bahjat Enterprises under the Parker engineering standard. Engineered for process control, oil & gas, refineries, and petrochemical applications. A Metering Valve is a precision valve used to accurately control or regulate the flow rate of a fluid or gas. Its fine-adjustment mechanism allows small changes in flow, making it common in instrumentation, sampling, calibration, pneumatic, and process systems",
+    description: "Industrial-grade Metering Valve supplied by Bahjat Enterprises to certified industrial standards. Engineered for process control, oil & gas, refineries, and petrochemical applications. A Metering Valve is a precision valve used to accurately control or regulate the flow rate of a fluid or gas. Its fine-adjustment mechanism allows small changes in flow, making it common in instrumentation, sampling, calibration, pneumatic, and process systems",
     specs: {
       "Product": "Metering Valve",
       "Brand": "Parker",
@@ -1407,7 +1407,7 @@ export const INSTRUMENTATION_PRODUCTS = [
     category: "instrumentation",
     subCategory: "Instrument Valves & Manifolds",
     image: "/images/products/instrumentation/inst_item_57.png",
-    description: "Industrial-grade Mini Ball Valve supplied by Bahjat Enterprises under the Emerson engineering standard. Engineered for process control, oil & gas, refineries, and petrochemical applications. A Mini Ball Valve is a compact quarter-turn shut-off valve used to quickly isolate or control the flow of liquids or gases in small-bore piping, instrumentation, pneumatic, and hydraulic systems. SS304/ SS316/ SS316L, CS, Brass, Monel, Hastelloy, Inconel",
+    description: "Industrial-grade Mini Ball Valve supplied by Bahjat Enterprises to certified industrial standards. Engineered for process control, oil & gas, refineries, and petrochemical applications. A Mini Ball Valve is a compact quarter-turn shut-off valve used to quickly isolate or control the flow of liquids or gases in small-bore piping, instrumentation, pneumatic, and hydraulic systems. SS304/ SS316/ SS316L, CS, Brass, Monel, Hastelloy, Inconel",
     specs: {
       "Product": "Mini Ball Valve",
       "Brand": "Emerson",
@@ -1432,7 +1432,7 @@ export const INSTRUMENTATION_PRODUCTS = [
     category: "instrumentation",
     subCategory: "Instrument Valves & Manifolds",
     image: "/images/products/instrumentation/inst_item_58.png",
-    description: "Industrial-grade Monoflange supplied by Bahjat Enterprises under the Parker engineering standard. Engineered for process control, oil & gas, refineries, and petrochemical applications. A Monoflange is a compact instrumentation valve assembly used to isolate and/or bleed a pressure instrument such as a pressure gauge or transmitter from the process line. It combines the functions of a conventional isolation valve and associated connections into a single compact body",
+    description: "Industrial-grade Monoflange supplied by Bahjat Enterprises to certified industrial standards. Engineered for process control, oil & gas, refineries, and petrochemical applications. A Monoflange is a compact instrumentation valve assembly used to isolate and/or bleed a pressure instrument such as a pressure gauge or transmitter from the process line. It combines the functions of a conventional isolation valve and associated connections into a single compact body",
     specs: {
       "Product": "Monoflange",
       "Brand": "Parker",
@@ -1455,7 +1455,7 @@ export const INSTRUMENTATION_PRODUCTS = [
     category: "instrumentation",
     subCategory: "Instrument Valves & Manifolds",
     image: "/images/products/instrumentation/inst_item_59.png",
-    description: "Industrial-grade Manifold Valve supplied by Bahjat Enterprises under the Parker engineering standard. Engineered for process control, oil & gas, refineries, and petrochemical applications. A valve assembly used to control, isolate, or distribute fluid or gas flow through multiple connected lines. Commonly used in instrumentation, hydraulic, pneumatic, and industrial piping systems",
+    description: "Industrial-grade Manifold Valve supplied by Bahjat Enterprises to certified industrial standards. Engineered for process control, oil & gas, refineries, and petrochemical applications. A valve assembly used to control, isolate, or distribute fluid or gas flow through multiple connected lines. Commonly used in instrumentation, hydraulic, pneumatic, and industrial piping systems",
     specs: {
       "Product": "Manifold Valve",
       "Brand": "Parker",
@@ -1479,7 +1479,7 @@ export const INSTRUMENTATION_PRODUCTS = [
     category: "instrumentation",
     subCategory: "Instrument Valves & Manifolds",
     image: "/images/products/instrumentation/inst_item_60.png",
-    description: "Industrial-grade Needle Valve supplied by Bahjat Enterprises under the Parker engineering standard. Engineered for process control, oil & gas, refineries, and petrochemical applications. Precision Flow Control Valve, A Needle Valve is a precision flow-control valve used to accurately regulate very small flow rates. It uses a long, tapered needle-shaped plunger that moves into a matching seat, allowing fine adjustment of fluid or gas flow",
+    description: "Industrial-grade Needle Valve supplied by Bahjat Enterprises to certified industrial standards. Engineered for process control, oil & gas, refineries, and petrochemical applications. Precision Flow Control Valve, A Needle Valve is a precision flow-control valve used to accurately regulate very small flow rates. It uses a long, tapered needle-shaped plunger that moves into a matching seat, allowing fine adjustment of fluid or gas flow",
     specs: {
       "Product": "Needle Valve",
       "Brand": "Parker",
@@ -1506,7 +1506,7 @@ export const INSTRUMENTATION_PRODUCTS = [
     category: "instrumentation",
     subCategory: "Pressure Transmitters & Switches",
     image: "/images/products/instrumentation/inst_item_61.png",
-    description: "Industrial-grade Pressure Reducing Valve supplied by Bahjat Enterprises under the Emerson engineering standard. Engineered for process control, oil & gas, refineries, and petrochemical applications. A Pressure Reducing Valve (PRV) is an automatic control valve used to reduce a higher inlet pressure to a controlled, lower and stable downstream pressure. It protects pipelines, fixtures, pumps, and equipment from excessive pressure",
+    description: "Industrial-grade Pressure Reducing Valve supplied by Bahjat Enterprises to certified industrial standards. Engineered for process control, oil & gas, refineries, and petrochemical applications. A Pressure Reducing Valve (PRV) is an automatic control valve used to reduce a higher inlet pressure to a controlled, lower and stable downstream pressure. It protects pipelines, fixtures, pumps, and equipment from excessive pressure",
     specs: {
       "Product": "Pressure Reducing Valve",
       "Brand": "Emerson",
@@ -1531,7 +1531,7 @@ export const INSTRUMENTATION_PRODUCTS = [
     category: "instrumentation",
     subCategory: "Pressure Transmitters & Switches",
     image: "/images/products/instrumentation/inst_item_62.png",
-    description: "Industrial-grade Pressure Release Valve supplied by Bahjat Enterprises under the Emerson engineering standard. Engineered for process control, oil & gas, refineries, and petrochemical applications. A Pressure Release Valve (PRV), commonly called a Pressure Relief Valve, is a safety valve designed to automatically release excess pressure from a piping system, tank, vessel, or equipment when pressure exceeds a preset limit. This protects the system from overpressure and possible damage",
+    description: "Industrial-grade Pressure Release Valve supplied by Bahjat Enterprises to certified industrial standards. Engineered for process control, oil & gas, refineries, and petrochemical applications. A Pressure Release Valve (PRV), commonly called a Pressure Relief Valve, is a safety valve designed to automatically release excess pressure from a piping system, tank, vessel, or equipment when pressure exceeds a preset limit. This protects the system from overpressure and possible damage",
     specs: {
       "Product": "Pressure Release Valve",
       "Brand": "Emerson",
@@ -1556,7 +1556,7 @@ export const INSTRUMENTATION_PRODUCTS = [
     category: "instrumentation",
     subCategory: "Pneumatic & Air Supplies",
     image: "/images/products/instrumentation/inst_item_63.png",
-    description: "Industrial-grade Pneumatic Valve supplied by Bahjat Enterprises under the SMC engineering standard. Engineered for process control, oil & gas, refineries, and petrochemical applications. A Pneumatic Valve is a valve operated by compressed air through a pneumatic actuator. It is used for automatic ON/OFF or flow-control applications where fast, reliable remote operation is required, ype : Pneumatic Ball Valve, Pneumatic Butterfly Valve, Pneumatic Globe Valve, Pneumatic Gate Valve, Pneumatic Diaphragm Valve, Pneumatic Control Valve",
+    description: "Industrial-grade Pneumatic Valve supplied by Bahjat Enterprises to certified industrial standards. Engineered for process control, oil & gas, refineries, and petrochemical applications. A Pneumatic Valve is a valve operated by compressed air through a pneumatic actuator. It is used for automatic ON/OFF or flow-control applications where fast, reliable remote operation is required, ype : Pneumatic Ball Valve, Pneumatic Butterfly Valve, Pneumatic Globe Valve, Pneumatic Gate Valve, Pneumatic Diaphragm Valve, Pneumatic Control Valve",
     specs: {
       "Product": "Pneumatic Valve",
       "Brand": "SMC",
@@ -1582,7 +1582,7 @@ export const INSTRUMENTATION_PRODUCTS = [
     category: "instrumentation",
     subCategory: "Pressure Gauges & Indicators",
     image: "/images/products/instrumentation/inst_item_64.png",
-    description: "Industrial-grade Pressure Gauge supplied by Bahjat Enterprises under the WIKA engineering standard. Engineered for process control, oil & gas, refineries, and petrochemical applications. A Pressure Gauge is a mechanical instrument used to measure and display pressure in water, air, steam, hydraulic, and plumbing systems",
+    description: "Industrial-grade Pressure Gauge supplied by Bahjat Enterprises to certified industrial standards. Engineered for process control, oil & gas, refineries, and petrochemical applications. A Pressure Gauge is a mechanical instrument used to measure and display pressure in water, air, steam, hydraulic, and plumbing systems",
     specs: {
       "Product": "Pressure Gauge",
       "Brand": "WIKA",
@@ -1608,7 +1608,7 @@ export const INSTRUMENTATION_PRODUCTS = [
     category: "instrumentation",
     subCategory: "Process Measurement Instruments",
     image: "/images/products/instrumentation/inst_item_65.png",
-    description: "Industrial-grade Pressure Regulator supplied by Bahjat Enterprises under the Emerson engineering standard. Engineered for process control, oil & gas, refineries, and petrochemical applications. A Pressure Regulator reduces and maintains water pressure at a safe, preset level in a plumbing or water-supply system",
+    description: "Industrial-grade Pressure Regulator supplied by Bahjat Enterprises to certified industrial standards. Engineered for process control, oil & gas, refineries, and petrochemical applications. A Pressure Regulator reduces and maintains water pressure at a safe, preset level in a plumbing or water-supply system",
     specs: {
       "Product": "Pressure Regulator",
       "Brand": "Emerson",
@@ -1631,7 +1631,7 @@ export const INSTRUMENTATION_PRODUCTS = [
     category: "instrumentation",
     subCategory: "Pressure Transmitters & Switches",
     image: "/images/products/instrumentation/inst_item_66.png",
-    description: "Industrial-grade Pressure Switch supplied by Bahjat Enterprises under the Emerson engineering standard. Engineered for process control, oil & gas, refineries, and petrochemical applications. A Pressure Switch automatically starts or stops a pump when water pressure reaches preset cut-in/cut-out levels.Type - Mechanical Pressure Switch, Adjustable Pressure Switch, Electronic Pressure Switch, Pump Pressure Switch, Pressure Switch with Gauge",
+    description: "Industrial-grade Pressure Switch supplied by Bahjat Enterprises to certified industrial standards. Engineered for process control, oil & gas, refineries, and petrochemical applications. A Pressure Switch automatically starts or stops a pump when water pressure reaches preset cut-in/cut-out levels.Type - Mechanical Pressure Switch, Adjustable Pressure Switch, Electronic Pressure Switch, Pump Pressure Switch, Pressure Switch with Gauge",
     specs: {
       "Product": "Pressure Switch",
       "Brand": "Emerson",
@@ -1651,7 +1651,7 @@ export const INSTRUMENTATION_PRODUCTS = [
     category: "instrumentation",
     subCategory: "Pressure Transmitters & Switches",
     image: "/images/products/instrumentation/inst_item_67.png",
-    description: "Industrial-grade Pressure Transmitter supplied by Bahjat Enterprises under the Rosemount engineering standard. Engineered for process control, oil & gas, refineries, and petrochemical applications. A Pressure Transmitter is an electronic instrument that measures pressure and converts it into an electrical signal (commonly 4\u201320 mA) for monitoring and control systems",
+    description: "Industrial-grade Pressure Transmitter supplied by Bahjat Enterprises to certified industrial standards. Engineered for process control, oil & gas, refineries, and petrochemical applications. A Pressure Transmitter is an electronic instrument that measures pressure and converts it into an electrical signal (commonly 4\u201320 mA) for monitoring and control systems",
     specs: {
       "Product": "Pressure Transmitter",
       "Brand": "Rosemount",
@@ -1675,7 +1675,7 @@ export const INSTRUMENTATION_PRODUCTS = [
     category: "instrumentation",
     subCategory: "Analyzers & Calibration",
     image: "/images/products/instrumentation/inst_item_68.png",
-    description: "Industrial-grade pH Meter supplied by Bahjat Enterprises under the ABB engineering standard. Engineered for process control, oil & gas, refineries, and petrochemical applications. A pH Meter is an electronic instrument used to measure the acidity or alkalinity of a liquid by measuring its pH value",
+    description: "Industrial-grade pH Meter supplied by Bahjat Enterprises to certified industrial standards. Engineered for process control, oil & gas, refineries, and petrochemical applications. A pH Meter is an electronic instrument used to measure the acidity or alkalinity of a liquid by measuring its pH value",
     specs: {
       "Product": "pH Meter",
       "Brand": "ABB",
@@ -1703,7 +1703,7 @@ export const INSTRUMENTATION_PRODUCTS = [
     category: "instrumentation",
     subCategory: "Controllers, PLCs & Automation",
     image: "/images/products/instrumentation/inst_item_69.png",
-    description: "Industrial-grade PID Controller supplied by Bahjat Enterprises under the Siemens engineering standard. Engineered for process control, oil & gas, refineries, and petrochemical applications. A PID Controller (Proportional\u2013Integral\u2013Derivative Controller) is an industrial control device that automatically maintains a process variable\u2014such as temperature, pressure, flow, or level\u2014at a desired setpoint, P \u2013 Proportional, I \u2013 Integral, D \u2013 Derivative",
+    description: "Industrial-grade PID Controller supplied by Bahjat Enterprises to certified industrial standards. Engineered for process control, oil & gas, refineries, and petrochemical applications. A PID Controller (Proportional\u2013Integral\u2013Derivative Controller) is an industrial control device that automatically maintains a process variable\u2014such as temperature, pressure, flow, or level\u2014at a desired setpoint, P \u2013 Proportional, I \u2013 Integral, D \u2013 Derivative",
     specs: {
       "Product": "PID Controller",
       "Brand": "Siemens",
@@ -1731,7 +1731,7 @@ export const INSTRUMENTATION_PRODUCTS = [
     category: "instrumentation",
     subCategory: "Controllers, PLCs & Automation",
     image: "/images/products/instrumentation/inst_item_70.png",
-    description: "Industrial-grade PLC supplied by Bahjat Enterprises under the Siemens engineering standard. Engineered for process control, oil & gas, refineries, and petrochemical applications. PLC (Programmable Logic Controller), A PLC is an industrial computer used to automatically monitor and control machines and industrial processes. It receives signals from sensors, processes them according to a programmed logic, and operates outputs such as motors, valves, pumps, and relays. Main PLC Components - CPU, Power Supply, Digital Input (DI), Digital Output (DO), Analog Input (AI), Analog Output (AO), Communication Module",
+    description: "Industrial-grade PLC supplied by Bahjat Enterprises to certified industrial standards. Engineered for process control, oil & gas, refineries, and petrochemical applications. PLC (Programmable Logic Controller), A PLC is an industrial computer used to automatically monitor and control machines and industrial processes. It receives signals from sensors, processes them according to a programmed logic, and operates outputs such as motors, valves, pumps, and relays. Main PLC Components - CPU, Power Supply, Digital Input (DI), Digital Output (DO), Analog Input (AI), Analog Output (AO), Communication Module",
     specs: {
       "Product": "PLC",
       "Brand": "Siemens",
@@ -1758,7 +1758,7 @@ export const INSTRUMENTATION_PRODUCTS = [
     category: "instrumentation",
     subCategory: "Pneumatic & Air Supplies",
     image: "/images/products/instrumentation/inst_item_71.png",
-    description: "Industrial-grade Pneumatic Accessories supplied by Bahjat Enterprises under the SMC engineering standard. Engineered for process control, oil & gas, refineries, and petrochemical applications. Pneumatic Accessories are supporting components used with compressed-air systems and pneumatic instruments/actuators for air preparation, connection, control, protection, and distribution",
+    description: "Industrial-grade Pneumatic Accessories supplied by Bahjat Enterprises to certified industrial standards. Engineered for process control, oil & gas, refineries, and petrochemical applications. Pneumatic Accessories are supporting components used with compressed-air systems and pneumatic instruments/actuators for air preparation, connection, control, protection, and distribution",
     specs: {
       "Product": "Pneumatic Accessories",
       "Brand": "SMC",
@@ -1783,7 +1783,7 @@ export const INSTRUMENTATION_PRODUCTS = [
     category: "instrumentation",
     subCategory: "Process Measurement Instruments",
     image: "/images/products/instrumentation/inst_item_72.png",
-    description: "Industrial-grade Pressure & Temperature Accessories supplied by Bahjat Enterprises under the Emerson engineering standard. Engineered for process control, oil & gas, refineries, and petrochemical applications. Pressure & Temperature Accessories are supporting components used for the installation, protection, isolation, connection, and accurate measurement of pressure and temperature instruments",
+    description: "Industrial-grade Pressure & Temperature Accessories supplied by Bahjat Enterprises to certified industrial standards. Engineered for process control, oil & gas, refineries, and petrochemical applications. Pressure & Temperature Accessories are supporting components used for the installation, protection, isolation, connection, and accurate measurement of pressure and temperature instruments",
     specs: {
       "Product": "Pressure & Temperature Accessories",
       "Brand": "Emerson",
@@ -1807,7 +1807,7 @@ export const INSTRUMENTATION_PRODUCTS = [
     category: "instrumentation",
     subCategory: "Analyzers & Calibration",
     image: "/images/products/instrumentation/inst_item_73.png",
-    description: "Industrial-grade Pressure Calibrator supplied by Bahjat Enterprises under the Fluke engineering standard. Engineered for process control, oil & gas, refineries, and petrochemical applications. A Pressure Calibrator is a precision test instrument used to measure, generate, and verify pressure for calibration of pressure gauges, transmitters, switches, sensors, and process instruments, Type, Digital Pressure Calibrator, Handheld Pressure Calibrator, Pressure Calibrator with Pump, Pneumatic Pressure Calibrator L, Hydraulic Pressure Calibrator, Pressure/Vacuum Calibrator",
+    description: "Industrial-grade Pressure Calibrator supplied by Bahjat Enterprises to certified industrial standards. Engineered for process control, oil & gas, refineries, and petrochemical applications. A Pressure Calibrator is a precision test instrument used to measure, generate, and verify pressure for calibration of pressure gauges, transmitters, switches, sensors, and process instruments, Type, Digital Pressure Calibrator, Handheld Pressure Calibrator, Pressure Calibrator with Pump, Pneumatic Pressure Calibrator L, Hydraulic Pressure Calibrator, Pressure/Vacuum Calibrator",
     specs: {
       "Product": "Pressure Calibrator",
       "Brand": "Fluke",
@@ -1834,7 +1834,7 @@ export const INSTRUMENTATION_PRODUCTS = [
     category: "instrumentation",
     subCategory: "Pressure Gauges & Indicators",
     image: "/images/products/instrumentation/inst_item_74.png",
-    description: "Industrial-grade Pressure Gauge supplied by Bahjat Enterprises under the WIKA engineering standard. Engineered for process control, oil & gas, refineries, and petrochemical applications. A Pressure Gauge is a mechanical or digital instrument used to measure and display the pressure of liquids or gases in pipelines, vessels, pumps, compressors, and process equipment",
+    description: "Industrial-grade Pressure Gauge supplied by Bahjat Enterprises to certified industrial standards. Engineered for process control, oil & gas, refineries, and petrochemical applications. A Pressure Gauge is a mechanical or digital instrument used to measure and display the pressure of liquids or gases in pipelines, vessels, pumps, compressors, and process equipment",
     specs: {
       "Product": "Pressure Gauge",
       "Brand": "WIKA",
@@ -1862,7 +1862,7 @@ export const INSTRUMENTATION_PRODUCTS = [
     category: "instrumentation",
     subCategory: "Pressure Transmitters & Switches",
     image: "/images/products/instrumentation/inst_item_75.png",
-    description: "Industrial-grade Pressure Relief Valve supplied by Bahjat Enterprises under the Emerson engineering standard. Engineered for process control, oil & gas, refineries, and petrochemical applications. Pressure Relief Valve (PRV), A Pressure Relief Valve is a safety valve that automatically opens when system pressure exceeds a preset limit, releasing excess pressure and protecting pipes, vessels, pumps, and other equipment from overpressure",
+    description: "Industrial-grade Pressure Relief Valve supplied by Bahjat Enterprises to certified industrial standards. Engineered for process control, oil & gas, refineries, and petrochemical applications. Pressure Relief Valve (PRV), A Pressure Relief Valve is a safety valve that automatically opens when system pressure exceeds a preset limit, releasing excess pressure and protecting pipes, vessels, pumps, and other equipment from overpressure",
     specs: {
       "Product": "Pressure Relief Valve",
       "Brand": "Emerson",
@@ -1888,7 +1888,7 @@ export const INSTRUMENTATION_PRODUCTS = [
     category: "instrumentation",
     subCategory: "Pressure Transmitters & Switches",
     image: "/images/products/instrumentation/inst_item_76.png",
-    description: "Industrial-grade Pressure Transmitter supplied by Bahjat Enterprises under the Rosemount engineering standard. Engineered for process control, oil & gas, refineries, and petrochemical applications. A Pressure Transmitter is an electronic instrument that measures process pressure and converts it into a standardized output signal, commonly 4\u201320 mA, for monitoring and control through PLC, DCS, or SCADA systems",
+    description: "Industrial-grade Pressure Transmitter supplied by Bahjat Enterprises to certified industrial standards. Engineered for process control, oil & gas, refineries, and petrochemical applications. A Pressure Transmitter is an electronic instrument that measures process pressure and converts it into a standardized output signal, commonly 4\u201320 mA, for monitoring and control through PLC, DCS, or SCADA systems",
     specs: {
       "Product": "Pressure Transmitter",
       "Brand": "Rosemount",
@@ -1918,7 +1918,7 @@ export const INSTRUMENTATION_PRODUCTS = [
     category: "instrumentation",
     subCategory: "Instrument Valves & Manifolds",
     image: "/images/products/instrumentation/inst_item_77.png",
-    description: "Industrial-grade Purge Valve supplied by Bahjat Enterprises under the Parker engineering standard. Engineered for process control, oil & gas, refineries, and petrochemical applications. A Purge Valve is a valve used to remove trapped air, gas, liquid, condensate, or process material from a piping or instrumentation system. In instrumentation, it is commonly used for venting, draining, flushing, or purging impulse lines and process connections",
+    description: "Industrial-grade Purge Valve supplied by Bahjat Enterprises to certified industrial standards. Engineered for process control, oil & gas, refineries, and petrochemical applications. A Purge Valve is a valve used to remove trapped air, gas, liquid, condensate, or process material from a piping or instrumentation system. In instrumentation, it is commonly used for venting, draining, flushing, or purging impulse lines and process connections",
     specs: {
       "Product": "Purge Valve",
       "Brand": "Parker",
@@ -1944,7 +1944,7 @@ export const INSTRUMENTATION_PRODUCTS = [
     category: "instrumentation",
     subCategory: "Pneumatic & Air Supplies",
     image: "/images/products/instrumentation/inst_item_78.png",
-    description: "Industrial-grade PNEUMATIC VALVE supplied by Bahjat Enterprises under the SMC engineering standard. Engineered for process control, oil & gas, refineries, and petrochemical applications. A Pneumatic Valve is a valve operated by compressed air to start, stop, divert, or regulate the flow of air, gas, or liquid. It is widely used in industrial automation and process-control systems",
+    description: "Industrial-grade PNEUMATIC VALVE supplied by Bahjat Enterprises to certified industrial standards. Engineered for process control, oil & gas, refineries, and petrochemical applications. A Pneumatic Valve is a valve operated by compressed air to start, stop, divert, or regulate the flow of air, gas, or liquid. It is widely used in industrial automation and process-control systems",
     specs: {
       "Product": "PNEUMATIC VALVE",
       "Brand": "SMC",
@@ -1971,7 +1971,7 @@ export const INSTRUMENTATION_PRODUCTS = [
     category: "instrumentation",
     subCategory: "Pressure Transmitters & Switches",
     image: "/images/products/instrumentation/inst_item_79.png",
-    description: "Industrial-grade PRESSURE TRANSMITTER supplied by Bahjat Enterprises under the Rosemount engineering standard. Engineered for process control, oil & gas, refineries, and petrochemical applications. A Pressure Transmitter is an electronic instrument that measures process pressure and converts it into a standardized signal, typically 4\u201320 mA, for monitoring and control through a PLC, DCS, or SCADA system",
+    description: "Industrial-grade PRESSURE TRANSMITTER supplied by Bahjat Enterprises to certified industrial standards. Engineered for process control, oil & gas, refineries, and petrochemical applications. A Pressure Transmitter is an electronic instrument that measures process pressure and converts it into a standardized signal, typically 4\u201320 mA, for monitoring and control through a PLC, DCS, or SCADA system",
     specs: {
       "Product": "PRESSURE TRANSMITTER",
       "Brand": "Rosemount",
@@ -1998,7 +1998,7 @@ export const INSTRUMENTATION_PRODUCTS = [
     category: "instrumentation",
     subCategory: "Pneumatic & Air Supplies",
     image: "/images/products/instrumentation/inst_item_80.png",
-    description: "Industrial-grade PNEMATIC CYLINDER supplied by Bahjat Enterprises under the SMC engineering standard. Engineered for process control, oil & gas, refineries, and petrochemical applications. A Pneumatic Cylinder is a mechanical actuator that converts compressed-air energy into linear motion. It is used to push, pull, lift, clamp, position, or move machine components",
+    description: "Industrial-grade PNEMATIC CYLINDER supplied by Bahjat Enterprises to certified industrial standards. Engineered for process control, oil & gas, refineries, and petrochemical applications. A Pneumatic Cylinder is a mechanical actuator that converts compressed-air energy into linear motion. It is used to push, pull, lift, clamp, position, or move machine components",
     specs: {
       "Product": "PNEMATIC CYLINDER",
       "Brand": "SMC",
@@ -2027,7 +2027,7 @@ export const INSTRUMENTATION_PRODUCTS = [
     category: "instrumentation",
     subCategory: "Pressure Transmitters & Switches",
     image: "/images/products/instrumentation/inst_item_81.png",
-    description: "Industrial-grade PRESSURE SENSOR supplied by Bahjat Enterprises under the Rosemount engineering standard. Engineered for process control, oil & gas, refineries, and petrochemical applications. A Pressure Sensor is a device that detects pressure and converts it into an electrical signal for measurement, monitoring, or control. It is used in industrial equipment, automation, hydraulic systems, pumps, and process instrumentation",
+    description: "Industrial-grade PRESSURE SENSOR supplied by Bahjat Enterprises to certified industrial standards. Engineered for process control, oil & gas, refineries, and petrochemical applications. A Pressure Sensor is a device that detects pressure and converts it into an electrical signal for measurement, monitoring, or control. It is used in industrial equipment, automation, hydraulic systems, pumps, and process instrumentation",
     specs: {
       "Product": "PRESSURE SENSOR",
       "Brand": "Rosemount",
@@ -2055,7 +2055,7 @@ export const INSTRUMENTATION_PRODUCTS = [
     category: "instrumentation",
     subCategory: "Control Valves & Actuators",
     image: "/images/products/instrumentation/inst_item_82.png",
-    description: "Industrial-grade Quick Exhaust Valve supplied by Bahjat Enterprises under the Emerson engineering standard. Engineered for process control, oil & gas, refineries, and petrochemical applications. Quick Exhaust Valve (QEV), A Quick Exhaust Valve is a pneumatic valve that allows compressed air to exhaust directly from a pneumatic cylinder or actuator near the cylinder, rather than returning through the directional control valve. This increases the speed of cylinder movement., Standard Quick Exhaust Valve",
+    description: "Industrial-grade Quick Exhaust Valve supplied by Bahjat Enterprises to certified industrial standards. Engineered for process control, oil & gas, refineries, and petrochemical applications. Quick Exhaust Valve (QEV), A Quick Exhaust Valve is a pneumatic valve that allows compressed air to exhaust directly from a pneumatic cylinder or actuator near the cylinder, rather than returning through the directional control valve. This increases the speed of cylinder movement., Standard Quick Exhaust Valve",
     specs: {
       "Product": "Quick Exhaust Valve",
       "Brand": "Emerson",
@@ -2080,7 +2080,7 @@ export const INSTRUMENTATION_PRODUCTS = [
     category: "instrumentation",
     subCategory: "Process Pumps & Dosing",
     image: "/images/products/instrumentation/inst_item_83.png",
-    description: "Industrial-grade RO Booster Pump supplied by Bahjat Enterprises under the Danfoss engineering standard. Engineered for process control, oil & gas, refineries, and petrochemical applications. An RO Booster Pump is a pump used in a Reverse Osmosis (RO) system to increase water pressure before the RO membrane. It helps maintain the required membrane pressure and improves RO water production",
+    description: "Industrial-grade RO Booster Pump supplied by Bahjat Enterprises to certified industrial standards. Engineered for process control, oil & gas, refineries, and petrochemical applications. An RO Booster Pump is a pump used in a Reverse Osmosis (RO) system to increase water pressure before the RO membrane. It helps maintain the required membrane pressure and improves RO water production",
     specs: {
       "Product": "RO Booster Pump",
       "Brand": "Danfoss",
@@ -2107,7 +2107,7 @@ export const INSTRUMENTATION_PRODUCTS = [
     category: "instrumentation",
     subCategory: "Instrument Fittings & Tubing",
     image: "/images/products/instrumentation/inst_item_84.png",
-    description: "Industrial-grade Reducing Adapter supplied by Bahjat Enterprises under the Swagelok engineering standard. Engineered for process control, oil & gas, refineries, and petrochemical applications. A Reducing Adapter is a fitting used to connect two components having different connection sizes, such as reducing from a larger tube/pipe size to a smaller threaded or compression connection",
+    description: "Industrial-grade Reducing Adapter supplied by Bahjat Enterprises to certified industrial standards. Engineered for process control, oil & gas, refineries, and petrochemical applications. A Reducing Adapter is a fitting used to connect two components having different connection sizes, such as reducing from a larger tube/pipe size to a smaller threaded or compression connection",
     specs: {
       "Product": "Reducing Adapter",
       "Brand": "Swagelok",
@@ -2136,7 +2136,7 @@ export const INSTRUMENTATION_PRODUCTS = [
     category: "instrumentation",
     subCategory: "Instrument Fittings & Tubing",
     image: "/images/products/instrumentation/inst_item_85.png",
-    description: "Industrial-grade Reducing Union supplied by Bahjat Enterprises under the Swagelok engineering standard. Engineered for process control, oil & gas, refineries, and petrochemical applications. A Reducing Union is a tube/pipe fitting used to connect two different-size tubes or pipes in a straight line, while allowing the connection to be easily disconnected",
+    description: "Industrial-grade Reducing Union supplied by Bahjat Enterprises to certified industrial standards. Engineered for process control, oil & gas, refineries, and petrochemical applications. A Reducing Union is a tube/pipe fitting used to connect two different-size tubes or pipes in a straight line, while allowing the connection to be easily disconnected",
     specs: {
       "Product": "Reducing Union",
       "Brand": "Swagelok",
@@ -2163,7 +2163,7 @@ export const INSTRUMENTATION_PRODUCTS = [
     category: "instrumentation",
     subCategory: "Process Measurement Instruments",
     image: "/images/products/instrumentation/inst_item_86.png",
-    description: "Industrial-grade Relief Valve supplied by Bahjat Enterprises under the Emerson engineering standard. Engineered for process control, oil & gas, refineries, and petrochemical applications. A Relief Valve is an automatic pressure-protection valve that opens when system pressure exceeds a preset value, releasing excess pressure and protecting equipment and piping",
+    description: "Industrial-grade Relief Valve supplied by Bahjat Enterprises to certified industrial standards. Engineered for process control, oil & gas, refineries, and petrochemical applications. A Relief Valve is an automatic pressure-protection valve that opens when system pressure exceeds a preset value, releasing excess pressure and protecting equipment and piping",
     specs: {
       "Product": "Relief Valve",
       "Brand": "Emerson",
@@ -2192,7 +2192,7 @@ export const INSTRUMENTATION_PRODUCTS = [
     category: "instrumentation",
     subCategory: "Flow Meters & Flow Sensors",
     image: "/images/products/instrumentation/inst_item_87.png",
-    description: "Industrial-grade Rotameter supplied by Bahjat Enterprises under the Endress+Hauser (E+H) engineering standard. Engineered for process control, oil & gas, refineries, and petrochemical applications. A Rotameter is a variable-area flow meter used to measure the flow rate of liquids or gases. It has a tapered tube and a float that rises or falls according to the flow",
+    description: "Industrial-grade Rotameter supplied by Bahjat Enterprises to certified industrial standards. Engineered for process control, oil & gas, refineries, and petrochemical applications. A Rotameter is a variable-area flow meter used to measure the flow rate of liquids or gases. It has a tapered tube and a float that rises or falls according to the flow",
     specs: {
       "Product": "Rotameter",
       "Brand": "Endress+Hauser (E+H)",
@@ -2221,7 +2221,7 @@ export const INSTRUMENTATION_PRODUCTS = [
     category: "instrumentation",
     subCategory: "Temperature Instruments & Sensors",
     image: "/images/products/instrumentation/inst_item_88.png",
-    description: "Industrial-grade RTD Sensor supplied by Bahjat Enterprises under the Yokogawa engineering standard. Engineered for process control, oil & gas, refineries, and petrochemical applications. An RTD (Resistance Temperature Detector) Sensor is a temperature sensor that measures temperature by detecting the change in electrical resistance of a metal element, most commonly platinum",
+    description: "Industrial-grade RTD Sensor supplied by Bahjat Enterprises to certified industrial standards. Engineered for process control, oil & gas, refineries, and petrochemical applications. An RTD (Resistance Temperature Detector) Sensor is a temperature sensor that measures temperature by detecting the change in electrical resistance of a metal element, most commonly platinum",
     specs: {
       "Product": "RTD Sensor",
       "Brand": "Yokogawa",
@@ -2250,7 +2250,7 @@ export const INSTRUMENTATION_PRODUCTS = [
     category: "instrumentation",
     subCategory: "Pneumatic & Air Supplies",
     image: "/images/products/instrumentation/inst_item_89.png",
-    description: "Industrial-grade Solenoid Irrigation Valve supplied by Bahjat Enterprises under the SMC engineering standard. Engineered for process control, oil & gas, refineries, and petrochemical applications. A Solenoid Irrigation Valve is an electrically operated automatic valve used to control water flow in irrigation systems. It opens and closes when an electrical signal is received from an irrigation controller or timer",
+    description: "Industrial-grade Solenoid Irrigation Valve supplied by Bahjat Enterprises to certified industrial standards. Engineered for process control, oil & gas, refineries, and petrochemical applications. A Solenoid Irrigation Valve is an electrically operated automatic valve used to control water flow in irrigation systems. It opens and closes when an electrical signal is received from an irrigation controller or timer",
     specs: {
       "Product": "Solenoid Irrigation Valve",
       "Brand": "SMC",
@@ -2273,7 +2273,7 @@ export const INSTRUMENTATION_PRODUCTS = [
     category: "instrumentation",
     subCategory: "Temperature Instruments & Sensors",
     image: "/images/products/instrumentation/inst_item_90.png",
-    description: "Industrial-grade Temperature Controller supplied by Bahjat Enterprises under the Siemens engineering standard. Engineered for process control, oil & gas, refineries, and petrochemical applications. A Temperature Controller is an electronic device that measures temperature from a sensor and automatically controls heating or cooling to maintain a preset temperature",
+    description: "Industrial-grade Temperature Controller supplied by Bahjat Enterprises to certified industrial standards. Engineered for process control, oil & gas, refineries, and petrochemical applications. A Temperature Controller is an electronic device that measures temperature from a sensor and automatically controls heating or cooling to maintain a preset temperature",
     specs: {
       "Product": "Temperature Controller",
       "Brand": "Siemens",
@@ -2305,7 +2305,7 @@ export const INSTRUMENTATION_PRODUCTS = [
     category: "instrumentation",
     subCategory: "Temperature Instruments & Sensors",
     image: "/images/products/instrumentation/inst_item_91.png",
-    description: "Industrial-grade Temperature Indicator supplied by Bahjat Enterprises under the Emerson engineering standard. Engineered for process control, oil & gas, refineries, and petrochemical applications. A Temperature Indicator is an instrument that measures and displays temperature from a sensor such as an RTD or thermocouple. Unlike a temperature controller, its primary function is indication/monitoring rather than automatic control",
+    description: "Industrial-grade Temperature Indicator supplied by Bahjat Enterprises to certified industrial standards. Engineered for process control, oil & gas, refineries, and petrochemical applications. A Temperature Indicator is an instrument that measures and displays temperature from a sensor such as an RTD or thermocouple. Unlike a temperature controller, its primary function is indication/monitoring rather than automatic control",
     specs: {
       "Product": "Temperature Indicator",
       "Brand": "Emerson",
@@ -2330,7 +2330,7 @@ export const INSTRUMENTATION_PRODUCTS = [
     category: "instrumentation",
     subCategory: "Process Measurement Instruments",
     image: "/images/products/instrumentation/inst_item_92.png",
-    description: "Industrial-grade Temperature Instruments supplied by Bahjat Enterprises under the Emerson engineering standard. Engineered for process control, oil & gas, refineries, and petrochemical applications. Temperature Instruments are devices used to measure, indicate, monitor, record, or control temperature in industrial processes, equipment, tanks, pipelines, and HVAC systems",
+    description: "Industrial-grade Temperature Instruments supplied by Bahjat Enterprises to certified industrial standards. Engineered for process control, oil & gas, refineries, and petrochemical applications. Temperature Instruments are devices used to measure, indicate, monitor, record, or control temperature in industrial processes, equipment, tanks, pipelines, and HVAC systems",
     specs: {
       "Product": "Temperature Instruments",
       "Brand": "Emerson",
@@ -2356,7 +2356,7 @@ export const INSTRUMENTATION_PRODUCTS = [
     category: "instrumentation",
     subCategory: "Temperature Instruments & Sensors",
     image: "/images/products/instrumentation/inst_item_93.png",
-    description: "Industrial-grade Temperature Switch supplied by Bahjat Enterprises under the Emerson engineering standard. Engineered for process control, oil & gas, refineries, and petrochemical applications. A Temperature Switch is a device that automatically changes an electrical contact when the temperature reaches a preset setpoint. It is commonly used for alarms, heaters, cooling systems, pumps, and process protection",
+    description: "Industrial-grade Temperature Switch supplied by Bahjat Enterprises to certified industrial standards. Engineered for process control, oil & gas, refineries, and petrochemical applications. A Temperature Switch is a device that automatically changes an electrical contact when the temperature reaches a preset setpoint. It is commonly used for alarms, heaters, cooling systems, pumps, and process protection",
     specs: {
       "Product": "Temperature Switch",
       "Brand": "Emerson",
@@ -2380,7 +2380,7 @@ export const INSTRUMENTATION_PRODUCTS = [
     category: "instrumentation",
     subCategory: "Temperature Instruments & Sensors",
     image: "/images/products/instrumentation/inst_item_94.png",
-    description: "Industrial-grade Temperature Transmitter supplied by Bahjat Enterprises under the Yokogawa engineering standard. Engineered for process control, oil & gas, refineries, and petrochemical applications. A Temperature Transmitter is an electronic instrument that receives a temperature signal from an RTD, thermocouple, or other temperature sensor and converts it into a standardized signal, commonly 4\u201320 mA, for PLC, DCS, or SCADA systems",
+    description: "Industrial-grade Temperature Transmitter supplied by Bahjat Enterprises to certified industrial standards. Engineered for process control, oil & gas, refineries, and petrochemical applications. A Temperature Transmitter is an electronic instrument that receives a temperature signal from an RTD, thermocouple, or other temperature sensor and converts it into a standardized signal, commonly 4\u201320 mA, for PLC, DCS, or SCADA systems",
     specs: {
       "Product": "Temperature Transmitter",
       "Brand": "Yokogawa",
@@ -2409,7 +2409,7 @@ export const INSTRUMENTATION_PRODUCTS = [
     category: "instrumentation",
     subCategory: "Temperature Instruments & Sensors",
     image: "/images/products/instrumentation/inst_item_95.png",
-    description: "Industrial-grade Thermocouple supplied by Bahjat Enterprises under the Yokogawa engineering standard. Engineered for process control, oil & gas, refineries, and petrochemical applications. A Thermocouple is a temperature sensor made from two dissimilar metal wires joined at one end. It generates a small voltage that changes with temperature and is widely used for industrial temperature measurement",
+    description: "Industrial-grade Thermocouple supplied by Bahjat Enterprises to certified industrial standards. Engineered for process control, oil & gas, refineries, and petrochemical applications. A Thermocouple is a temperature sensor made from two dissimilar metal wires joined at one end. It generates a small voltage that changes with temperature and is widely used for industrial temperature measurement",
     specs: {
       "Product": "Thermocouple",
       "Brand": "Yokogawa",
@@ -2442,7 +2442,7 @@ export const INSTRUMENTATION_PRODUCTS = [
     category: "instrumentation",
     subCategory: "Temperature Instruments & Sensors",
     image: "/images/products/instrumentation/inst_item_96.png",
-    description: "Industrial-grade Thermometer supplied by Bahjat Enterprises under the Yokogawa engineering standard. Engineered for process control, oil & gas, refineries, and petrochemical applications. A Thermometer is an instrument used to measure and indicate temperature of liquids, gases, surfaces, or process equipment",
+    description: "Industrial-grade Thermometer supplied by Bahjat Enterprises to certified industrial standards. Engineered for process control, oil & gas, refineries, and petrochemical applications. A Thermometer is an instrument used to measure and indicate temperature of liquids, gases, surfaces, or process equipment",
     specs: {
       "Product": "Thermometer",
       "Brand": "Yokogawa",
@@ -2469,7 +2469,7 @@ export const INSTRUMENTATION_PRODUCTS = [
     category: "instrumentation",
     subCategory: "Temperature Instruments & Sensors",
     image: "/images/products/instrumentation/inst_item_97.png",
-    description: "Industrial-grade Thermowell supplied by Bahjat Enterprises under the Yokogawa engineering standard. Engineered for process control, oil & gas, refineries, and petrochemical applications. A Thermowell is a protective metal tube installed in a process line, tank, or vessel to protect a temperature sensor such as an RTD or thermocouple from pressure, corrosion, flow, vibration, and process fluid.SS304/ SS316/ SS316L, CS, Brass, Monel, Hastelloy, Inconel",
+    description: "Industrial-grade Thermowell supplied by Bahjat Enterprises to certified industrial standards. Engineered for process control, oil & gas, refineries, and petrochemical applications. A Thermowell is a protective metal tube installed in a process line, tank, or vessel to protect a temperature sensor such as an RTD or thermocouple from pressure, corrosion, flow, vibration, and process fluid.SS304/ SS316/ SS316L, CS, Brass, Monel, Hastelloy, Inconel",
     specs: {
       "Product": "Thermowell",
       "Brand": "Yokogawa",
@@ -2496,7 +2496,7 @@ export const INSTRUMENTATION_PRODUCTS = [
     category: "instrumentation",
     subCategory: "Instrument Valves & Manifolds",
     image: "/images/products/instrumentation/inst_item_98.png",
-    description: "Industrial-grade Toggle Valve supplied by Bahjat Enterprises under the Emerson engineering standard. Engineered for process control, oil & gas, refineries, and petrochemical applications. A Toggle Valve is a manually operated valve that uses a toggle/lever mechanism to quickly start, stop, or divert the flow of air, gas, or liquid",
+    description: "Industrial-grade Toggle Valve supplied by Bahjat Enterprises to certified industrial standards. Engineered for process control, oil & gas, refineries, and petrochemical applications. A Toggle Valve is a manually operated valve that uses a toggle/lever mechanism to quickly start, stop, or divert the flow of air, gas, or liquid",
     specs: {
       "Product": "Toggle Valve",
       "Brand": "Emerson",
@@ -2524,7 +2524,7 @@ export const INSTRUMENTATION_PRODUCTS = [
     category: "instrumentation",
     subCategory: "Instrument Fittings & Tubing",
     image: "/images/products/instrumentation/inst_item_99.png",
-    description: "Industrial-grade Tube Nut supplied by Bahjat Enterprises under the Swagelok engineering standard. Engineered for process control, oil & gas, refineries, and petrochemical applications. A Tube Nut is the threaded component of a compression fitting that tightens the ferrule(s) around the tube to provide a strong, leak-tight connection",
+    description: "Industrial-grade Tube Nut supplied by Bahjat Enterprises to certified industrial standards. Engineered for process control, oil & gas, refineries, and petrochemical applications. A Tube Nut is the threaded component of a compression fitting that tightens the ferrule(s) around the tube to provide a strong, leak-tight connection",
     specs: {
       "Product": "Tube Nut",
       "Brand": "Swagelok",
@@ -2549,7 +2549,7 @@ export const INSTRUMENTATION_PRODUCTS = [
     category: "instrumentation",
     subCategory: "Instrument Fittings & Tubing",
     image: "/images/products/instrumentation/inst_item_100.png",
-    description: "Industrial-grade Tube Plug supplied by Bahjat Enterprises under the Swagelok engineering standard. Engineered for process control, oil & gas, refineries, and petrochemical applications. A Tube Plug is a component used to close or seal the end of a tube or an unused tube-fittings port, preventing leakage and contamination.SS304/ SS316/ SS316L, CS, Brass, Monel, Hastelloy, Inconel",
+    description: "Industrial-grade Tube Plug supplied by Bahjat Enterprises to certified industrial standards. Engineered for process control, oil & gas, refineries, and petrochemical applications. A Tube Plug is a component used to close or seal the end of a tube or an unused tube-fittings port, preventing leakage and contamination.SS304/ SS316/ SS316L, CS, Brass, Monel, Hastelloy, Inconel",
     specs: {
       "Product": "Tube Plug",
       "Brand": "Swagelok",
@@ -2573,7 +2573,7 @@ export const INSTRUMENTATION_PRODUCTS = [
     category: "instrumentation",
     subCategory: "Instrument Fittings & Tubing",
     image: "/images/products/instrumentation/inst_item_101.png",
-    description: "Industrial-grade Tube-to-Pipe Adapter supplied by Bahjat Enterprises under the Swagelok engineering standard. Engineered for process control, oil & gas, refineries, and petrochemical applications. A Tube-to-Pipe Adapter is a fitting used to connect instrument tubing to a threaded pipe or equipment connection. It is commonly used in instrumentation, pneumatic, hydraulic, and process systems. Common Types Tube \u00d7 Male Pipe Adapter, Tube \u00d7 Female Pipe Adapter",
+    description: "Industrial-grade Tube-to-Pipe Adapter supplied by Bahjat Enterprises to certified industrial standards. Engineered for process control, oil & gas, refineries, and petrochemical applications. A Tube-to-Pipe Adapter is a fitting used to connect instrument tubing to a threaded pipe or equipment connection. It is commonly used in instrumentation, pneumatic, hydraulic, and process systems. Common Types Tube \u00d7 Male Pipe Adapter, Tube \u00d7 Female Pipe Adapter",
     specs: {
       "Product": "Tube-to-Pipe Adapter",
       "Brand": "Swagelok",
@@ -2600,7 +2600,7 @@ export const INSTRUMENTATION_PRODUCTS = [
     category: "instrumentation",
     subCategory: "Temperature Instruments & Sensors",
     image: "/images/products/instrumentation/inst_item_102.png",
-    description: "Industrial-grade TEMPERATURE SENSORS supplied by Bahjat Enterprises under the Yokogawa engineering standard. Engineered for process control, oil & gas, refineries, and petrochemical applications. Temperature Sensors are devices used to detect and measure temperature and provide a signal for indication, monitoring, control, or recording",
+    description: "Industrial-grade TEMPERATURE SENSORS supplied by Bahjat Enterprises to certified industrial standards. Engineered for process control, oil & gas, refineries, and petrochemical applications. Temperature Sensors are devices used to detect and measure temperature and provide a signal for indication, monitoring, control, or recording",
     specs: {
       "Product": "TEMPERATURE SENSORS",
       "Brand": "Yokogawa",
@@ -2627,7 +2627,7 @@ export const INSTRUMENTATION_PRODUCTS = [
     category: "instrumentation",
     subCategory: "Controllers, PLCs & Automation",
     image: "/images/products/instrumentation/inst_item_103.png",
-    description: "Industrial-grade TRANSDUCERS supplied by Bahjat Enterprises under the Siemens engineering standard. Engineered for process control, oil & gas, refineries, and petrochemical applications. A Transducer is a device that converts a physical quantity such as pressure, temperature, flow, level, force, or displacement into an electrical signal that can be measured, displayed, or used for control",
+    description: "Industrial-grade TRANSDUCERS supplied by Bahjat Enterprises to certified industrial standards. Engineered for process control, oil & gas, refineries, and petrochemical applications. A Transducer is a device that converts a physical quantity such as pressure, temperature, flow, level, force, or displacement into an electrical signal that can be measured, displayed, or used for control",
     specs: {
       "Product": "TRANSDUCERS",
       "Brand": "Siemens",
@@ -2653,7 +2653,7 @@ export const INSTRUMENTATION_PRODUCTS = [
     category: "instrumentation",
     subCategory: "Controllers, PLCs & Automation",
     image: "/images/products/instrumentation/inst_item_104.png",
-    description: "Industrial-grade TRANSMITTERS & CONTROLLERS supplied by Bahjat Enterprises under the Siemens engineering standard. Engineered for process control, oil & gas, refineries, and petrochemical applications. TRANSMITTERS- A Transmitter is an industrial instrumentation device that measures a physical/process variable and converts it into a standardized signal, commonly 4\u201320 mA, for monitoring and control, Pressure Transmitter (PT), Differential Pressure Transmitter (DPT), Temperature Transmitter (TT), Level Transmitter (LT), Flow Transmitter (FT), Humidity Transmitter, Conductivity Transmitter, pH Transmitter, Vibration Transmitter",
+    description: "Industrial-grade TRANSMITTERS & CONTROLLERS supplied by Bahjat Enterprises to certified industrial standards. Engineered for process control, oil & gas, refineries, and petrochemical applications. TRANSMITTERS- A Transmitter is an industrial instrumentation device that measures a physical/process variable and converts it into a standardized signal, commonly 4\u201320 mA, for monitoring and control, Pressure Transmitter (PT), Differential Pressure Transmitter (DPT), Temperature Transmitter (TT), Level Transmitter (LT), Flow Transmitter (FT), Humidity Transmitter, Conductivity Transmitter, pH Transmitter, Vibration Transmitter",
     specs: {
       "Product": "TRANSMITTERS & CONTROLLERS",
       "Brand": "Siemens",
@@ -2665,6 +2665,2064 @@ export const INSTRUMENTATION_PRODUCTS = [
     },
     rawSpecs: "TRANSMITTERS- A Transmitter is an industrial instrumentation device that measures a physical/process variable and converts it into a standardized signal, commonly 4\u201320 mA, for monitoring and control, Pressure Transmitter (PT), Differential Pressure Transmitter (DPT), Temperature Transmitter (TT), Level Transmitter (LT), Flow Transmitter (FT), Humidity Transmitter, Conductivity Transmitter, pH Transmitter, Vibration Transmitter, Typical outputs: 4\u201320 mA, HART, Modbus, pulse/frequency, or digital. communication. CONTROLLERS A Controller receives a process measurement, compares it with a desired set point (SP), and sends a control output to maintain the process at the required value, Type- Temperature Controller, Pressure Controller, Flow Controller, Level Controller, PID Controller, Programmable Logic Controller (PLC), Process Controller, Digital Controller, On/Off Controller, Transmitter vs Controller, Example: Pressure Transmitter \u2192 4\u201320 mA signal \u2192 PID Controller \u2192 Control Valve \u2192 Pressure adjustment",
     tags: ["adjustment", "automation", "commonly", "communication", "compares", "conductivity", "control", "controller", "controllers", "converts", "desired", "device", "differential", "digital", "dpt", "example", "flow", "frequency", "hart", "humidity", "industrial", "instrumentation", "into", "level", "logic", "maintain", "measurement", "measures", "modbus", "monitoring", "off", "output", "outputs", "physical", "pid", "plc", "plcs", "point", "pressure", "process", "programmable", "pulse", "receives", "required", "sends", "set", "siemens", "signal", "standardized", "temperature", "that", "transmitter", "transmitters", "typical", "value", "valve", "variable", "vibration"]
+  }
+,
+  {
+    id: "inst-105-analytical-instruments",
+    sno: 105,
+    name: "Analytical Instruments",
+    brand: "ABB",
+    category: "instrumentation",
+    subCategory: "Analyzers & Calibration",
+    image: null,
+    description: "Industrial-grade Analytical Instruments supplied by Bahjat Enterprises to certified industrial standards. Engineered for process control, oil & gas, refineries, petrochemical, and instrumentation applications. Process Analytical Instrumentation System constructed from SS316 / Weatherproof Cast Aluminium Enclosure. Designed for reliable continuous operation, safety compliance, and maximum measurement accuracy.",
+    specs: {
+          "Product": "Analytical Instruments",
+          "Brand": "ABB",
+          "Category": "Analyzers & Calibration",
+          "Industrial Standard": "API / ASME / ISA Certified / ATEX Ex-proof",
+          "Instrument Types": "Spectrometers, Chromatographs, Photometers, Electrochemical Analyzers",
+          "Process Application": "Continuous emission monitoring, water chemistry analysis, gas purity detection",
+          "Signal Output": "4-20 mA HART, Modbus RTU / TCP, Fieldbus",
+          "Enclosure Rating": "NEMA 4X / IP66 Hazardous Area Certified"
+    },
+    rawSpecs: "Analytical Instruments - Process Analytical Instrumentation System, Brand: ABB, Material: SS316 / Weatherproof Cast Aluminium Enclosure, Industrial Standard: API / ASME / ISA Certified / ATEX Ex-proof, Instrument Types: Spectrometers, Chromatographs, Photometers, Electrochemical Analyzers, Process Application: Continuous emission monitoring, water chemistry analysis, gas purity detection, Signal Output: 4-20 mA HART, Modbus RTU / TCP, Fieldbus, Enclosure Rating: NEMA 4X / IP66 Hazardous Area Certified",
+    tags: ["abb", "accuracy", "aluminium", "analysis", "analytical", "analyzers", "and", "api", "application", "applications", "area", "asme", "atex", "bahjat", "brand", "calibration", "cast", "category", "certified", "chemistry", "chromatographs", "compliance", "constructed", "continuous", "control", "designed", "detection", "electrochemical", "emission", "enclosure", "engineered", "engineering", "enterprises", "fieldbus", "for", "from", "gas", "grade", "hart", "hazardous", "industrial", "instrument", "instrumentation", "instruments", "ip66", "isa", "maximum", "measurement", "modbus", "monitoring", "nema", "oil", "operation", "output", "petrochemical", "photometers", "process", "product", "proof", "purity", "rating", "refineries", "reliable", "rtu", "safety", "signal", "spectrometers", "ss316", "standard", "supplied", "system", "tcp", "the", "types", "under", "water", "weatherproof"]
+  },
+  {
+    id: "inst-106-automotive-diagnostic-tools",
+    sno: 106,
+    name: "Automotive Diagnostic Tools",
+    brand: "Fluke",
+    category: "instrumentation",
+    subCategory: "Process Measurement Instruments",
+    image: null,
+    description: "Industrial-grade Automotive Diagnostic Tools supplied by Bahjat Enterprises to certified industrial standards. Engineered for process control, oil & gas, refineries, petrochemical, and instrumentation applications. Digital Diagnostic & Automotive Multimeter / ScopeMeter constructed from High-Impact Rugged Thermoplastic with Rubber Overmold. Designed for reliable continuous operation, safety compliance, and maximum measurement accuracy.",
+    specs: {
+          "Product": "Automotive Diagnostic Tools",
+          "Brand": "Fluke",
+          "Category": "Process Measurement Instruments",
+          "Industrial Standard": "CAT III 1000V / CAT IV 600V Safety Standard",
+          "Functions": "RPM, Dwell, Duty Cycle, Pulse Width, Temperature, Voltage/Current Logging",
+          "Display": "High-Resolution Backlit Dual Digital LCD Display",
+          "Applications": "Automotive fleet diagnostics, engine sensor troubleshooting, vehicle harness testing"
+    },
+    rawSpecs: "Automotive Diagnostic Tools - Digital Diagnostic & Automotive Multimeter / ScopeMeter, Brand: Fluke, Material: High-Impact Rugged Thermoplastic with Rubber Overmold, Industrial Standard: CAT III 1000V / CAT IV 600V Safety Standard, Functions: RPM, Dwell, Duty Cycle, Pulse Width, Temperature, Voltage/Current Logging, Display: High-Resolution Backlit Dual Digital LCD Display, Applications: Automotive fleet diagnostics, engine sensor troubleshooting, vehicle harness testing",
+    tags: ["1000v", "600v", "accuracy", "and", "applications", "automotive", "backlit", "bahjat", "brand", "cat", "category", "compliance", "constructed", "continuous", "control", "current", "cycle", "designed", "diagnostic", "diagnostics", "digital", "display", "dual", "duty", "dwell", "engine", "engineered", "engineering", "enterprises", "fleet", "fluke", "for", "from", "functions", "gas", "grade", "harness", "high", "iii", "impact", "industrial", "instrumentation", "instruments", "lcd", "logging", "maximum", "measurement", "multimeter", "oil", "operation", "overmold", "petrochemical", "process", "product", "pulse", "refineries", "reliable", "resolution", "rpm", "rubber", "rugged", "safety", "scopemeter", "sensor", "standard", "supplied", "temperature", "testing", "the", "thermoplastic", "tools", "troubleshooting", "under", "vehicle", "voltage", "width", "with"]
+  },
+  {
+    id: "inst-107-calibration-connector",
+    sno: 107,
+    name: "Calibration Connector",
+    brand: "Fluke",
+    category: "instrumentation",
+    subCategory: "Analyzers & Calibration",
+    image: null,
+    description: "Industrial-grade Calibration Connector supplied by Bahjat Enterprises to certified industrial standards. Engineered for process control, oil & gas, refineries, petrochemical, and instrumentation applications. Quick-Connect Calibration Adaptor / Test Point Connector constructed from 316 Stainless Steel / Nickel-Plated Brass. Designed for reliable continuous operation, safety compliance, and maximum measurement accuracy.",
+    specs: {
+          "Product": "Calibration Connector",
+          "Brand": "Fluke",
+          "Category": "Analyzers & Calibration",
+          "Industrial Standard": "ISA / ASME B1.20.1 NPT & ISO 228/1 G Thread",
+          "Connection": "1/4\" NPT Male to Quick-Fit Calibrator Hose / 1/8\" NPT / M20x1.5",
+          "Max Working Pressure": "10,000 PSI (700 bar)",
+          "Application": "Test bench calibration, pressure transmitter field servicing, loop calibrator connection"
+    },
+    rawSpecs: "Calibration Connector - Quick-Connect Calibration Adaptor / Test Point Connector, Brand: Fluke, Material: 316 Stainless Steel / Nickel-Plated Brass, Industrial Standard: ISA / ASME B1.20.1 NPT & ISO 228/1 G Thread, Connection: 1/4\" NPT Male to Quick-Fit Calibrator Hose / 1/8\" NPT / M20x1.5, Max Working Pressure: 10,000 PSI (700 bar), Application: Test bench calibration, pressure transmitter field servicing, loop calibrator connection",
+    tags: ["accuracy", "adaptor", "analyzers", "and", "application", "applications", "asme", "bahjat", "bar", "bench", "brand", "brass", "calibration", "calibrator", "category", "compliance", "connect", "connection", "connector", "constructed", "continuous", "control", "designed", "engineered", "engineering", "enterprises", "field", "fit", "fluke", "for", "from", "gas", "grade", "hose", "industrial", "instrumentation", "isa", "iso", "loop", "m20x1", "male", "max", "maximum", "measurement", "nickel", "npt", "oil", "operation", "petrochemical", "plated", "point", "pressure", "process", "product", "psi", "quick", "refineries", "reliable", "safety", "servicing", "stainless", "standard", "steel", "supplied", "test", "the", "thread", "transmitter", "under", "working"]
+  },
+  {
+    id: "inst-108-calibration-equipment",
+    sno: 108,
+    name: "Calibration Equipment",
+    brand: "Fluke",
+    category: "instrumentation",
+    subCategory: "Analyzers & Calibration",
+    image: null,
+    description: "Industrial-grade Calibration Equipment supplied by Bahjat Enterprises to certified industrial standards. Engineered for process control, oil & gas, refineries, petrochemical, and instrumentation applications. Precision Multi-Function Field Calibrator constructed from Industrial Ruggedized ABS Housing. Designed for reliable continuous operation, safety compliance, and maximum measurement accuracy.",
+    specs: {
+          "Product": "Calibration Equipment",
+          "Brand": "Fluke",
+          "Category": "Analyzers & Calibration",
+          "Industrial Standard": "ISO/IEC 17025 Compliant / NIST Traceable",
+          "Source & Measure": "Voltage (0-30V), Current (0-24mA), RTD (Pt100/1000), Thermocouple (J, K, T, E, R, S, B), Frequency",
+          "Accuracy": "0.01% of Reading Precision",
+          "Applications": "Plant instrument loop testing, control valve stroke calibration, RTD/TC sensor verification"
+    },
+    rawSpecs: "Calibration Equipment - Precision Multi-Function Field Calibrator, Brand: Fluke, Material: Industrial Ruggedized ABS Housing, Industrial Standard: ISO/IEC 17025 Compliant / NIST Traceable, Source & Measure: Voltage (0-30V), Current (0-24mA), RTD (Pt100/1000), Thermocouple (J, K, T, E, R, S, B), Frequency, Accuracy: 0.01% of Reading Precision, Applications: Plant instrument loop testing, control valve stroke calibration, RTD/TC sensor verification",
+    tags: ["24ma", "30v", "abs", "accuracy", "analyzers", "and", "applications", "bahjat", "brand", "calibration", "calibrator", "category", "compliance", "compliant", "constructed", "continuous", "control", "current", "designed", "engineered", "engineering", "enterprises", "equipment", "field", "fluke", "for", "frequency", "from", "function", "gas", "grade", "housing", "iec", "industrial", "instrument", "instrumentation", "iso", "loop", "maximum", "measure", "measurement", "multi", "nist", "oil", "operation", "petrochemical", "plant", "precision", "process", "product", "pt100", "reading", "refineries", "reliable", "rtd", "ruggedized", "safety", "sensor", "source", "standard", "stroke", "supplied", "testing", "the", "thermocouple", "traceable", "under", "valve", "verification", "voltage"]
+  },
+  {
+    id: "inst-109-chlorine-analyzer",
+    sno: 109,
+    name: "Chlorine Analyzer",
+    brand: "Yokogawa",
+    category: "instrumentation",
+    subCategory: "Analyzers & Calibration",
+    image: null,
+    description: "Industrial-grade Chlorine Analyzer supplied by Bahjat Enterprises to certified industrial standards. Engineered for process control, oil & gas, refineries, petrochemical, and instrumentation applications. Amperometric / Polarographic Free & Total Chlorine Analyzer constructed from Corrosion-Resistant PVDF / SS316 Flow Cell. Designed for reliable continuous operation, safety compliance, and maximum measurement accuracy.",
+    specs: {
+          "Product": "Chlorine Analyzer",
+          "Brand": "Yokogawa",
+          "Category": "Analyzers & Calibration",
+          "Industrial Standard": "EPA 334.0 Compliant / CE / ISO 9001",
+          "Measurement Range": "0.00 to 5.00 mg/L (ppm) / 0 to 20.00 ppm",
+          "Output": "Dual Isolated 4-20 mA with HART & Alarm Relays",
+          "Application": "Drinking water chlorination, cooling tower biocides, wastewater disinfection"
+    },
+    rawSpecs: "Chlorine Analyzer - Amperometric / Polarographic Free & Total Chlorine Analyzer, Brand: Yokogawa, Material: Corrosion-Resistant PVDF / SS316 Flow Cell, Industrial Standard: EPA 334.0 Compliant / CE / ISO 9001, Measurement Range: 0.00 to 5.00 mg/L (ppm) / 0 to 20.00 ppm, Output: Dual Isolated 4-20 mA with HART & Alarm Relays, Application: Drinking water chlorination, cooling tower biocides, wastewater disinfection",
+    tags: ["accuracy", "alarm", "amperometric", "analyzer", "analyzers", "and", "application", "applications", "bahjat", "biocides", "brand", "calibration", "category", "cell", "chlorination", "chlorine", "compliance", "compliant", "constructed", "continuous", "control", "cooling", "corrosion", "designed", "disinfection", "drinking", "dual", "engineered", "engineering", "enterprises", "epa", "flow", "for", "free", "from", "gas", "grade", "hart", "industrial", "instrumentation", "iso", "isolated", "maximum", "measurement", "oil", "operation", "output", "petrochemical", "polarographic", "ppm", "process", "product", "pvdf", "range", "refineries", "relays", "reliable", "resistant", "safety", "ss316", "standard", "supplied", "the", "total", "tower", "under", "wastewater", "water", "with", "yokogawa"]
+  },
+  {
+    id: "inst-110-combustion-analyzers",
+    sno: 110,
+    name: "Combustion Analyzers",
+    brand: "Yokogawa",
+    category: "instrumentation",
+    subCategory: "Analyzers & Calibration",
+    image: null,
+    description: "Industrial-grade Combustion Analyzers supplied by Bahjat Enterprises to certified industrial standards. Engineered for process control, oil & gas, refineries, petrochemical, and instrumentation applications. Zirconia / In-Situ Flue Gas Combustion Analyzer constructed from Cast Aluminium Electronics Head with Inconel / Alumina Probe. Designed for reliable continuous operation, safety compliance, and maximum measurement accuracy.",
+    specs: {
+          "Product": "Combustion Analyzers",
+          "Brand": "Yokogawa",
+          "Category": "Analyzers & Calibration",
+          "Industrial Standard": "NAMUR NE43, ATEX / IECEx Zone 1/2 Ex-proof",
+          "Gas Parameters": "O2, CO, CO2, NOx, Flue Gas Temperature, Combustion Efficiency",
+          "Probe Lengths": "0.4m, 0.7m, 1.0m, 1.5m, 2.0m High-Temp Resistant",
+          "Application": "Industrial boilers, process heaters, ethylene cracking furnaces, incinerators"
+    },
+    rawSpecs: "Combustion Analyzers - Zirconia / In-Situ Flue Gas Combustion Analyzer, Brand: Yokogawa, Material: Cast Aluminium Electronics Head with Inconel / Alumina Probe, Industrial Standard: NAMUR NE43, ATEX / IECEx Zone 1/2 Ex-proof, Gas Parameters: O2, CO, CO2, NOx, Flue Gas Temperature, Combustion Efficiency, Probe Lengths: 0.4m, 0.7m, 1.0m, 1.5m, 2.0m High-Temp Resistant, Application: Industrial boilers, process heaters, ethylene cracking furnaces, incinerators",
+    tags: ["accuracy", "alumina", "aluminium", "analyzer", "analyzers", "and", "application", "applications", "atex", "bahjat", "boilers", "brand", "calibration", "cast", "category", "co2", "combustion", "compliance", "constructed", "continuous", "control", "cracking", "designed", "efficiency", "electronics", "engineered", "engineering", "enterprises", "ethylene", "flue", "for", "from", "furnaces", "gas", "grade", "head", "heaters", "high", "iecex", "incinerators", "inconel", "industrial", "instrumentation", "lengths", "maximum", "measurement", "namur", "ne43", "nox", "oil", "operation", "parameters", "petrochemical", "probe", "process", "product", "proof", "refineries", "reliable", "resistant", "safety", "situ", "standard", "supplied", "temp", "temperature", "the", "under", "with", "yokogawa", "zirconia", "zone"]
+  },
+  {
+    id: "inst-111-compression-fittings",
+    sno: 111,
+    name: "Compression Fittings",
+    brand: "Swagelok",
+    category: "instrumentation",
+    subCategory: "Instrument Fittings & Tubing",
+    image: null,
+    description: "Industrial-grade Compression Fittings supplied by Bahjat Enterprises to certified industrial standards. Engineered for process control, oil & gas, refineries, petrochemical, and instrumentation applications. Precision Double Ferrule Compression Tube Fitting constructed from ASTM A276 / A479 Stainless Steel 316 / Monel 400 / Hastelloy C-276. Designed for reliable continuous operation, safety compliance, and maximum measurement accuracy.",
+    specs: {
+          "Product": "Compression Fittings",
+          "Brand": "Swagelok",
+          "Category": "Instrument Fittings & Tubing",
+          "Industrial Standard": "ASME B31.3 / MSS-SP-99",
+          "Tube OD Sizes": "1/16\" to 2\" (2 mm to 50 mm)",
+          "Pressure Rating": "Up to 15,000 PSIG (1034 bar) cold working pressure",
+          "Connection": "Tube OD x NPT / BSPT / ISO Parallel / Weld Ends"
+    },
+    rawSpecs: "Compression Fittings - Precision Double Ferrule Compression Tube Fitting, Brand: Swagelok, Material: ASTM A276 / A479 Stainless Steel 316 / Monel 400 / Hastelloy C-276, Industrial Standard: ASME B31.3 / MSS-SP-99, Tube OD Sizes: 1/16\" to 2\" (2 mm to 50 mm), Pressure Rating: Up to 15,000 PSIG (1034 bar) cold working pressure, Connection: Tube OD x NPT / BSPT / ISO Parallel / Weld Ends",
+    tags: ["a276", "a479", "accuracy", "and", "applications", "asme", "astm", "b31", "bahjat", "bar", "brand", "bspt", "category", "cold", "compliance", "compression", "connection", "constructed", "continuous", "control", "designed", "double", "ends", "engineered", "engineering", "enterprises", "ferrule", "fitting", "fittings", "for", "from", "gas", "grade", "hastelloy", "industrial", "instrument", "instrumentation", "iso", "maximum", "measurement", "monel", "mss", "npt", "oil", "operation", "parallel", "petrochemical", "precision", "pressure", "process", "product", "psig", "rating", "refineries", "reliable", "safety", "sizes", "stainless", "standard", "steel", "supplied", "swagelok", "the", "tube", "tubing", "under", "weld", "working"]
+  },
+  {
+    id: "inst-112-condensate-pot",
+    sno: 112,
+    name: "Condensate Pot",
+    brand: "Parker",
+    category: "instrumentation",
+    subCategory: "Instrument Valves & Manifolds",
+    image: null,
+    description: "Industrial-grade Condensate Pot supplied by Bahjat Enterprises to certified industrial standards. Engineered for process control, oil & gas, refineries, petrochemical, and instrumentation applications. Steam Condensate Seal Pot / Chamber constructed from Seamless Carbon Steel A106 Gr. B / SS304 / SS316 / Alloy Steel. Designed for reliable continuous operation, safety compliance, and maximum measurement accuracy.",
+    specs: {
+          "Product": "Condensate Pot",
+          "Brand": "Parker",
+          "Category": "Instrument Valves & Manifolds",
+          "Industrial Standard": "ASME B16.9 / IBR Certified / ASME Sec VIII",
+          "Chamber Size": "2\", 3\", 4\" Pipe Schedule 40/80/160",
+          "Connections": "1/2\" NPT female, Socket Weld, or Flanged (Class 150 - 2500)",
+          "Application": "Protection of DP transmitters on steam line flow measurement"
+    },
+    rawSpecs: "Condensate Pot - Steam Condensate Seal Pot / Chamber, Brand: Parker, Material: Seamless Carbon Steel A106 Gr. B / SS304 / SS316 / Alloy Steel, Industrial Standard: ASME B16.9 / IBR Certified / ASME Sec VIII, Chamber Size: 2\", 3\", 4\" Pipe Schedule 40/80/160, Connections: 1/2\" NPT female, Socket Weld, or Flanged (Class 150 - 2500), Application: Protection of DP transmitters on steam line flow measurement",
+    tags: ["a106", "accuracy", "alloy", "and", "application", "applications", "asme", "b16", "bahjat", "brand", "carbon", "category", "certified", "chamber", "class", "compliance", "condensate", "connections", "constructed", "continuous", "control", "designed", "engineered", "engineering", "enterprises", "female", "flanged", "flow", "for", "from", "gas", "grade", "ibr", "industrial", "instrument", "instrumentation", "line", "manifolds", "maximum", "measurement", "npt", "oil", "operation", "parker", "petrochemical", "pipe", "pot", "process", "product", "protection", "refineries", "reliable", "safety", "schedule", "seal", "seamless", "sec", "size", "socket", "ss304", "ss316", "standard", "steam", "steel", "supplied", "the", "transmitters", "under", "valves", "viii", "weld"]
+  },
+  {
+    id: "inst-113-conductivity-meter",
+    sno: 113,
+    name: "Conductivity Meter",
+    brand: "Endress+Hauser (E+H)",
+    category: "instrumentation",
+    subCategory: "Analyzers & Calibration",
+    image: null,
+    description: "Industrial-grade Conductivity Meter supplied by Bahjat Enterprises to certified industrial standards. Engineered for process control, oil & gas, refineries, petrochemical, and instrumentation applications. Toroidal / Conductive Process Conductivity Transmitter & Sensor constructed from PEEK / PVDF / SS316L Wetted Sensor with PBT Housing. Designed for reliable continuous operation, safety compliance, and maximum measurement accuracy.",
+    specs: {
+          "Product": "Conductivity Meter",
+          "Brand": "Endress+Hauser (E+H)",
+          "Category": "Analyzers & Calibration",
+          "Industrial Standard": "IP67 / NEMA 4X / EHEDG / FDA 3-A Sanitary",
+          "Measurement Range": "0.04 uS/cm to 2000 mS/cm Auto-Ranging",
+          "Output": "4-20 mA HART, Profibus DP, Modbus RS485",
+          "Application": "Water demineralization, CIP cleaning cycle tracking, chemical phase separation"
+    },
+    rawSpecs: "Conductivity Meter - Toroidal / Conductive Process Conductivity Transmitter & Sensor, Brand: Endress+Hauser (E+H), Material: PEEK / PVDF / SS316L Wetted Sensor with PBT Housing, Industrial Standard: IP67 / NEMA 4X / EHEDG / FDA 3-A Sanitary, Measurement Range: 0.04 uS/cm to 2000 mS/cm Auto-Ranging, Output: 4-20 mA HART, Profibus DP, Modbus RS485, Application: Water demineralization, CIP cleaning cycle tracking, chemical phase separation",
+    tags: ["accuracy", "analyzers", "and", "application", "applications", "auto", "bahjat", "brand", "calibration", "category", "chemical", "cip", "cleaning", "compliance", "conductive", "conductivity", "constructed", "continuous", "control", "cycle", "demineralization", "designed", "ehedg", "endress", "engineered", "engineering", "enterprises", "fda", "for", "from", "gas", "grade", "hart", "hauser", "housing", "industrial", "instrumentation", "ip67", "maximum", "measurement", "meter", "modbus", "nema", "oil", "operation", "output", "pbt", "peek", "petrochemical", "phase", "process", "product", "profibus", "pvdf", "range", "ranging", "refineries", "reliable", "rs485", "safety", "sanitary", "sensor", "separation", "ss316l", "standard", "supplied", "the", "toroidal", "tracking", "transmitter", "under", "water", "wetted", "with"]
+  },
+  {
+    id: "inst-114-control-equipment",
+    sno: 114,
+    name: "Control Equipment",
+    brand: "Siemens",
+    category: "instrumentation",
+    subCategory: "Controllers, PLCs & Automation",
+    image: null,
+    description: "Industrial-grade Control Equipment supplied by Bahjat Enterprises to certified industrial standards. Engineered for process control, oil & gas, refineries, petrochemical, and instrumentation applications. Distributed Industrial Process Controller & Automation Module constructed from Industrial Polycarbonate DIN-Rail Mount Housing. Designed for reliable continuous operation, safety compliance, and maximum measurement accuracy.",
+    specs: {
+          "Product": "Control Equipment",
+          "Brand": "Siemens",
+          "Category": "Controllers, PLCs & Automation",
+          "Industrial Standard": "IEC 61131-2 / CE / UL 508 / SIL 2/3 Capable",
+          "I/O Channels": "Digital I/O, 4-20mA Analog Inputs/Outputs, RTD/TC Inputs",
+          "Communication": "Profinet, Profibus, Modbus TCP/IP, Ethernet/IP",
+          "Application": "Refinery DCS loops, chemical dosing automation, boiler burner control"
+    },
+    rawSpecs: "Control Equipment - Distributed Industrial Process Controller & Automation Module, Brand: Siemens, Material: Industrial Polycarbonate DIN-Rail Mount Housing, Industrial Standard: IEC 61131-2 / CE / UL 508 / SIL 2/3 Capable, I/O Channels: Digital I/O, 4-20mA Analog Inputs/Outputs, RTD/TC Inputs, Communication: Profinet, Profibus, Modbus TCP/IP, Ethernet/IP, Application: Refinery DCS loops, chemical dosing automation, boiler burner control",
+    tags: ["20ma", "accuracy", "analog", "and", "application", "applications", "automation", "bahjat", "boiler", "brand", "burner", "capable", "category", "channels", "chemical", "communication", "compliance", "constructed", "continuous", "control", "controller", "controllers", "dcs", "designed", "digital", "din", "distributed", "dosing", "engineered", "engineering", "enterprises", "equipment", "ethernet", "for", "from", "gas", "grade", "housing", "iec", "industrial", "inputs", "instrumentation", "loops", "maximum", "measurement", "modbus", "module", "mount", "oil", "operation", "outputs", "petrochemical", "plcs", "polycarbonate", "process", "product", "profibus", "profinet", "rail", "refineries", "refinery", "reliable", "rtd", "safety", "siemens", "sil", "standard", "supplied", "tcp", "the", "under"]
+  },
+  {
+    id: "inst-115-dead-weight-tester",
+    sno: 115,
+    name: "Dead Weight Tester",
+    brand: "WIKA",
+    category: "instrumentation",
+    subCategory: "Analyzers & Calibration",
+    image: null,
+    description: "Industrial-grade Dead Weight Tester supplied by Bahjat Enterprises to certified industrial standards. Engineered for process control, oil & gas, refineries, petrochemical, and instrumentation applications. Hydraulic Primary Pressure Standard Deadweight Tester constructed from Tungsten Carbide Piston-Cylinder & Non-Magnetic Stainless Steel Weights. Designed for reliable continuous operation, safety compliance, and maximum measurement accuracy.",
+    specs: {
+          "Product": "Dead Weight Tester",
+          "Brand": "WIKA",
+          "Category": "Analyzers & Calibration",
+          "Industrial Standard": "DKD / DAkkS Accredited / NIST Calibration Standard",
+          "Pressure Ranges": "1 to 1400 bar (15 to 20,000 psi)",
+          "Accuracy": "0.015% to 0.008% of Measured Reading",
+          "Application": "Calibration of master test gauges, pressure transducers, and electronic transmitters"
+    },
+    rawSpecs: "Dead Weight Tester - Hydraulic Primary Pressure Standard Deadweight Tester, Brand: WIKA, Material: Tungsten Carbide Piston-Cylinder & Non-Magnetic Stainless Steel Weights, Industrial Standard: DKD / DAkkS Accredited / NIST Calibration Standard, Pressure Ranges: 1 to 1400 bar (15 to 20,000 psi), Accuracy: 0.015% to 0.008% of Measured Reading, Application: Calibration of master test gauges, pressure transducers, and electronic transmitters",
+    tags: ["accredited", "accuracy", "analyzers", "and", "application", "applications", "bahjat", "bar", "brand", "calibration", "carbide", "category", "compliance", "constructed", "continuous", "control", "cylinder", "dakks", "dead", "deadweight", "designed", "dkd", "electronic", "engineered", "engineering", "enterprises", "for", "from", "gas", "gauges", "grade", "hydraulic", "industrial", "instrumentation", "magnetic", "master", "maximum", "measured", "measurement", "nist", "non", "oil", "operation", "petrochemical", "piston", "pressure", "primary", "process", "product", "psi", "ranges", "reading", "refineries", "reliable", "safety", "stainless", "standard", "steel", "supplied", "test", "tester", "the", "transducers", "transmitters", "tungsten", "under", "weight", "weights", "wika"]
+  },
+  {
+    id: "inst-116-decade-resistance-box",
+    sno: 116,
+    name: "Decade Resistance Box",
+    brand: "Fluke",
+    category: "instrumentation",
+    subCategory: "Analyzers & Calibration",
+    image: null,
+    description: "Industrial-grade Decade Resistance Box supplied by Bahjat Enterprises to certified industrial standards. Engineered for process control, oil & gas, refineries, petrochemical, and instrumentation applications. High-Precision Laboratory & Field Decade Resistance Standard constructed from Metal Shielded Case with Gold-Plated Low-Resistance Rotary Switches. Designed for reliable continuous operation, safety compliance, and maximum measurement accuracy.",
+    specs: {
+          "Product": "Decade Resistance Box",
+          "Brand": "Fluke",
+          "Category": "Analyzers & Calibration",
+          "Industrial Standard": "IEC 61010-1 Laboratory Standards",
+          "Resistance Range": "0.01 Ohm to 10 MegaOhm (5 to 8 Decade Dials)",
+          "Accuracy": "0.05% to 0.01% High Stability Precision",
+          "Application": "RTD temperature transmitter simulation, calibration, wheatstone bridge testing"
+    },
+    rawSpecs: "Decade Resistance Box - High-Precision Laboratory & Field Decade Resistance Standard, Brand: Fluke, Material: Metal Shielded Case with Gold-Plated Low-Resistance Rotary Switches, Industrial Standard: IEC 61010-1 Laboratory Standards, Resistance Range: 0.01 Ohm to 10 MegaOhm (5 to 8 Decade Dials), Accuracy: 0.05% to 0.01% High Stability Precision, Application: RTD temperature transmitter simulation, calibration, wheatstone bridge testing",
+    tags: ["accuracy", "analyzers", "and", "application", "applications", "bahjat", "box", "brand", "bridge", "calibration", "case", "category", "compliance", "constructed", "continuous", "control", "decade", "designed", "dials", "engineered", "engineering", "enterprises", "field", "fluke", "for", "from", "gas", "gold", "grade", "high", "iec", "industrial", "instrumentation", "laboratory", "low", "maximum", "measurement", "megaohm", "metal", "ohm", "oil", "operation", "petrochemical", "plated", "precision", "process", "product", "range", "refineries", "reliable", "resistance", "rotary", "rtd", "safety", "shielded", "simulation", "stability", "standard", "standards", "supplied", "switches", "temperature", "testing", "the", "transmitter", "under", "wheatstone", "with"]
+  },
+  {
+    id: "inst-117-dissolved-oxygen-analyzer",
+    sno: 117,
+    name: "Dissolved Oxygen Analyzer",
+    brand: "Endress+Hauser (E+H)",
+    category: "instrumentation",
+    subCategory: "Analyzers & Calibration",
+    image: null,
+    description: "Industrial-grade Dissolved Oxygen Analyzer supplied by Bahjat Enterprises to certified industrial standards. Engineered for process control, oil & gas, refineries, petrochemical, and instrumentation applications. Optical / Luminescent Dissolved Oxygen (DO) Transmitter & Sensor constructed from SS316L Sensor Body with Ruthenium Fluorescent Cap. Designed for reliable continuous operation, safety compliance, and maximum measurement accuracy.",
+    specs: {
+          "Product": "Dissolved Oxygen Analyzer",
+          "Brand": "Endress+Hauser (E+H)",
+          "Category": "Analyzers & Calibration",
+          "Industrial Standard": "IP68 Submersible / ATEX Zone 0/1",
+          "Range": "0 to 20 mg/L (ppm) / 0 to 200% Oxygen Saturation",
+          "Response Time": "t90 < 60 seconds with no flow requirement",
+          "Application": "Aeration basin control, boiler feedwater dissolved oxygen monitoring, aquaculture"
+    },
+    rawSpecs: "Dissolved Oxygen Analyzer - Optical / Luminescent Dissolved Oxygen (DO) Transmitter & Sensor, Brand: Endress+Hauser (E+H), Material: SS316L Sensor Body with Ruthenium Fluorescent Cap, Industrial Standard: IP68 Submersible / ATEX Zone 0/1, Range: 0 to 20 mg/L (ppm) / 0 to 200% Oxygen Saturation, Response Time: t90 < 60 seconds with no flow requirement, Application: Aeration basin control, boiler feedwater dissolved oxygen monitoring, aquaculture",
+    tags: ["accuracy", "aeration", "analyzer", "analyzers", "and", "application", "applications", "aquaculture", "atex", "bahjat", "basin", "body", "boiler", "brand", "calibration", "cap", "category", "compliance", "constructed", "continuous", "control", "designed", "dissolved", "endress", "engineered", "engineering", "enterprises", "feedwater", "flow", "fluorescent", "for", "from", "gas", "grade", "hauser", "industrial", "instrumentation", "ip68", "luminescent", "maximum", "measurement", "monitoring", "oil", "operation", "optical", "oxygen", "petrochemical", "ppm", "process", "product", "range", "refineries", "reliable", "requirement", "response", "ruthenium", "safety", "saturation", "seconds", "sensor", "ss316l", "standard", "submersible", "supplied", "t90", "the", "time", "transmitter", "under", "with", "zone"]
+  },
+  {
+    id: "inst-118-double-block-and-bleed-dbb-valve",
+    sno: 118,
+    name: "Double Block and Bleed (DBB) Valve",
+    brand: "Parker",
+    category: "instrumentation",
+    subCategory: "Instrument Valves & Manifolds",
+    image: null,
+    description: "Industrial-grade Double Block and Bleed (DBB) Valve supplied by Bahjat Enterprises to certified industrial standards. Engineered for process control, oil & gas, refineries, petrochemical, and instrumentation applications. Instrument Monoflange / DBB Piping Isolation Valve constructed from Forged ASTM A182 F316 / Super Duplex / Monel 400. Designed for reliable continuous operation, safety compliance, and maximum measurement accuracy.",
+    specs: {
+          "Product": "Double Block and Bleed (DBB) Valve",
+          "Brand": "Parker",
+          "Category": "Instrument Valves & Manifolds",
+          "Industrial Standard": "ASME B16.5 / B16.34 / API 6D / NACE MR0175",
+          "Flange Sizes": "1/2\" to 2\" ANSI Class 150 to 2500 Flanged Inlet",
+          "Vent / Bleed": "1/4\" or 1/2\" NPT Female Vent Valve with Anti-Blowout Stem",
+          "Application": "Critical instrument impulse line primary isolation on process pipelines"
+    },
+    rawSpecs: "Double Block and Bleed (DBB) Valve - Instrument Monoflange / DBB Piping Isolation Valve, Brand: Parker, Material: Forged ASTM A182 F316 / Super Duplex / Monel 400, Industrial Standard: ASME B16.5 / B16.34 / API 6D / NACE MR0175, Flange Sizes: 1/2\" to 2\" ANSI Class 150 to 2500 Flanged Inlet, Vent / Bleed: 1/4\" or 1/2\" NPT Female Vent Valve with Anti-Blowout Stem, Application: Critical instrument impulse line primary isolation on process pipelines",
+    tags: ["a182", "accuracy", "and", "ansi", "anti", "api", "application", "applications", "asme", "astm", "b16", "bahjat", "bleed", "block", "blowout", "brand", "category", "class", "compliance", "constructed", "continuous", "control", "critical", "dbb", "designed", "double", "duplex", "engineered", "engineering", "enterprises", "f316", "female", "flange", "flanged", "for", "forged", "from", "gas", "grade", "impulse", "industrial", "inlet", "instrument", "instrumentation", "isolation", "line", "manifolds", "maximum", "measurement", "monel", "monoflange", "mr0175", "nace", "npt", "oil", "operation", "parker", "petrochemical", "pipelines", "piping", "primary", "process", "product", "refineries", "reliable", "safety", "sizes", "standard", "stem", "super", "supplied", "the", "under", "valve", "valves", "vent", "with"]
+  },
+  {
+    id: "inst-119-double-ferrule-fitting",
+    sno: 119,
+    name: "Double Ferrule Fitting",
+    brand: "Swagelok",
+    category: "instrumentation",
+    subCategory: "Instrument Fittings & Tubing",
+    image: null,
+    description: "Industrial-grade Double Ferrule Fitting supplied by Bahjat Enterprises to certified industrial standards. Engineered for process control, oil & gas, refineries, petrochemical, and instrumentation applications. Two-Ferrule Swaging Tube Fitting constructed from Stainless Steel 316 / 316L / Brass / Alloy C-276. Designed for reliable continuous operation, safety compliance, and maximum measurement accuracy.",
+    specs: {
+          "Product": "Double Ferrule Fitting",
+          "Brand": "Swagelok",
+          "Category": "Instrument Fittings & Tubing",
+          "Industrial Standard": "ASTM A276 / ASME B31.3",
+          "Tube Sizes": "1/8\", 1/4\", 3/8\", 1/2\", 3/4\", 1\" OD (3mm - 25mm)",
+          "Working Pressure": "Up to 11,000 PSI depending on tube wall thickness",
+          "Design": "Front ferrule provides pressure-tight seal, rear ferrule provides mechanical grip"
+    },
+    rawSpecs: "Double Ferrule Fitting - Two-Ferrule Swaging Tube Fitting, Brand: Swagelok, Material: Stainless Steel 316 / 316L / Brass / Alloy C-276, Industrial Standard: ASTM A276 / ASME B31.3, Tube Sizes: 1/8\", 1/4\", 3/8\", 1/2\", 3/4\", 1\" OD (3mm - 25mm), Working Pressure: Up to 11,000 PSI depending on tube wall thickness, Design: Front ferrule provides pressure-tight seal, rear ferrule provides mechanical grip",
+    tags: ["25mm", "316l", "3mm", "a276", "accuracy", "alloy", "and", "applications", "asme", "astm", "b31", "bahjat", "brand", "brass", "category", "compliance", "constructed", "continuous", "control", "depending", "design", "designed", "double", "engineered", "engineering", "enterprises", "ferrule", "fitting", "fittings", "for", "from", "front", "gas", "grade", "grip", "industrial", "instrument", "instrumentation", "maximum", "measurement", "mechanical", "oil", "operation", "petrochemical", "pressure", "process", "product", "provides", "psi", "rear", "refineries", "reliable", "safety", "seal", "sizes", "stainless", "standard", "steel", "supplied", "swagelok", "swaging", "the", "thickness", "tight", "tube", "tubing", "two", "under", "wall", "working"]
+  },
+  {
+    id: "inst-120-dry-block-temperature-calibrator",
+    sno: 120,
+    name: "Dry Block Temperature Calibrator",
+    brand: "Fluke",
+    category: "instrumentation",
+    subCategory: "Analyzers & Calibration",
+    image: null,
+    description: "Industrial-grade Dry Block Temperature Calibrator supplied by Bahjat Enterprises to certified industrial standards. Engineered for process control, oil & gas, refineries, petrochemical, and instrumentation applications. Portable Micro-Bath / Dry Well Temperature Field Calibrator constructed from Solid Aluminium / Brass Insert Block with Rugged Metal Enclosure. Designed for reliable continuous operation, safety compliance, and maximum measurement accuracy.",
+    specs: {
+          "Product": "Dry Block Temperature Calibrator",
+          "Brand": "Fluke",
+          "Category": "Analyzers & Calibration",
+          "Industrial Standard": "EURAMET cg-13 Temperature Calibration Guidelines",
+          "Temperature Range": "-35 deg C to 650 deg C (-31 deg F to 1202 deg F)",
+          "Stability": "+/- 0.01 deg C with Multi-Hole Interchangeable Well Inserts",
+          "Application": "On-site verification of RTD Pt100 sensors, thermocouples, and bimetallic thermometers"
+    },
+    rawSpecs: "Dry Block Temperature Calibrator - Portable Micro-Bath / Dry Well Temperature Field Calibrator, Brand: Fluke, Material: Solid Aluminium / Brass Insert Block with Rugged Metal Enclosure, Industrial Standard: EURAMET cg-13 Temperature Calibration Guidelines, Temperature Range: -35 deg C to 650 deg C (-31 deg F to 1202 deg F), Stability: +/- 0.01 deg C with Multi-Hole Interchangeable Well Inserts, Application: On-site verification of RTD Pt100 sensors, thermocouples, and bimetallic thermometers",
+    tags: ["accuracy", "aluminium", "analyzers", "and", "application", "applications", "bahjat", "bath", "bimetallic", "block", "brand", "brass", "calibration", "calibrator", "category", "compliance", "constructed", "continuous", "control", "deg", "designed", "dry", "enclosure", "engineered", "engineering", "enterprises", "euramet", "field", "fluke", "for", "from", "gas", "grade", "guidelines", "hole", "industrial", "insert", "inserts", "instrumentation", "interchangeable", "maximum", "measurement", "metal", "micro", "multi", "oil", "operation", "petrochemical", "portable", "process", "product", "pt100", "range", "refineries", "reliable", "rtd", "rugged", "safety", "sensors", "site", "solid", "stability", "standard", "supplied", "temperature", "the", "thermocouples", "thermometers", "under", "verification", "well", "with"]
+  },
+  {
+    id: "inst-121-dust-cap",
+    sno: 121,
+    name: "Dust Cap",
+    brand: "Parker",
+    category: "instrumentation",
+    subCategory: "Instrument Fittings & Tubing",
+    image: null,
+    description: "Industrial-grade Dust Cap supplied by Bahjat Enterprises to certified industrial standards. Engineered for process control, oil & gas, refineries, petrochemical, and instrumentation applications. Protective Instrument Quick-Disconnect Dust Cap constructed from Machined Brass / SS316 with Heavy-Duty Retaining Chain. Designed for reliable continuous operation, safety compliance, and maximum measurement accuracy.",
+    specs: {
+          "Product": "Dust Cap",
+          "Brand": "Parker",
+          "Category": "Instrument Fittings & Tubing",
+          "Industrial Standard": "ISO 7241-A / ISO 16028 / MIL-C-51234",
+          "Sizes": "1/4\", 3/8\", 1/2\", 3/4\", 1\" Coupler Body Sizes",
+          "Seals": "Nitrile / Viton O-Ring Seal to prevent environmental ingress",
+          "Application": "Protection of sample ports, hydraulic couplers, and test points from dust and grit"
+    },
+    rawSpecs: "Dust Cap - Protective Instrument Quick-Disconnect Dust Cap, Brand: Parker, Material: Machined Brass / SS316 with Heavy-Duty Retaining Chain, Industrial Standard: ISO 7241-A / ISO 16028 / MIL-C-51234, Sizes: 1/4\", 3/8\", 1/2\", 3/4\", 1\" Coupler Body Sizes, Seals: Nitrile / Viton O-Ring Seal to prevent environmental ingress, Application: Protection of sample ports, hydraulic couplers, and test points from dust and grit",
+    tags: ["accuracy", "and", "application", "applications", "bahjat", "body", "brand", "brass", "cap", "category", "chain", "compliance", "constructed", "continuous", "control", "coupler", "couplers", "designed", "disconnect", "dust", "duty", "engineered", "engineering", "enterprises", "environmental", "fittings", "for", "from", "gas", "grade", "grit", "heavy", "hydraulic", "industrial", "ingress", "instrument", "instrumentation", "iso", "machined", "maximum", "measurement", "mil", "nitrile", "oil", "operation", "parker", "petrochemical", "points", "ports", "prevent", "process", "product", "protection", "protective", "quick", "refineries", "reliable", "retaining", "ring", "safety", "sample", "seal", "seals", "sizes", "ss316", "standard", "supplied", "test", "the", "tubing", "under", "viton", "with"]
+  },
+  {
+    id: "inst-122-dust-plug",
+    sno: 122,
+    name: "Dust Plug",
+    brand: "Parker",
+    category: "instrumentation",
+    subCategory: "Instrument Fittings & Tubing",
+    image: null,
+    description: "Industrial-grade Dust Plug supplied by Bahjat Enterprises to certified industrial standards. Engineered for process control, oil & gas, refineries, petrochemical, and instrumentation applications. Quick Coupler Protective Dust Plug constructed from Stainless Steel 316 / Solid Brass with Stainless Bead Chain. Designed for reliable continuous operation, safety compliance, and maximum measurement accuracy.",
+    specs: {
+          "Product": "Dust Plug",
+          "Brand": "Parker",
+          "Category": "Instrument Fittings & Tubing",
+          "Industrial Standard": "ISO 7241-B / ISO 16028",
+          "Sizes": "1/4\", 3/8\", 1/2\", 3/4\", 1\" Coupler Body Sizes",
+          "Protection": "Prevents pipe contaminations, particulate ingress, and moisture corrosion",
+          "Application": "Instrument air test connections, chemical sample points, calibration stations"
+    },
+    rawSpecs: "Dust Plug - Quick Coupler Protective Dust Plug, Brand: Parker, Material: Stainless Steel 316 / Solid Brass with Stainless Bead Chain, Industrial Standard: ISO 7241-B / ISO 16028, Sizes: 1/4\", 3/8\", 1/2\", 3/4\", 1\" Coupler Body Sizes, Protection: Prevents pipe contaminations, particulate ingress, and moisture corrosion, Application: Instrument air test connections, chemical sample points, calibration stations",
+    tags: ["accuracy", "air", "and", "application", "applications", "bahjat", "bead", "body", "brand", "brass", "calibration", "category", "chain", "chemical", "compliance", "connections", "constructed", "contaminations", "continuous", "control", "corrosion", "coupler", "designed", "dust", "engineered", "engineering", "enterprises", "fittings", "for", "from", "gas", "grade", "industrial", "ingress", "instrument", "instrumentation", "iso", "maximum", "measurement", "moisture", "oil", "operation", "parker", "particulate", "petrochemical", "pipe", "plug", "points", "prevents", "process", "product", "protection", "protective", "quick", "refineries", "reliable", "safety", "sample", "sizes", "solid", "stainless", "standard", "stations", "steel", "supplied", "test", "the", "tubing", "under", "with"]
+  },
+  {
+    id: "inst-123-end-closures",
+    sno: 123,
+    name: "End Closures",
+    brand: "Swagelok",
+    category: "instrumentation",
+    subCategory: "Instrument Fittings & Tubing",
+    image: null,
+    description: "Industrial-grade End Closures supplied by Bahjat Enterprises to certified industrial standards. Engineered for process control, oil & gas, refineries, petrochemical, and instrumentation applications. High Pressure Instrumentation End Closure / Blind Plug constructed from Forged ASTM A182 F316 / Carbon Steel A105. Designed for reliable continuous operation, safety compliance, and maximum measurement accuracy.",
+    specs: {
+          "Product": "End Closures",
+          "Brand": "Swagelok",
+          "Category": "Instrument Fittings & Tubing",
+          "Industrial Standard": "ASME B16.11 / MSS-SP-79",
+          "Pressure Class": "3000 LB / 6000 LB / 10000 PSI",
+          "Connection": "NPT Threaded / Socket Weld / Tube OD Compression End",
+          "Application": "Dead-ending unused manifold ports, valve blocks, and header taps"
+    },
+    rawSpecs: "End Closures - High Pressure Instrumentation End Closure / Blind Plug, Brand: Swagelok, Material: Forged ASTM A182 F316 / Carbon Steel A105, Industrial Standard: ASME B16.11 / MSS-SP-79, Pressure Class: 3000 LB / 6000 LB / 10000 PSI, Connection: NPT Threaded / Socket Weld / Tube OD Compression End, Application: Dead-ending unused manifold ports, valve blocks, and header taps",
+    tags: ["a105", "a182", "accuracy", "and", "application", "applications", "asme", "astm", "b16", "bahjat", "blind", "blocks", "brand", "carbon", "category", "class", "closure", "closures", "compliance", "compression", "connection", "constructed", "continuous", "control", "dead", "designed", "end", "ending", "engineered", "engineering", "enterprises", "f316", "fittings", "for", "forged", "from", "gas", "grade", "header", "high", "industrial", "instrument", "instrumentation", "manifold", "maximum", "measurement", "mss", "npt", "oil", "operation", "petrochemical", "plug", "ports", "pressure", "process", "product", "psi", "refineries", "reliable", "safety", "socket", "standard", "steel", "supplied", "swagelok", "taps", "the", "threaded", "tube", "tubing", "under", "unused", "valve", "weld"]
+  },
+  {
+    id: "inst-124-equal-tee",
+    sno: 124,
+    name: "Equal Tee",
+    brand: "Swagelok",
+    category: "instrumentation",
+    subCategory: "Instrument Fittings & Tubing",
+    image: null,
+    description: "Industrial-grade Equal Tee supplied by Bahjat Enterprises to certified industrial standards. Engineered for process control, oil & gas, refineries, petrochemical, and instrumentation applications. 3-Way Equal Compression Tube Tee constructed from Stainless Steel 316 / 316L / Brass / Inconel 625. Designed for reliable continuous operation, safety compliance, and maximum measurement accuracy.",
+    specs: {
+          "Product": "Equal Tee",
+          "Brand": "Swagelok",
+          "Category": "Instrument Fittings & Tubing",
+          "Industrial Standard": "ASME B31.3 / MSS-SP-99",
+          "Sizes": "1/4\", 3/8\", 1/2\", 3/4\", 1\" (6mm, 8mm, 10mm, 12mm, 25mm) Equal All Ends",
+          "Pressure Rating": "Up to 10,000 PSI (689 bar)",
+          "Application": "Splitting instrument tubing lines, impulse branch lines, air supply networks"
+    },
+    rawSpecs: "Equal Tee - 3-Way Equal Compression Tube Tee, Brand: Swagelok, Material: Stainless Steel 316 / 316L / Brass / Inconel 625, Industrial Standard: ASME B31.3 / MSS-SP-99, Sizes: 1/4\", 3/8\", 1/2\", 3/4\", 1\" (6mm, 8mm, 10mm, 12mm, 25mm) Equal All Ends, Pressure Rating: Up to 10,000 PSI (689 bar), Application: Splitting instrument tubing lines, impulse branch lines, air supply networks",
+    tags: ["10mm", "12mm", "25mm", "316l", "6mm", "8mm", "accuracy", "air", "all", "and", "application", "applications", "asme", "b31", "bahjat", "bar", "branch", "brand", "brass", "category", "compliance", "compression", "constructed", "continuous", "control", "designed", "ends", "engineered", "engineering", "enterprises", "equal", "fittings", "for", "from", "gas", "grade", "impulse", "inconel", "industrial", "instrument", "instrumentation", "lines", "maximum", "measurement", "mss", "networks", "oil", "operation", "petrochemical", "pressure", "process", "product", "psi", "rating", "refineries", "reliable", "safety", "sizes", "splitting", "stainless", "standard", "steel", "supplied", "supply", "swagelok", "tee", "the", "tube", "tubing", "under", "way"]
+  },
+  {
+    id: "inst-125-ferrule-components",
+    sno: 125,
+    name: "Ferrule Components",
+    brand: "Swagelok",
+    category: "instrumentation",
+    subCategory: "Instrument Fittings & Tubing",
+    image: null,
+    description: "Industrial-grade Ferrule Components supplied by Bahjat Enterprises to certified industrial standards. Engineered for process control, oil & gas, refineries, petrochemical, and instrumentation applications. Precision Front & Back Ferrule Replacement Set constructed from Chemically Passivated & Hardened 316 Stainless Steel. Designed for reliable continuous operation, safety compliance, and maximum measurement accuracy.",
+    specs: {
+          "Product": "Ferrule Components",
+          "Brand": "Swagelok",
+          "Category": "Instrument Fittings & Tubing",
+          "Industrial Standard": "ASTM A276 / ASME Section III & B31.1",
+          "Sizes Available": "1/16\", 1/8\", 1/4\", 3/8\", 1/2\", 3/4\", 1\" Tube OD",
+          "Finish": "Electropolished / Silver-Plated Nut Contact Surfaces",
+          "Application": "Replacement and servicing of double ferrule compression tube fittings"
+    },
+    rawSpecs: "Ferrule Components - Precision Front & Back Ferrule Replacement Set, Brand: Swagelok, Material: Chemically Passivated & Hardened 316 Stainless Steel, Industrial Standard: ASTM A276 / ASME Section III & B31.1, Sizes Available: 1/16\", 1/8\", 1/4\", 3/8\", 1/2\", 3/4\", 1\" Tube OD, Finish: Electropolished / Silver-Plated Nut Contact Surfaces, Application: Replacement and servicing of double ferrule compression tube fittings",
+    tags: ["a276", "accuracy", "and", "application", "applications", "asme", "astm", "available", "b31", "back", "bahjat", "brand", "category", "chemically", "compliance", "components", "compression", "constructed", "contact", "continuous", "control", "designed", "double", "electropolished", "engineered", "engineering", "enterprises", "ferrule", "finish", "fittings", "for", "from", "front", "gas", "grade", "hardened", "iii", "industrial", "instrument", "instrumentation", "maximum", "measurement", "nut", "oil", "operation", "passivated", "petrochemical", "plated", "precision", "process", "product", "refineries", "reliable", "replacement", "safety", "section", "servicing", "set", "silver", "sizes", "stainless", "standard", "steel", "supplied", "surfaces", "swagelok", "the", "tube", "tubing", "under"]
+  },
+  {
+    id: "inst-126-field-accessories",
+    sno: 126,
+    name: "Field Accessories",
+    brand: "Rosemount",
+    category: "instrumentation",
+    subCategory: "Process Measurement Instruments",
+    image: null,
+    description: "Industrial-grade Field Accessories supplied by Bahjat Enterprises to certified industrial standards. Engineered for process control, oil & gas, refineries, petrochemical, and instrumentation applications. Transmitter Mounting Brackets, Sunshades & Tag Plates constructed from SS304 / SS316 / Heavy Gauge Sheet Metal & Carbon Steel Galvanized. Designed for reliable continuous operation, safety compliance, and maximum measurement accuracy.",
+    specs: {
+          "Product": "Field Accessories",
+          "Brand": "Rosemount",
+          "Category": "Process Measurement Instruments",
+          "Industrial Standard": "2-Inch Pipe Mounting Standard Bracket (BS EN ISO 1461)",
+          "Components": "2\" Pipe Mounting Bracket (B-Bracket), U-Bolts, Weatherproof Sunshades, SS Cable Glands",
+          "Protection": "Thermal radiation shielding, heavy vibration dampening, IP66 cable seal",
+          "Application": "Outdoor mounting of pressure, differential pressure, and temperature transmitters"
+    },
+    rawSpecs: "Field Accessories - Transmitter Mounting Brackets, Sunshades & Tag Plates, Brand: Rosemount, Material: SS304 / SS316 / Heavy Gauge Sheet Metal & Carbon Steel Galvanized, Industrial Standard: 2-Inch Pipe Mounting Standard Bracket (BS EN ISO 1461), Components: 2\" Pipe Mounting Bracket (B-Bracket), U-Bolts, Weatherproof Sunshades, SS Cable Glands, Protection: Thermal radiation shielding, heavy vibration dampening, IP66 cable seal, Application: Outdoor mounting of pressure, differential pressure, and temperature transmitters",
+    tags: ["accessories", "accuracy", "and", "application", "applications", "bahjat", "bolts", "bracket", "brackets", "brand", "cable", "carbon", "category", "compliance", "components", "constructed", "continuous", "control", "dampening", "designed", "differential", "engineered", "engineering", "enterprises", "field", "for", "from", "galvanized", "gas", "gauge", "glands", "grade", "heavy", "inch", "industrial", "instrumentation", "instruments", "ip66", "iso", "maximum", "measurement", "metal", "mounting", "oil", "operation", "outdoor", "petrochemical", "pipe", "plates", "pressure", "process", "product", "protection", "radiation", "refineries", "reliable", "rosemount", "safety", "seal", "sheet", "shielding", "ss304", "ss316", "standard", "steel", "sunshades", "supplied", "tag", "temperature", "the", "thermal", "transmitter", "transmitters", "under", "vibration", "weatherproof"]
+  },
+  {
+    id: "inst-127-field-communicator",
+    sno: 127,
+    name: "Field Communicator",
+    brand: "Emerson",
+    category: "instrumentation",
+    subCategory: "Controllers, PLCs & Automation",
+    image: null,
+    description: "Industrial-grade Field Communicator supplied by Bahjat Enterprises to certified industrial standards. Engineered for process control, oil & gas, refineries, petrochemical, and instrumentation applications. Handheld HART & Foundation Fieldbus Communicator constructed from Intrinsically Safe Rubberized High-Impact Polymer. Designed for reliable continuous operation, safety compliance, and maximum measurement accuracy.",
+    specs: {
+          "Product": "Field Communicator",
+          "Brand": "Emerson",
+          "Category": "Controllers, PLCs & Automation",
+          "Industrial Standard": "ATEX, IECEx, cFMus Intrinsically Safe Class 1 Div 1",
+          "Protocols Supported": "HART 5, 6, 7, WirelessHART, Foundation Fieldbus",
+          "Display": "Vibrant Color Touchscreen Readable in Direct Sunlight",
+          "Application": "Configuring, diagnosing, zero-trimming and loop testing smart field instruments"
+    },
+    rawSpecs: "Field Communicator - Handheld HART & Foundation Fieldbus Communicator, Brand: Emerson, Material: Intrinsically Safe Rubberized High-Impact Polymer, Industrial Standard: ATEX, IECEx, cFMus Intrinsically Safe Class 1 Div 1, Protocols Supported: HART 5, 6, 7, WirelessHART, Foundation Fieldbus, Display: Vibrant Color Touchscreen Readable in Direct Sunlight, Application: Configuring, diagnosing, zero-trimming and loop testing smart field instruments",
+    tags: ["accuracy", "and", "application", "applications", "atex", "automation", "bahjat", "brand", "category", "cfmus", "class", "color", "communicator", "compliance", "configuring", "constructed", "continuous", "control", "controllers", "designed", "diagnosing", "direct", "display", "div", "emerson", "engineered", "engineering", "enterprises", "field", "fieldbus", "for", "foundation", "from", "gas", "grade", "handheld", "hart", "high", "iecex", "impact", "industrial", "instrumentation", "instruments", "intrinsically", "loop", "maximum", "measurement", "oil", "operation", "petrochemical", "plcs", "polymer", "process", "product", "protocols", "readable", "refineries", "reliable", "rubberized", "safe", "safety", "smart", "standard", "sunlight", "supplied", "supported", "testing", "the", "touchscreen", "trimming", "under", "vibrant", "wirelesshart", "zero"]
+  },
+  {
+    id: "inst-128-float-level-switch",
+    sno: 128,
+    name: "Float Level Switch",
+    brand: "VEGA",
+    category: "instrumentation",
+    subCategory: "Level Instruments & Switches",
+    image: null,
+    description: "Industrial-grade Float Level Switch supplied by Bahjat Enterprises to certified industrial standards. Engineered for process control, oil & gas, refineries, petrochemical, and instrumentation applications. Magnetic Reed / Heavy Duty Industrial Float Level Switch constructed from SS316L / Titanium / Polypropylene Wetted Parts. Designed for reliable continuous operation, safety compliance, and maximum measurement accuracy.",
+    specs: {
+          "Product": "Float Level Switch",
+          "Brand": "VEGA",
+          "Category": "Level Instruments & Switches",
+          "Industrial Standard": "Ex d IIC T6 Flameproof / IP68",
+          "Mounting": "Top Mounted / Side Mounted Flanged (1-1/2\" to 3\" ANSI 150#) or 1\" NPT Threaded",
+          "Switch Rating": "SPDT / DPDT Hermetically Sealed 5A @ 250VAC",
+          "Application": "High-high and low-low emergency trip alarms in tanks, sumps, and separator vessels"
+    },
+    rawSpecs: "Float Level Switch - Magnetic Reed / Heavy Duty Industrial Float Level Switch, Brand: VEGA, Material: SS316L / Titanium / Polypropylene Wetted Parts, Industrial Standard: Ex d IIC T6 Flameproof / IP68, Mounting: Top Mounted / Side Mounted Flanged (1-1/2\" to 3\" ANSI 150#) or 1\" NPT Threaded, Switch Rating: SPDT / DPDT Hermetically Sealed 5A @ 250VAC, Application: High-high and low-low emergency trip alarms in tanks, sumps, and separator vessels",
+    tags: ["250vac", "accuracy", "alarms", "and", "ansi", "application", "applications", "bahjat", "brand", "category", "compliance", "constructed", "continuous", "control", "designed", "dpdt", "duty", "emergency", "engineered", "engineering", "enterprises", "flameproof", "flanged", "float", "for", "from", "gas", "grade", "heavy", "hermetically", "high", "iic", "industrial", "instrumentation", "instruments", "ip68", "level", "low", "magnetic", "maximum", "measurement", "mounted", "mounting", "npt", "oil", "operation", "parts", "petrochemical", "polypropylene", "process", "product", "rating", "reed", "refineries", "reliable", "safety", "sealed", "separator", "side", "spdt", "ss316l", "standard", "sumps", "supplied", "switch", "switches", "tanks", "the", "threaded", "titanium", "top", "trip", "under", "vega", "vessels", "wetted"]
+  },
+  {
+    id: "inst-129-flow-instruments",
+    sno: 129,
+    name: "Flow Instruments",
+    brand: "Endress+Hauser (E+H)",
+    category: "instrumentation",
+    subCategory: "Flow Meters & Flow Sensors",
+    image: null,
+    description: "Industrial-grade Flow Instruments supplied by Bahjat Enterprises to certified industrial standards. Engineered for process control, oil & gas, refineries, petrochemical, and instrumentation applications. Comprehensive Industrial Flow Metering & Totalizing System constructed from SS316L / Hastelloy / PFA Liner / Carbon Steel Flanges. Designed for reliable continuous operation, safety compliance, and maximum measurement accuracy.",
+    specs: {
+          "Product": "Flow Instruments",
+          "Brand": "Endress+Hauser (E+H)",
+          "Category": "Flow Meters & Flow Sensors",
+          "Industrial Standard": "ISO 4064, OIML R49, API MPMS, CE / ATEX",
+          "Line Sizes": "DN15 to DN2000 (1/2\" to 80\")",
+          "Measurement Principles": "Electromagnetic, Coriolis Mass, Vortex, Ultrasonic, Thermal Mass",
+          "Application": "Fiscal custody transfer, cooling water loops, chemical dosage metering"
+    },
+    rawSpecs: "Flow Instruments - Comprehensive Industrial Flow Metering & Totalizing System, Brand: Endress+Hauser (E+H), Material: SS316L / Hastelloy / PFA Liner / Carbon Steel Flanges, Industrial Standard: ISO 4064, OIML R49, API MPMS, CE / ATEX, Line Sizes: DN15 to DN2000 (1/2\" to 80\"), Measurement Principles: Electromagnetic, Coriolis Mass, Vortex, Ultrasonic, Thermal Mass, Application: Fiscal custody transfer, cooling water loops, chemical dosage metering",
+    tags: ["accuracy", "and", "api", "application", "applications", "atex", "bahjat", "brand", "carbon", "category", "chemical", "compliance", "comprehensive", "constructed", "continuous", "control", "cooling", "coriolis", "custody", "designed", "dn15", "dn2000", "dosage", "electromagnetic", "endress", "engineered", "engineering", "enterprises", "fiscal", "flanges", "flow", "for", "from", "gas", "grade", "hastelloy", "hauser", "industrial", "instrumentation", "instruments", "iso", "line", "liner", "loops", "mass", "maximum", "measurement", "metering", "meters", "mpms", "oil", "oiml", "operation", "petrochemical", "pfa", "principles", "process", "product", "r49", "refineries", "reliable", "safety", "sensors", "sizes", "ss316l", "standard", "steel", "supplied", "system", "the", "thermal", "totalizing", "transfer", "ultrasonic", "under", "vortex", "water"]
+  },
+  {
+    id: "inst-130-gas-analyzer",
+    sno: 130,
+    name: "Gas Analyzer",
+    brand: "Yokogawa",
+    category: "instrumentation",
+    subCategory: "Analyzers & Calibration",
+    image: null,
+    description: "Industrial-grade Gas Analyzer supplied by Bahjat Enterprises to certified industrial standards. Engineered for process control, oil & gas, refineries, petrochemical, and instrumentation applications. Tunable Diode Laser (TDLS) / NDIR Continuous Gas Analyzer constructed from Cast Aluminium Explosion-Proof Enclosure with Purge Ports. Designed for reliable continuous operation, safety compliance, and maximum measurement accuracy.",
+    specs: {
+          "Product": "Gas Analyzer",
+          "Brand": "Yokogawa",
+          "Category": "Analyzers & Calibration",
+          "Industrial Standard": "ATEX / IECEx Zone 1 Ex d e IIB+H2 T4",
+          "Target Gases": "CO, CO2, CH4, O2, SO2, NOx, NH3, H2S PPM to % levels",
+          "Outputs": "Isolated 4-20mA HART, Ethernet Modbus TCP, Relay Contacts",
+          "Application": "Combustion safety, stack emission monitoring, flare gas BTU measurement"
+    },
+    rawSpecs: "Gas Analyzer - Tunable Diode Laser (TDLS) / NDIR Continuous Gas Analyzer, Brand: Yokogawa, Material: Cast Aluminium Explosion-Proof Enclosure with Purge Ports, Industrial Standard: ATEX / IECEx Zone 1 Ex d e IIB+H2 T4, Target Gases: CO, CO2, CH4, O2, SO2, NOx, NH3, H2S PPM to % levels, Outputs: Isolated 4-20mA HART, Ethernet Modbus TCP, Relay Contacts, Application: Combustion safety, stack emission monitoring, flare gas BTU measurement",
+    tags: ["20ma", "accuracy", "aluminium", "analyzer", "analyzers", "and", "application", "applications", "atex", "bahjat", "brand", "btu", "calibration", "cast", "category", "ch4", "co2", "combustion", "compliance", "constructed", "contacts", "continuous", "control", "designed", "diode", "emission", "enclosure", "engineered", "engineering", "enterprises", "ethernet", "explosion", "flare", "for", "from", "gas", "gases", "grade", "h2s", "hart", "iecex", "iib", "industrial", "instrumentation", "isolated", "laser", "levels", "maximum", "measurement", "modbus", "monitoring", "ndir", "nh3", "nox", "oil", "operation", "outputs", "petrochemical", "ports", "ppm", "process", "product", "proof", "purge", "refineries", "relay", "reliable", "safety", "so2", "stack", "standard", "supplied", "target", "tcp", "tdls", "the", "tunable", "under", "with", "yokogawa", "zone"]
+  },
+  {
+    id: "inst-131-gauge-cock",
+    sno: 131,
+    name: "Gauge Cock",
+    brand: "WIKA",
+    category: "instrumentation",
+    subCategory: "Pressure Gauges & Indicators",
+    image: null,
+    description: "Industrial-grade Gauge Cock supplied by Bahjat Enterprises to certified industrial standards. Engineered for process control, oil & gas, refineries, petrochemical, and instrumentation applications. Brass & Stainless Steel Pressure Gauge Shutoff Cock constructed from Forged Brass / SS304 / SS316 with PTFE Packing. Designed for reliable continuous operation, safety compliance, and maximum measurement accuracy.",
+    specs: {
+          "Product": "Gauge Cock",
+          "Brand": "WIKA",
+          "Category": "Pressure Gauges & Indicators",
+          "Industrial Standard": "DIN 16261 / DIN 16262 / ASME B1.20.1",
+          "Connection": "G 1/2\" or 1/2\" NPT Male x Female Union Nut",
+          "Pressure Rating": "PN 16 to PN 25 bar (230 to 360 PSI)",
+          "Features": "Vent hole for zero-pressure calibration checking and isolation"
+    },
+    rawSpecs: "Gauge Cock - Brass & Stainless Steel Pressure Gauge Shutoff Cock, Brand: WIKA, Material: Forged Brass / SS304 / SS316 with PTFE Packing, Industrial Standard: DIN 16261 / DIN 16262 / ASME B1.20.1, Connection: G 1/2\" or 1/2\" NPT Male x Female Union Nut, Pressure Rating: PN 16 to PN 25 bar (230 to 360 PSI), Features: Vent hole for zero-pressure calibration checking and isolation",
+    tags: ["accuracy", "and", "applications", "asme", "bahjat", "bar", "brand", "brass", "calibration", "category", "checking", "cock", "compliance", "connection", "constructed", "continuous", "control", "designed", "din", "engineered", "engineering", "enterprises", "features", "female", "for", "forged", "from", "gas", "gauge", "gauges", "grade", "hole", "indicators", "industrial", "instrumentation", "isolation", "male", "maximum", "measurement", "npt", "nut", "oil", "operation", "packing", "petrochemical", "pressure", "process", "product", "psi", "ptfe", "rating", "refineries", "reliable", "safety", "shutoff", "ss304", "ss316", "stainless", "standard", "steel", "supplied", "the", "under", "union", "vent", "wika", "with", "zero"]
+  },
+  {
+    id: "inst-132-gauge-saver",
+    sno: 132,
+    name: "Gauge Saver",
+    brand: "WIKA",
+    category: "instrumentation",
+    subCategory: "Pressure Gauges & Indicators",
+    image: null,
+    description: "Industrial-grade Gauge Saver supplied by Bahjat Enterprises to certified industrial standards. Engineered for process control, oil & gas, refineries, petrochemical, and instrumentation applications. Adjustable Overpressure Protector / Gauge Saver Valve constructed from Stainless Steel 316 / Brass with PTFE Diaphragm. Designed for reliable continuous operation, safety compliance, and maximum measurement accuracy.",
+    specs: {
+          "Product": "Gauge Saver",
+          "Brand": "WIKA",
+          "Category": "Pressure Gauges & Indicators",
+          "Industrial Standard": "ASME B40.100 Pressure Protection Standard",
+          "Adjustable Cut-Off Range": "0.4 to 2.5 bar / 2 to 25 bar / 20 to 600 bar",
+          "Connection": "1/2\" NPT or G 1/2 Female x Male",
+          "Application": "Automatically blocks pressure gauge or transmitter from spikes above operating range"
+    },
+    rawSpecs: "Gauge Saver - Adjustable Overpressure Protector / Gauge Saver Valve, Brand: WIKA, Material: Stainless Steel 316 / Brass with PTFE Diaphragm, Industrial Standard: ASME B40.100 Pressure Protection Standard, Adjustable Cut-Off Range: 0.4 to 2.5 bar / 2 to 25 bar / 20 to 600 bar, Connection: 1/2\" NPT or G 1/2 Female x Male, Application: Automatically blocks pressure gauge or transmitter from spikes above operating range",
+    tags: ["above", "accuracy", "adjustable", "and", "application", "applications", "asme", "automatically", "b40", "bahjat", "bar", "blocks", "brand", "brass", "category", "compliance", "connection", "constructed", "continuous", "control", "cut", "designed", "diaphragm", "engineered", "engineering", "enterprises", "female", "for", "from", "gas", "gauge", "gauges", "grade", "indicators", "industrial", "instrumentation", "male", "maximum", "measurement", "npt", "off", "oil", "operating", "operation", "overpressure", "petrochemical", "pressure", "process", "product", "protection", "protector", "ptfe", "range", "refineries", "reliable", "safety", "saver", "spikes", "stainless", "standard", "steel", "supplied", "the", "transmitter", "under", "valve", "wika", "with"]
+  },
+  {
+    id: "inst-133-gauge-snubber",
+    sno: 133,
+    name: "Gauge Snubber",
+    brand: "WIKA",
+    category: "instrumentation",
+    subCategory: "Pressure Gauges & Indicators",
+    image: null,
+    description: "Industrial-grade Gauge Snubber supplied by Bahjat Enterprises to certified industrial standards. Engineered for process control, oil & gas, refineries, petrochemical, and instrumentation applications. Porous Metal / Piston Type Pressure Pulsation Dampener constructed from Stainless Steel 316 / Forged Brass / Monel. Designed for reliable continuous operation, safety compliance, and maximum measurement accuracy.",
+    specs: {
+          "Product": "Gauge Snubber",
+          "Brand": "WIKA",
+          "Category": "Pressure Gauges & Indicators",
+          "Industrial Standard": "ASME B40.100 Grade B Snubber",
+          "Connections": "1/4\", 3/8\", 1/2\" NPT / BSP Male x Female",
+          "Pressure Rating": "Up to 10,000 PSI (689 bar)",
+          "Application": "Dampens rapid hydraulic pressure pulsations and water hammer to protect sensitive gauges"
+    },
+    rawSpecs: "Gauge Snubber - Porous Metal / Piston Type Pressure Pulsation Dampener, Brand: WIKA, Material: Stainless Steel 316 / Forged Brass / Monel, Industrial Standard: ASME B40.100 Grade B Snubber, Connections: 1/4\", 3/8\", 1/2\" NPT / BSP Male x Female, Pressure Rating: Up to 10,000 PSI (689 bar), Application: Dampens rapid hydraulic pressure pulsations and water hammer to protect sensitive gauges",
+    tags: ["accuracy", "and", "application", "applications", "asme", "b40", "bahjat", "bar", "brand", "brass", "bsp", "category", "compliance", "connections", "constructed", "continuous", "control", "dampener", "dampens", "designed", "engineered", "engineering", "enterprises", "female", "for", "forged", "from", "gas", "gauge", "gauges", "grade", "hammer", "hydraulic", "indicators", "industrial", "instrumentation", "male", "maximum", "measurement", "metal", "monel", "npt", "oil", "operation", "petrochemical", "piston", "porous", "pressure", "process", "product", "protect", "psi", "pulsation", "pulsations", "rapid", "rating", "refineries", "reliable", "safety", "sensitive", "snubber", "stainless", "standard", "steel", "supplied", "the", "type", "under", "water", "wika"]
+  },
+  {
+    id: "inst-134-hart-communicator",
+    sno: 134,
+    name: "HART Communicator",
+    brand: "Emerson",
+    category: "instrumentation",
+    subCategory: "Controllers, PLCs & Automation",
+    image: null,
+    description: "Industrial-grade HART Communicator supplied by Bahjat Enterprises to certified industrial standards. Engineered for process control, oil & gas, refineries, petrochemical, and instrumentation applications. HART 475 / AMS Trex Device Communicator constructed from Ruggedized Impact-Resistant Enclosure with IP54 Ingress Rating. Designed for reliable continuous operation, safety compliance, and maximum measurement accuracy.",
+    specs: {
+          "Product": "HART Communicator",
+          "Brand": "Emerson",
+          "Category": "Controllers, PLCs & Automation",
+          "Industrial Standard": "CENELEC / ATEX Intrinsically Safe (Ex ia IIC T4)",
+          "Device Support": "Universal HART Device Descriptions (DDs) & EDDL Technology",
+          "Interface": "Touchscreen with Backlit Keyboard & Rechargeable Li-Ion Battery",
+          "Application": "Field configuration, loop powering, transmitter diagnostics, and valve signature analysis"
+    },
+    rawSpecs: "HART Communicator - HART 475 / AMS Trex Device Communicator, Brand: Emerson, Material: Ruggedized Impact-Resistant Enclosure with IP54 Ingress Rating, Industrial Standard: CENELEC / ATEX Intrinsically Safe (Ex ia IIC T4), Device Support: Universal HART Device Descriptions (DDs) & EDDL Technology, Interface: Touchscreen with Backlit Keyboard & Rechargeable Li-Ion Battery, Application: Field configuration, loop powering, transmitter diagnostics, and valve signature analysis",
+    tags: ["accuracy", "ams", "analysis", "and", "application", "applications", "atex", "automation", "backlit", "bahjat", "battery", "brand", "category", "cenelec", "communicator", "compliance", "configuration", "constructed", "continuous", "control", "controllers", "dds", "descriptions", "designed", "device", "diagnostics", "eddl", "emerson", "enclosure", "engineered", "engineering", "enterprises", "field", "for", "from", "gas", "grade", "hart", "iic", "impact", "industrial", "ingress", "instrumentation", "interface", "intrinsically", "ion", "ip54", "keyboard", "loop", "maximum", "measurement", "oil", "operation", "petrochemical", "plcs", "powering", "process", "product", "rating", "rechargeable", "refineries", "reliable", "resistant", "ruggedized", "safe", "safety", "signature", "standard", "supplied", "support", "technology", "the", "touchscreen", "transmitter", "trex", "under", "universal", "valve", "with"]
+  },
+  {
+    id: "inst-135-hydrogen-analyzer",
+    sno: 135,
+    name: "Hydrogen Analyzer",
+    brand: "Yokogawa",
+    category: "instrumentation",
+    subCategory: "Analyzers & Calibration",
+    image: null,
+    description: "Industrial-grade Hydrogen Analyzer supplied by Bahjat Enterprises to certified industrial standards. Engineered for process control, oil & gas, refineries, petrochemical, and instrumentation applications. Thermal Conductivity Hydrogen (H2) Purity Analyzer constructed from Cast Aluminium / Explosion-Proof Enclosure with SS316 Cell. Designed for reliable continuous operation, safety compliance, and maximum measurement accuracy.",
+    specs: {
+          "Product": "Hydrogen Analyzer",
+          "Brand": "Yokogawa",
+          "Category": "Analyzers & Calibration",
+          "Industrial Standard": "IECEx / ATEX Ex d IIC T4 Flameproof",
+          "Measurement Range": "90% to 100% H2 in Air / 0% to 10% H2 in N2 or CO2",
+          "Accuracy": "+/- 0.1% H2 Purity",
+          "Application": "Hydrogen-cooled turbine generators, hydrogen production plants, chlorine-alkali cells"
+    },
+    rawSpecs: "Hydrogen Analyzer - Thermal Conductivity Hydrogen (H2) Purity Analyzer, Brand: Yokogawa, Material: Cast Aluminium / Explosion-Proof Enclosure with SS316 Cell, Industrial Standard: IECEx / ATEX Ex d IIC T4 Flameproof, Measurement Range: 90% to 100% H2 in Air / 0% to 10% H2 in N2 or CO2, Accuracy: +/- 0.1% H2 Purity, Application: Hydrogen-cooled turbine generators, hydrogen production plants, chlorine-alkali cells",
+    tags: ["accuracy", "air", "alkali", "aluminium", "analyzer", "analyzers", "and", "application", "applications", "atex", "bahjat", "brand", "calibration", "cast", "category", "cell", "cells", "chlorine", "co2", "compliance", "conductivity", "constructed", "continuous", "control", "cooled", "designed", "enclosure", "engineered", "engineering", "enterprises", "explosion", "flameproof", "for", "from", "gas", "generators", "grade", "hydrogen", "iecex", "iic", "industrial", "instrumentation", "maximum", "measurement", "oil", "operation", "petrochemical", "plants", "process", "product", "production", "proof", "purity", "range", "refineries", "reliable", "safety", "ss316", "standard", "supplied", "the", "thermal", "turbine", "under", "with", "yokogawa"]
+  },
+  {
+    id: "inst-136-infrared-thermometer",
+    sno: 136,
+    name: "Infrared Thermometer",
+    brand: "Fluke",
+    category: "instrumentation",
+    subCategory: "Temperature Instruments & Sensors",
+    image: null,
+    description: "Industrial-grade Infrared Thermometer supplied by Bahjat Enterprises to certified industrial standards. Engineered for process control, oil & gas, refineries, petrochemical, and instrumentation applications. Industrial Non-Contact Laser Infrared Pyrometer constructed from Ergonomic Rubber-Grip Polymer Body with Dual Laser Target. Designed for reliable continuous operation, safety compliance, and maximum measurement accuracy.",
+    specs: {
+          "Product": "Infrared Thermometer",
+          "Brand": "Fluke",
+          "Category": "Temperature Instruments & Sensors",
+          "Industrial Standard": "EN 61326-1 / IP54 Rated / NIST Traceable",
+          "Temperature Range": "-30 deg C to 900 deg C (-22 deg F to 1652 deg F)",
+          "Distance-to-Spot Ratio (D:S)": "50:1 Optical Resolution with Precision Dual Lasers",
+          "Application": "Electrical switchgear hotspots, bearing temperature audits, steam trap inspection"
+    },
+    rawSpecs: "Infrared Thermometer - Industrial Non-Contact Laser Infrared Pyrometer, Brand: Fluke, Material: Ergonomic Rubber-Grip Polymer Body with Dual Laser Target, Industrial Standard: EN 61326-1 / IP54 Rated / NIST Traceable, Temperature Range: -30 deg C to 900 deg C (-22 deg F to 1652 deg F), Distance-to-Spot Ratio (D:S): 50:1 Optical Resolution with Precision Dual Lasers, Application: Electrical switchgear hotspots, bearing temperature audits, steam trap inspection",
+    tags: ["accuracy", "and", "application", "applications", "audits", "bahjat", "bearing", "body", "brand", "category", "compliance", "constructed", "contact", "continuous", "control", "deg", "designed", "distance", "dual", "electrical", "engineered", "engineering", "enterprises", "ergonomic", "fluke", "for", "from", "gas", "grade", "grip", "hotspots", "industrial", "infrared", "inspection", "instrumentation", "instruments", "ip54", "laser", "lasers", "maximum", "measurement", "nist", "non", "oil", "operation", "optical", "petrochemical", "polymer", "precision", "process", "product", "pyrometer", "range", "rated", "ratio", "refineries", "reliable", "resolution", "rubber", "safety", "sensors", "spot", "standard", "steam", "supplied", "switchgear", "target", "temperature", "the", "thermometer", "traceable", "trap", "under", "with"]
+  },
+  {
+    id: "inst-137-instrument-cable",
+    sno: 137,
+    name: "Instrument Cable",
+    brand: "Siemens",
+    category: "instrumentation",
+    subCategory: "Process Measurement Instruments",
+    image: null,
+    description: "Industrial-grade Instrument Cable supplied by Bahjat Enterprises to certified industrial standards. Engineered for process control, oil & gas, refineries, petrochemical, and instrumentation applications. Individual & Overall Screened Multi-Pair Instrumentation Cable constructed from Annealed Tinned Copper Conductors, XLPE / PVC Insulated, Steel Wire Armored (SWA). Designed for reliable continuous operation, safety compliance, and maximum measurement accuracy.",
+    specs: {
+          "Product": "Instrument Cable",
+          "Brand": "Siemens",
+          "Category": "Process Measurement Instruments",
+          "Industrial Standard": "BS 5308 Part 1/2, EN 50288-7, IEC 60332 Flame Retardant",
+          "Conductor Sizes": "0.5 mm2, 0.75 mm2, 1.0 mm2, 1.5 mm2 (1 Pair to 24 Pairs)",
+          "Shielding": "Aluminium/Mylar Foil Tape with Tinned Copper Drain Wire",
+          "Voltage Rating": "300V / 500V Instrumentation Signal Class"
+    },
+    rawSpecs: "Instrument Cable - Individual & Overall Screened Multi-Pair Instrumentation Cable, Brand: Siemens, Material: Annealed Tinned Copper Conductors, XLPE / PVC Insulated, Steel Wire Armored (SWA), Industrial Standard: BS 5308 Part 1/2, EN 50288-7, IEC 60332 Flame Retardant, Conductor Sizes: 0.5 mm2, 0.75 mm2, 1.0 mm2, 1.5 mm2 (1 Pair to 24 Pairs), Shielding: Aluminium/Mylar Foil Tape with Tinned Copper Drain Wire, Voltage Rating: 300V / 500V Instrumentation Signal Class",
+    tags: ["300v", "500v", "accuracy", "aluminium", "and", "annealed", "applications", "armored", "bahjat", "brand", "cable", "category", "class", "compliance", "conductor", "conductors", "constructed", "continuous", "control", "copper", "designed", "drain", "engineered", "engineering", "enterprises", "flame", "foil", "for", "from", "gas", "grade", "iec", "individual", "industrial", "instrument", "instrumentation", "instruments", "insulated", "maximum", "measurement", "mm2", "multi", "mylar", "oil", "operation", "overall", "pair", "pairs", "part", "petrochemical", "process", "product", "pvc", "rating", "refineries", "reliable", "retardant", "safety", "screened", "shielding", "siemens", "signal", "sizes", "standard", "steel", "supplied", "swa", "tape", "the", "tinned", "under", "voltage", "wire", "with", "xlpe"]
+  },
+  {
+    id: "inst-138-instrument-enclosure",
+    sno: 138,
+    name: "Instrument Enclosure",
+    brand: "Parker",
+    category: "instrumentation",
+    subCategory: "Process Measurement Instruments",
+    image: null,
+    description: "Industrial-grade Instrument Enclosure supplied by Bahjat Enterprises to certified industrial standards. Engineered for process control, oil & gas, refineries, petrochemical, and instrumentation applications. GRP / Stainless Steel Weatherproof Instrument Protective Cabinet constructed from Glass Reinforced Polyester (GRP) / SS316 Anti-Static Fire Retardant. Designed for reliable continuous operation, safety compliance, and maximum measurement accuracy.",
+    specs: {
+          "Product": "Instrument Enclosure",
+          "Brand": "Parker",
+          "Category": "Process Measurement Instruments",
+          "Industrial Standard": "IP66 / NEMA 4X / BS EN 60529",
+          "Internal Fittings": "2\" Mounting Pipe, SS Hinges, Toggle Latches, Heated/Insulated Options",
+          "Application": "Houses transmitters and manifolds to shield from solar heat, frost, sand, and acid rain"
+    },
+    rawSpecs: "Instrument Enclosure - GRP / Stainless Steel Weatherproof Instrument Protective Cabinet, Brand: Parker, Material: Glass Reinforced Polyester (GRP) / SS316 Anti-Static Fire Retardant, Industrial Standard: IP66 / NEMA 4X / BS EN 60529, Internal Fittings: 2\" Mounting Pipe, SS Hinges, Toggle Latches, Heated/Insulated Options, Application: Houses transmitters and manifolds to shield from solar heat, frost, sand, and acid rain",
+    tags: ["accuracy", "acid", "and", "anti", "application", "applications", "bahjat", "brand", "cabinet", "category", "compliance", "constructed", "continuous", "control", "designed", "enclosure", "engineered", "engineering", "enterprises", "fire", "fittings", "for", "from", "frost", "gas", "glass", "grade", "grp", "heat", "heated", "hinges", "houses", "industrial", "instrument", "instrumentation", "instruments", "insulated", "internal", "ip66", "latches", "manifolds", "maximum", "measurement", "mounting", "nema", "oil", "operation", "options", "parker", "petrochemical", "pipe", "polyester", "process", "product", "protective", "rain", "refineries", "reinforced", "reliable", "retardant", "safety", "sand", "shield", "solar", "ss316", "stainless", "standard", "static", "steel", "supplied", "the", "toggle", "transmitters", "under", "weatherproof"]
+  },
+  {
+    id: "inst-139-instrument-hose-assembly",
+    sno: 139,
+    name: "Instrument Hose Assembly",
+    brand: "Parker",
+    category: "instrumentation",
+    subCategory: "Instrument Fittings & Tubing",
+    image: null,
+    description: "Industrial-grade Instrument Hose Assembly supplied by Bahjat Enterprises to certified industrial standards. Engineered for process control, oil & gas, refineries, petrochemical, and instrumentation applications. Flexible PTFE-Lined Stainless Steel Braided Instrument Hose constructed from Smooth Bore Virgin PTFE Core with SS304/SS316 High Tensile Wire Braid. Designed for reliable continuous operation, safety compliance, and maximum measurement accuracy.",
+    specs: {
+          "Product": "Instrument Hose Assembly",
+          "Brand": "Parker",
+          "Category": "Instrument Fittings & Tubing",
+          "Industrial Standard": "SAE 100R14 / ASME B31.3",
+          "Internal Diameters": "1/4\", 3/8\", 1/2\", 3/4\" (6 mm to 20 mm)",
+          "End Connections": "Swivel Female JIC, NPT Male, Tube Adapter End Fittings",
+          "Pressure Rating": "3,000 to 5,000 PSI Working Pressure, -60 deg C to +260 deg C"
+    },
+    rawSpecs: "Instrument Hose Assembly - Flexible PTFE-Lined Stainless Steel Braided Instrument Hose, Brand: Parker, Material: Smooth Bore Virgin PTFE Core with SS304/SS316 High Tensile Wire Braid, Industrial Standard: SAE 100R14 / ASME B31.3, Internal Diameters: 1/4\", 3/8\", 1/2\", 3/4\" (6 mm to 20 mm), End Connections: Swivel Female JIC, NPT Male, Tube Adapter End Fittings, Pressure Rating: 3,000 to 5,000 PSI Working Pressure, -60 deg C to +260 deg C",
+    tags: ["100r14", "accuracy", "adapter", "and", "applications", "asme", "assembly", "b31", "bahjat", "bore", "braid", "braided", "brand", "category", "compliance", "connections", "constructed", "continuous", "control", "core", "deg", "designed", "diameters", "end", "engineered", "engineering", "enterprises", "female", "fittings", "flexible", "for", "from", "gas", "grade", "high", "hose", "industrial", "instrument", "instrumentation", "internal", "jic", "lined", "male", "maximum", "measurement", "npt", "oil", "operation", "parker", "petrochemical", "pressure", "process", "product", "psi", "ptfe", "rating", "refineries", "reliable", "sae", "safety", "smooth", "ss304", "ss316", "stainless", "standard", "steel", "supplied", "swivel", "tensile", "the", "tube", "tubing", "under", "virgin", "wire", "with", "working"]
+  },
+  {
+    id: "inst-140-instrument-tee",
+    sno: 140,
+    name: "Instrument Tee",
+    brand: "Swagelok",
+    category: "instrumentation",
+    subCategory: "Instrument Fittings & Tubing",
+    image: null,
+    description: "Industrial-grade Instrument Tee supplied by Bahjat Enterprises to certified industrial standards. Engineered for process control, oil & gas, refineries, petrochemical, and instrumentation applications. Forged Branch Instrument Tee (Run Tube x Branch Female NPT) constructed from ASTM A182 F316 / SS316L / Brass. Designed for reliable continuous operation, safety compliance, and maximum measurement accuracy.",
+    specs: {
+          "Product": "Instrument Tee",
+          "Brand": "Swagelok",
+          "Category": "Instrument Fittings & Tubing",
+          "Industrial Standard": "ASME B31.3 / MSS-SP-99",
+          "Sizes": "1/4\" Tube x 1/4\" Female NPT, 1/2\" Tube x 1/2\" Female NPT",
+          "Working Pressure": "Up to 6,000 PSI (413 bar)",
+          "Application": "Installing test gauges, bleed valves, or pressure switches on tube impulse lines"
+    },
+    rawSpecs: "Instrument Tee - Forged Branch Instrument Tee (Run Tube x Branch Female NPT), Brand: Swagelok, Material: ASTM A182 F316 / SS316L / Brass, Industrial Standard: ASME B31.3 / MSS-SP-99, Sizes: 1/4\" Tube x 1/4\" Female NPT, 1/2\" Tube x 1/2\" Female NPT, Working Pressure: Up to 6,000 PSI (413 bar), Application: Installing test gauges, bleed valves, or pressure switches on tube impulse lines",
+    tags: ["a182", "accuracy", "and", "application", "applications", "asme", "astm", "b31", "bahjat", "bar", "bleed", "branch", "brand", "brass", "category", "compliance", "constructed", "continuous", "control", "designed", "engineered", "engineering", "enterprises", "f316", "female", "fittings", "for", "forged", "from", "gas", "gauges", "grade", "impulse", "industrial", "installing", "instrument", "instrumentation", "lines", "maximum", "measurement", "mss", "npt", "oil", "operation", "petrochemical", "pressure", "process", "product", "psi", "refineries", "reliable", "run", "safety", "sizes", "ss316l", "standard", "supplied", "swagelok", "switches", "tee", "test", "the", "tube", "tubing", "under", "valves", "working"]
+  },
+  {
+    id: "inst-141-level-instruments",
+    sno: 141,
+    name: "Level Instruments",
+    brand: "VEGA",
+    category: "instrumentation",
+    subCategory: "Level Instruments & Switches",
+    image: null,
+    description: "Industrial-grade Level Instruments supplied by Bahjat Enterprises to certified industrial standards. Engineered for process control, oil & gas, refineries, petrochemical, and instrumentation applications. Industrial Tank & Silo Continuous Level Measurement Devices constructed from SS316L / PTFE / Hastelloy C / Aluminium Housing. Designed for reliable continuous operation, safety compliance, and maximum measurement accuracy.",
+    specs: {
+          "Product": "Level Instruments",
+          "Brand": "VEGA",
+          "Category": "Level Instruments & Switches",
+          "Industrial Standard": "IEC 61508 SIL 2/3 / ATEX Zone 0 Ex ia",
+          "Measurement Technologies": "80 GHz Non-Contact Radar, Guided Wave Radar (TDR), Ultrasonic, Hydrostatic DP",
+          "Process Range": "0 to 120 meters (0 to 393 feet)",
+          "Outputs": "4-20 mA HART, Profibus PA, Foundation Fieldbus, Modbus"
+    },
+    rawSpecs: "Level Instruments - Industrial Tank & Silo Continuous Level Measurement Devices, Brand: VEGA, Material: SS316L / PTFE / Hastelloy C / Aluminium Housing, Industrial Standard: IEC 61508 SIL 2/3 / ATEX Zone 0 Ex ia, Measurement Technologies: 80 GHz Non-Contact Radar, Guided Wave Radar (TDR), Ultrasonic, Hydrostatic DP, Process Range: 0 to 120 meters (0 to 393 feet), Outputs: 4-20 mA HART, Profibus PA, Foundation Fieldbus, Modbus",
+    tags: ["accuracy", "aluminium", "and", "applications", "atex", "bahjat", "brand", "category", "compliance", "constructed", "contact", "continuous", "control", "designed", "devices", "engineered", "engineering", "enterprises", "feet", "fieldbus", "for", "foundation", "from", "gas", "ghz", "grade", "guided", "hart", "hastelloy", "housing", "hydrostatic", "iec", "industrial", "instrumentation", "instruments", "level", "maximum", "measurement", "meters", "modbus", "non", "oil", "operation", "outputs", "petrochemical", "process", "product", "profibus", "ptfe", "radar", "range", "refineries", "reliable", "safety", "sil", "silo", "ss316l", "standard", "supplied", "switches", "tank", "tdr", "technologies", "the", "ultrasonic", "under", "vega", "wave", "zone"]
+  },
+  {
+    id: "inst-142-metal-tube-rotameter",
+    sno: 142,
+    name: "Metal Tube Rotameter",
+    brand: "Yokogawa",
+    category: "instrumentation",
+    subCategory: "Flow Meters & Flow Sensors",
+    image: null,
+    description: "Industrial-grade Metal Tube Rotameter supplied by Bahjat Enterprises to certified industrial standards. Engineered for process control, oil & gas, refineries, petrochemical, and instrumentation applications. Armored Variable Area Flow Meter (Rotameter) constructed from AISI 316 Stainless Steel Body with Magnetic Float. Designed for reliable continuous operation, safety compliance, and maximum measurement accuracy.",
+    specs: {
+          "Product": "Metal Tube Rotameter",
+          "Brand": "Yokogawa",
+          "Category": "Flow Meters & Flow Sensors",
+          "Industrial Standard": "VDI/VDE 3513 / ASME B16.5 Flanges",
+          "Sizes": "DN15 to DN100 (1/2\" to 4\" Flanged ANSI 150/300#)",
+          "Indicator": "Mechanical Dial Pointer with Optional 4-20 mA HART & Limit Switches",
+          "Application": "High-pressure, high-temperature opaque liquids, gases, and steam lines"
+    },
+    rawSpecs: "Metal Tube Rotameter - Armored Variable Area Flow Meter (Rotameter), Brand: Yokogawa, Material: AISI 316 Stainless Steel Body with Magnetic Float, Industrial Standard: VDI/VDE 3513 / ASME B16.5 Flanges, Sizes: DN15 to DN100 (1/2\" to 4\" Flanged ANSI 150/300#), Indicator: Mechanical Dial Pointer with Optional 4-20 mA HART & Limit Switches, Application: High-pressure, high-temperature opaque liquids, gases, and steam lines",
+    tags: ["accuracy", "aisi", "and", "ansi", "application", "applications", "area", "armored", "asme", "b16", "bahjat", "body", "brand", "category", "compliance", "constructed", "continuous", "control", "designed", "dial", "dn100", "dn15", "engineered", "engineering", "enterprises", "flanged", "flanges", "float", "flow", "for", "from", "gas", "gases", "grade", "hart", "high", "indicator", "industrial", "instrumentation", "limit", "lines", "liquids", "magnetic", "maximum", "measurement", "mechanical", "metal", "meter", "meters", "oil", "opaque", "operation", "optional", "petrochemical", "pointer", "pressure", "process", "product", "refineries", "reliable", "rotameter", "safety", "sensors", "sizes", "stainless", "standard", "steam", "steel", "supplied", "switches", "temperature", "the", "tube", "under", "variable", "vde", "vdi", "with", "yokogawa"]
+  },
+  {
+    id: "inst-143-microcontroller",
+    sno: 143,
+    name: "Microcontroller",
+    brand: "Siemens",
+    category: "instrumentation",
+    subCategory: "Controllers, PLCs & Automation",
+    image: null,
+    description: "Industrial-grade Microcontroller supplied by Bahjat Enterprises to certified industrial standards. Engineered for process control, oil & gas, refineries, petrochemical, and instrumentation applications. Compact Industrial Programmable Micro-Controller / Smart Relay constructed from Flame Retardant Industrial Thermoplastic DIN-Rail Mount. Designed for reliable continuous operation, safety compliance, and maximum measurement accuracy.",
+    specs: {
+          "Product": "Microcontroller",
+          "Brand": "Siemens",
+          "Category": "Controllers, PLCs & Automation",
+          "Industrial Standard": "CE, UL, cULus, IEC 61131-3 Programming Standard",
+          "Supply Voltage": "12/24V DC or 115/230V AC",
+          "Features": "Integrated Display, Real-Time Clock, Ethernet Port, Analog & Digital I/O",
+          "Application": "Small machine automation, pump changeover logic, HVAC fan control"
+    },
+    rawSpecs: "Microcontroller - Compact Industrial Programmable Micro-Controller / Smart Relay, Brand: Siemens, Material: Flame Retardant Industrial Thermoplastic DIN-Rail Mount, Industrial Standard: CE, UL, cULus, IEC 61131-3 Programming Standard, Supply Voltage: 12/24V DC or 115/230V AC, Features: Integrated Display, Real-Time Clock, Ethernet Port, Analog & Digital I/O, Application: Small machine automation, pump changeover logic, HVAC fan control",
+    tags: ["230v", "24v", "accuracy", "analog", "and", "application", "applications", "automation", "bahjat", "brand", "category", "changeover", "clock", "compact", "compliance", "constructed", "continuous", "control", "controller", "controllers", "culus", "designed", "digital", "din", "display", "engineered", "engineering", "enterprises", "ethernet", "fan", "features", "flame", "for", "from", "gas", "grade", "hvac", "iec", "industrial", "instrumentation", "integrated", "logic", "machine", "maximum", "measurement", "micro", "microcontroller", "mount", "oil", "operation", "petrochemical", "plcs", "port", "process", "product", "programmable", "programming", "pump", "rail", "real", "refineries", "relay", "reliable", "retardant", "safety", "siemens", "small", "smart", "standard", "supplied", "supply", "the", "thermoplastic", "time", "under", "voltage"]
+  },
+  {
+    id: "inst-144-moisture-analyzer",
+    sno: 144,
+    name: "Moisture Analyzer",
+    brand: "Endress+Hauser (E+H)",
+    category: "instrumentation",
+    subCategory: "Analyzers & Calibration",
+    image: null,
+    description: "Industrial-grade Moisture Analyzer supplied by Bahjat Enterprises to certified industrial standards. Engineered for process control, oil & gas, refineries, petrochemical, and instrumentation applications. Trace Moisture & Dewpoint Transmitter constructed from SS316 Sensor with Aluminium Oxide (Al2O3) Moisture Core. Designed for reliable continuous operation, safety compliance, and maximum measurement accuracy.",
+    specs: {
+          "Product": "Moisture Analyzer",
+          "Brand": "Endress+Hauser (E+H)",
+          "Category": "Analyzers & Calibration",
+          "Industrial Standard": "ISO 8573-1 Compressed Air Quality Standard",
+          "Dewpoint Range": "-100 deg C to +20 deg C Td (-148 deg F to +68 deg F)",
+          "Output": "Loop-Powered 4-20 mA with Modbus RTU",
+          "Application": "Instrument air dryer verification, natural gas dehydration, glove box purity"
+    },
+    rawSpecs: "Moisture Analyzer - Trace Moisture & Dewpoint Transmitter, Brand: Endress+Hauser (E+H), Material: SS316 Sensor with Aluminium Oxide (Al2O3) Moisture Core, Industrial Standard: ISO 8573-1 Compressed Air Quality Standard, Dewpoint Range: -100 deg C to +20 deg C Td (-148 deg F to +68 deg F), Output: Loop-Powered 4-20 mA with Modbus RTU, Application: Instrument air dryer verification, natural gas dehydration, glove box purity",
+    tags: ["accuracy", "air", "al2o3", "aluminium", "analyzer", "analyzers", "and", "application", "applications", "bahjat", "box", "brand", "calibration", "category", "compliance", "compressed", "constructed", "continuous", "control", "core", "deg", "dehydration", "designed", "dewpoint", "dryer", "endress", "engineered", "engineering", "enterprises", "for", "from", "gas", "glove", "grade", "hauser", "industrial", "instrument", "instrumentation", "iso", "loop", "maximum", "measurement", "modbus", "moisture", "natural", "oil", "operation", "output", "oxide", "petrochemical", "powered", "process", "product", "purity", "quality", "range", "refineries", "reliable", "rtu", "safety", "sensor", "ss316", "standard", "supplied", "the", "trace", "transmitter", "under", "verification", "with"]
+  },
+  {
+    id: "inst-145-moisture-separator",
+    sno: 145,
+    name: "Moisture Separator",
+    brand: "SMC",
+    category: "instrumentation",
+    subCategory: "Pneumatic & Air Supplies",
+    image: null,
+    description: "Industrial-grade Moisture Separator supplied by Bahjat Enterprises to certified industrial standards. Engineered for process control, oil & gas, refineries, petrochemical, and instrumentation applications. Cyclonic High-Efficiency Compressed Air Water Separator constructed from Die-Cast Aluminium Housing with Auto Drain Valve. Designed for reliable continuous operation, safety compliance, and maximum measurement accuracy.",
+    specs: {
+          "Product": "Moisture Separator",
+          "Brand": "SMC",
+          "Category": "Pneumatic & Air Supplies",
+          "Industrial Standard": "ISO 12500-4 Compressed Air Water Separator Standard",
+          "Port Sizes": "1/4\", 3/8\", 1/2\", 3/4\", 1\", 1-1/2\", 2\" BSP/NPT",
+          "Water Removal Efficiency": "99% Liquid Water Separation",
+          "Max Pressure": "10 bar (145 PSI), Manual or Automatic Float Drain"
+    },
+    rawSpecs: "Moisture Separator - Cyclonic High-Efficiency Compressed Air Water Separator, Brand: SMC, Material: Die-Cast Aluminium Housing with Auto Drain Valve, Industrial Standard: ISO 12500-4 Compressed Air Water Separator Standard, Port Sizes: 1/4\", 3/8\", 1/2\", 3/4\", 1\", 1-1/2\", 2\" BSP/NPT, Water Removal Efficiency: 99% Liquid Water Separation, Max Pressure: 10 bar (145 PSI), Manual or Automatic Float Drain",
+    tags: ["accuracy", "air", "aluminium", "and", "applications", "auto", "automatic", "bahjat", "bar", "brand", "bsp", "cast", "category", "compliance", "compressed", "constructed", "continuous", "control", "cyclonic", "designed", "die", "drain", "efficiency", "engineered", "engineering", "enterprises", "float", "for", "from", "gas", "grade", "high", "housing", "industrial", "instrumentation", "iso", "liquid", "manual", "max", "maximum", "measurement", "moisture", "npt", "oil", "operation", "petrochemical", "pneumatic", "port", "pressure", "process", "product", "psi", "refineries", "reliable", "removal", "safety", "separation", "separator", "sizes", "smc", "standard", "supplied", "supplies", "the", "under", "valve", "water", "with"]
+  },
+  {
+    id: "inst-146-motion-devices",
+    sno: 146,
+    name: "Motion Devices",
+    brand: "Siemens",
+    category: "instrumentation",
+    subCategory: "Controllers, PLCs & Automation",
+    image: null,
+    description: "Industrial-grade Motion Devices supplied by Bahjat Enterprises to certified industrial standards. Engineered for process control, oil & gas, refineries, petrochemical, and instrumentation applications. Industrial Servo Drive & Motion Controller constructed from Compact IP20 Metal Enclosure with Cooling Heat Sink. Designed for reliable continuous operation, safety compliance, and maximum measurement accuracy.",
+    specs: {
+          "Product": "Motion Devices",
+          "Brand": "Siemens",
+          "Category": "Controllers, PLCs & Automation",
+          "Industrial Standard": "IEC 61800-5-1 / CE / UL Listed",
+          "Power Range": "0.1 kW to 15 kW (Single-phase / 3-phase 200V-480V)",
+          "Control Interfaces": "Profinet IRT, EtherCAT, CANopen, Pulse/Direction",
+          "Application": "Multi-axis positioning, packaging machines, CNC rotary tables, automated robotics"
+    },
+    rawSpecs: "Motion Devices - Industrial Servo Drive & Motion Controller, Brand: Siemens, Material: Compact IP20 Metal Enclosure with Cooling Heat Sink, Industrial Standard: IEC 61800-5-1 / CE / UL Listed, Power Range: 0.1 kW to 15 kW (Single-phase / 3-phase 200V-480V), Control Interfaces: Profinet IRT, EtherCAT, CANopen, Pulse/Direction, Application: Multi-axis positioning, packaging machines, CNC rotary tables, automated robotics",
+    tags: ["200v", "480v", "accuracy", "and", "application", "applications", "automated", "automation", "axis", "bahjat", "brand", "canopen", "category", "cnc", "compact", "compliance", "constructed", "continuous", "control", "controller", "controllers", "cooling", "designed", "devices", "direction", "drive", "enclosure", "engineered", "engineering", "enterprises", "ethercat", "for", "from", "gas", "grade", "heat", "iec", "industrial", "instrumentation", "interfaces", "ip20", "irt", "listed", "machines", "maximum", "measurement", "metal", "motion", "multi", "oil", "operation", "packaging", "petrochemical", "phase", "plcs", "positioning", "power", "process", "product", "profinet", "pulse", "range", "refineries", "reliable", "robotics", "rotary", "safety", "servo", "siemens", "single", "sink", "standard", "supplied", "tables", "the", "under", "with"]
+  },
+  {
+    id: "inst-147-multifunction-process-calibrator",
+    sno: 147,
+    name: "Multifunction Process Calibrator",
+    brand: "Fluke",
+    category: "instrumentation",
+    subCategory: "Analyzers & Calibration",
+    image: null,
+    description: "Industrial-grade Multifunction Process Calibrator supplied by Bahjat Enterprises to certified industrial standards. Engineered for process control, oil & gas, refineries, petrochemical, and instrumentation applications. Documenting Multi-Function Field Calibrator with HART constructed from Rugged Overmolded Field Casing with IP52 Seal. Designed for reliable continuous operation, safety compliance, and maximum measurement accuracy.",
+    specs: {
+          "Product": "Multifunction Process Calibrator",
+          "Brand": "Fluke",
+          "Category": "Analyzers & Calibration",
+          "Industrial Standard": "CAT II 300V / ISO 9001 Calibration Certified",
+          "Capabilities": "Measures & sources mA, volts, temperature (13 RTDs, 13 TCs), frequency, ohms, and pressure modules",
+          "Memory": "Automatic automated calibration procedure execution and results logging",
+          "Application": "Plant turnaround instrument testing, control loop commissioning, transmitter calibration"
+    },
+    rawSpecs: "Multifunction Process Calibrator - Documenting Multi-Function Field Calibrator with HART, Brand: Fluke, Material: Rugged Overmolded Field Casing with IP52 Seal, Industrial Standard: CAT II 300V / ISO 9001 Calibration Certified, Capabilities: Measures & sources mA, volts, temperature (13 RTDs, 13 TCs), frequency, ohms, and pressure modules, Memory: Automatic automated calibration procedure execution and results logging, Application: Plant turnaround instrument testing, control loop commissioning, transmitter calibration",
+    tags: ["300v", "accuracy", "analyzers", "and", "application", "applications", "automated", "automatic", "bahjat", "brand", "calibration", "calibrator", "capabilities", "casing", "cat", "category", "certified", "commissioning", "compliance", "constructed", "continuous", "control", "designed", "documenting", "engineered", "engineering", "enterprises", "execution", "field", "fluke", "for", "frequency", "from", "function", "gas", "grade", "hart", "industrial", "instrument", "instrumentation", "ip52", "iso", "logging", "loop", "maximum", "measurement", "measures", "memory", "modules", "multi", "multifunction", "ohms", "oil", "operation", "overmolded", "petrochemical", "plant", "pressure", "procedure", "process", "product", "refineries", "reliable", "results", "rtds", "rugged", "safety", "seal", "sources", "standard", "supplied", "tcs", "temperature", "testing", "the", "transmitter", "turnaround", "under", "volts", "with"]
+  },
+  {
+    id: "inst-148-oxygen-analyzer",
+    sno: 148,
+    name: "Oxygen Analyzer",
+    brand: "Yokogawa",
+    category: "instrumentation",
+    subCategory: "Analyzers & Calibration",
+    image: null,
+    description: "Industrial-grade Oxygen Analyzer supplied by Bahjat Enterprises to certified industrial standards. Engineered for process control, oil & gas, refineries, petrochemical, and instrumentation applications. Paramagnetic / Zirconia High Precision O2 Process Analyzer constructed from Stainless Steel 316 / Weatherproof Electronics Cast Enclosure. Designed for reliable continuous operation, safety compliance, and maximum measurement accuracy.",
+    specs: {
+          "Product": "Oxygen Analyzer",
+          "Brand": "Yokogawa",
+          "Category": "Analyzers & Calibration",
+          "Industrial Standard": "ATEX Ex d IIC T4 Flameproof / SIL 2",
+          "Measurement Range": "0 to 1% up to 0 to 100% Vol O2 Auto-Ranging",
+          "Linearity": "+/- 0.05% O2 / Fast Response (T90 < 5 sec)",
+          "Application": "Vessel inerting nitrogen blankets, oxygen purity in air separation units (ASU), flue gas"
+    },
+    rawSpecs: "Oxygen Analyzer - Paramagnetic / Zirconia High Precision O2 Process Analyzer, Brand: Yokogawa, Material: Stainless Steel 316 / Weatherproof Electronics Cast Enclosure, Industrial Standard: ATEX Ex d IIC T4 Flameproof / SIL 2, Measurement Range: 0 to 1% up to 0 to 100% Vol O2 Auto-Ranging, Linearity: +/- 0.05% O2 / Fast Response (T90 < 5 sec), Application: Vessel inerting nitrogen blankets, oxygen purity in air separation units (ASU), flue gas",
+    tags: ["accuracy", "air", "analyzer", "analyzers", "and", "application", "applications", "asu", "atex", "auto", "bahjat", "blankets", "brand", "calibration", "cast", "category", "compliance", "constructed", "continuous", "control", "designed", "electronics", "enclosure", "engineered", "engineering", "enterprises", "fast", "flameproof", "flue", "for", "from", "gas", "grade", "high", "iic", "industrial", "inerting", "instrumentation", "linearity", "maximum", "measurement", "nitrogen", "oil", "operation", "oxygen", "paramagnetic", "petrochemical", "precision", "process", "product", "purity", "range", "ranging", "refineries", "reliable", "response", "safety", "sec", "separation", "sil", "stainless", "standard", "steel", "supplied", "t90", "the", "under", "units", "vessel", "vol", "weatherproof", "yokogawa", "zirconia"]
+  },
+  {
+    id: "inst-149-oxygen-concentrator",
+    sno: 149,
+    name: "Oxygen Concentrator",
+    brand: "ABB",
+    category: "instrumentation",
+    subCategory: "Analyzers & Calibration",
+    image: null,
+    description: "Industrial-grade Oxygen Concentrator supplied by Bahjat Enterprises to certified industrial standards. Engineered for process control, oil & gas, refineries, petrochemical, and instrumentation applications. Pressure Swing Adsorption (PSA) Oxygen Generation Unit constructed from Structural Steel Frame with Zeolite Molecular Sieve Towers. Designed for reliable continuous operation, safety compliance, and maximum measurement accuracy.",
+    specs: {
+          "Product": "Oxygen Concentrator",
+          "Brand": "ABB",
+          "Category": "Analyzers & Calibration",
+          "Industrial Standard": "ISO 13485 / ASME Section VIII Pressure Vessels",
+          "Output Purity": "93% to 95.5% Constant O2 Purity",
+          "Delivery Pressure": "4 to 6 bar (60 to 87 PSI)",
+          "Application": "Industrial ozone generation, wastewater oxidation, metallurgy, medical hospital supply"
+    },
+    rawSpecs: "Oxygen Concentrator - Pressure Swing Adsorption (PSA) Oxygen Generation Unit, Brand: ABB, Material: Structural Steel Frame with Zeolite Molecular Sieve Towers, Industrial Standard: ISO 13485 / ASME Section VIII Pressure Vessels, Output Purity: 93% to 95.5% Constant O2 Purity, Delivery Pressure: 4 to 6 bar (60 to 87 PSI), Application: Industrial ozone generation, wastewater oxidation, metallurgy, medical hospital supply",
+    tags: ["abb", "accuracy", "adsorption", "analyzers", "and", "application", "applications", "asme", "bahjat", "bar", "brand", "calibration", "category", "compliance", "concentrator", "constant", "constructed", "continuous", "control", "delivery", "designed", "engineered", "engineering", "enterprises", "for", "frame", "from", "gas", "generation", "grade", "hospital", "industrial", "instrumentation", "iso", "maximum", "measurement", "medical", "metallurgy", "molecular", "oil", "operation", "output", "oxidation", "oxygen", "ozone", "petrochemical", "pressure", "process", "product", "psa", "psi", "purity", "refineries", "reliable", "safety", "section", "sieve", "standard", "steel", "structural", "supplied", "supply", "swing", "the", "towers", "under", "unit", "vessels", "viii", "wastewater", "with", "zeolite"]
+  },
+  {
+    id: "inst-150-pipe-clamp",
+    sno: 150,
+    name: "Pipe Clamp",
+    brand: "Parker",
+    category: "instrumentation",
+    subCategory: "Instrument Fittings & Tubing",
+    image: null,
+    description: "Industrial-grade Pipe Clamp supplied by Bahjat Enterprises to certified industrial standards. Engineered for process control, oil & gas, refineries, petrochemical, and instrumentation applications. DIN 3015 Hydraulic & Instrument Pipe Clamp constructed from Polypropylene (Green) / Polyamide Jaws with Carbon Steel / SS316 Hardware. Designed for reliable continuous operation, safety compliance, and maximum measurement accuracy.",
+    specs: {
+          "Product": "Pipe Clamp",
+          "Brand": "Parker",
+          "Category": "Instrument Fittings & Tubing",
+          "Industrial Standard": "DIN 3015 Part 1 (Standard Series) & Part 2 (Heavy Series)",
+          "Size Range": "6 mm to 102 mm (1/4\" to 4\" Pipe & Tube OD)",
+          "Temperature Range": "-30 deg C to +90 deg C (PP) / up to +120 deg C (PA)",
+          "Application": "Vibration dampening support for instrument impulse lines and hydraulic piping"
+    },
+    rawSpecs: "Pipe Clamp - DIN 3015 Hydraulic & Instrument Pipe Clamp, Brand: Parker, Material: Polypropylene (Green) / Polyamide Jaws with Carbon Steel / SS316 Hardware, Industrial Standard: DIN 3015 Part 1 (Standard Series) & Part 2 (Heavy Series), Size Range: 6 mm to 102 mm (1/4\" to 4\" Pipe & Tube OD), Temperature Range: -30 deg C to +90 deg C (PP) / up to +120 deg C (PA), Application: Vibration dampening support for instrument impulse lines and hydraulic piping",
+    tags: ["accuracy", "and", "application", "applications", "bahjat", "brand", "carbon", "category", "clamp", "compliance", "constructed", "continuous", "control", "dampening", "deg", "designed", "din", "engineered", "engineering", "enterprises", "fittings", "for", "from", "gas", "grade", "green", "hardware", "heavy", "hydraulic", "impulse", "industrial", "instrument", "instrumentation", "jaws", "lines", "maximum", "measurement", "oil", "operation", "parker", "part", "petrochemical", "pipe", "piping", "polyamide", "polypropylene", "process", "product", "range", "refineries", "reliable", "safety", "series", "size", "ss316", "standard", "steel", "supplied", "support", "temperature", "the", "tube", "tubing", "under", "vibration", "with"]
+  },
+  {
+    id: "inst-151-pneumatic-silencer",
+    sno: 151,
+    name: "Pneumatic Silencer",
+    brand: "SMC",
+    category: "instrumentation",
+    subCategory: "Pneumatic & Air Supplies",
+    image: null,
+    description: "Industrial-grade Pneumatic Silencer supplied by Bahjat Enterprises to certified industrial standards. Engineered for process control, oil & gas, refineries, petrochemical, and instrumentation applications. Sintered Bronze / Plastic Air Exhaust Muffler constructed from Sintered Porous Bronze / SS316 with Machined Brass Hex Body. Designed for reliable continuous operation, safety compliance, and maximum measurement accuracy.",
+    specs: {
+          "Product": "Pneumatic Silencer",
+          "Brand": "SMC",
+          "Category": "Pneumatic & Air Supplies",
+          "Industrial Standard": "OSHA 1910.95 Noise Control Standard",
+          "Thread Sizes": "1/8\", 1/4\", 3/8\", 1/2\", 3/4\", 1\" NPT / BSP Male",
+          "Noise Reduction": "Reduces exhaust air noise by 20 to 35 dB(A)",
+          "Max Pressure": "10 bar (145 PSI) Operating Limit"
+    },
+    rawSpecs: "Pneumatic Silencer - Sintered Bronze / Plastic Air Exhaust Muffler, Brand: SMC, Material: Sintered Porous Bronze / SS316 with Machined Brass Hex Body, Industrial Standard: OSHA 1910.95 Noise Control Standard, Thread Sizes: 1/8\", 1/4\", 3/8\", 1/2\", 3/4\", 1\" NPT / BSP Male, Noise Reduction: Reduces exhaust air noise by 20 to 35 dB(A), Max Pressure: 10 bar (145 PSI) Operating Limit",
+    tags: ["accuracy", "air", "and", "applications", "bahjat", "bar", "body", "brand", "brass", "bronze", "bsp", "category", "compliance", "constructed", "continuous", "control", "designed", "engineered", "engineering", "enterprises", "exhaust", "for", "from", "gas", "grade", "hex", "industrial", "instrumentation", "limit", "machined", "male", "max", "maximum", "measurement", "muffler", "noise", "npt", "oil", "operating", "operation", "osha", "petrochemical", "plastic", "pneumatic", "porous", "pressure", "process", "product", "psi", "reduces", "reduction", "refineries", "reliable", "safety", "silencer", "sintered", "sizes", "smc", "ss316", "standard", "supplied", "supplies", "the", "thread", "under", "with"]
+  },
+  {
+    id: "inst-152-portable-multigas-analyser",
+    sno: 152,
+    name: "Portable Multigas Analyser",
+    brand: "Fluke",
+    category: "instrumentation",
+    subCategory: "Analyzers & Calibration",
+    image: null,
+    description: "Industrial-grade Portable Multigas Analyser supplied by Bahjat Enterprises to certified industrial standards. Engineered for process control, oil & gas, refineries, petrochemical, and instrumentation applications. Multi-Sensor Handheld Environmental & Flue Gas Analyser constructed from Ruggedized Drop-Tested IP65 Housing with Backlit Display. Designed for reliable continuous operation, safety compliance, and maximum measurement accuracy.",
+    specs: {
+          "Product": "Portable Multigas Analyser",
+          "Brand": "Fluke",
+          "Category": "Analyzers & Calibration",
+          "Industrial Standard": "EN 50379-1 & EN 50379-2 Flue Gas Standard",
+          "Measured Gases": "O2, CO (with H2 compensation), NO, NO2, SO2, CO2 calculated",
+          "Internal Pump": "Integrated Sample Draw Pump with Moisture Trap and Particulate Filter",
+          "Application": "Burner tuning, furnace emissions inspection, environmental compliance checks"
+    },
+    rawSpecs: "Portable Multigas Analyser - Multi-Sensor Handheld Environmental & Flue Gas Analyser, Brand: Fluke, Material: Ruggedized Drop-Tested IP65 Housing with Backlit Display, Industrial Standard: EN 50379-1 & EN 50379-2 Flue Gas Standard, Measured Gases: O2, CO (with H2 compensation), NO, NO2, SO2, CO2 calculated, Internal Pump: Integrated Sample Draw Pump with Moisture Trap and Particulate Filter, Application: Burner tuning, furnace emissions inspection, environmental compliance checks",
+    tags: ["accuracy", "analyser", "analyzers", "and", "application", "applications", "backlit", "bahjat", "brand", "burner", "calculated", "calibration", "category", "checks", "co2", "compensation", "compliance", "constructed", "continuous", "control", "designed", "display", "draw", "drop", "emissions", "engineered", "engineering", "enterprises", "environmental", "filter", "flue", "fluke", "for", "from", "furnace", "gas", "gases", "grade", "handheld", "housing", "industrial", "inspection", "instrumentation", "integrated", "internal", "ip65", "maximum", "measured", "measurement", "moisture", "multi", "multigas", "no2", "oil", "operation", "particulate", "petrochemical", "portable", "process", "product", "pump", "refineries", "reliable", "ruggedized", "safety", "sample", "sensor", "so2", "standard", "supplied", "tested", "the", "trap", "tuning", "under", "with"]
+  },
+  {
+    id: "inst-153-positioner",
+    sno: 153,
+    name: "Positioner",
+    brand: "Samson",
+    category: "instrumentation",
+    subCategory: "Control Valves & Actuators",
+    image: null,
+    description: "Industrial-grade Positioner supplied by Bahjat Enterprises to certified industrial standards. Engineered for process control, oil & gas, refineries, petrochemical, and instrumentation applications. Electro-Pneumatic Smart Valve Positioner constructed from Die-Cast Aluminium Epoxy Coated Enclosure (IP66 / NEMA 4X). Designed for reliable continuous operation, safety compliance, and maximum measurement accuracy.",
+    specs: {
+          "Product": "Positioner",
+          "Brand": "Samson",
+          "Category": "Control Valves & Actuators",
+          "Industrial Standard": "NAMUR IEC 60534-6 / VDI/VDE 3845 Mounting / SIL 3",
+          "Input Signal": "4-20 mA with HART 7 / Profibus PA / Foundation Fieldbus",
+          "Action": "Single or Double Acting for Linear and Rotary Actuators",
+          "Features": "Automatic self-calibration, partial stroke test (PST), valve diagnostic logging"
+    },
+    rawSpecs: "Positioner - Electro-Pneumatic Smart Valve Positioner, Brand: Samson, Material: Die-Cast Aluminium Epoxy Coated Enclosure (IP66 / NEMA 4X), Industrial Standard: NAMUR IEC 60534-6 / VDI/VDE 3845 Mounting / SIL 3, Input Signal: 4-20 mA with HART 7 / Profibus PA / Foundation Fieldbus, Action: Single or Double Acting for Linear and Rotary Actuators, Features: Automatic self-calibration, partial stroke test (PST), valve diagnostic logging",
+    tags: ["accuracy", "acting", "action", "actuators", "aluminium", "and", "applications", "automatic", "bahjat", "brand", "calibration", "cast", "category", "coated", "compliance", "constructed", "continuous", "control", "designed", "diagnostic", "die", "double", "electro", "enclosure", "engineered", "engineering", "enterprises", "epoxy", "features", "fieldbus", "for", "foundation", "from", "gas", "grade", "hart", "iec", "industrial", "input", "instrumentation", "ip66", "linear", "logging", "maximum", "measurement", "mounting", "namur", "nema", "oil", "operation", "partial", "petrochemical", "pneumatic", "positioner", "process", "product", "profibus", "pst", "refineries", "reliable", "rotary", "safety", "samson", "self", "signal", "sil", "single", "smart", "standard", "stroke", "supplied", "test", "the", "under", "valve", "valves", "vde", "vdi", "with"]
+  },
+  {
+    id: "inst-154-precision-multimeter",
+    sno: 154,
+    name: "Precision Multimeter",
+    brand: "Fluke",
+    category: "instrumentation",
+    subCategory: "Analyzers & Calibration",
+    image: null,
+    description: "Industrial-grade Precision Multimeter supplied by Bahjat Enterprises to certified industrial standards. Engineered for process control, oil & gas, refineries, petrochemical, and instrumentation applications. 6.5 Digit High-Precision Bench / Field Digital Multimeter constructed from Dual Display Ruggedized Heavy Duty Laboratory Housing. Designed for reliable continuous operation, safety compliance, and maximum measurement accuracy.",
+    specs: {
+          "Product": "Precision Multimeter",
+          "Brand": "Fluke",
+          "Category": "Analyzers & Calibration",
+          "Industrial Standard": "CAT I 1000V / CAT II 600V / ISO 17025 Accredited",
+          "DC Voltage Accuracy": "0.0024% Basic Accuracy (6.5 Digit Resolution)",
+          "Measurements": "DCV, ACV, DCI, ACI, 2/4-Wire Resistance, Frequency, Period, Temperature",
+          "Application": "Calibrating transmitters, precision standard resistors, and reference signals"
+    },
+    rawSpecs: "Precision Multimeter - 6.5 Digit High-Precision Bench / Field Digital Multimeter, Brand: Fluke, Material: Dual Display Ruggedized Heavy Duty Laboratory Housing, Industrial Standard: CAT I 1000V / CAT II 600V / ISO 17025 Accredited, DC Voltage Accuracy: 0.0024% Basic Accuracy (6.5 Digit Resolution), Measurements: DCV, ACV, DCI, ACI, 2/4-Wire Resistance, Frequency, Period, Temperature, Application: Calibrating transmitters, precision standard resistors, and reference signals",
+    tags: ["1000v", "600v", "accredited", "accuracy", "aci", "acv", "analyzers", "and", "application", "applications", "bahjat", "basic", "bench", "brand", "calibrating", "calibration", "cat", "category", "compliance", "constructed", "continuous", "control", "dci", "dcv", "designed", "digit", "digital", "display", "dual", "duty", "engineered", "engineering", "enterprises", "field", "fluke", "for", "frequency", "from", "gas", "grade", "heavy", "high", "housing", "industrial", "instrumentation", "iso", "laboratory", "maximum", "measurement", "measurements", "multimeter", "oil", "operation", "period", "petrochemical", "precision", "process", "product", "reference", "refineries", "reliable", "resistance", "resistors", "resolution", "ruggedized", "safety", "signals", "standard", "supplied", "temperature", "the", "transmitters", "under", "voltage", "wire"]
+  },
+  {
+    id: "inst-155-pressure-calibration-pump",
+    sno: 155,
+    name: "Pressure Calibration Pump",
+    brand: "WIKA",
+    category: "instrumentation",
+    subCategory: "Analyzers & Calibration",
+    image: null,
+    description: "Industrial-grade Pressure Calibration Pump supplied by Bahjat Enterprises to certified industrial standards. Engineered for process control, oil & gas, refineries, petrochemical, and instrumentation applications. Pneumatic & Hydraulic Dual Handheld Calibration Test Pump constructed from Anodized Aluminium Body with Stainless Steel Wetted Parts. Designed for reliable continuous operation, safety compliance, and maximum measurement accuracy.",
+    specs: {
+          "Product": "Pressure Calibration Pump",
+          "Brand": "WIKA",
+          "Category": "Analyzers & Calibration",
+          "Industrial Standard": "ASME B40.100 Compatible Test Standard",
+          "Generated Pressure": "Vacuum -0.95 bar up to +40 bar (Pneumatic) / up to 700 bar (Hydraulic)",
+          "Fine Adjustment": "Micro-Vernier Needle Adjustment for Precise Setpoint Trimming",
+          "Application": "Field testing and calibration of pressure switches, gauges, and transmitters"
+    },
+    rawSpecs: "Pressure Calibration Pump - Pneumatic & Hydraulic Dual Handheld Calibration Test Pump, Brand: WIKA, Material: Anodized Aluminium Body with Stainless Steel Wetted Parts, Industrial Standard: ASME B40.100 Compatible Test Standard, Generated Pressure: Vacuum -0.95 bar up to +40 bar (Pneumatic) / up to 700 bar (Hydraulic), Fine Adjustment: Micro-Vernier Needle Adjustment for Precise Setpoint Trimming, Application: Field testing and calibration of pressure switches, gauges, and transmitters",
+    tags: ["accuracy", "adjustment", "aluminium", "analyzers", "and", "anodized", "application", "applications", "asme", "b40", "bahjat", "bar", "body", "brand", "calibration", "category", "compatible", "compliance", "constructed", "continuous", "control", "designed", "dual", "engineered", "engineering", "enterprises", "field", "fine", "for", "from", "gas", "gauges", "generated", "grade", "handheld", "hydraulic", "industrial", "instrumentation", "maximum", "measurement", "micro", "needle", "oil", "operation", "parts", "petrochemical", "pneumatic", "precise", "pressure", "process", "product", "pump", "refineries", "reliable", "safety", "setpoint", "stainless", "standard", "steel", "supplied", "switches", "test", "testing", "the", "transmitters", "trimming", "under", "vacuum", "vernier", "wetted", "wika", "with"]
+  },
+  {
+    id: "inst-156-pressure-gauge-adapter",
+    sno: 156,
+    name: "Pressure Gauge Adapter",
+    brand: "WIKA",
+    category: "instrumentation",
+    subCategory: "Pressure Gauges & Indicators",
+    image: null,
+    description: "Industrial-grade Pressure Gauge Adapter supplied by Bahjat Enterprises to certified industrial standards. Engineered for process control, oil & gas, refineries, petrochemical, and instrumentation applications. Precision Threaded Pressure Gauge Snubber & Swivel Adapter constructed from ASTM A479 Stainless Steel 316 / Brass. Designed for reliable continuous operation, safety compliance, and maximum measurement accuracy.",
+    specs: {
+          "Product": "Pressure Gauge Adapter",
+          "Brand": "WIKA",
+          "Category": "Pressure Gauges & Indicators",
+          "Industrial Standard": "EN 837-1 / ASME B1.20.1",
+          "Connections": "1/2\" NPT Male to G 1/2 Female Swivel / 1/4\" NPT to 1/2\" NPT",
+          "Pressure Rating": "Up to 10,000 PSI (689 bar)",
+          "Design": "Enables 360-degree positioning of pressure gauge dial face for easy readability"
+    },
+    rawSpecs: "Pressure Gauge Adapter - Precision Threaded Pressure Gauge Snubber & Swivel Adapter, Brand: WIKA, Material: ASTM A479 Stainless Steel 316 / Brass, Industrial Standard: EN 837-1 / ASME B1.20.1, Connections: 1/2\" NPT Male to G 1/2 Female Swivel / 1/4\" NPT to 1/2\" NPT, Pressure Rating: Up to 10,000 PSI (689 bar), Design: Enables 360-degree positioning of pressure gauge dial face for easy readability",
+    tags: ["a479", "accuracy", "adapter", "and", "applications", "asme", "astm", "bahjat", "bar", "brand", "brass", "category", "compliance", "connections", "constructed", "continuous", "control", "degree", "design", "designed", "dial", "easy", "enables", "engineered", "engineering", "enterprises", "face", "female", "for", "from", "gas", "gauge", "gauges", "grade", "indicators", "industrial", "instrumentation", "male", "maximum", "measurement", "npt", "oil", "operation", "petrochemical", "positioning", "precision", "pressure", "process", "product", "psi", "rating", "readability", "refineries", "reliable", "safety", "snubber", "stainless", "standard", "steel", "supplied", "swivel", "the", "threaded", "under", "wika"]
+  },
+  {
+    id: "inst-157-pressure-recorder",
+    sno: 157,
+    name: "Pressure Recorder",
+    brand: "WIKA",
+    category: "instrumentation",
+    subCategory: "Pressure Gauges & Indicators",
+    image: null,
+    description: "Industrial-grade Pressure Recorder supplied by Bahjat Enterprises to certified industrial standards. Engineered for process control, oil & gas, refineries, petrochemical, and instrumentation applications. Circular Chart / Digital Battery-Operated Pressure Recorder constructed from Heavy Die-Cast Weatherproof Pelican / Aluminium Enclosure. Designed for reliable continuous operation, safety compliance, and maximum measurement accuracy.",
+    specs: {
+          "Product": "Pressure Recorder",
+          "Brand": "WIKA",
+          "Category": "Pressure Gauges & Indicators",
+          "Industrial Standard": "NEMA 4X / IP65 / ATEX Intrinsically Safe",
+          "Chart Size": "8\", 10\", or 12\" Circular 24-Hour / 7-Day Mechanical Chart",
+          "Ranges": "0 to 10 bar up to 0 to 1000 bar (15,000 PSI)",
+          "Application": "Pipeline hydrostatic pressure testing, pipeline integrity audits, water distribution"
+    },
+    rawSpecs: "Pressure Recorder - Circular Chart / Digital Battery-Operated Pressure Recorder, Brand: WIKA, Material: Heavy Die-Cast Weatherproof Pelican / Aluminium Enclosure, Industrial Standard: NEMA 4X / IP65 / ATEX Intrinsically Safe, Chart Size: 8\", 10\", or 12\" Circular 24-Hour / 7-Day Mechanical Chart, Ranges: 0 to 10 bar up to 0 to 1000 bar (15,000 PSI), Application: Pipeline hydrostatic pressure testing, pipeline integrity audits, water distribution",
+    tags: ["accuracy", "aluminium", "and", "application", "applications", "atex", "audits", "bahjat", "bar", "battery", "brand", "cast", "category", "chart", "circular", "compliance", "constructed", "continuous", "control", "day", "designed", "die", "digital", "distribution", "enclosure", "engineered", "engineering", "enterprises", "for", "from", "gas", "gauges", "grade", "heavy", "hour", "hydrostatic", "indicators", "industrial", "instrumentation", "integrity", "intrinsically", "ip65", "maximum", "measurement", "mechanical", "nema", "oil", "operated", "operation", "pelican", "petrochemical", "pipeline", "pressure", "process", "product", "psi", "ranges", "recorder", "refineries", "reliable", "safe", "safety", "size", "standard", "supplied", "testing", "the", "under", "water", "weatherproof", "wika"]
+  },
+  {
+    id: "inst-158-pressure-restrictor",
+    sno: 158,
+    name: "Pressure Restrictor",
+    brand: "Swagelok",
+    category: "instrumentation",
+    subCategory: "Pressure Transmitters & Switches",
+    image: null,
+    description: "Industrial-grade Pressure Restrictor supplied by Bahjat Enterprises to certified industrial standards. Engineered for process control, oil & gas, refineries, petrochemical, and instrumentation applications. Calibrated Orifice Pressure & Surge Restrictor constructed from SS316 / Monel 400 with Laser-Drilled Precision Orifice. Designed for reliable continuous operation, safety compliance, and maximum measurement accuracy.",
+    specs: {
+          "Product": "Pressure Restrictor",
+          "Brand": "Swagelok",
+          "Category": "Pressure Transmitters & Switches",
+          "Industrial Standard": "ASME B31.3 / ISO 5167",
+          "Orifice Diameters": "0.010\" to 0.060\" (0.25 mm to 1.5 mm)",
+          "Connection": "1/4\" or 1/2\" NPT Male x Female Union Fitting",
+          "Application": "Restricts violent pressure surges and protects delicate transmitter diaphragm seals"
+    },
+    rawSpecs: "Pressure Restrictor - Calibrated Orifice Pressure & Surge Restrictor, Brand: Swagelok, Material: SS316 / Monel 400 with Laser-Drilled Precision Orifice, Industrial Standard: ASME B31.3 / ISO 5167, Orifice Diameters: 0.010\" to 0.060\" (0.25 mm to 1.5 mm), Connection: 1/4\" or 1/2\" NPT Male x Female Union Fitting, Application: Restricts violent pressure surges and protects delicate transmitter diaphragm seals",
+    tags: ["accuracy", "and", "application", "applications", "asme", "b31", "bahjat", "brand", "calibrated", "category", "compliance", "connection", "constructed", "continuous", "control", "delicate", "designed", "diameters", "diaphragm", "drilled", "engineered", "engineering", "enterprises", "female", "fitting", "for", "from", "gas", "grade", "industrial", "instrumentation", "iso", "laser", "male", "maximum", "measurement", "monel", "npt", "oil", "operation", "orifice", "petrochemical", "precision", "pressure", "process", "product", "protects", "refineries", "reliable", "restrictor", "restricts", "safety", "seals", "ss316", "standard", "supplied", "surge", "surges", "swagelok", "switches", "the", "transmitter", "transmitters", "under", "union", "violent", "with"]
+  },
+  {
+    id: "inst-159-pressure-switch-heavy-duty",
+    sno: 159,
+    name: "Pressure Switch (Heavy Duty)",
+    brand: "Danfoss",
+    category: "instrumentation",
+    subCategory: "Pressure Transmitters & Switches",
+    image: null,
+    description: "Industrial-grade Pressure Switch (Heavy Duty) supplied by Bahjat Enterprises to certified industrial standards. Engineered for process control, oil & gas, refineries, petrochemical, and instrumentation applications. Bellows / Diaphragm Industrial Pressure Switch constructed from Cast Aluminium Weatherproof / Explosion-Proof Enclosure with SS316 Wetted Element. Designed for reliable continuous operation, safety compliance, and maximum measurement accuracy.",
+    specs: {
+          "Product": "Pressure Switch (Heavy Duty)",
+          "Brand": "Danfoss",
+          "Category": "Pressure Transmitters & Switches",
+          "Industrial Standard": "EN 60947-5-1 / ATEX / IECEx / UL Listed",
+          "Adjustable Setpoint": "-0.2 to 21 bar / 10 to 400 bar Differential Adjustable",
+          "Electrical Contact": "SPDT Microswitch rated 10A @ 250VAC / Gold Contacts for Low Signals",
+          "Application": "Compressor trip control, lube oil low pressure shutdown, boiler safety limit"
+    },
+    rawSpecs: "Pressure Switch (Heavy Duty) - Bellows / Diaphragm Industrial Pressure Switch, Brand: Danfoss, Material: Cast Aluminium Weatherproof / Explosion-Proof Enclosure with SS316 Wetted Element, Industrial Standard: EN 60947-5-1 / ATEX / IECEx / UL Listed, Adjustable Setpoint: -0.2 to 21 bar / 10 to 400 bar Differential Adjustable, Electrical Contact: SPDT Microswitch rated 10A @ 250VAC / Gold Contacts for Low Signals, Application: Compressor trip control, lube oil low pressure shutdown, boiler safety limit",
+    tags: ["10a", "250vac", "accuracy", "adjustable", "aluminium", "and", "application", "applications", "atex", "bahjat", "bar", "bellows", "boiler", "brand", "cast", "category", "compliance", "compressor", "constructed", "contact", "contacts", "continuous", "control", "danfoss", "designed", "diaphragm", "differential", "duty", "electrical", "element", "enclosure", "engineered", "engineering", "enterprises", "explosion", "for", "from", "gas", "gold", "grade", "heavy", "iecex", "industrial", "instrumentation", "limit", "listed", "low", "lube", "maximum", "measurement", "microswitch", "oil", "operation", "petrochemical", "pressure", "process", "product", "proof", "rated", "refineries", "reliable", "safety", "setpoint", "shutdown", "signals", "spdt", "ss316", "standard", "supplied", "switch", "switches", "the", "transmitters", "trip", "under", "weatherproof", "wetted", "with"]
+  },
+  {
+    id: "inst-160-quick-coupling",
+    sno: 160,
+    name: "Quick Coupling",
+    brand: "Parker",
+    category: "instrumentation",
+    subCategory: "Instrument Fittings & Tubing",
+    image: null,
+    description: "Industrial-grade Quick Coupling supplied by Bahjat Enterprises to certified industrial standards. Engineered for process control, oil & gas, refineries, petrochemical, and instrumentation applications. Double Shut-Off Hydraulic & Instrument Quick Disconnect Coupling constructed from Stainless Steel 316 / Brass with Fluorocarbon FKM Seals. Designed for reliable continuous operation, safety compliance, and maximum measurement accuracy.",
+    specs: {
+          "Product": "Quick Coupling",
+          "Brand": "Parker",
+          "Category": "Instrument Fittings & Tubing",
+          "Industrial Standard": "ISO 7241-1 Series B / ISO 16028",
+          "Sizes": "1/4\", 3/8\", 1/2\", 3/4\" NPT/BSPP Female Ends",
+          "Pressure Rating": "Up to 5,000 PSI (345 bar) Operating Pressure",
+          "Application": "Fast connection for test gauges, portable calibrators, and hydraulic power tools"
+    },
+    rawSpecs: "Quick Coupling - Double Shut-Off Hydraulic & Instrument Quick Disconnect Coupling, Brand: Parker, Material: Stainless Steel 316 / Brass with Fluorocarbon FKM Seals, Industrial Standard: ISO 7241-1 Series B / ISO 16028, Sizes: 1/4\", 3/8\", 1/2\", 3/4\" NPT/BSPP Female Ends, Pressure Rating: Up to 5,000 PSI (345 bar) Operating Pressure, Application: Fast connection for test gauges, portable calibrators, and hydraulic power tools",
+    tags: ["accuracy", "and", "application", "applications", "bahjat", "bar", "brand", "brass", "bspp", "calibrators", "category", "compliance", "connection", "constructed", "continuous", "control", "coupling", "designed", "disconnect", "double", "ends", "engineered", "engineering", "enterprises", "fast", "female", "fittings", "fkm", "fluorocarbon", "for", "from", "gas", "gauges", "grade", "hydraulic", "industrial", "instrument", "instrumentation", "iso", "maximum", "measurement", "npt", "off", "oil", "operating", "operation", "parker", "petrochemical", "portable", "power", "pressure", "process", "product", "psi", "quick", "rating", "refineries", "reliable", "safety", "seals", "series", "shut", "sizes", "stainless", "standard", "steel", "supplied", "test", "the", "tools", "tubing", "under", "with"]
+  },
+  {
+    id: "inst-161-radar-level-transmitter",
+    sno: 161,
+    name: "Radar Level Transmitter",
+    brand: "VEGA",
+    category: "instrumentation",
+    subCategory: "Level Instruments & Switches",
+    image: null,
+    description: "Industrial-grade Radar Level Transmitter supplied by Bahjat Enterprises to certified industrial standards. Engineered for process control, oil & gas, refineries, petrochemical, and instrumentation applications. 80 GHz Non-Contact Continuous Radar Level Transmitter constructed from PVDF / PEEK Lens Antenna with SS316L / Plastic Coated Flange. Designed for reliable continuous operation, safety compliance, and maximum measurement accuracy.",
+    specs: {
+          "Product": "Radar Level Transmitter",
+          "Brand": "VEGA",
+          "Category": "Level Instruments & Switches",
+          "Industrial Standard": "IEC 61508 SIL 2/3 / ATEX Zone 0 / IP68",
+          "Measuring Range": "0 to 120 meters (0 to 393 feet)",
+          "Beam Angle": "Narrow 3-degree beam for accurate measurement past vessel internals",
+          "Output": "4-20 mA HART, Bluetooth Wireless App Configuration"
+    },
+    rawSpecs: "Radar Level Transmitter - 80 GHz Non-Contact Continuous Radar Level Transmitter, Brand: VEGA, Material: PVDF / PEEK Lens Antenna with SS316L / Plastic Coated Flange, Industrial Standard: IEC 61508 SIL 2/3 / ATEX Zone 0 / IP68, Measuring Range: 0 to 120 meters (0 to 393 feet), Beam Angle: Narrow 3-degree beam for accurate measurement past vessel internals, Output: 4-20 mA HART, Bluetooth Wireless App Configuration",
+    tags: ["accuracy", "accurate", "and", "angle", "antenna", "app", "applications", "atex", "bahjat", "beam", "bluetooth", "brand", "category", "coated", "compliance", "configuration", "constructed", "contact", "continuous", "control", "degree", "designed", "engineered", "engineering", "enterprises", "feet", "flange", "for", "from", "gas", "ghz", "grade", "hart", "iec", "industrial", "instrumentation", "instruments", "internals", "ip68", "lens", "level", "maximum", "measurement", "measuring", "meters", "narrow", "non", "oil", "operation", "output", "past", "peek", "petrochemical", "plastic", "process", "product", "pvdf", "radar", "range", "refineries", "reliable", "safety", "sil", "ss316l", "standard", "supplied", "switches", "the", "transmitter", "under", "vega", "vessel", "wireless", "with", "zone"]
+  },
+  {
+    id: "inst-162-reducer",
+    sno: 162,
+    name: "Reducer",
+    brand: "Swagelok",
+    category: "instrumentation",
+    subCategory: "Instrument Fittings & Tubing",
+    image: null,
+    description: "Industrial-grade Reducer supplied by Bahjat Enterprises to certified industrial standards. Engineered for process control, oil & gas, refineries, petrochemical, and instrumentation applications. Tube Adapter Reducing Union / Tube-to-Tube Reducer constructed from ASTM A479 Stainless Steel 316 / 316L. Designed for reliable continuous operation, safety compliance, and maximum measurement accuracy.",
+    specs: {
+          "Product": "Reducer",
+          "Brand": "Swagelok",
+          "Category": "Instrument Fittings & Tubing",
+          "Industrial Standard": "ASME B31.3 / MSS-SP-99",
+          "Size Reduction": "1/2\" Tube OD to 1/4\" Tube OD, 3/4\" to 1/2\", 1\" to 1/2\"",
+          "Working Pressure": "Up to 10,000 PSI (689 bar)",
+          "Application": "Transitioning from larger impulse lines down to instrument connections"
+    },
+    rawSpecs: "Reducer - Tube Adapter Reducing Union / Tube-to-Tube Reducer, Brand: Swagelok, Material: ASTM A479 Stainless Steel 316 / 316L, Industrial Standard: ASME B31.3 / MSS-SP-99, Size Reduction: 1/2\" Tube OD to 1/4\" Tube OD, 3/4\" to 1/2\", 1\" to 1/2\", Working Pressure: Up to 10,000 PSI (689 bar), Application: Transitioning from larger impulse lines down to instrument connections",
+    tags: ["316l", "a479", "accuracy", "adapter", "and", "application", "applications", "asme", "astm", "b31", "bahjat", "bar", "brand", "category", "compliance", "connections", "constructed", "continuous", "control", "designed", "down", "engineered", "engineering", "enterprises", "fittings", "for", "from", "gas", "grade", "impulse", "industrial", "instrument", "instrumentation", "larger", "lines", "maximum", "measurement", "mss", "oil", "operation", "petrochemical", "pressure", "process", "product", "psi", "reducer", "reducing", "reduction", "refineries", "reliable", "safety", "size", "stainless", "standard", "steel", "supplied", "swagelok", "the", "transitioning", "tube", "tubing", "under", "union", "working"]
+  },
+  {
+    id: "inst-163-reducing-cross",
+    sno: 163,
+    name: "Reducing Cross",
+    brand: "Swagelok",
+    category: "instrumentation",
+    subCategory: "Instrument Fittings & Tubing",
+    image: null,
+    description: "Industrial-grade Reducing Cross supplied by Bahjat Enterprises to certified industrial standards. Engineered for process control, oil & gas, refineries, petrochemical, and instrumentation applications. 4-Way Reducing Instrumentation Cross Fitting constructed from Forged ASTM A182 F316 / SS316L. Designed for reliable continuous operation, safety compliance, and maximum measurement accuracy.",
+    specs: {
+          "Product": "Reducing Cross",
+          "Brand": "Swagelok",
+          "Category": "Instrument Fittings & Tubing",
+          "Industrial Standard": "ASME B31.3 / MSS-SP-99",
+          "Sizes": "1/2\" Run x 1/4\" Branches (or custom tube reducing diameters)",
+          "Pressure Rating": "Up to 7,500 PSI (517 bar)",
+          "Application": "Complex 4-way tubing distributions, manifold cross-connects"
+    },
+    rawSpecs: "Reducing Cross - 4-Way Reducing Instrumentation Cross Fitting, Brand: Swagelok, Material: Forged ASTM A182 F316 / SS316L, Industrial Standard: ASME B31.3 / MSS-SP-99, Sizes: 1/2\" Run x 1/4\" Branches (or custom tube reducing diameters), Pressure Rating: Up to 7,500 PSI (517 bar), Application: Complex 4-way tubing distributions, manifold cross-connects",
+    tags: ["a182", "accuracy", "and", "application", "applications", "asme", "astm", "b31", "bahjat", "bar", "branches", "brand", "category", "complex", "compliance", "connects", "constructed", "continuous", "control", "cross", "custom", "designed", "diameters", "distributions", "engineered", "engineering", "enterprises", "f316", "fitting", "fittings", "for", "forged", "from", "gas", "grade", "industrial", "instrument", "instrumentation", "manifold", "maximum", "measurement", "mss", "oil", "operation", "petrochemical", "pressure", "process", "product", "psi", "rating", "reducing", "refineries", "reliable", "run", "safety", "sizes", "ss316l", "standard", "supplied", "swagelok", "the", "tube", "tubing", "under", "way"]
+  },
+  {
+    id: "inst-164-reducing-tee",
+    sno: 164,
+    name: "Reducing Tee",
+    brand: "Swagelok",
+    category: "instrumentation",
+    subCategory: "Instrument Fittings & Tubing",
+    image: null,
+    description: "Industrial-grade Reducing Tee supplied by Bahjat Enterprises to certified industrial standards. Engineered for process control, oil & gas, refineries, petrochemical, and instrumentation applications. 3-Way Reducing Compression Tube Tee constructed from Stainless Steel 316 / 316L / Brass / Alloy 400. Designed for reliable continuous operation, safety compliance, and maximum measurement accuracy.",
+    specs: {
+          "Product": "Reducing Tee",
+          "Brand": "Swagelok",
+          "Category": "Instrument Fittings & Tubing",
+          "Industrial Standard": "ASME B31.3 / MSS-SP-99",
+          "Sizes": "1/2\" x 1/2\" x 1/4\", 3/8\" x 3/8\" x 1/4\", 3/4\" x 3/4\" x 1/2\"",
+          "Pressure Rating": "Up to 10,000 PSI (689 bar)",
+          "Application": "Branching a smaller diameter tube from a main instrument air header or impulse line"
+    },
+    rawSpecs: "Reducing Tee - 3-Way Reducing Compression Tube Tee, Brand: Swagelok, Material: Stainless Steel 316 / 316L / Brass / Alloy 400, Industrial Standard: ASME B31.3 / MSS-SP-99, Sizes: 1/2\" x 1/2\" x 1/4\", 3/8\" x 3/8\" x 1/4\", 3/4\" x 3/4\" x 1/2\", Pressure Rating: Up to 10,000 PSI (689 bar), Application: Branching a smaller diameter tube from a main instrument air header or impulse line",
+    tags: ["316l", "accuracy", "air", "alloy", "and", "application", "applications", "asme", "b31", "bahjat", "bar", "branching", "brand", "brass", "category", "compliance", "compression", "constructed", "continuous", "control", "designed", "diameter", "engineered", "engineering", "enterprises", "fittings", "for", "from", "gas", "grade", "header", "impulse", "industrial", "instrument", "instrumentation", "line", "main", "maximum", "measurement", "mss", "oil", "operation", "petrochemical", "pressure", "process", "product", "psi", "rating", "reducing", "refineries", "reliable", "safety", "sizes", "smaller", "stainless", "standard", "steel", "supplied", "swagelok", "tee", "the", "tube", "tubing", "under", "way"]
+  },
+  {
+    id: "inst-165-reducing-union-instrument",
+    sno: 165,
+    name: "Reducing Union (Instrument)",
+    brand: "Swagelok",
+    category: "instrumentation",
+    subCategory: "Instrument Fittings & Tubing",
+    image: null,
+    description: "Industrial-grade Reducing Union (Instrument) supplied by Bahjat Enterprises to certified industrial standards. Engineered for process control, oil & gas, refineries, petrochemical, and instrumentation applications. Straight Reducing Double Ferrule Tube Union constructed from ASTM A276 SS316 / 316L. Designed for reliable continuous operation, safety compliance, and maximum measurement accuracy.",
+    specs: {
+          "Product": "Reducing Union (Instrument)",
+          "Brand": "Swagelok",
+          "Category": "Instrument Fittings & Tubing",
+          "Industrial Standard": "ASME B31.3 / MSS-SP-99",
+          "Tube Sizes": "1/4\" OD x 1/8\" OD, 3/8\" x 1/4\", 1/2\" x 1/4\", 1/2\" x 3/8\", 3/4\" x 1/2\"",
+          "Pressure Rating": "Up to 11,000 PSI (758 bar)",
+          "Application": "In-line tube dimension reduction with leak-free double-ferrule sealing"
+    },
+    rawSpecs: "Reducing Union (Instrument) - Straight Reducing Double Ferrule Tube Union, Brand: Swagelok, Material: ASTM A276 SS316 / 316L, Industrial Standard: ASME B31.3 / MSS-SP-99, Tube Sizes: 1/4\" OD x 1/8\" OD, 3/8\" x 1/4\", 1/2\" x 1/4\", 1/2\" x 3/8\", 3/4\" x 1/2\", Pressure Rating: Up to 11,000 PSI (758 bar), Application: In-line tube dimension reduction with leak-free double-ferrule sealing",
+    tags: ["316l", "a276", "accuracy", "and", "application", "applications", "asme", "astm", "b31", "bahjat", "bar", "brand", "category", "compliance", "constructed", "continuous", "control", "designed", "dimension", "double", "engineered", "engineering", "enterprises", "ferrule", "fittings", "for", "free", "from", "gas", "grade", "industrial", "instrument", "instrumentation", "leak", "line", "maximum", "measurement", "mss", "oil", "operation", "petrochemical", "pressure", "process", "product", "psi", "rating", "reducing", "reduction", "refineries", "reliable", "safety", "sealing", "sizes", "ss316", "standard", "straight", "supplied", "swagelok", "the", "tube", "tubing", "under", "union", "with"]
+  },
+  {
+    id: "inst-166-root-valve",
+    sno: 166,
+    name: "Root Valve",
+    brand: "Parker",
+    category: "instrumentation",
+    subCategory: "Instrument Valves & Manifolds",
+    image: null,
+    description: "Industrial-grade Root Valve supplied by Bahjat Enterprises to certified industrial standards. Engineered for process control, oil & gas, refineries, petrochemical, and instrumentation applications. High Pressure Primary Piping Root Isolation Valve constructed from Forged ASTM A182 F316 / A105 Carbon Steel. Designed for reliable continuous operation, safety compliance, and maximum measurement accuracy.",
+    specs: {
+          "Product": "Root Valve",
+          "Brand": "Parker",
+          "Category": "Instrument Valves & Manifolds",
+          "Industrial Standard": "ASME B16.34 / API 602 / NACE MR0175",
+          "Inlet x Outlet": "1/2\", 3/4\", 1\" Male NPT / Socket Weld / Flanged x 1/2\" Female NPT",
+          "Pressure Class": "Class 800 / 1500 / 2500 (up to 6,000 PSI)",
+          "Application": "First isolation point on pipeline or pressure vessel prior to impulse line"
+    },
+    rawSpecs: "Root Valve - High Pressure Primary Piping Root Isolation Valve, Brand: Parker, Material: Forged ASTM A182 F316 / A105 Carbon Steel, Industrial Standard: ASME B16.34 / API 602 / NACE MR0175, Inlet x Outlet: 1/2\", 3/4\", 1\" Male NPT / Socket Weld / Flanged x 1/2\" Female NPT, Pressure Class: Class 800 / 1500 / 2500 (up to 6,000 PSI), Application: First isolation point on pipeline or pressure vessel prior to impulse line",
+    tags: ["a105", "a182", "accuracy", "and", "api", "application", "applications", "asme", "astm", "b16", "bahjat", "brand", "carbon", "category", "class", "compliance", "constructed", "continuous", "control", "designed", "engineered", "engineering", "enterprises", "f316", "female", "first", "flanged", "for", "forged", "from", "gas", "grade", "high", "impulse", "industrial", "inlet", "instrument", "instrumentation", "isolation", "line", "male", "manifolds", "maximum", "measurement", "mr0175", "nace", "npt", "oil", "operation", "outlet", "parker", "petrochemical", "pipeline", "piping", "point", "pressure", "primary", "prior", "process", "product", "psi", "refineries", "reliable", "root", "safety", "socket", "standard", "steel", "supplied", "the", "under", "valve", "valves", "vessel", "weld"]
+  },
+  {
+    id: "inst-167-rotameter-industrial-glass-tube",
+    sno: 167,
+    name: "Rotameter (Industrial Glass Tube)",
+    brand: "Yokogawa",
+    category: "instrumentation",
+    subCategory: "Flow Meters & Flow Sensors",
+    image: null,
+    description: "Industrial-grade Rotameter (Industrial Glass Tube) supplied by Bahjat Enterprises to certified industrial standards. Engineered for process control, oil & gas, refineries, petrochemical, and instrumentation applications. Borosilicate Glass Variable Area Flow Meter constructed from Borosilicate Glass Tube with SS316 / PTFE Float and Side Shield Guard. Designed for reliable continuous operation, safety compliance, and maximum measurement accuracy.",
+    specs: {
+          "Product": "Rotameter (Industrial Glass Tube)",
+          "Brand": "Yokogawa",
+          "Category": "Flow Meters & Flow Sensors",
+          "Industrial Standard": "VDI/VDE 3513 Direct Reading Scale",
+          "Connection": "1/4\" to 1\" NPT / BSP Female or Flanged",
+          "Flow Ranges": "Water: 0.1 to 10,000 LPH, Air: 1 to 300 Nm3/h",
+          "Application": "Purge rotameters, chemical injection dosing, cooling water flow visualization"
+    },
+    rawSpecs: "Rotameter (Industrial Glass Tube) - Borosilicate Glass Variable Area Flow Meter, Brand: Yokogawa, Material: Borosilicate Glass Tube with SS316 / PTFE Float and Side Shield Guard, Industrial Standard: VDI/VDE 3513 Direct Reading Scale, Connection: 1/4\" to 1\" NPT / BSP Female or Flanged, Flow Ranges: Water: 0.1 to 10,000 LPH, Air: 1 to 300 Nm3/h, Application: Purge rotameters, chemical injection dosing, cooling water flow visualization",
+    tags: ["accuracy", "air", "and", "application", "applications", "area", "bahjat", "borosilicate", "brand", "bsp", "category", "chemical", "compliance", "connection", "constructed", "continuous", "control", "cooling", "designed", "direct", "dosing", "engineered", "engineering", "enterprises", "female", "flanged", "float", "flow", "for", "from", "gas", "glass", "grade", "guard", "industrial", "injection", "instrumentation", "lph", "maximum", "measurement", "meter", "meters", "nm3", "npt", "oil", "operation", "petrochemical", "process", "product", "ptfe", "purge", "ranges", "reading", "refineries", "reliable", "rotameter", "rotameters", "safety", "scale", "sensors", "shield", "side", "ss316", "standard", "supplied", "the", "tube", "under", "variable", "vde", "vdi", "visualization", "water", "with", "yokogawa"]
+  },
+  {
+    id: "inst-168-sampling-valve",
+    sno: 168,
+    name: "Sampling Valve",
+    brand: "Swagelok",
+    category: "instrumentation",
+    subCategory: "Instrument Valves & Manifolds",
+    image: null,
+    description: "Industrial-grade Sampling Valve supplied by Bahjat Enterprises to certified industrial standards. Engineered for process control, oil & gas, refineries, petrochemical, and instrumentation applications. Dead-Space Free Process Fluid Sampling Valve constructed from SS316 / Hastelloy C-276 with PEEK Stem Tip. Designed for reliable continuous operation, safety compliance, and maximum measurement accuracy.",
+    specs: {
+          "Product": "Sampling Valve",
+          "Brand": "Swagelok",
+          "Category": "Instrument Valves & Manifolds",
+          "Industrial Standard": "ASME B16.34 / NACE MR0175",
+          "Inlet / Outlet": "1/2\" NPT Male x 1/4\" Tube OD Quick-Sampling Nozzle",
+          "Pressure Rating": "Up to 5,000 PSI (345 bar) at 200 deg C",
+          "Application": "Extracting representative liquid or gas samples without line contamination"
+    },
+    rawSpecs: "Sampling Valve - Dead-Space Free Process Fluid Sampling Valve, Brand: Swagelok, Material: SS316 / Hastelloy C-276 with PEEK Stem Tip, Industrial Standard: ASME B16.34 / NACE MR0175, Inlet / Outlet: 1/2\" NPT Male x 1/4\" Tube OD Quick-Sampling Nozzle, Pressure Rating: Up to 5,000 PSI (345 bar) at 200 deg C, Application: Extracting representative liquid or gas samples without line contamination",
+    tags: ["accuracy", "and", "application", "applications", "asme", "b16", "bahjat", "bar", "brand", "category", "compliance", "constructed", "contamination", "continuous", "control", "dead", "deg", "designed", "engineered", "engineering", "enterprises", "extracting", "fluid", "for", "free", "from", "gas", "grade", "hastelloy", "industrial", "inlet", "instrument", "instrumentation", "line", "liquid", "male", "manifolds", "maximum", "measurement", "mr0175", "nace", "nozzle", "npt", "oil", "operation", "outlet", "peek", "petrochemical", "pressure", "process", "product", "psi", "quick", "rating", "refineries", "reliable", "representative", "safety", "samples", "sampling", "space", "ss316", "standard", "stem", "supplied", "swagelok", "the", "tip", "tube", "under", "valve", "valves", "with", "without"]
+  },
+  {
+    id: "inst-169-sight-glass",
+    sno: 169,
+    name: "Sight Glass",
+    brand: "WIKA",
+    category: "instrumentation",
+    subCategory: "Process Measurement Instruments",
+    image: null,
+    description: "Industrial-grade Sight Glass supplied by Bahjat Enterprises to certified industrial standards. Engineered for process control, oil & gas, refineries, petrochemical, and instrumentation applications. Double Window Flow Indicator / Level Gauge Sight Glass constructed from Ductile Iron / Cast Steel / SS316 with Borosilicate / Tempered Glass. Designed for reliable continuous operation, safety compliance, and maximum measurement accuracy.",
+    specs: {
+          "Product": "Sight Glass",
+          "Brand": "WIKA",
+          "Category": "Process Measurement Instruments",
+          "Industrial Standard": "DIN 7080 / ASME B16.5 Flanges",
+          "Sizes": "1/2\" to 6\" ANSI 150# / 300# Flanged or Threaded",
+          "Features": "Rotary paddle impeller or drip lip for liquid flow verification",
+          "Application": "Visual monitoring of pipeline flow, color changes, and condensate drainage"
+    },
+    rawSpecs: "Sight Glass - Double Window Flow Indicator / Level Gauge Sight Glass, Brand: WIKA, Material: Ductile Iron / Cast Steel / SS316 with Borosilicate / Tempered Glass, Industrial Standard: DIN 7080 / ASME B16.5 Flanges, Sizes: 1/2\" to 6\" ANSI 150# / 300# Flanged or Threaded, Features: Rotary paddle impeller or drip lip for liquid flow verification, Application: Visual monitoring of pipeline flow, color changes, and condensate drainage",
+    tags: ["accuracy", "and", "ansi", "application", "applications", "asme", "b16", "bahjat", "borosilicate", "brand", "cast", "category", "changes", "color", "compliance", "condensate", "constructed", "continuous", "control", "designed", "din", "double", "drainage", "drip", "ductile", "engineered", "engineering", "enterprises", "features", "flanged", "flanges", "flow", "for", "from", "gas", "gauge", "glass", "grade", "impeller", "indicator", "industrial", "instrumentation", "instruments", "iron", "level", "lip", "liquid", "maximum", "measurement", "monitoring", "oil", "operation", "paddle", "petrochemical", "pipeline", "process", "product", "refineries", "reliable", "rotary", "safety", "sight", "sizes", "ss316", "standard", "steel", "supplied", "tempered", "the", "threaded", "under", "verification", "visual", "wika", "window", "with"]
+  },
+  {
+    id: "inst-170-signal-converter",
+    sno: 170,
+    name: "Signal Converter",
+    brand: "Siemens",
+    category: "instrumentation",
+    subCategory: "Controllers, PLCs & Automation",
+    image: null,
+    description: "Industrial-grade Signal Converter supplied by Bahjat Enterprises to certified industrial standards. Engineered for process control, oil & gas, refineries, petrochemical, and instrumentation applications. Universal Analog Signal Conditioner & Converter constructed from Slim 6.2mm / 12.5mm DIN-Rail Polycarbonate Enclosure. Designed for reliable continuous operation, safety compliance, and maximum measurement accuracy.",
+    specs: {
+          "Product": "Signal Converter",
+          "Brand": "Siemens",
+          "Category": "Controllers, PLCs & Automation",
+          "Industrial Standard": "IEC 60947-5-1 / CE / UL 508",
+          "Inputs": "0-20mA, 4-20mA, 0-10V, +/-10V, RTD, Thermocouple",
+          "Outputs": "Galvanically Isolated 4-20mA or 0-10V Standard Signals",
+          "Isolation": "3-Way 2.5 kV AC Galvanic Isolation between Input, Output, and Power"
+    },
+    rawSpecs: "Signal Converter - Universal Analog Signal Conditioner & Converter, Brand: Siemens, Material: Slim 6.2mm / 12.5mm DIN-Rail Polycarbonate Enclosure, Industrial Standard: IEC 60947-5-1 / CE / UL 508, Inputs: 0-20mA, 4-20mA, 0-10V, +/-10V, RTD, Thermocouple, Outputs: Galvanically Isolated 4-20mA or 0-10V Standard Signals, Isolation: 3-Way 2.5 kV AC Galvanic Isolation between Input, Output, and Power",
+    tags: ["10v", "20ma", "2mm", "5mm", "accuracy", "analog", "and", "applications", "automation", "bahjat", "between", "brand", "category", "compliance", "conditioner", "constructed", "continuous", "control", "controllers", "converter", "designed", "din", "enclosure", "engineered", "engineering", "enterprises", "for", "from", "galvanic", "galvanically", "gas", "grade", "iec", "industrial", "input", "inputs", "instrumentation", "isolated", "isolation", "maximum", "measurement", "oil", "operation", "output", "outputs", "petrochemical", "plcs", "polycarbonate", "power", "process", "product", "rail", "refineries", "reliable", "rtd", "safety", "siemens", "signal", "signals", "slim", "standard", "supplied", "the", "thermocouple", "under", "universal", "way"]
+  },
+  {
+    id: "inst-171-signal-isolator",
+    sno: 171,
+    name: "Signal Isolator",
+    brand: "Siemens",
+    category: "instrumentation",
+    subCategory: "Controllers, PLCs & Automation",
+    image: null,
+    description: "Industrial-grade Signal Isolator supplied by Bahjat Enterprises to certified industrial standards. Engineered for process control, oil & gas, refineries, petrochemical, and instrumentation applications. Active / Passive 4-20mA Galvanic Ground Loop Isolator constructed from DIN Rail Mount Flame-Retardant Polyamide Casing. Designed for reliable continuous operation, safety compliance, and maximum measurement accuracy.",
+    specs: {
+          "Product": "Signal Isolator",
+          "Brand": "Siemens",
+          "Category": "Controllers, PLCs & Automation",
+          "Industrial Standard": "NAMUR NE21 / ATEX / IECEx Intrinsically Safe Options",
+          "Channels": "Single (1-Ch) or Dual (2-Ch) Loop Powered or 24V DC Powered",
+          "Dielectric Strength": "Up to 4 kV Isolation eliminates ground loops and transient spikes",
+          "Application": "Isolating field instrumentation signals before feeding PLC/DCS analog input cards"
+    },
+    rawSpecs: "Signal Isolator - Active / Passive 4-20mA Galvanic Ground Loop Isolator, Brand: Siemens, Material: DIN Rail Mount Flame-Retardant Polyamide Casing, Industrial Standard: NAMUR NE21 / ATEX / IECEx Intrinsically Safe Options, Channels: Single (1-Ch) or Dual (2-Ch) Loop Powered or 24V DC Powered, Dielectric Strength: Up to 4 kV Isolation eliminates ground loops and transient spikes, Application: Isolating field instrumentation signals before feeding PLC/DCS analog input cards",
+    tags: ["20ma", "24v", "accuracy", "active", "analog", "and", "application", "applications", "atex", "automation", "bahjat", "before", "brand", "cards", "casing", "category", "channels", "compliance", "constructed", "continuous", "control", "controllers", "dcs", "designed", "dielectric", "din", "dual", "eliminates", "engineered", "engineering", "enterprises", "feeding", "field", "flame", "for", "from", "galvanic", "gas", "grade", "ground", "iecex", "industrial", "input", "instrumentation", "intrinsically", "isolating", "isolation", "isolator", "loop", "loops", "maximum", "measurement", "mount", "namur", "ne21", "oil", "operation", "options", "passive", "petrochemical", "plc", "plcs", "polyamide", "powered", "process", "product", "rail", "refineries", "reliable", "retardant", "safe", "safety", "siemens", "signal", "signals", "single", "spikes", "standard", "strength", "supplied", "the", "transient", "under"]
+  },
+  {
+    id: "inst-172-single-ferrule-fitting",
+    sno: 172,
+    name: "Single Ferrule Fitting",
+    brand: "Parker",
+    category: "instrumentation",
+    subCategory: "Instrument Fittings & Tubing",
+    image: null,
+    description: "Industrial-grade Single Ferrule Fitting supplied by Bahjat Enterprises to certified industrial standards. Engineered for process control, oil & gas, refineries, petrochemical, and instrumentation applications. Single Ferrule Compression Tube Fitting (CPI Series) constructed from ASTM A276 Grade 316 Stainless Steel / Brass. Designed for reliable continuous operation, safety compliance, and maximum measurement accuracy.",
+    specs: {
+          "Product": "Single Ferrule Fitting",
+          "Brand": "Parker",
+          "Category": "Instrument Fittings & Tubing",
+          "Industrial Standard": "ASME B31.3 / BS 4368",
+          "Sizes": "1/8\" to 1\" Tube OD (3 mm to 25 mm)",
+          "Design": "Molybdenum disulfide coated nut with single ferrule sealing mechanism",
+          "Working Pressure": "Up to 8,000 PSI depending on size"
+    },
+    rawSpecs: "Single Ferrule Fitting - Single Ferrule Compression Tube Fitting (CPI Series), Brand: Parker, Material: ASTM A276 Grade 316 Stainless Steel / Brass, Industrial Standard: ASME B31.3 / BS 4368, Sizes: 1/8\" to 1\" Tube OD (3 mm to 25 mm), Design: Molybdenum disulfide coated nut with single ferrule sealing mechanism, Working Pressure: Up to 8,000 PSI depending on size",
+    tags: ["a276", "accuracy", "and", "applications", "asme", "astm", "b31", "bahjat", "brand", "brass", "category", "coated", "compliance", "compression", "constructed", "continuous", "control", "cpi", "depending", "design", "designed", "disulfide", "engineered", "engineering", "enterprises", "ferrule", "fitting", "fittings", "for", "from", "gas", "grade", "industrial", "instrument", "instrumentation", "maximum", "measurement", "mechanism", "molybdenum", "nut", "oil", "operation", "parker", "petrochemical", "pressure", "process", "product", "psi", "refineries", "reliable", "safety", "sealing", "series", "single", "size", "sizes", "stainless", "standard", "steel", "supplied", "the", "tube", "tubing", "under", "with", "working"]
+  },
+  {
+    id: "inst-173-sleeve",
+    sno: 173,
+    name: "Sleeve",
+    brand: "Swagelok",
+    category: "instrumentation",
+    subCategory: "Instrument Fittings & Tubing",
+    image: null,
+    description: "Industrial-grade Sleeve supplied by Bahjat Enterprises to certified industrial standards. Engineered for process control, oil & gas, refineries, petrochemical, and instrumentation applications. Tube Reinforcing Insert Sleeve / Support Sleeve constructed from Stainless Steel 316 / Brass. Designed for reliable continuous operation, safety compliance, and maximum measurement accuracy.",
+    specs: {
+          "Product": "Sleeve",
+          "Brand": "Swagelok",
+          "Category": "Instrument Fittings & Tubing",
+          "Industrial Standard": "ASME B31.3",
+          "Sizes": "1/4\", 3/8\", 1/2\" OD for Soft Plastic & PFA Tubing",
+          "Function": "Inserted into soft plastic tubing to prevent wall collapse during ferrule tightening",
+          "Application": "Chemical dosing tubing, air sampling nylon tubes, PTFE instrument lines"
+    },
+    rawSpecs: "Sleeve - Tube Reinforcing Insert Sleeve / Support Sleeve, Brand: Swagelok, Material: Stainless Steel 316 / Brass, Industrial Standard: ASME B31.3, Sizes: 1/4\", 3/8\", 1/2\" OD for Soft Plastic & PFA Tubing, Function: Inserted into soft plastic tubing to prevent wall collapse during ferrule tightening, Application: Chemical dosing tubing, air sampling nylon tubes, PTFE instrument lines",
+    tags: ["accuracy", "air", "and", "application", "applications", "asme", "b31", "bahjat", "brand", "brass", "category", "chemical", "collapse", "compliance", "constructed", "continuous", "control", "designed", "dosing", "during", "engineered", "engineering", "enterprises", "ferrule", "fittings", "for", "from", "function", "gas", "grade", "industrial", "insert", "inserted", "instrument", "instrumentation", "into", "lines", "maximum", "measurement", "nylon", "oil", "operation", "petrochemical", "pfa", "plastic", "prevent", "process", "product", "ptfe", "refineries", "reinforcing", "reliable", "safety", "sampling", "sizes", "sleeve", "soft", "stainless", "standard", "steel", "supplied", "support", "swagelok", "the", "tightening", "tube", "tubes", "tubing", "under", "wall"]
+  },
+  {
+    id: "inst-174-snubber",
+    sno: 174,
+    name: "Snubber",
+    brand: "WIKA",
+    category: "instrumentation",
+    subCategory: "Pressure Gauges & Indicators",
+    image: null,
+    description: "Industrial-grade Snubber supplied by Bahjat Enterprises to certified industrial standards. Engineered for process control, oil & gas, refineries, petrochemical, and instrumentation applications. Adjustable Needle Type Pressure Snubber constructed from AISI 316 Stainless Steel with Adjustable Needle Valve Spindle. Designed for reliable continuous operation, safety compliance, and maximum measurement accuracy.",
+    specs: {
+          "Product": "Snubber",
+          "Brand": "WIKA",
+          "Category": "Pressure Gauges & Indicators",
+          "Industrial Standard": "DIN 16282 / ASME B40.100",
+          "Connections": "1/4\" or 1/2\" NPT / BSP Male x Female",
+          "Pressure Rating": "Up to 600 bar (8,700 PSI)",
+          "Application": "Adjustable restriction needle allows fine tuning pulsation dampening on reciprocating pumps"
+    },
+    rawSpecs: "Snubber - Adjustable Needle Type Pressure Snubber, Brand: WIKA, Material: AISI 316 Stainless Steel with Adjustable Needle Valve Spindle, Industrial Standard: DIN 16282 / ASME B40.100, Connections: 1/4\" or 1/2\" NPT / BSP Male x Female, Pressure Rating: Up to 600 bar (8,700 PSI), Application: Adjustable restriction needle allows fine tuning pulsation dampening on reciprocating pumps",
+    tags: ["accuracy", "adjustable", "aisi", "allows", "and", "application", "applications", "asme", "b40", "bahjat", "bar", "brand", "bsp", "category", "compliance", "connections", "constructed", "continuous", "control", "dampening", "designed", "din", "engineered", "engineering", "enterprises", "female", "fine", "for", "from", "gas", "gauges", "grade", "indicators", "industrial", "instrumentation", "male", "maximum", "measurement", "needle", "npt", "oil", "operation", "petrochemical", "pressure", "process", "product", "psi", "pulsation", "pumps", "rating", "reciprocating", "refineries", "reliable", "restriction", "safety", "snubber", "spindle", "stainless", "standard", "steel", "supplied", "the", "tuning", "type", "under", "valve", "wika", "with"]
+  },
+  {
+    id: "inst-175-solenoid-valve",
+    sno: 175,
+    name: "Solenoid Valve",
+    brand: "SMC",
+    category: "instrumentation",
+    subCategory: "Control Valves & Actuators",
+    image: null,
+    description: "Industrial-grade Solenoid Valve supplied by Bahjat Enterprises to certified industrial standards. Engineered for process control, oil & gas, refineries, petrochemical, and instrumentation applications. 3/2 Way & 5/2 Way Pilot Operated NAMUR Solenoid Valve constructed from Anodized Aluminium / SS316 with NBR / FKM Seals. Designed for reliable continuous operation, safety compliance, and maximum measurement accuracy.",
+    specs: {
+          "Product": "Solenoid Valve",
+          "Brand": "SMC",
+          "Category": "Control Valves & Actuators",
+          "Industrial Standard": "NAMUR VDI/VDE 3845 Direct Mount / ATEX Ex d / Ex ia",
+          "Voltage": "24V DC / 110V AC / 230V AC Low Power Coil",
+          "Operating Pressure": "2 to 10 bar (30 to 145 PSI)",
+          "Application": "Direct pneumatic actuator switching for automated ON/OFF ball and butterfly valves"
+    },
+    rawSpecs: "Solenoid Valve - 3/2 Way & 5/2 Way Pilot Operated NAMUR Solenoid Valve, Brand: SMC, Material: Anodized Aluminium / SS316 with NBR / FKM Seals, Industrial Standard: NAMUR VDI/VDE 3845 Direct Mount / ATEX Ex d / Ex ia, Voltage: 24V DC / 110V AC / 230V AC Low Power Coil, Operating Pressure: 2 to 10 bar (30 to 145 PSI), Application: Direct pneumatic actuator switching for automated ON/OFF ball and butterfly valves",
+    tags: ["110v", "230v", "24v", "accuracy", "actuator", "actuators", "aluminium", "and", "anodized", "application", "applications", "atex", "automated", "bahjat", "ball", "bar", "brand", "butterfly", "category", "coil", "compliance", "constructed", "continuous", "control", "designed", "direct", "engineered", "engineering", "enterprises", "fkm", "for", "from", "gas", "grade", "industrial", "instrumentation", "low", "maximum", "measurement", "mount", "namur", "nbr", "off", "oil", "operated", "operating", "operation", "petrochemical", "pilot", "pneumatic", "power", "pressure", "process", "product", "psi", "refineries", "reliable", "safety", "seals", "smc", "solenoid", "ss316", "standard", "supplied", "switching", "the", "under", "valve", "valves", "vde", "vdi", "voltage", "way", "with"]
+  },
+  {
+    id: "inst-176-straight-needle-valve",
+    sno: 176,
+    name: "Straight Needle Valve",
+    brand: "Swagelok",
+    category: "instrumentation",
+    subCategory: "Instrument Valves & Manifolds",
+    image: null,
+    description: "Industrial-grade Straight Needle Valve supplied by Bahjat Enterprises to certified industrial standards. Engineered for process control, oil & gas, refineries, petrochemical, and instrumentation applications. Integral Bonnet Straight Pattern Needle Valve constructed from ASTM A479 Stainless Steel 316 / Monel / Hastelloy. Designed for reliable continuous operation, safety compliance, and maximum measurement accuracy.",
+    specs: {
+          "Product": "Straight Needle Valve",
+          "Brand": "Swagelok",
+          "Category": "Instrument Valves & Manifolds",
+          "Industrial Standard": "ASME B16.34 / MSS-SP-99 / NACE MR0175",
+          "Connections": "1/4\", 3/8\", 1/2\" Female NPT or Double Ferrule Tube Ends",
+          "Pressure Rating": "Up to 6,000 PSI (413 bar) at 100 deg F (38 deg C)",
+          "Stem Tip": "Non-rotating hardened V-stem tip for precise leak-tight metering"
+    },
+    rawSpecs: "Straight Needle Valve - Integral Bonnet Straight Pattern Needle Valve, Brand: Swagelok, Material: ASTM A479 Stainless Steel 316 / Monel / Hastelloy, Industrial Standard: ASME B16.34 / MSS-SP-99 / NACE MR0175, Connections: 1/4\", 3/8\", 1/2\" Female NPT or Double Ferrule Tube Ends, Pressure Rating: Up to 6,000 PSI (413 bar) at 100 deg F (38 deg C), Stem Tip: Non-rotating hardened V-stem tip for precise leak-tight metering",
+    tags: ["a479", "accuracy", "and", "applications", "asme", "astm", "b16", "bahjat", "bar", "bonnet", "brand", "category", "compliance", "connections", "constructed", "continuous", "control", "deg", "designed", "double", "ends", "engineered", "engineering", "enterprises", "female", "ferrule", "for", "from", "gas", "grade", "hardened", "hastelloy", "industrial", "instrument", "instrumentation", "integral", "leak", "manifolds", "maximum", "measurement", "metering", "monel", "mr0175", "mss", "nace", "needle", "non", "npt", "oil", "operation", "pattern", "petrochemical", "precise", "pressure", "process", "product", "psi", "rating", "refineries", "reliable", "rotating", "safety", "stainless", "standard", "steel", "stem", "straight", "supplied", "swagelok", "the", "tight", "tip", "tube", "under", "valve", "valves"]
+  },
+  {
+    id: "inst-177-syphon",
+    sno: 177,
+    name: "Syphon",
+    brand: "WIKA",
+    category: "instrumentation",
+    subCategory: "Pressure Gauges & Indicators",
+    image: null,
+    description: "Industrial-grade Syphon supplied by Bahjat Enterprises to certified industrial standards. Engineered for process control, oil & gas, refineries, petrochemical, and instrumentation applications. Pigtail / Coil Syphon for Pressure Gauge Steam Service constructed from Seamless Carbon Steel A106 / Stainless Steel 316. Designed for reliable continuous operation, safety compliance, and maximum measurement accuracy.",
+    specs: {
+          "Product": "Syphon",
+          "Brand": "WIKA",
+          "Category": "Pressure Gauges & Indicators",
+          "Industrial Standard": "DIN 16282 Form B / ASME B40.100",
+          "Connections": "1/2\" NPT Male x Female, G 1/2 Weld Ends",
+          "Pressure & Temp": "Up to 160 bar @ 400 deg C (Steam Service)",
+          "Application": "Condenses steam into liquid loop to shield pressure instruments from scorching live steam"
+    },
+    rawSpecs: "Syphon - Pigtail / Coil Syphon for Pressure Gauge Steam Service, Brand: WIKA, Material: Seamless Carbon Steel A106 / Stainless Steel 316, Industrial Standard: DIN 16282 Form B / ASME B40.100, Connections: 1/2\" NPT Male x Female, G 1/2 Weld Ends, Pressure & Temp: Up to 160 bar @ 400 deg C (Steam Service), Application: Condenses steam into liquid loop to shield pressure instruments from scorching live steam",
+    tags: ["a106", "accuracy", "and", "application", "applications", "asme", "b40", "bahjat", "bar", "brand", "carbon", "category", "coil", "compliance", "condenses", "connections", "constructed", "continuous", "control", "deg", "designed", "din", "ends", "engineered", "engineering", "enterprises", "female", "for", "form", "from", "gas", "gauge", "gauges", "grade", "indicators", "industrial", "instrumentation", "instruments", "into", "liquid", "live", "loop", "male", "maximum", "measurement", "npt", "oil", "operation", "petrochemical", "pigtail", "pressure", "process", "product", "refineries", "reliable", "safety", "scorching", "seamless", "service", "shield", "stainless", "standard", "steam", "steel", "supplied", "syphon", "temp", "the", "under", "weld", "wika"]
+  },
+  {
+    id: "inst-178-syphon-tube",
+    sno: 178,
+    name: "Syphon Tube",
+    brand: "WIKA",
+    category: "instrumentation",
+    subCategory: "Pressure Gauges & Indicators",
+    image: null,
+    description: "Industrial-grade Syphon Tube supplied by Bahjat Enterprises to certified industrial standards. Engineered for process control, oil & gas, refineries, petrochemical, and instrumentation applications. U-Type / Trumpet Gauge Syphon Tube constructed from ASTM A312 TP316 / Carbon Steel Schedule 40/80 Seamless Pipe. Designed for reliable continuous operation, safety compliance, and maximum measurement accuracy.",
+    specs: {
+          "Product": "Syphon Tube",
+          "Brand": "WIKA",
+          "Category": "Pressure Gauges & Indicators",
+          "Industrial Standard": "DIN 16282 Form A (U-Shape) / Form B (Trumpet)",
+          "Sizes": "1/4\", 3/8\", 1/2\" NPT or BSP Threaded Ends",
+          "Pressure Rating": "Class 3000 / Class 6000",
+          "Application": "Horizontal or vertical steam line pressure gauge thermal barrier"
+    },
+    rawSpecs: "Syphon Tube - U-Type / Trumpet Gauge Syphon Tube, Brand: WIKA, Material: ASTM A312 TP316 / Carbon Steel Schedule 40/80 Seamless Pipe, Industrial Standard: DIN 16282 Form A (U-Shape) / Form B (Trumpet), Sizes: 1/4\", 3/8\", 1/2\" NPT or BSP Threaded Ends, Pressure Rating: Class 3000 / Class 6000, Application: Horizontal or vertical steam line pressure gauge thermal barrier",
+    tags: ["a312", "accuracy", "and", "application", "applications", "astm", "bahjat", "barrier", "brand", "bsp", "carbon", "category", "class", "compliance", "constructed", "continuous", "control", "designed", "din", "ends", "engineered", "engineering", "enterprises", "for", "form", "from", "gas", "gauge", "gauges", "grade", "horizontal", "indicators", "industrial", "instrumentation", "line", "maximum", "measurement", "npt", "oil", "operation", "petrochemical", "pipe", "pressure", "process", "product", "rating", "refineries", "reliable", "safety", "schedule", "seamless", "shape", "sizes", "standard", "steam", "steel", "supplied", "syphon", "the", "thermal", "threaded", "tp316", "trumpet", "tube", "type", "under", "vertical", "wika"]
+  },
+  {
+    id: "inst-179-tube-accessories",
+    sno: 179,
+    name: "Tube Accessories",
+    brand: "Swagelok",
+    category: "instrumentation",
+    subCategory: "Instrument Fittings & Tubing",
+    image: null,
+    description: "Industrial-grade Tube Accessories supplied by Bahjat Enterprises to certified industrial standards. Engineered for process control, oil & gas, refineries, petrochemical, and instrumentation applications. Instrumentation Tubing Nut, Union & Gasket Accessories constructed from Silver-Plated Stainless Steel 316 / Brass. Designed for reliable continuous operation, safety compliance, and maximum measurement accuracy.",
+    specs: {
+          "Product": "Tube Accessories",
+          "Brand": "Swagelok",
+          "Category": "Instrument Fittings & Tubing",
+          "Industrial Standard": "ASME B31.3 / MSS-SP-99",
+          "Items Included": "Female Nuts, Blind Plugs, Tube Port Connectors, Vent Protectors",
+          "Sizes": "1/8\", 1/4\", 3/8\", 1/2\", 3/4\", 1\" Tube OD Compatible",
+          "Application": "Maintenance, tube sealing, venting, and reassembly of instrument impulse runs"
+    },
+    rawSpecs: "Tube Accessories - Instrumentation Tubing Nut, Union & Gasket Accessories, Brand: Swagelok, Material: Silver-Plated Stainless Steel 316 / Brass, Industrial Standard: ASME B31.3 / MSS-SP-99, Items Included: Female Nuts, Blind Plugs, Tube Port Connectors, Vent Protectors, Sizes: 1/8\", 1/4\", 3/8\", 1/2\", 3/4\", 1\" Tube OD Compatible, Application: Maintenance, tube sealing, venting, and reassembly of instrument impulse runs",
+    tags: ["accessories", "accuracy", "and", "application", "applications", "asme", "b31", "bahjat", "blind", "brand", "brass", "category", "compatible", "compliance", "connectors", "constructed", "continuous", "control", "designed", "engineered", "engineering", "enterprises", "female", "fittings", "for", "from", "gas", "gasket", "grade", "impulse", "included", "industrial", "instrument", "instrumentation", "items", "maintenance", "maximum", "measurement", "mss", "nut", "nuts", "oil", "operation", "petrochemical", "plated", "plugs", "port", "process", "product", "protectors", "reassembly", "refineries", "reliable", "runs", "safety", "sealing", "silver", "sizes", "stainless", "standard", "steel", "supplied", "swagelok", "the", "tube", "tubing", "under", "union", "vent", "venting"]
+  },
+  {
+    id: "inst-180-tube-bend",
+    sno: 180,
+    name: "Tube Bend",
+    brand: "Swagelok",
+    category: "instrumentation",
+    subCategory: "Instrument Fittings & Tubing",
+    image: null,
+    description: "Industrial-grade Tube Bend supplied by Bahjat Enterprises to certified industrial standards. Engineered for process control, oil & gas, refineries, petrochemical, and instrumentation applications. Pre-Formed 90-Degree / 45-Degree Seamless Tube Bend constructed from Seamless Stainless Steel 316/316L ASTM A269 Bright Annealed. Designed for reliable continuous operation, safety compliance, and maximum measurement accuracy.",
+    specs: {
+          "Product": "Tube Bend",
+          "Brand": "Swagelok",
+          "Category": "Instrument Fittings & Tubing",
+          "Industrial Standard": "ASTM A269 / ASME B31.3",
+          "Sizes": "1/4\", 3/8\", 1/2\", 3/4\" Tube OD",
+          "Bend Radii": "1.5D to 3D Smooth Mandrel Bend with zero wall thinning",
+          "Application": "Pre-fabricated smooth direction changes in high pressure instrument panels"
+    },
+    rawSpecs: "Tube Bend - Pre-Formed 90-Degree / 45-Degree Seamless Tube Bend, Brand: Swagelok, Material: Seamless Stainless Steel 316/316L ASTM A269 Bright Annealed, Industrial Standard: ASTM A269 / ASME B31.3, Sizes: 1/4\", 3/8\", 1/2\", 3/4\" Tube OD, Bend Radii: 1.5D to 3D Smooth Mandrel Bend with zero wall thinning, Application: Pre-fabricated smooth direction changes in high pressure instrument panels",
+    tags: ["316l", "a269", "accuracy", "and", "annealed", "application", "applications", "asme", "astm", "b31", "bahjat", "bend", "brand", "bright", "category", "changes", "compliance", "constructed", "continuous", "control", "degree", "designed", "direction", "engineered", "engineering", "enterprises", "fabricated", "fittings", "for", "formed", "from", "gas", "grade", "high", "industrial", "instrument", "instrumentation", "mandrel", "maximum", "measurement", "oil", "operation", "panels", "petrochemical", "pre", "pressure", "process", "product", "radii", "refineries", "reliable", "safety", "seamless", "sizes", "smooth", "stainless", "standard", "steel", "supplied", "swagelok", "the", "thinning", "tube", "tubing", "under", "wall", "with", "zero"]
+  },
+  {
+    id: "inst-181-tube-bender",
+    sno: 181,
+    name: "Tube Bender",
+    brand: "Parker",
+    category: "instrumentation",
+    subCategory: "Instrument Fittings & Tubing",
+    image: null,
+    description: "Industrial-grade Tube Bender supplied by Bahjat Enterprises to certified industrial standards. Engineered for process control, oil & gas, refineries, petrochemical, and instrumentation applications. Handheld Heavy Duty Lever Type Tube Bender constructed from Drop-Forged Steel & Cast Aluminium Formers with Roll Dies. Designed for reliable continuous operation, safety compliance, and maximum measurement accuracy.",
+    specs: {
+          "Product": "Tube Bender",
+          "Brand": "Parker",
+          "Category": "Instrument Fittings & Tubing",
+          "Industrial Standard": "Professional Instrument Fitter Grade",
+          "Capacity": "Bends 1/4\", 3/8\", 1/2\" (6 mm to 12 mm) Hard SS316 & Copper Tubing",
+          "Bend Range": "0 to 180 degrees with calibrated angle markings",
+          "Features": "Patented roll dies in bending carriage reduce friction and tube flattening"
+    },
+    rawSpecs: "Tube Bender - Handheld Heavy Duty Lever Type Tube Bender, Brand: Parker, Material: Drop-Forged Steel & Cast Aluminium Formers with Roll Dies, Industrial Standard: Professional Instrument Fitter Grade, Capacity: Bends 1/4\", 3/8\", 1/2\" (6 mm to 12 mm) Hard SS316 & Copper Tubing, Bend Range: 0 to 180 degrees with calibrated angle markings, Features: Patented roll dies in bending carriage reduce friction and tube flattening",
+    tags: ["accuracy", "aluminium", "and", "angle", "applications", "bahjat", "bend", "bender", "bending", "bends", "brand", "calibrated", "capacity", "carriage", "cast", "category", "compliance", "constructed", "continuous", "control", "copper", "degrees", "designed", "dies", "drop", "duty", "engineered", "engineering", "enterprises", "features", "fitter", "fittings", "flattening", "for", "forged", "formers", "friction", "from", "gas", "grade", "handheld", "hard", "heavy", "industrial", "instrument", "instrumentation", "lever", "markings", "maximum", "measurement", "oil", "operation", "parker", "patented", "petrochemical", "process", "product", "professional", "range", "reduce", "refineries", "reliable", "roll", "safety", "ss316", "standard", "steel", "supplied", "the", "tube", "tubing", "type", "under", "with"]
+  },
+  {
+    id: "inst-182-tube-cap",
+    sno: 182,
+    name: "Tube Cap",
+    brand: "Swagelok",
+    category: "instrumentation",
+    subCategory: "Instrument Fittings & Tubing",
+    image: null,
+    description: "Industrial-grade Tube Cap supplied by Bahjat Enterprises to certified industrial standards. Engineered for process control, oil & gas, refineries, petrochemical, and instrumentation applications. Compression Tube End Cap Fitting constructed from ASTM A276 Grade 316 Stainless Steel / Brass. Designed for reliable continuous operation, safety compliance, and maximum measurement accuracy.",
+    specs: {
+          "Product": "Tube Cap",
+          "Brand": "Swagelok",
+          "Category": "Instrument Fittings & Tubing",
+          "Industrial Standard": "ASME B31.3 / MSS-SP-99",
+          "Tube Sizes": "1/8\", 1/4\", 3/8\", 1/2\", 3/4\", 1\" Tube OD",
+          "Working Pressure": "Matches rating of equivalent wall thickness tubing (up to 10,000 PSI)",
+          "Application": "Dead-ending tubing lines for pressure holding during testing or future expansion"
+    },
+    rawSpecs: "Tube Cap - Compression Tube End Cap Fitting, Brand: Swagelok, Material: ASTM A276 Grade 316 Stainless Steel / Brass, Industrial Standard: ASME B31.3 / MSS-SP-99, Tube Sizes: 1/8\", 1/4\", 3/8\", 1/2\", 3/4\", 1\" Tube OD, Working Pressure: Matches rating of equivalent wall thickness tubing (up to 10,000 PSI), Application: Dead-ending tubing lines for pressure holding during testing or future expansion",
+    tags: ["a276", "accuracy", "and", "application", "applications", "asme", "astm", "b31", "bahjat", "brand", "brass", "cap", "category", "compliance", "compression", "constructed", "continuous", "control", "dead", "designed", "during", "end", "ending", "engineered", "engineering", "enterprises", "equivalent", "expansion", "fitting", "fittings", "for", "from", "future", "gas", "grade", "holding", "industrial", "instrument", "instrumentation", "lines", "matches", "maximum", "measurement", "mss", "oil", "operation", "petrochemical", "pressure", "process", "product", "psi", "rating", "refineries", "reliable", "safety", "sizes", "stainless", "standard", "steel", "supplied", "swagelok", "testing", "the", "thickness", "tube", "tubing", "under", "wall", "working"]
+  },
+  {
+    id: "inst-183-tube-clamp",
+    sno: 183,
+    name: "Tube Clamp",
+    brand: "Parker",
+    category: "instrumentation",
+    subCategory: "Instrument Fittings & Tubing",
+    image: null,
+    description: "Industrial-grade Tube Clamp supplied by Bahjat Enterprises to certified industrial standards. Engineered for process control, oil & gas, refineries, petrochemical, and instrumentation applications. Single Line Polypropylene Vibration-Dampening Tube Clamp constructed from Green Polypropylene Clamp Halves with Zinc-Plated Steel Weld Plate. Designed for reliable continuous operation, safety compliance, and maximum measurement accuracy.",
+    specs: {
+          "Product": "Tube Clamp",
+          "Brand": "Parker",
+          "Category": "Instrument Fittings & Tubing",
+          "Industrial Standard": "DIN 3015 Part 1 Standard Series",
+          "Tube OD Sizes": "6 mm, 8 mm, 10 mm, 12 mm, 1/4\", 3/8\", 1/2\"",
+          "Mounting": "Weld Plate, Base Rail (Channel), or Stacking Bolts",
+          "Application": "Securing instrumentation tube bundles to cable trays and unistrut channels"
+    },
+    rawSpecs: "Tube Clamp - Single Line Polypropylene Vibration-Dampening Tube Clamp, Brand: Parker, Material: Green Polypropylene Clamp Halves with Zinc-Plated Steel Weld Plate, Industrial Standard: DIN 3015 Part 1 Standard Series, Tube OD Sizes: 6 mm, 8 mm, 10 mm, 12 mm, 1/4\", 3/8\", 1/2\", Mounting: Weld Plate, Base Rail (Channel), or Stacking Bolts, Application: Securing instrumentation tube bundles to cable trays and unistrut channels",
+    tags: ["accuracy", "and", "application", "applications", "bahjat", "base", "bolts", "brand", "bundles", "cable", "category", "channel", "channels", "clamp", "compliance", "constructed", "continuous", "control", "dampening", "designed", "din", "engineered", "engineering", "enterprises", "fittings", "for", "from", "gas", "grade", "green", "halves", "industrial", "instrument", "instrumentation", "line", "maximum", "measurement", "mounting", "oil", "operation", "parker", "part", "petrochemical", "plate", "plated", "polypropylene", "process", "product", "rail", "refineries", "reliable", "safety", "securing", "series", "single", "sizes", "stacking", "standard", "steel", "supplied", "the", "trays", "tube", "tubing", "under", "unistrut", "vibration", "weld", "with", "zinc"]
+  },
+  {
+    id: "inst-184-tube-coil",
+    sno: 184,
+    name: "Tube Coil",
+    brand: "Swagelok",
+    category: "instrumentation",
+    subCategory: "Instrument Fittings & Tubing",
+    image: null,
+    description: "Industrial-grade Tube Coil supplied by Bahjat Enterprises to certified industrial standards. Engineered for process control, oil & gas, refineries, petrochemical, and instrumentation applications. Continuous Seamless Stainless Steel Coiled Tubing constructed from ASTM A269 / A213 Grade TP316 / TP316L Fully Annealed. Designed for reliable continuous operation, safety compliance, and maximum measurement accuracy.",
+    specs: {
+          "Product": "Tube Coil",
+          "Brand": "Swagelok",
+          "Category": "Instrument Fittings & Tubing",
+          "Industrial Standard": "ASTM A269 / ASME B31.3 / NACE MR0175",
+          "Coil Lengths": "100 meters, 300 meters, 500 meters continuous coil with zero intermediate welds",
+          "Dimensions": "1/4\" OD x 0.035\" / 0.049\" wall, 3/8\" x 0.049\", 1/2\" x 0.065\"",
+          "Application": "Subsea umbilicals, chemical injection lines, long instrument impulse runs"
+    },
+    rawSpecs: "Tube Coil - Continuous Seamless Stainless Steel Coiled Tubing, Brand: Swagelok, Material: ASTM A269 / A213 Grade TP316 / TP316L Fully Annealed, Industrial Standard: ASTM A269 / ASME B31.3 / NACE MR0175, Coil Lengths: 100 meters, 300 meters, 500 meters continuous coil with zero intermediate welds, Dimensions: 1/4\" OD x 0.035\" / 0.049\" wall, 3/8\" x 0.049\", 1/2\" x 0.065\", Application: Subsea umbilicals, chemical injection lines, long instrument impulse runs",
+    tags: ["a213", "a269", "accuracy", "and", "annealed", "application", "applications", "asme", "astm", "b31", "bahjat", "brand", "category", "chemical", "coil", "coiled", "compliance", "constructed", "continuous", "control", "designed", "dimensions", "engineered", "engineering", "enterprises", "fittings", "for", "from", "fully", "gas", "grade", "impulse", "industrial", "injection", "instrument", "instrumentation", "intermediate", "lengths", "lines", "long", "maximum", "measurement", "meters", "mr0175", "nace", "oil", "operation", "petrochemical", "process", "product", "refineries", "reliable", "runs", "safety", "seamless", "stainless", "standard", "steel", "subsea", "supplied", "swagelok", "the", "tp316", "tp316l", "tube", "tubing", "umbilicals", "under", "wall", "welds", "with", "zero"]
+  },
+  {
+    id: "inst-185-tube-end-cap",
+    sno: 185,
+    name: "Tube End Cap",
+    brand: "Swagelok",
+    category: "instrumentation",
+    subCategory: "Instrument Fittings & Tubing",
+    image: null,
+    description: "Industrial-grade Tube End Cap supplied by Bahjat Enterprises to certified industrial standards. Engineered for process control, oil & gas, refineries, petrochemical, and instrumentation applications. Precision Machined Tube End Cap / Sealing Cap constructed from Stainless Steel 316 / Monel 400. Designed for reliable continuous operation, safety compliance, and maximum measurement accuracy.",
+    specs: {
+          "Product": "Tube End Cap",
+          "Brand": "Swagelok",
+          "Category": "Instrument Fittings & Tubing",
+          "Industrial Standard": "ASME B31.3 / MSS-SP-99",
+          "Sizes": "1/4\", 3/8\", 1/2\", 3/4\", 1\" OD",
+          "Pressure Rating": "Up to 10,000 PSI cold working pressure",
+          "Application": "Caps tube ends cleanly to prevent fluid spillage and particulate entry"
+    },
+    rawSpecs: "Tube End Cap - Precision Machined Tube End Cap / Sealing Cap, Brand: Swagelok, Material: Stainless Steel 316 / Monel 400, Industrial Standard: ASME B31.3 / MSS-SP-99, Sizes: 1/4\", 3/8\", 1/2\", 3/4\", 1\" OD, Pressure Rating: Up to 10,000 PSI cold working pressure, Application: Caps tube ends cleanly to prevent fluid spillage and particulate entry",
+    tags: ["accuracy", "and", "application", "applications", "asme", "b31", "bahjat", "brand", "cap", "caps", "category", "cleanly", "cold", "compliance", "constructed", "continuous", "control", "designed", "end", "ends", "engineered", "engineering", "enterprises", "entry", "fittings", "fluid", "for", "from", "gas", "grade", "industrial", "instrument", "instrumentation", "machined", "maximum", "measurement", "monel", "mss", "oil", "operation", "particulate", "petrochemical", "precision", "pressure", "prevent", "process", "product", "psi", "rating", "refineries", "reliable", "safety", "sealing", "sizes", "spillage", "stainless", "standard", "steel", "supplied", "swagelok", "the", "tube", "tubing", "under", "working"]
+  },
+  {
+    id: "inst-186-tube-end-closure",
+    sno: 186,
+    name: "Tube End Closure",
+    brand: "Swagelok",
+    category: "instrumentation",
+    subCategory: "Instrument Fittings & Tubing",
+    image: null,
+    description: "Industrial-grade Tube End Closure supplied by Bahjat Enterprises to certified industrial standards. Engineered for process control, oil & gas, refineries, petrochemical, and instrumentation applications. Threaded / Compression Tube Blind End Closure constructed from Forged SS316 / Hastelloy C-276. Designed for reliable continuous operation, safety compliance, and maximum measurement accuracy.",
+    specs: {
+          "Product": "Tube End Closure",
+          "Brand": "Swagelok",
+          "Category": "Instrument Fittings & Tubing",
+          "Industrial Standard": "ASME B31.3 / ASME B16.11",
+          "Pressure Class": "3,000 to 10,000 PSIG",
+          "Connection": "Compression Tube OD / Socket Weld End",
+          "Application": "Permanent or temporary closure of process manifold lines"
+    },
+    rawSpecs: "Tube End Closure - Threaded / Compression Tube Blind End Closure, Brand: Swagelok, Material: Forged SS316 / Hastelloy C-276, Industrial Standard: ASME B31.3 / ASME B16.11, Pressure Class: 3,000 to 10,000 PSIG, Connection: Compression Tube OD / Socket Weld End, Application: Permanent or temporary closure of process manifold lines",
+    tags: ["accuracy", "and", "application", "applications", "asme", "b16", "b31", "bahjat", "blind", "brand", "category", "class", "closure", "compliance", "compression", "connection", "constructed", "continuous", "control", "designed", "end", "engineered", "engineering", "enterprises", "fittings", "for", "forged", "from", "gas", "grade", "hastelloy", "industrial", "instrument", "instrumentation", "lines", "manifold", "maximum", "measurement", "oil", "operation", "permanent", "petrochemical", "pressure", "process", "product", "psig", "refineries", "reliable", "safety", "socket", "ss316", "standard", "supplied", "swagelok", "temporary", "the", "threaded", "tube", "tubing", "under", "weld"]
+  },
+  {
+    id: "inst-187-tube-fittings-general-instrumentation",
+    sno: 187,
+    name: "Tube Fittings (General Instrumentation)",
+    brand: "Swagelok",
+    category: "instrumentation",
+    subCategory: "Instrument Fittings & Tubing",
+    image: null,
+    description: "Industrial-grade Tube Fittings (General Instrumentation) supplied by Bahjat Enterprises to certified industrial standards. Engineered for process control, oil & gas, refineries, petrochemical, and instrumentation applications. Comprehensive Double Ferrule Tube Fittings Assortment constructed from ASTM A276 / A479 SS316 / SS316L / Brass / Inconel 625. Designed for reliable continuous operation, safety compliance, and maximum measurement accuracy.",
+    specs: {
+          "Product": "Tube Fittings (General Instrumentation)",
+          "Brand": "Swagelok",
+          "Category": "Instrument Fittings & Tubing",
+          "Industrial Standard": "ASME B31.3 / MSS-SP-99 / ISO 19879",
+          "Configurations": "Unions, Male Connectors, Female Connectors, Elbows, Tees, Crosses, Bulkheads",
+          "Sizes": "1/16\" to 2\" (2 mm to 50 mm)",
+          "Pressure Capability": "Up to 15,000 PSI (1034 bar) gas-tight seal"
+    },
+    rawSpecs: "Tube Fittings (General Instrumentation) - Comprehensive Double Ferrule Tube Fittings Assortment, Brand: Swagelok, Material: ASTM A276 / A479 SS316 / SS316L / Brass / Inconel 625, Industrial Standard: ASME B31.3 / MSS-SP-99 / ISO 19879, Configurations: Unions, Male Connectors, Female Connectors, Elbows, Tees, Crosses, Bulkheads, Sizes: 1/16\" to 2\" (2 mm to 50 mm), Pressure Capability: Up to 15,000 PSI (1034 bar) gas-tight seal",
+    tags: ["a276", "a479", "accuracy", "and", "applications", "asme", "assortment", "astm", "b31", "bahjat", "bar", "brand", "brass", "bulkheads", "capability", "category", "compliance", "comprehensive", "configurations", "connectors", "constructed", "continuous", "control", "crosses", "designed", "double", "elbows", "engineered", "engineering", "enterprises", "female", "ferrule", "fittings", "for", "from", "gas", "general", "grade", "inconel", "industrial", "instrument", "instrumentation", "iso", "male", "maximum", "measurement", "mss", "oil", "operation", "petrochemical", "pressure", "process", "product", "psi", "refineries", "reliable", "safety", "seal", "sizes", "ss316", "ss316l", "standard", "supplied", "swagelok", "tees", "the", "tight", "tube", "tubing", "under", "unions"]
+  },
+  {
+    id: "inst-188-tube-insert",
+    sno: 188,
+    name: "Tube Insert",
+    brand: "Swagelok",
+    category: "instrumentation",
+    subCategory: "Instrument Fittings & Tubing",
+    image: null,
+    description: "Industrial-grade Tube Insert supplied by Bahjat Enterprises to certified industrial standards. Engineered for process control, oil & gas, refineries, petrochemical, and instrumentation applications. Brass & Stainless Steel Internal Tube Stiffener Insert constructed from Precision Machined SS316 / Brass Alloy 360. Designed for reliable continuous operation, safety compliance, and maximum measurement accuracy.",
+    specs: {
+          "Product": "Tube Insert",
+          "Brand": "Swagelok",
+          "Category": "Instrument Fittings & Tubing",
+          "Industrial Standard": "ASME B31.3 Standards",
+          "Tube OD / ID": "1/4\" x 0.170\", 3/8\" x 0.250\", 1/2\" x 0.375\"",
+          "Application": "Provides inner radial support to polyethylene, polyurethane, and nylon pneumatic tubing"
+    },
+    rawSpecs: "Tube Insert - Brass & Stainless Steel Internal Tube Stiffener Insert, Brand: Swagelok, Material: Precision Machined SS316 / Brass Alloy 360, Industrial Standard: ASME B31.3 Standards, Tube OD / ID: 1/4\" x 0.170\", 3/8\" x 0.250\", 1/2\" x 0.375\", Application: Provides inner radial support to polyethylene, polyurethane, and nylon pneumatic tubing",
+    tags: ["accuracy", "alloy", "and", "application", "applications", "asme", "b31", "bahjat", "brand", "brass", "category", "compliance", "constructed", "continuous", "control", "designed", "engineered", "engineering", "enterprises", "fittings", "for", "from", "gas", "grade", "industrial", "inner", "insert", "instrument", "instrumentation", "internal", "machined", "maximum", "measurement", "nylon", "oil", "operation", "petrochemical", "pneumatic", "polyethylene", "polyurethane", "precision", "process", "product", "provides", "radial", "refineries", "reliable", "safety", "ss316", "stainless", "standard", "standards", "steel", "stiffener", "supplied", "support", "swagelok", "the", "tube", "tubing", "under"]
+  },
+  {
+    id: "inst-189-tube-marker",
+    sno: 189,
+    name: "Tube Marker",
+    brand: "Swagelok",
+    category: "instrumentation",
+    subCategory: "Instrument Fittings & Tubing",
+    image: null,
+    description: "Industrial-grade Tube Marker supplied by Bahjat Enterprises to certified industrial standards. Engineered for process control, oil & gas, refineries, petrochemical, and instrumentation applications. Pre-Tightening Tube Depth Marker Tool constructed from Anodized Heavy Duty Aluminium / Tool Steel. Designed for reliable continuous operation, safety compliance, and maximum measurement accuracy.",
+    specs: {
+          "Product": "Tube Marker",
+          "Brand": "Swagelok",
+          "Category": "Instrument Fittings & Tubing",
+          "Industrial Standard": "Swagelok Quality Assurance Standard",
+          "Sizes Supported": "1/4\", 3/8\", 1/2\", 3/4\", 1\" Tube OD",
+          "Function": "Scribes a precise insertion depth ring mark on tubing to guarantee complete bottoming in fitting body",
+          "Application": "Quality assurance inspection for safety-critical high pressure impulse line installation"
+    },
+    rawSpecs: "Tube Marker - Pre-Tightening Tube Depth Marker Tool, Brand: Swagelok, Material: Anodized Heavy Duty Aluminium / Tool Steel, Industrial Standard: Swagelok Quality Assurance Standard, Sizes Supported: 1/4\", 3/8\", 1/2\", 3/4\", 1\" Tube OD, Function: Scribes a precise insertion depth ring mark on tubing to guarantee complete bottoming in fitting body, Application: Quality assurance inspection for safety-critical high pressure impulse line installation",
+    tags: ["accuracy", "aluminium", "and", "anodized", "application", "applications", "assurance", "bahjat", "body", "bottoming", "brand", "category", "complete", "compliance", "constructed", "continuous", "control", "critical", "depth", "designed", "duty", "engineered", "engineering", "enterprises", "fitting", "fittings", "for", "from", "function", "gas", "grade", "guarantee", "heavy", "high", "impulse", "industrial", "insertion", "inspection", "installation", "instrument", "instrumentation", "line", "mark", "marker", "maximum", "measurement", "oil", "operation", "petrochemical", "pre", "precise", "pressure", "process", "product", "quality", "refineries", "reliable", "ring", "safety", "scribes", "sizes", "standard", "steel", "supplied", "supported", "swagelok", "the", "tightening", "tool", "tube", "tubing", "under"]
+  },
+  {
+    id: "inst-190-tube-sleeve",
+    sno: 190,
+    name: "Tube Sleeve",
+    brand: "Swagelok",
+    category: "instrumentation",
+    subCategory: "Instrument Fittings & Tubing",
+    image: null,
+    description: "Industrial-grade Tube Sleeve supplied by Bahjat Enterprises to certified industrial standards. Engineered for process control, oil & gas, refineries, petrochemical, and instrumentation applications. Protective Anti-Chafing / Fire-Resistant Tube Sleeve constructed from Silicone Coated Braided Fiberglass / Heavy Duty Heat-Shrink Polyolefin. Designed for reliable continuous operation, safety compliance, and maximum measurement accuracy.",
+    specs: {
+          "Product": "Tube Sleeve",
+          "Brand": "Swagelok",
+          "Category": "Instrument Fittings & Tubing",
+          "Industrial Standard": "UL 94 V-0 Flame Retardant / SAE AS1072",
+          "Diameters": "1/4\" to 2\" Internal Diameter",
+          "Temperature Range": "-54 deg C to +260 deg C (Continuous) / +1093 deg C (15-20 min short term)",
+          "Application": "Protects instrument tubing from welding slag, engine heat, radiant flames, and mechanical vibration"
+    },
+    rawSpecs: "Tube Sleeve - Protective Anti-Chafing / Fire-Resistant Tube Sleeve, Brand: Swagelok, Material: Silicone Coated Braided Fiberglass / Heavy Duty Heat-Shrink Polyolefin, Industrial Standard: UL 94 V-0 Flame Retardant / SAE AS1072, Diameters: 1/4\" to 2\" Internal Diameter, Temperature Range: -54 deg C to +260 deg C (Continuous) / +1093 deg C (15-20 min short term), Application: Protects instrument tubing from welding slag, engine heat, radiant flames, and mechanical vibration",
+    tags: ["accuracy", "and", "anti", "application", "applications", "as1072", "bahjat", "braided", "brand", "category", "chafing", "coated", "compliance", "constructed", "continuous", "control", "deg", "designed", "diameter", "diameters", "duty", "engine", "engineered", "engineering", "enterprises", "fiberglass", "fire", "fittings", "flame", "flames", "for", "from", "gas", "grade", "heat", "heavy", "industrial", "instrument", "instrumentation", "internal", "maximum", "measurement", "mechanical", "min", "oil", "operation", "petrochemical", "polyolefin", "process", "product", "protective", "protects", "radiant", "range", "refineries", "reliable", "resistant", "retardant", "sae", "safety", "short", "shrink", "silicone", "slag", "sleeve", "standard", "supplied", "swagelok", "temperature", "term", "the", "tube", "tubing", "under", "vibration", "welding"]
+  },
+  {
+    id: "inst-191-tube-straightener",
+    sno: 191,
+    name: "Tube Straightener",
+    brand: "Parker",
+    category: "instrumentation",
+    subCategory: "Instrument Fittings & Tubing",
+    image: null,
+    description: "Industrial-grade Tube Straightener supplied by Bahjat Enterprises to certified industrial standards. Engineered for process control, oil & gas, refineries, petrochemical, and instrumentation applications. Handheld Precision Coiled Tube Straightener Tool constructed from Hardened Ball Bearing Steel Rollers in Aluminium Frame. Designed for reliable continuous operation, safety compliance, and maximum measurement accuracy.",
+    specs: {
+          "Product": "Tube Straightener",
+          "Brand": "Parker",
+          "Category": "Instrument Fittings & Tubing",
+          "Industrial Standard": "Industrial Fitter Tooling Standard",
+          "Tube Sizes": "1/4\", 5/16\", 3/8\", 1/2\" (6 mm to 12 mm)",
+          "Operation": "Manual pull-through 16-roller dual-plane straightening mechanism",
+          "Application": "Quickly uncoils and straightens coiled stainless steel, copper, and aluminium tubing"
+    },
+    rawSpecs: "Tube Straightener - Handheld Precision Coiled Tube Straightener Tool, Brand: Parker, Material: Hardened Ball Bearing Steel Rollers in Aluminium Frame, Industrial Standard: Industrial Fitter Tooling Standard, Tube Sizes: 1/4\", 5/16\", 3/8\", 1/2\" (6 mm to 12 mm), Operation: Manual pull-through 16-roller dual-plane straightening mechanism, Application: Quickly uncoils and straightens coiled stainless steel, copper, and aluminium tubing",
+    tags: ["accuracy", "aluminium", "and", "application", "applications", "bahjat", "ball", "bearing", "brand", "category", "coiled", "compliance", "constructed", "continuous", "control", "copper", "designed", "dual", "engineered", "engineering", "enterprises", "fitter", "fittings", "for", "frame", "from", "gas", "grade", "handheld", "hardened", "industrial", "instrument", "instrumentation", "manual", "maximum", "measurement", "mechanism", "oil", "operation", "parker", "petrochemical", "plane", "precision", "process", "product", "pull", "quickly", "refineries", "reliable", "roller", "rollers", "safety", "sizes", "stainless", "standard", "steel", "straightener", "straightening", "straightens", "supplied", "the", "through", "tool", "tooling", "tube", "tubing", "uncoils", "under"]
+  },
+  {
+    id: "inst-192-tube-support",
+    sno: 192,
+    name: "Tube Support",
+    brand: "Parker",
+    category: "instrumentation",
+    subCategory: "Instrument Fittings & Tubing",
+    image: null,
+    description: "Industrial-grade Tube Support supplied by Bahjat Enterprises to certified industrial standards. Engineered for process control, oil & gas, refineries, petrochemical, and instrumentation applications. Cushioned Tube Support Channel / Unistrut Clamp constructed from Thermoplastic Elastomer Cushion with Electro-Galvanized / SS316 Channel Clamp. Designed for reliable continuous operation, safety compliance, and maximum measurement accuracy.",
+    specs: {
+          "Product": "Tube Support",
+          "Brand": "Parker",
+          "Category": "Instrument Fittings & Tubing",
+          "Industrial Standard": "MSS-SP-58 Pipe Hangers & Supports",
+          "Tube Sizes": "1/4\" to 1-1/2\" OD",
+          "Dampening": "Isolates impulse tubing from structure vibrations and prevents galvanic corrosion",
+          "Application": "Panel racks, offshore skids, compressor stations, power plants"
+    },
+    rawSpecs: "Tube Support - Cushioned Tube Support Channel / Unistrut Clamp, Brand: Parker, Material: Thermoplastic Elastomer Cushion with Electro-Galvanized / SS316 Channel Clamp, Industrial Standard: MSS-SP-58 Pipe Hangers & Supports, Tube Sizes: 1/4\" to 1-1/2\" OD, Dampening: Isolates impulse tubing from structure vibrations and prevents galvanic corrosion, Application: Panel racks, offshore skids, compressor stations, power plants",
+    tags: ["accuracy", "and", "application", "applications", "bahjat", "brand", "category", "channel", "clamp", "compliance", "compressor", "constructed", "continuous", "control", "corrosion", "cushion", "cushioned", "dampening", "designed", "elastomer", "electro", "engineered", "engineering", "enterprises", "fittings", "for", "from", "galvanic", "galvanized", "gas", "grade", "hangers", "impulse", "industrial", "instrument", "instrumentation", "isolates", "maximum", "measurement", "mss", "offshore", "oil", "operation", "panel", "parker", "petrochemical", "pipe", "plants", "power", "prevents", "process", "product", "racks", "refineries", "reliable", "safety", "sizes", "skids", "ss316", "standard", "stations", "structure", "supplied", "support", "supports", "the", "thermoplastic", "tube", "tubing", "under", "unistrut", "vibrations", "with"]
+  },
+  {
+    id: "inst-193-tube-union",
+    sno: 193,
+    name: "Tube Union",
+    brand: "Swagelok",
+    category: "instrumentation",
+    subCategory: "Instrument Fittings & Tubing",
+    image: null,
+    description: "Industrial-grade Tube Union supplied by Bahjat Enterprises to certified industrial standards. Engineered for process control, oil & gas, refineries, petrochemical, and instrumentation applications. Straight Equal Double Ferrule Tube Union constructed from ASTM A276 Grade 316 / 316L Stainless Steel. Designed for reliable continuous operation, safety compliance, and maximum measurement accuracy.",
+    specs: {
+          "Product": "Tube Union",
+          "Brand": "Swagelok",
+          "Category": "Instrument Fittings & Tubing",
+          "Industrial Standard": "ASME B31.3 / MSS-SP-99",
+          "Sizes": "1/8\", 1/4\", 3/8\", 1/2\", 3/4\", 1\" Equal OD",
+          "Pressure Rating": "Up to 11,000 PSI (758 bar)",
+          "Application": "Coupling two straight runs of tubing with leak-free double-ferrule sealing"
+    },
+    rawSpecs: "Tube Union - Straight Equal Double Ferrule Tube Union, Brand: Swagelok, Material: ASTM A276 Grade 316 / 316L Stainless Steel, Industrial Standard: ASME B31.3 / MSS-SP-99, Sizes: 1/8\", 1/4\", 3/8\", 1/2\", 3/4\", 1\" Equal OD, Pressure Rating: Up to 11,000 PSI (758 bar), Application: Coupling two straight runs of tubing with leak-free double-ferrule sealing",
+    tags: ["316l", "a276", "accuracy", "and", "application", "applications", "asme", "astm", "b31", "bahjat", "bar", "brand", "category", "compliance", "constructed", "continuous", "control", "coupling", "designed", "double", "engineered", "engineering", "enterprises", "equal", "ferrule", "fittings", "for", "free", "from", "gas", "grade", "industrial", "instrument", "instrumentation", "leak", "maximum", "measurement", "mss", "oil", "operation", "petrochemical", "pressure", "process", "product", "psi", "rating", "refineries", "reliable", "runs", "safety", "sealing", "sizes", "stainless", "standard", "steel", "straight", "supplied", "swagelok", "the", "tube", "tubing", "two", "under", "union", "with"]
+  },
+  {
+    id: "inst-194-turbidity-meter",
+    sno: 194,
+    name: "Turbidity Meter",
+    brand: "Endress+Hauser (E+H)",
+    category: "instrumentation",
+    subCategory: "Analyzers & Calibration",
+    image: null,
+    description: "Industrial-grade Turbidity Meter supplied by Bahjat Enterprises to certified industrial standards. Engineered for process control, oil & gas, refineries, petrochemical, and instrumentation applications. Nephelometric 90-Degree Scattered Light Turbidity Sensor constructed from SS316L Stainless Steel Optical Sensor Head with Sapphire Windows. Designed for reliable continuous operation, safety compliance, and maximum measurement accuracy.",
+    specs: {
+          "Product": "Turbidity Meter",
+          "Brand": "Endress+Hauser (E+H)",
+          "Category": "Analyzers & Calibration",
+          "Industrial Standard": "ISO 7027 / EN 27027 Drinking Water Quality Standard",
+          "Measurement Range": "0.000 to 9999 FNU / NTU",
+          "Outputs": "4-20 mA HART, Modbus RS485, Relay Outputs",
+          "Application": "Filter breakthrough monitoring, wastewater effluent, raw river water treatment"
+    },
+    rawSpecs: "Turbidity Meter - Nephelometric 90-Degree Scattered Light Turbidity Sensor, Brand: Endress+Hauser (E+H), Material: SS316L Stainless Steel Optical Sensor Head with Sapphire Windows, Industrial Standard: ISO 7027 / EN 27027 Drinking Water Quality Standard, Measurement Range: 0.000 to 9999 FNU / NTU, Outputs: 4-20 mA HART, Modbus RS485, Relay Outputs, Application: Filter breakthrough monitoring, wastewater effluent, raw river water treatment",
+    tags: ["accuracy", "analyzers", "and", "application", "applications", "bahjat", "brand", "breakthrough", "calibration", "category", "compliance", "constructed", "continuous", "control", "degree", "designed", "drinking", "effluent", "endress", "engineered", "engineering", "enterprises", "filter", "fnu", "for", "from", "gas", "grade", "hart", "hauser", "head", "industrial", "instrumentation", "iso", "light", "maximum", "measurement", "meter", "modbus", "monitoring", "nephelometric", "ntu", "oil", "operation", "optical", "outputs", "petrochemical", "process", "product", "quality", "range", "raw", "refineries", "relay", "reliable", "river", "rs485", "safety", "sapphire", "scattered", "sensor", "ss316l", "stainless", "standard", "steel", "supplied", "the", "treatment", "turbidity", "under", "wastewater", "water", "windows", "with"]
+  },
+  {
+    id: "inst-195-turbine-flow-meter",
+    sno: 195,
+    name: "Turbine Flow Meter",
+    brand: "Endress+Hauser (E+H)",
+    category: "instrumentation",
+    subCategory: "Flow Meters & Flow Sensors",
+    image: null,
+    description: "Industrial-grade Turbine Flow Meter supplied by Bahjat Enterprises to certified industrial standards. Engineered for process control, oil & gas, refineries, petrochemical, and instrumentation applications. Precision Axial Turbine Liquid Flow Meter constructed from SS316 Body with Tungsten Carbide Rotor Shaft & Bearings. Designed for reliable continuous operation, safety compliance, and maximum measurement accuracy.",
+    specs: {
+          "Product": "Turbine Flow Meter",
+          "Brand": "Endress+Hauser (E+H)",
+          "Category": "Flow Meters & Flow Sensors",
+          "Industrial Standard": "API MPMS Chapter 5.3 / ISO 2715 / ATEX Ex d",
+          "Line Sizes": "DN15 to DN300 (1/2\" to 12\" ANSI 150 - 1500# Flanged)",
+          "Accuracy": "+/- 0.25% to +/- 0.5% of Reading",
+          "Output": "High-Frequency Pulse (K-factor) & 4-20 mA with LCD Totalizer"
+    },
+    rawSpecs: "Turbine Flow Meter - Precision Axial Turbine Liquid Flow Meter, Brand: Endress+Hauser (E+H), Material: SS316 Body with Tungsten Carbide Rotor Shaft & Bearings, Industrial Standard: API MPMS Chapter 5.3 / ISO 2715 / ATEX Ex d, Line Sizes: DN15 to DN300 (1/2\" to 12\" ANSI 150 - 1500# Flanged), Accuracy: +/- 0.25% to +/- 0.5% of Reading, Output: High-Frequency Pulse (K-factor) & 4-20 mA with LCD Totalizer",
+    tags: ["accuracy", "and", "ansi", "api", "applications", "atex", "axial", "bahjat", "bearings", "body", "brand", "carbide", "category", "chapter", "compliance", "constructed", "continuous", "control", "designed", "dn15", "dn300", "endress", "engineered", "engineering", "enterprises", "factor", "flanged", "flow", "for", "frequency", "from", "gas", "grade", "hauser", "high", "industrial", "instrumentation", "iso", "lcd", "line", "liquid", "maximum", "measurement", "meter", "meters", "mpms", "oil", "operation", "output", "petrochemical", "precision", "process", "product", "pulse", "reading", "refineries", "reliable", "rotor", "safety", "sensors", "shaft", "sizes", "ss316", "standard", "supplied", "the", "totalizer", "tungsten", "turbine", "under", "with"]
+  },
+  {
+    id: "inst-196-twin-tube-clamp",
+    sno: 196,
+    name: "Twin Tube Clamp",
+    brand: "Parker",
+    category: "instrumentation",
+    subCategory: "Instrument Fittings & Tubing",
+    image: null,
+    description: "Industrial-grade Twin Tube Clamp supplied by Bahjat Enterprises to certified industrial standards. Engineered for process control, oil & gas, refineries, petrochemical, and instrumentation applications. Twin Series Polypropylene Dual Tube Clamp constructed from Green Polypropylene / Polyamide Twin Body with Steel Hardware. Designed for reliable continuous operation, safety compliance, and maximum measurement accuracy.",
+    specs: {
+          "Product": "Twin Tube Clamp",
+          "Brand": "Parker",
+          "Category": "Instrument Fittings & Tubing",
+          "Industrial Standard": "DIN 3015 Part 3 (Twin Series)",
+          "Dual Sizes": "6/6 mm, 8/8 mm, 10/10 mm, 12/12 mm, 1/4\" & 1/4\", 3/8\" & 3/8\", 1/2\" & 1/2\"",
+          "Mounting": "Weld base plate, cover plate, and heavy hex head bolts",
+          "Application": "Clean parallel routing of paired high & low pressure impulse lines"
+    },
+    rawSpecs: "Twin Tube Clamp - Twin Series Polypropylene Dual Tube Clamp, Brand: Parker, Material: Green Polypropylene / Polyamide Twin Body with Steel Hardware, Industrial Standard: DIN 3015 Part 3 (Twin Series), Dual Sizes: 6/6 mm, 8/8 mm, 10/10 mm, 12/12 mm, 1/4\" & 1/4\", 3/8\" & 3/8\", 1/2\" & 1/2\", Mounting: Weld base plate, cover plate, and heavy hex head bolts, Application: Clean parallel routing of paired high & low pressure impulse lines",
+    tags: ["accuracy", "and", "application", "applications", "bahjat", "base", "body", "bolts", "brand", "category", "clamp", "clean", "compliance", "constructed", "continuous", "control", "cover", "designed", "din", "dual", "engineered", "engineering", "enterprises", "fittings", "for", "from", "gas", "grade", "green", "hardware", "head", "heavy", "hex", "high", "impulse", "industrial", "instrument", "instrumentation", "lines", "low", "maximum", "measurement", "mounting", "oil", "operation", "paired", "parallel", "parker", "part", "petrochemical", "plate", "polyamide", "polypropylene", "pressure", "process", "product", "refineries", "reliable", "routing", "safety", "series", "sizes", "standard", "steel", "supplied", "the", "tube", "tubing", "twin", "under", "weld", "with"]
+  },
+  {
+    id: "inst-197-ultrasonic-flow-meter",
+    sno: 197,
+    name: "Ultrasonic Flow Meter",
+    brand: "Endress+Hauser (E+H)",
+    category: "instrumentation",
+    subCategory: "Flow Meters & Flow Sensors",
+    image: null,
+    description: "Industrial-grade Ultrasonic Flow Meter supplied by Bahjat Enterprises to certified industrial standards. Engineered for process control, oil & gas, refineries, petrochemical, and instrumentation applications. Clamp-On / In-Line Transit-Time Ultrasonic Flow Meter constructed from Cast Aluminium Electronics with SS316 Transducers. Designed for reliable continuous operation, safety compliance, and maximum measurement accuracy.",
+    specs: {
+          "Product": "Ultrasonic Flow Meter",
+          "Brand": "Endress+Hauser (E+H)",
+          "Category": "Flow Meters & Flow Sensors",
+          "Industrial Standard": "ISO 12242 / AGA 9 (for gas) / CE / ATEX",
+          "Pipe Sizes": "DN15 to DN4000 (1/2\" to 160\") non-invasive clamp-on",
+          "Features": "Zero pressure drop, bi-directional flow measurement, sound velocity verification",
+          "Output": "4-20 mA HART, Modbus RTU, Pulse, Alarm Relays"
+    },
+    rawSpecs: "Ultrasonic Flow Meter - Clamp-On / In-Line Transit-Time Ultrasonic Flow Meter, Brand: Endress+Hauser (E+H), Material: Cast Aluminium Electronics with SS316 Transducers, Industrial Standard: ISO 12242 / AGA 9 (for gas) / CE / ATEX, Pipe Sizes: DN15 to DN4000 (1/2\" to 160\") non-invasive clamp-on, Features: Zero pressure drop, bi-directional flow measurement, sound velocity verification, Output: 4-20 mA HART, Modbus RTU, Pulse, Alarm Relays",
+    tags: ["accuracy", "aga", "alarm", "aluminium", "and", "applications", "atex", "bahjat", "brand", "cast", "category", "clamp", "compliance", "constructed", "continuous", "control", "designed", "directional", "dn15", "dn4000", "drop", "electronics", "endress", "engineered", "engineering", "enterprises", "features", "flow", "for", "from", "gas", "grade", "hart", "hauser", "industrial", "instrumentation", "invasive", "iso", "line", "maximum", "measurement", "meter", "meters", "modbus", "non", "oil", "operation", "output", "petrochemical", "pipe", "pressure", "process", "product", "pulse", "refineries", "relays", "reliable", "rtu", "safety", "sensors", "sizes", "sound", "ss316", "standard", "supplied", "the", "time", "transducers", "transit", "ultrasonic", "under", "velocity", "verification", "with", "zero"]
+  },
+  {
+    id: "inst-198-ultrasonic-level-transmitter",
+    sno: 198,
+    name: "Ultrasonic Level Transmitter",
+    brand: "Siemens",
+    category: "instrumentation",
+    subCategory: "Level Instruments & Switches",
+    image: null,
+    description: "Industrial-grade Ultrasonic Level Transmitter supplied by Bahjat Enterprises to certified industrial standards. Engineered for process control, oil & gas, refineries, petrochemical, and instrumentation applications. Non-Contact Ultrasonic Liquid & Slurry Level Transmitter constructed from ETFE / PVDF Transducer Face with Polycarbonate Housing. Designed for reliable continuous operation, safety compliance, and maximum measurement accuracy.",
+    specs: {
+          "Product": "Ultrasonic Level Transmitter",
+          "Brand": "Siemens",
+          "Category": "Level Instruments & Switches",
+          "Industrial Standard": "IP68 Submersible Sensor / ATEX Zone 1 Ex m",
+          "Measuring Range": "0.3 m to 15 m (1 ft to 50 ft)",
+          "Sonic Intelligence": "Echo processing algorithms filter out false echoes from agitators and ladders",
+          "Output": "Loop-Powered 4-20 mA with HART & Modbus RTU"
+    },
+    rawSpecs: "Ultrasonic Level Transmitter - Non-Contact Ultrasonic Liquid & Slurry Level Transmitter, Brand: Siemens, Material: ETFE / PVDF Transducer Face with Polycarbonate Housing, Industrial Standard: IP68 Submersible Sensor / ATEX Zone 1 Ex m, Measuring Range: 0.3 m to 15 m (1 ft to 50 ft), Sonic Intelligence: Echo processing algorithms filter out false echoes from agitators and ladders, Output: Loop-Powered 4-20 mA with HART & Modbus RTU",
+    tags: ["accuracy", "agitators", "algorithms", "and", "applications", "atex", "bahjat", "brand", "category", "compliance", "constructed", "contact", "continuous", "control", "designed", "echo", "echoes", "engineered", "engineering", "enterprises", "etfe", "face", "false", "filter", "for", "from", "gas", "grade", "hart", "housing", "industrial", "instrumentation", "instruments", "intelligence", "ip68", "ladders", "level", "liquid", "loop", "maximum", "measurement", "measuring", "modbus", "non", "oil", "operation", "out", "output", "petrochemical", "polycarbonate", "powered", "process", "processing", "product", "pvdf", "range", "refineries", "reliable", "rtu", "safety", "sensor", "siemens", "slurry", "sonic", "standard", "submersible", "supplied", "switches", "the", "transducer", "transmitter", "ultrasonic", "under", "with", "zone"]
+  },
+  {
+    id: "inst-199-union-elbow",
+    sno: 199,
+    name: "Union Elbow",
+    brand: "Swagelok",
+    category: "instrumentation",
+    subCategory: "Instrument Fittings & Tubing",
+    image: null,
+    description: "Industrial-grade Union Elbow supplied by Bahjat Enterprises to certified industrial standards. Engineered for process control, oil & gas, refineries, petrochemical, and instrumentation applications. 90-Degree Equal Compression Tube Union Elbow constructed from Forged ASTM A182 F316 / SS316L / Brass. Designed for reliable continuous operation, safety compliance, and maximum measurement accuracy.",
+    specs: {
+          "Product": "Union Elbow",
+          "Brand": "Swagelok",
+          "Category": "Instrument Fittings & Tubing",
+          "Industrial Standard": "ASME B31.3 / MSS-SP-99",
+          "Sizes": "1/8\", 1/4\", 3/8\", 1/2\", 3/4\", 1\" Equal Double Ferrule Tube Ends",
+          "Pressure Rating": "Up to 10,000 PSI (689 bar)",
+          "Application": "Making clean 90-degree turns in high pressure instrument tubing runs"
+    },
+    rawSpecs: "Union Elbow - 90-Degree Equal Compression Tube Union Elbow, Brand: Swagelok, Material: Forged ASTM A182 F316 / SS316L / Brass, Industrial Standard: ASME B31.3 / MSS-SP-99, Sizes: 1/8\", 1/4\", 3/8\", 1/2\", 3/4\", 1\" Equal Double Ferrule Tube Ends, Pressure Rating: Up to 10,000 PSI (689 bar), Application: Making clean 90-degree turns in high pressure instrument tubing runs",
+    tags: ["a182", "accuracy", "and", "application", "applications", "asme", "astm", "b31", "bahjat", "bar", "brand", "brass", "category", "clean", "compliance", "compression", "constructed", "continuous", "control", "degree", "designed", "double", "elbow", "ends", "engineered", "engineering", "enterprises", "equal", "f316", "ferrule", "fittings", "for", "forged", "from", "gas", "grade", "high", "industrial", "instrument", "instrumentation", "making", "maximum", "measurement", "mss", "oil", "operation", "petrochemical", "pressure", "process", "product", "psi", "rating", "refineries", "reliable", "runs", "safety", "sizes", "ss316l", "standard", "supplied", "swagelok", "the", "tube", "tubing", "turns", "under", "union"]
+  },
+  {
+    id: "inst-200-union-tee",
+    sno: 200,
+    name: "Union Tee",
+    brand: "Swagelok",
+    category: "instrumentation",
+    subCategory: "Instrument Fittings & Tubing",
+    image: null,
+    description: "Industrial-grade Union Tee supplied by Bahjat Enterprises to certified industrial standards. Engineered for process control, oil & gas, refineries, petrochemical, and instrumentation applications. Equal 3-Way Compression Tube Union Tee constructed from Forged ASTM A182 F316 / Brass / Alloy 400. Designed for reliable continuous operation, safety compliance, and maximum measurement accuracy.",
+    specs: {
+          "Product": "Union Tee",
+          "Brand": "Swagelok",
+          "Category": "Instrument Fittings & Tubing",
+          "Industrial Standard": "ASME B31.3 / MSS-SP-99",
+          "Sizes": "1/4\", 3/8\", 1/2\", 3/4\", 1\" Equal All 3 Ends",
+          "Pressure Rating": "Up to 10,000 PSI (689 bar)",
+          "Application": "Connecting three tubing runs of identical outer diameter without threading"
+    },
+    rawSpecs: "Union Tee - Equal 3-Way Compression Tube Union Tee, Brand: Swagelok, Material: Forged ASTM A182 F316 / Brass / Alloy 400, Industrial Standard: ASME B31.3 / MSS-SP-99, Sizes: 1/4\", 3/8\", 1/2\", 3/4\", 1\" Equal All 3 Ends, Pressure Rating: Up to 10,000 PSI (689 bar), Application: Connecting three tubing runs of identical outer diameter without threading",
+    tags: ["a182", "accuracy", "all", "alloy", "and", "application", "applications", "asme", "astm", "b31", "bahjat", "bar", "brand", "brass", "category", "compliance", "compression", "connecting", "constructed", "continuous", "control", "designed", "diameter", "ends", "engineered", "engineering", "enterprises", "equal", "f316", "fittings", "for", "forged", "from", "gas", "grade", "identical", "industrial", "instrument", "instrumentation", "maximum", "measurement", "mss", "oil", "operation", "outer", "petrochemical", "pressure", "process", "product", "psi", "rating", "refineries", "reliable", "runs", "safety", "sizes", "standard", "supplied", "swagelok", "tee", "the", "threading", "three", "tube", "tubing", "under", "union", "way", "without"]
+  },
+  {
+    id: "inst-201-vent-valve",
+    sno: 201,
+    name: "Vent Valve",
+    brand: "Swagelok",
+    category: "instrumentation",
+    subCategory: "Instrument Valves & Manifolds",
+    image: null,
+    description: "Industrial-grade Vent Valve supplied by Bahjat Enterprises to certified industrial standards. Engineered for process control, oil & gas, refineries, petrochemical, and instrumentation applications. High Pressure Bleed & Vent Valve constructed from Stainless Steel 316 with Barb / Tube Vent Outlet. Designed for reliable continuous operation, safety compliance, and maximum measurement accuracy.",
+    specs: {
+          "Product": "Vent Valve",
+          "Brand": "Swagelok",
+          "Category": "Instrument Valves & Manifolds",
+          "Industrial Standard": "ASME B31.3 / MSS-SP-99",
+          "Connections": "1/4\" or 1/2\" Male NPT Inlet x Knurled Stem Vent Hole",
+          "Pressure Rating": "Up to 10,000 PSI (689 bar) at 100 deg F",
+          "Application": "Venting trapped pressure prior to instrument removal or zero calibration"
+    },
+    rawSpecs: "Vent Valve - High Pressure Bleed & Vent Valve, Brand: Swagelok, Material: Stainless Steel 316 with Barb / Tube Vent Outlet, Industrial Standard: ASME B31.3 / MSS-SP-99, Connections: 1/4\" or 1/2\" Male NPT Inlet x Knurled Stem Vent Hole, Pressure Rating: Up to 10,000 PSI (689 bar) at 100 deg F, Application: Venting trapped pressure prior to instrument removal or zero calibration",
+    tags: ["accuracy", "and", "application", "applications", "asme", "b31", "bahjat", "bar", "barb", "bleed", "brand", "calibration", "category", "compliance", "connections", "constructed", "continuous", "control", "deg", "designed", "engineered", "engineering", "enterprises", "for", "from", "gas", "grade", "high", "hole", "industrial", "inlet", "instrument", "instrumentation", "knurled", "male", "manifolds", "maximum", "measurement", "mss", "npt", "oil", "operation", "outlet", "petrochemical", "pressure", "prior", "process", "product", "psi", "rating", "refineries", "reliable", "removal", "safety", "stainless", "standard", "steel", "stem", "supplied", "swagelok", "the", "trapped", "tube", "under", "valve", "valves", "vent", "venting", "with", "zero"]
+  },
+  {
+    id: "inst-202-vortex-flow-meter",
+    sno: 202,
+    name: "Vortex Flow Meter",
+    brand: "Yokogawa",
+    category: "instrumentation",
+    subCategory: "Flow Meters & Flow Sensors",
+    image: null,
+    description: "Industrial-grade Vortex Flow Meter supplied by Bahjat Enterprises to certified industrial standards. Engineered for process control, oil & gas, refineries, petrochemical, and instrumentation applications. Shedder-Bar Vortex Shedding Flow Meter with Integrated Temperature Sensor constructed from Cast Stainless Steel CF8M / SS316 with Dual Piezoelectric Sensors. Designed for reliable continuous operation, safety compliance, and maximum measurement accuracy.",
+    specs: {
+          "Product": "Vortex Flow Meter",
+          "Brand": "Yokogawa",
+          "Category": "Flow Meters & Flow Sensors",
+          "Industrial Standard": "ASME B16.5 / IEC 61508 SIL 2 / ATEX Flameproof",
+          "Body Styles": "Wafer or Flanged ANSI 150#, 300#, 600# (DN15 to DN300)",
+          "Medium": "Saturated Steam, Superheated Steam, Compressed Air, Nitrogen, Liquids",
+          "Output": "4-20 mA HART, Pulse/Frequency, Foundation Fieldbus, Modbus"
+    },
+    rawSpecs: "Vortex Flow Meter - Shedder-Bar Vortex Shedding Flow Meter with Integrated Temperature Sensor, Brand: Yokogawa, Material: Cast Stainless Steel CF8M / SS316 with Dual Piezoelectric Sensors, Industrial Standard: ASME B16.5 / IEC 61508 SIL 2 / ATEX Flameproof, Body Styles: Wafer or Flanged ANSI 150#, 300#, 600# (DN15 to DN300), Medium: Saturated Steam, Superheated Steam, Compressed Air, Nitrogen, Liquids, Output: 4-20 mA HART, Pulse/Frequency, Foundation Fieldbus, Modbus",
+    tags: ["accuracy", "air", "and", "ansi", "applications", "asme", "atex", "b16", "bahjat", "bar", "body", "brand", "cast", "category", "cf8m", "compliance", "compressed", "constructed", "continuous", "control", "designed", "dn15", "dn300", "dual", "engineered", "engineering", "enterprises", "fieldbus", "flameproof", "flanged", "flow", "for", "foundation", "frequency", "from", "gas", "grade", "hart", "iec", "industrial", "instrumentation", "integrated", "liquids", "maximum", "measurement", "medium", "meter", "meters", "modbus", "nitrogen", "oil", "operation", "output", "petrochemical", "piezoelectric", "process", "product", "pulse", "refineries", "reliable", "safety", "saturated", "sensor", "sensors", "shedder", "shedding", "sil", "ss316", "stainless", "standard", "steam", "steel", "styles", "superheated", "supplied", "temperature", "the", "under", "vortex", "wafer", "with", "yokogawa"]
   }
 ];
 

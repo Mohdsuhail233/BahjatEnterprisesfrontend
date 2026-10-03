@@ -15,10 +15,10 @@ export default function Footer() {
             {/* Left Brand Column */}
             <div className="lg:col-span-5 space-y-5">
               {/* Brand Logo */}
-              <Link to="/" className="inline-flex items-center group">
+              <Link to="/" aria-label="Bahjat Enterprises Home" className="inline-flex items-center group">
                 <img
                   src="/logo/logo.png"
-                  alt={COMPANY_NAME}
+                  alt={`${COMPANY_NAME} - Industrial & Electrical Supplies Logo`}
                   className="h-12 sm:h-14 w-auto object-contain transition-transform duration-200 group-hover:scale-[1.02]"
                   onError={(e) => {
                     e.currentTarget.src = '/images/Logo/Bahjat Enterprises Horizontal PNG.png';
@@ -97,8 +97,10 @@ export default function Footer() {
                 </span>
                 <div className="flex items-center gap-2.5">
                   <span className="text-xs sm:text-[13px] font-bold text-zinc-600 w-20 flex-shrink-0">Phone / WA:</span>
-                  <a href="tel:+919599828365" className="text-sm sm:text-[14.5px] text-zinc-900 hover:text-blue-600 font-semibold transition-colors underline-offset-2 hover:underline">
+                  <a href="tel:+919599828365," className="text-sm sm:text-[14.5px] text-zinc-900 hover:text-blue-600 font-semibold transition-colors underline-offset-2 hover:underline">
                     +91 95998 28365
+                    <br />
+                    +91 95236 57981
                   </a>
                 </div>
                 <div className="flex items-center gap-2.5">
@@ -123,7 +125,7 @@ export default function Footer() {
             </div>
 
             {/* Right Link Columns */}
-            <div className="lg:col-span-7 grid grid-cols-2 sm:grid-cols-3 gap-8">
+            <nav aria-label="Footer Navigation" className="lg:col-span-7 grid grid-cols-2 sm:grid-cols-3 gap-8">
               {/* Product */}
               <div>
                 <h4 className="text-xs font-semibold text-zinc-950 uppercase tracking-wider mb-3.5">
@@ -180,6 +182,11 @@ export default function Footer() {
                     </Link>
                   </li>
                   <li>
+                    <Link to="/products-we-deal-in" className="hover:text-zinc-950 transition-colors font-medium">
+                      Products &amp; Brands We Deal In
+                    </Link>
+                  </li>
+                  <li>
                     <a
                       href={`https://wa.me/${WHATSAPP_NUMBER}?text=Hello%20Bahjat%20Enterprises,%20I%20would%20like%20to%20request%20an%20RFQ%20quotation.`}
                       target="_blank"
@@ -195,7 +202,7 @@ export default function Footer() {
                     </Link>
                   </li>
                   <li>
-                    <Link to="/about" className="hover:text-zinc-950 transition-colors">
+                    <Link to="/about#quality" className="hover:text-zinc-950 transition-colors">
                       Quality Standards
                     </Link>
                   </li>
@@ -214,8 +221,13 @@ export default function Footer() {
                     </Link>
                   </li>
                   <li>
-                    <Link to="/about" className="hover:text-zinc-950 transition-colors">
+                    <Link to="/about#leadership" className="hover:text-zinc-950 transition-colors">
                       Leadership & Vision
+                    </Link>
+                  </li>
+                  <li>
+                    <Link to="/about#partners" className="hover:text-zinc-950 transition-colors">
+                      Partners & Supply
                     </Link>
                   </li>
                   <li>
@@ -228,14 +240,9 @@ export default function Footer() {
                       WhatsApp Desk
                     </a>
                   </li>
-                  <li>
-                    <Link to="/about" className="hover:text-zinc-950 transition-colors">
-                      Partners & Supply
-                    </Link>
-                  </li>
                 </ul>
               </div>
-            </div>
+            </nav>
 
           </div>
 
@@ -245,13 +252,13 @@ export default function Footer() {
               © {currentYear} {COMPANY_NAME}. All rights reserved.
             </p>
             <div className="flex items-center gap-5 sm:gap-7">
-              <Link to="/about" className="hover:text-zinc-700 transition-colors">
+              <Link to="/about#privacy" className="hover:text-zinc-700 transition-colors">
                 Privacy Policy
               </Link>
-              <Link to="/about" className="hover:text-zinc-700 transition-colors">
+              <Link to="/about#privacy" className="hover:text-zinc-700 transition-colors">
                 Terms of Service
               </Link>
-              <Link to="/about" className="hover:text-zinc-700 transition-colors">
+              <Link to="/about#privacy" className="hover:text-zinc-700 transition-colors">
                 Cookies Settings
               </Link>
             </div>

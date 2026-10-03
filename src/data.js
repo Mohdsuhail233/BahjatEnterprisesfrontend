@@ -18,7 +18,7 @@ export const CATEGORIES = [
   {
     "id": "electrical",
     "name": "Electrical",
-    "description": "MCBs, MCCBs, cables, switchgear, panels and power distribution",
+    "description": "142 Products: MCBs, MCCBs, cables, switchgear, panels and power distribution",
     "icon": "⚡",
     "image": "/images/categories/electrical-lighting.png",
     "color": "from-zinc-800 to-zinc-950"
@@ -26,7 +26,7 @@ export const CATEGORIES = [
   {
     "id": "tools",
     "name": "Tools (Hand & Power)",
-    "description": "Power drills, angle grinders, spanners, pliers, screwdrivers, saws and wrenches",
+    "description": "150 Products: Power drills, angle grinders, spanners, pliers, screwdrivers, saws and wrenches",
     "icon": "🛠️",
     "image": "/images/categories/hand-power-tools.png",
     "color": "from-neutral-700 to-neutral-900"
@@ -34,15 +34,15 @@ export const CATEGORIES = [
   {
     "id": "hardware",
     "name": "Hardware",
-    "description": "Door locks, architectural hardware, hinges, door closers, latches and fittings",
+    "description": "123 Products: Door locks, architectural hardware, hinges, door closers, latches and fittings",
     "icon": "🚪",
-    "image": "/images/categories/doors-windows-facade.png",
+    "image": "/images/categories/hardware.png",
     "color": "from-slate-800 to-slate-950"
   },
   {
     "id": "fasteners",
     "name": "Fasteners",
-    "description": "High-tensile hex bolts, nuts, washers, threaded rods, anchors and industrial screws",
+    "description": "52 Products: High-tensile hex bolts, nuts, washers, threaded rods, anchors and industrial screws",
     "icon": "🔩",
     "image": "/images/categories/fasteners-hardware.png",
     "color": "from-zinc-800 to-zinc-950"
@@ -58,7 +58,7 @@ export const CATEGORIES = [
   {
     "id": "safety",
     "name": "Safety",
-    "description": "Helmets, safety goggles, gloves, harness, protective gear and safety equipment",
+    "description": "214 Products: Helmets, safety goggles, gloves, harness, protective gear and safety equipment",
     "icon": "🦺",
     "image": "/images/categories/cat_safety.jpg",
     "color": "from-slate-800 to-slate-950"
@@ -66,7 +66,7 @@ export const CATEGORIES = [
   {
     "id": "surgical",
     "name": "Surgical",
-    "description": "77 Medical & surgical products: diagnostic devices, wound care, orthopedic supports, PPE, infusion sets and hospital supplies",
+    "description": "100 Medical & surgical products: diagnostic devices, wound care, orthopedic supports, PPE, infusion sets and hospital supplies",
     "icon": "🩺",
     "image": "/images/categories/cat_surgical.jpg",
     "color": "from-teal-800 to-teal-950"
@@ -74,7 +74,7 @@ export const CATEGORIES = [
   {
     "id": "instrumentation",
     "name": "Instrumentation",
-    "description": "104 Process instrumentation products: transmitters, gauges, flow meters, sensors, manifolds and control valves",
+    "description": "202 Process instrumentation products: transmitters, gauges, flow meters, sensors, manifolds and control valves",
     "icon": "📟",
     "image": "/images/categories/cat_instrumentation.jpg",
     "color": "from-zinc-800 to-zinc-950"
@@ -84,13 +84,13 @@ export const CATEGORIES = [
     "name": "Insulation",
     "description": "42 Products: Engineering plastics, PTFE sheets & rods, Bakelite, Nylon, HDPE, PP, FRP, silicone & thermal insulation",
     "icon": "🧱",
-    "image": "/images/categories/conductor-insulator-ohe.png",
+    "image": "/images/categories/insulation-materials.png",
     "color": "from-stone-800 to-stone-950"
   },
   {
     "id": "lab-instruments",
     "name": "Lab Instruments",
-    "description": "79 Products: Analytical balances, borosilicate glassware, centrifuges, micropipettes, diagnostic devices, reagents & lab equipment",
+    "description": "148 Products: Analytical balances, borosilicate glassware, centrifuges, micropipettes, diagnostic devices, reagents & lab equipment",
     "icon": "🔬",
     "image": "/images/categories/cat_lab_instruments.jpg",
     "color": "from-blue-800 to-blue-950"
@@ -98,7 +98,7 @@ export const CATEGORIES = [
   {
     "id": "oil-gas-pipe-fittings",
     "name": "Oil & Gas, Pipe Fittings",
-    "description": "63 Products: Weld neck flanges, high-pressure valves, olets, butt-weld fittings, carbon/stainless steel pipes & forged fittings",
+    "description": "97 Products: Weld neck flanges, high-pressure valves, olets, butt-weld fittings, carbon/stainless steel pipes & forged fittings",
     "icon": "🛢️",
     "image": "/images/categories/cat_oil_gas.jpg",
     "color": "from-neutral-800 to-neutral-950"
@@ -134,6 +134,13 @@ export const PRODUCTS = Object.entries(FEATURED_PRODUCTS).flatMap(
   ([categoryId, products]) => products.map((p) => ({ ...p, category: p.category || categoryId }))
 );
 
+export const getCategoryProductCount = (categoryId) => {
+  let target = categoryId;
+  if (target === 'oil-gas' || target === 'pipe-fittings') {
+    target = 'oil-gas-pipe-fittings';
+  }
+  return (FEATURED_PRODUCTS[target] || []).length;
+};
 
 export const getProductsByCategory = (categoryId) => {
   // Support aliases
@@ -443,3 +450,7 @@ export {
   OIL_GAS_PRODUCTS, OIL_GAS_SUBCATEGORIES, OIL_GAS_BRANDS,
   CONSTRUCTION_PRODUCTS, CONSTRUCTION_SUBCATEGORIES, CONSTRUCTION_BRANDS
 };
+
+// Major Products and Brands Dealt In (International Markets)
+export { MAJOR_PRODUCT_GROUPS, MAJOR_BRANDS_DEALT_IN } from './dealingsData.js';
+

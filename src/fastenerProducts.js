@@ -13,16 +13,16 @@ export const FASTENER_PRODUCTS = [
     "category": "fasteners",
     "subCategory": "Anchors & Wall Plugs",
     "image": "/images/products/fasteners/fastener_item_1.png",
-    "description": "Industrial-grade Anchor Bolt supplied by Bahjat Enterprises under the Unbrako brand standard. Engineered for heavy-duty structural fastening, mechanical assembly, and high-tensile load applications. Available specifications & dimensions: xMx8x,x xMx1x0x x,x xMx1x2x,x xMx1x6x.",
+    "description": "Industrial-grade Anchor Bolt supplied by Bahjat Enterprises to certified industrial standards. Engineered for heavy-duty structural fastening, mechanical assembly, and high-tensile load applications. Available specifications & dimensions: M8, M10 , M12, M16.",
     "specs": {
       "Product": "Anchor Bolt",
       "Brand": "Unbrako",
       "Sub-Category": "Anchors & Wall Plugs",
-      "Available Sizes / Specs": "xMx8x,x xMx1x0x x,x xMx1x2x,x xMx1x6x",
+      "Available Sizes / Specs": "M8, M10 , M12, M16",
       "Material / Finish": "High Tensile Alloy Steel / Zinc Finish",
       "Quality Standard": "ISO / DIN / ASTM High-Tensile Certified"
     },
-    "rawSpecs": "xMx8x,x xMx1x0x x,x xMx1x2x,x xMx1x6x",
+    "rawSpecs": "M8, M10 , M12, M16",
     "tags": [
       "anchor",
       "anchor bolt",
@@ -41,16 +41,16 @@ export const FASTENER_PRODUCTS = [
     "category": "fasteners",
     "subCategory": "Industrial Screws",
     "image": "/images/products/fasteners/fastener_item_2.png",
-    "description": "Industrial-grade Allen Hex Screw supplied by Bahjat Enterprises under the Unbrako brand standard. Engineered for heavy-duty structural fastening, mechanical assembly, and high-tensile load applications. Available specifications & dimensions: xMx4x xxx x2x0x x,x xMx5x xxx x2x5x x,x xMx6x xXx x4x0x x,x xMx8x xXx x5x0x,x xMx1x0x xXx x7x0x,x xMx1x2x xXx x1x0x0x.",
+    "description": "Industrial-grade Allen Hex Screw supplied by Bahjat Enterprises to certified industrial standards. Engineered for heavy-duty structural fastening, mechanical assembly, and high-tensile load applications. Available specifications & dimensions: M4 20 , M5 25 , M6 X 40 , M8 X 50, M10 X 70, M12 X 100.",
     "specs": {
       "Product": "Allen Hex Screw",
       "Brand": "Unbrako",
       "Sub-Category": "Industrial Screws",
-      "Available Sizes / Specs": "xMx4x xxx x2x0x x,x xMx5x xxx x2x5x x,x xMx6x xXx x4x0x x,x xMx8x xXx x5x0x,x xMx1x0x xXx x7x0x,x xMx1x2x xXx x1x0x0x",
+      "Available Sizes / Specs": "M4 20 , M5 25 , M6 X 40 , M8 X 50, M10 X 70, M12 X 100",
       "Material / Finish": "High Tensile Alloy Steel / Zinc Finish",
       "Quality Standard": "ISO / DIN / ASTM High-Tensile Certified"
     },
-    "rawSpecs": "xMx4x xxx x2x0x x,x xMx5x xxx x2x5x x,x xMx6x xXx x4x0x x,x xMx8x xXx x5x0x,x xMx1x0x xXx x7x0x,x xMx1x2x xXx x1x0x0x",
+    "rawSpecs": "M4 20 , M5 25 , M6 X 40 , M8 X 50, M10 X 70, M12 X 100",
     "tags": [
       "allen",
       "allen hex screw",
@@ -70,16 +70,16 @@ export const FASTENER_PRODUCTS = [
     "category": "fasteners",
     "subCategory": "Nails & Rivets",
     "image": "/images/products/fasteners/fastener_item_3.png",
-    "description": "Industrial-grade Blind Pop Rivet (Aluminium Dome Head) supplied by Bahjat Enterprises under the Unbrako brand standard. Engineered for heavy-duty structural fastening, mechanical assembly, and high-tensile load applications. Available specifications & dimensions: xSxixzxex x:x x3x.x2x xxx x6x xmxmx,x x3x.x2x xxx x8x xmxmx,x x4x xxx x8x xmxmx,x x4x xxx x1x0x xmxmx,x x4x.x8x xxx x1x2x xmxmx.",
+    "description": "Industrial-grade Blind Pop Rivet (Aluminium Dome Head) supplied by Bahjat Enterprises to certified industrial standards. Engineered for heavy-duty structural fastening, mechanical assembly, and high-tensile load applications. Available specifications & dimensions: Size : 3.2 6 mm, 3.2 8 mm, 4 8 mm, 4 10 mm, 4.8 12 mm.",
     "specs": {
       "Product": "Blind Pop Rivet (Aluminium Dome Head)",
       "Brand": "Unbrako",
       "Sub-Category": "Nails & Rivets",
-      "Available Sizes / Specs": "xSxixzxex x:x x3x.x2x xxx x6x xmxmx,x x3x.x2x xxx x8x xmxmx,x x4x xxx x8x xmxmx,x x4x xxx x1x0x xmxmx,x x4x.x8x xxx x1x2x xmxmx",
+      "Available Sizes / Specs": "Size : 3.2 6 mm, 3.2 8 mm, 4 8 mm, 4 10 mm, 4.8 12 mm",
       "Material / Finish": "High Tensile Alloy Steel / Zinc Finish",
       "Quality Standard": "ISO / DIN / ASTM High-Tensile Certified"
     },
-    "rawSpecs": "xSxixzxex x:x x3x.x2x xxx x6x xmxmx,x x3x.x2x xxx x8x xmxmx,x x4x xxx x8x xmxmx,x x4x xxx x1x0x xmxmx,x x4x.x8x xxx x1x2x xmxmx",
+    "rawSpecs": "Size : 3.2 6 mm, 3.2 8 mm, 4 8 mm, 4 10 mm, 4.8 12 mm",
     "tags": [
       "aluminium",
       "bahjat enterprises",
@@ -102,16 +102,16 @@ export const FASTENER_PRODUCTS = [
     "category": "fasteners",
     "subCategory": "Nuts",
     "image": "/images/products/fasteners/fastener_item_4.png",
-    "description": "Industrial-grade Cap Nut ( Dome Nut) supplied by Bahjat Enterprises under the TVS Fasteners brand standard. Engineered for heavy-duty structural fastening, mechanical assembly, and high-tensile load applications. Available specifications & dimensions: xCxhxrxoxmxex xFxixnxixsxhx,x xGxaxlxvxaxnxixzxexdx,x xSxtxaxixnxlxexsxsx xSxtxexexlx,x xBxrxaxsxsx xSxixzxex:x xTxhxrxexaxdx xSxixzxex xxx xSxpxaxnxnxexrx xSxixzxex xMx4x xXx x7x xmxmx x,x xMx5x xxx x8x xmxmx,x xMx6x xxx x1x0x xmxmx,x xMx8x xxx x1x3x xmxmx,x xMx1x0x xxx x1x7x xmxmx,x xMx1x2x xxx x1x9x xmxmx,x xMx1x6x xxx x2x4x xmxmx,x xMx2x0x xxx x3x0x xmxmx.",
+    "description": "Industrial-grade Cap Nut ( Dome Nut) supplied by Bahjat Enterprises to certified industrial standards. Engineered for heavy-duty structural fastening, mechanical assembly, and high-tensile load applications. Available specifications & dimensions: Chrome Finish, Galvanized, Stainless Steel, Brass Size: Thread Size Spanner Size M4 X 7 mm , M5 8 mm, M6 10 mm, M8 13 mm, M10 17 mm, M12 19 mm, M16 24 mm, M20 30 mm.",
     "specs": {
       "Product": "Cap Nut ( Dome Nut)",
       "Brand": "TVS Fasteners",
       "Sub-Category": "Nuts",
-      "Available Sizes / Specs": "xCxhxrxoxmxex xFxixnxixsxhx,x xGxaxlxvxaxnxixzxexdx,x xSxtxaxixnxlxexsxsx xSxtxexexlx,x xBxrxaxsxsx xSxixzxex:x xTxhxrxexaxdx xSxixzxex xxx xSxpxaxnxnxexrx xSxixzxex xMx4x xXx x7x xmxmx x,x xMx5x xxx x8x xmxmx,x xMx6x xxx x1x0x xmxmx,x xMx8x xxx x1x3x xmxmx,x xMx1x0x xxx x1x7x xmxmx,x xMx1x2x xxx x1x9x xmxmx,x xMx1x6x xxx x2x4x xmxmx,x xMx2x0x xxx x3x0x xmxmx",
+      "Available Sizes / Specs": "Chrome Finish, Galvanized, Stainless Steel, Brass Size: Thread Size Spanner Size M4 X 7 mm , M5 8 mm, M6 10 mm, M8 13 mm, M10 17 mm, M12 19 mm, M16 24 mm, M20 30 mm",
       "Material / Finish": "High Tensile Alloy Steel / Zinc Finish",
       "Quality Standard": "ISO / DIN / ASTM High-Tensile Certified"
     },
-    "rawSpecs": "xCxhxrxoxmxex xFxixnxixsxhx,x xGxaxlxvxaxnxixzxexdx,x xSxtxaxixnxlxexsxsx xSxtxexexlx,x xBxrxaxsxsx xSxixzxex:x xTxhxrxexaxdx xSxixzxex xxx xSxpxaxnxnxexrx xSxixzxex xMx4x xXx x7x xmxmx x,x xMx5x xxx x8x xmxmx,x xMx6x xxx x1x0x xmxmx,x xMx8x xxx x1x3x xmxmx,x xMx1x0x xxx x1x7x xmxmx,x xMx1x2x xxx x1x9x xmxmx,x xMx1x6x xxx x2x4x xmxmx,x xMx2x0x xxx x3x0x xmxmx",
+    "rawSpecs": "Chrome Finish, Galvanized, Stainless Steel, Brass Size: Thread Size Spanner Size M4 X 7 mm , M5 8 mm, M6 10 mm, M8 13 mm, M10 17 mm, M12 19 mm, M16 24 mm, M20 30 mm",
     "tags": [
       "bahjat enterprises",
       "cap",
@@ -131,16 +131,16 @@ export const FASTENER_PRODUCTS = [
     "category": "fasteners",
     "subCategory": "Nuts",
     "image": "/images/products/fasteners/fastener_item_5.png",
-    "description": "Industrial-grade Castle Nut supplied by Bahjat Enterprises under the Unbrako brand standard. Engineered for heavy-duty structural fastening, mechanical assembly, and high-tensile load applications. Available specifications & dimensions: xCxhxrxoxmxex xFxixnxixsxhx,x xGxaxlxvxaxnxixzxexdx,x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x xSxixzxex x:x xMx1x0x,x xMx1x2x,x xMx1x6x.",
+    "description": "Industrial-grade Castle Nut supplied by Bahjat Enterprises to certified industrial standards. Engineered for heavy-duty structural fastening, mechanical assembly, and high-tensile load applications. Available specifications & dimensions: Chrome Finish, Galvanized, Size : M10, M12, M16.",
     "specs": {
       "Product": "Castle Nut",
       "Brand": "Unbrako",
       "Sub-Category": "Nuts",
-      "Available Sizes / Specs": "xCxhxrxoxmxex xFxixnxixsxhx,x xGxaxlxvxaxnxixzxexdx,x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x xSxixzxex x:x xMx1x0x,x xMx1x2x,x xMx1x6x",
+      "Available Sizes / Specs": "Chrome Finish, Galvanized, Size : M10, M12, M16",
       "Material / Finish": "High Tensile Alloy Steel / Zinc Finish",
       "Quality Standard": "ISO / DIN / ASTM High-Tensile Certified"
     },
-    "rawSpecs": "xCxhxrxoxmxex xFxixnxixsxhx,x xGxaxlxvxaxnxixzxexdx,x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x xSxixzxex x:x xMx1x0x,x xMx1x2x,x xMx1x6x",
+    "rawSpecs": "Chrome Finish, Galvanized, Size : M10, M12, M16",
     "tags": [
       "bahjat enterprises",
       "castle",
@@ -159,16 +159,16 @@ export const FASTENER_PRODUCTS = [
     "category": "fasteners",
     "subCategory": "Bolts & Studs",
     "image": "/images/products/fasteners/fastener_item_6.png",
-    "description": "Industrial-grade Carriage Bolt Round Head Stainless Steel supplied by Bahjat Enterprises under the TVS Fasteners brand standard. Engineered for heavy-duty structural fastening, mechanical assembly, and high-tensile load applications. Available specifications & dimensions: xSxixzxex x:x xMx6x xXx x5x0x xMxMx x,x xMx8x xXx x7x5x xMxMx,x xMx1x0x xXx x1x0x0x xMxMx x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x xSxtxaxixnxlxexsxsx xSxtxexexlx,x xGxaxlxvxaxnxixzxexdx.",
+    "description": "Industrial-grade Carriage Bolt Round Head Stainless Steel supplied by Bahjat Enterprises to certified industrial standards. Engineered for heavy-duty structural fastening, mechanical assembly, and high-tensile load applications. Available specifications & dimensions: Size : M6 X 50 MM , M8 X 75 MM, M10 X 100 MM Stainless Steel, Galvanized.",
     "specs": {
       "Product": "Carriage Bolt Round Head Stainless Steel",
       "Brand": "TVS Fasteners",
       "Sub-Category": "Bolts & Studs",
-      "Available Sizes / Specs": "xSxixzxex x:x xMx6x xXx x5x0x xMxMx x,x xMx8x xXx x7x5x xMxMx,x xMx1x0x xXx x1x0x0x xMxMx x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x xSxtxaxixnxlxexsxsx xSxtxexexlx,x xGxaxlxvxaxnxixzxexdx",
+      "Available Sizes / Specs": "Size : M6 X 50 MM , M8 X 75 MM, M10 X 100 MM Stainless Steel, Galvanized",
       "Material / Finish": "High Tensile Alloy Steel / Zinc Finish",
       "Quality Standard": "ISO / DIN / ASTM High-Tensile Certified"
     },
-    "rawSpecs": "xSxixzxex x:x xMx6x xXx x5x0x xMxMx x,x xMx8x xXx x7x5x xMxMx,x xMx1x0x xXx x1x0x0x xMxMx x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x xSxtxaxixnxlxexsxsx xSxtxexexlx,x xGxaxlxvxaxnxixzxexdx",
+    "rawSpecs": "Size : M6 X 50 MM , M8 X 75 MM, M10 X 100 MM Stainless Steel, Galvanized",
     "tags": [
       "bahjat enterprises",
       "bolt",
@@ -191,16 +191,16 @@ export const FASTENER_PRODUCTS = [
     "category": "fasteners",
     "subCategory": "Industrial Screws",
     "image": "/images/products/fasteners/fastener_item_7.png",
-    "description": "Industrial-grade Chipboard Screw supplied by Bahjat Enterprises under the Unbrako brand standard. Engineered for heavy-duty structural fastening, mechanical assembly, and high-tensile load applications. Available specifications & dimensions: xAxsxsxoxrxtxexdx xSxixzxex.",
+    "description": "Industrial-grade Chipboard Screw supplied by Bahjat Enterprises to certified industrial standards. Engineered for heavy-duty structural fastening, mechanical assembly, and high-tensile load applications. Available specifications & dimensions: Assorted Size.",
     "specs": {
       "Product": "Chipboard Screw",
       "Brand": "Unbrako",
       "Sub-Category": "Industrial Screws",
-      "Available Sizes / Specs": "xAxsxsxoxrxtxexdx xSxixzxex",
+      "Available Sizes / Specs": "Assorted Size",
       "Material / Finish": "High Tensile Alloy Steel / Zinc Finish",
       "Quality Standard": "ISO / DIN / ASTM High-Tensile Certified"
     },
-    "rawSpecs": "xAxsxsxoxrxtxexdx xSxixzxex",
+    "rawSpecs": "Assorted Size",
     "tags": [
       "bahjat enterprises",
       "chipboard",
@@ -219,16 +219,16 @@ export const FASTENER_PRODUCTS = [
     "category": "fasteners",
     "subCategory": "Industrial Screws",
     "image": "/images/products/fasteners/fastener_item_8.png",
-    "description": "Industrial-grade Chipboard / Particle Board Screw supplied by Bahjat Enterprises under the TVS Fasteners brand standard. Engineered for heavy-duty structural fastening, mechanical assembly, and high-tensile load applications. Available specifications & dimensions: xSxixzxex x:x x4x xmxmx xxx x2x0x xmxmx,x x4x xmxmx xxx x2x0x xmxmx,x x5x xmxmx xxx x5x0x xmxmx.",
+    "description": "Industrial-grade Chipboard / Particle Board Screw supplied by Bahjat Enterprises to certified industrial standards. Engineered for heavy-duty structural fastening, mechanical assembly, and high-tensile load applications. Available specifications & dimensions: Size : 4 mm 20 mm, 4 mm 20 mm, 5 mm 50 mm.",
     "specs": {
       "Product": "Chipboard / Particle Board Screw",
       "Brand": "TVS Fasteners",
       "Sub-Category": "Industrial Screws",
-      "Available Sizes / Specs": "xSxixzxex x:x x4x xmxmx xxx x2x0x xmxmx,x x4x xmxmx xxx x2x0x xmxmx,x x5x xmxmx xxx x5x0x xmxmx",
+      "Available Sizes / Specs": "Size : 4 mm 20 mm, 4 mm 20 mm, 5 mm 50 mm",
       "Material / Finish": "High Tensile Alloy Steel / Zinc Finish",
       "Quality Standard": "ISO / DIN / ASTM High-Tensile Certified"
     },
-    "rawSpecs": "xSxixzxex x:x x4x xmxmx xxx x2x0x xmxmx,x x4x xmxmx xxx x2x0x xmxmx,x x5x xmxmx xxx x5x0x xmxmx",
+    "rawSpecs": "Size : 4 mm 20 mm, 4 mm 20 mm, 5 mm 50 mm",
     "tags": [
       "bahjat enterprises",
       "board",
@@ -249,16 +249,16 @@ export const FASTENER_PRODUCTS = [
     "category": "fasteners",
     "subCategory": "Industrial Screws",
     "image": "/images/products/fasteners/fastener_item_9.png",
-    "description": "Industrial-grade Concrete Screws supplied by Bahjat Enterprises under the Unbrako brand standard. Engineered for heavy-duty structural fastening, mechanical assembly, and high-tensile load applications. Available specifications & dimensions: xSxixzxex x:x x4x.x8x x×x x3x2x xmxmx,x x4x.x8x x×x x5x0x xmxmx,x x6x.x3x x×x x7x5x xmxmx,x x6x.x3x x×x x1x0x0x xmxmx,x x7x.x5x x×x x1x5x0x xmxmx.",
+    "description": "Industrial-grade Concrete Screws supplied by Bahjat Enterprises to certified industrial standards. Engineered for heavy-duty structural fastening, mechanical assembly, and high-tensile load applications. Available specifications & dimensions: Size : 4.8 × 32 mm, 4.8 × 50 mm, 6.3 × 75 mm, 6.3 × 100 mm, 7.5 × 150 mm.",
     "specs": {
       "Product": "Concrete Screws",
       "Brand": "Unbrako",
       "Sub-Category": "Industrial Screws",
-      "Available Sizes / Specs": "xSxixzxex x:x x4x.x8x x×x x3x2x xmxmx,x x4x.x8x x×x x5x0x xmxmx,x x6x.x3x x×x x7x5x xmxmx,x x6x.x3x x×x x1x0x0x xmxmx,x x7x.x5x x×x x1x5x0x xmxmx",
+      "Available Sizes / Specs": "Size : 4.8 × 32 mm, 4.8 × 50 mm, 6.3 × 75 mm, 6.3 × 100 mm, 7.5 × 150 mm",
       "Material / Finish": "High Tensile Alloy Steel / Zinc Finish",
       "Quality Standard": "ISO / DIN / ASTM High-Tensile Certified"
     },
-    "rawSpecs": "xSxixzxex x:x x4x.x8x x×x x3x2x xmxmx,x x4x.x8x x×x x5x0x xmxmx,x x6x.x3x x×x x7x5x xmxmx,x x6x.x3x x×x x1x0x0x xmxmx,x x7x.x5x x×x x1x5x0x xmxmx",
+    "rawSpecs": "Size : 4.8 × 32 mm, 4.8 × 50 mm, 6.3 × 75 mm, 6.3 × 100 mm, 7.5 × 150 mm",
     "tags": [
       "bahjat enterprises",
       "concrete",
@@ -277,16 +277,16 @@ export const FASTENER_PRODUCTS = [
     "category": "fasteners",
     "subCategory": "Nails & Rivets",
     "image": "/images/products/fasteners/fastener_item_10.png",
-    "description": "Industrial-grade Concrete Nail supplied by Bahjat Enterprises under the TVS Fasteners brand standard. Engineered for heavy-duty structural fastening, mechanical assembly, and high-tensile load applications. Available specifications & dimensions: xSxixzxex x:x x1x\"x,x x1x.x5x\"x,x x2x\"x,x x3x\"x,x x4x\"x.",
+    "description": "Industrial-grade Concrete Nail supplied by Bahjat Enterprises to certified industrial standards. Engineered for heavy-duty structural fastening, mechanical assembly, and high-tensile load applications. Available specifications & dimensions: Size : 1\", 1.5\", 2\", 3\", 4\".",
     "specs": {
       "Product": "Concrete Nail",
       "Brand": "TVS Fasteners",
       "Sub-Category": "Nails & Rivets",
-      "Available Sizes / Specs": "xSxixzxex x:x x1x\"x,x x1x.x5x\"x,x x2x\"x,x x3x\"x,x x4x\"x",
+      "Available Sizes / Specs": "Size : 1\", 1.5\", 2\", 3\", 4\"",
       "Material / Finish": "High Tensile Alloy Steel / Zinc Finish",
       "Quality Standard": "ISO / DIN / ASTM High-Tensile Certified"
     },
-    "rawSpecs": "xSxixzxex x:x x1x\"x,x x1x.x5x\"x,x x2x\"x,x x3x\"x,x x4x\"x",
+    "rawSpecs": "Size : 1\", 1.5\", 2\", 3\", 4\"",
     "tags": [
       "bahjat enterprises",
       "concrete",
@@ -310,16 +310,16 @@ export const FASTENER_PRODUCTS = [
     "category": "fasteners",
     "subCategory": "Nails & Rivets",
     "image": "/images/products/fasteners/fastener_item_11.png",
-    "description": "Industrial-grade Decorative Nails supplied by Bahjat Enterprises under the Unbrako brand standard. Engineered for heavy-duty structural fastening, mechanical assembly, and high-tensile load applications. Available specifications & dimensions: xSxmxaxlxlx,x xMxexdxixuxmx,x xLxaxrxgxex x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x xSxixzxex x:x x6x-x1x0x xmxmx,x x1x2x-x2x0x xmxmx,x x2x5x-x4x0x xmxmx.",
+    "description": "Industrial-grade Decorative Nails supplied by Bahjat Enterprises to certified industrial standards. Engineered for heavy-duty structural fastening, mechanical assembly, and high-tensile load applications. Available specifications & dimensions: Small, Medium, Large Size : 6-10 mm, 12-20 mm, 25-40 mm.",
     "specs": {
       "Product": "Decorative Nails",
       "Brand": "Unbrako",
       "Sub-Category": "Nails & Rivets",
-      "Available Sizes / Specs": "xSxmxaxlxlx,x xMxexdxixuxmx,x xLxaxrxgxex x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x xSxixzxex x:x x6x-x1x0x xmxmx,x x1x2x-x2x0x xmxmx,x x2x5x-x4x0x xmxmx",
+      "Available Sizes / Specs": "Small, Medium, Large Size : 6-10 mm, 12-20 mm, 25-40 mm",
       "Material / Finish": "High Tensile Alloy Steel / Zinc Finish",
       "Quality Standard": "ISO / DIN / ASTM High-Tensile Certified"
     },
-    "rawSpecs": "xSxmxaxlxlx,x xMxexdxixuxmx,x xLxaxrxgxex x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x xSxixzxex x:x x6x-x1x0x xmxmx,x x1x2x-x2x0x xmxmx,x x2x5x-x4x0x xmxmx",
+    "rawSpecs": "Small, Medium, Large Size : 6-10 mm, 12-20 mm, 25-40 mm",
     "tags": [
       "bahjat enterprises",
       "decorative",
@@ -338,16 +338,16 @@ export const FASTENER_PRODUCTS = [
     "category": "fasteners",
     "subCategory": "Hooks & Rigging Hardware",
     "image": "/images/products/fasteners/fastener_item_12.png",
-    "description": "Industrial-grade D Shackle supplied by Bahjat Enterprises under the TVS Fasteners brand standard. Engineered for heavy-duty structural fastening, mechanical assembly, and high-tensile load applications. Available specifications & dimensions: xSxcxrxexwx xPxixnx xTxyxpxex,x xSxaxfxextxyx xPxixnx xTxyxpxex,x xBxoxlxtx xTxyxpxex,x xFxoxrxgxexdx xSxtxexexlx,x xSxtxaxixnxlxexsxsx xSxtxexexlx,x xSxixzxex x:x x6x xmxmx,x x8x xmxmx,x x1x0x xmxmx,x x1x2x xmxmx,x x1x6x xmxmx,x x2x0x xmxmx,x x2x5x xmxmx.",
+    "description": "Industrial-grade D Shackle supplied by Bahjat Enterprises to certified industrial standards. Engineered for heavy-duty structural fastening, mechanical assembly, and high-tensile load applications. Available specifications & dimensions: Screw Pin Type, Safety Pin Type, Bolt Type, Forged Steel, Stainless Steel, Size : 6 mm, 8 mm, 10 mm, 12 mm, 16 mm, 20 mm, 25 mm.",
     "specs": {
       "Product": "D Shackle",
       "Brand": "TVS Fasteners",
       "Sub-Category": "Hooks & Rigging Hardware",
-      "Available Sizes / Specs": "xSxcxrxexwx xPxixnx xTxyxpxex,x xSxaxfxextxyx xPxixnx xTxyxpxex,x xBxoxlxtx xTxyxpxex,x xFxoxrxgxexdx xSxtxexexlx,x xSxtxaxixnxlxexsxsx xSxtxexexlx,x xSxixzxex x:x x6x xmxmx,x x8x xmxmx,x x1x0x xmxmx,x x1x2x xmxmx,x x1x6x xmxmx,x x2x0x xmxmx,x x2x5x xmxmx",
+      "Available Sizes / Specs": "Screw Pin Type, Safety Pin Type, Bolt Type, Forged Steel, Stainless Steel, Size : 6 mm, 8 mm, 10 mm, 12 mm, 16 mm, 20 mm, 25 mm",
       "Material / Finish": "High Tensile Alloy Steel / Zinc Finish",
       "Quality Standard": "ISO / DIN / ASTM High-Tensile Certified"
     },
-    "rawSpecs": "xSxcxrxexwx xPxixnx xTxyxpxex,x xSxaxfxextxyx xPxixnx xTxyxpxex,x xBxoxlxtx xTxyxpxex,x xFxoxrxgxexdx xSxtxexexlx,x xSxtxaxixnxlxexsxsx xSxtxexexlx,x xSxixzxex x:x x6x xmxmx,x x8x xmxmx,x x1x0x xmxmx,x x1x2x xmxmx,x x1x6x xmxmx,x x2x0x xmxmx,x x2x5x xmxmx",
+    "rawSpecs": "Screw Pin Type, Safety Pin Type, Bolt Type, Forged Steel, Stainless Steel, Size : 6 mm, 8 mm, 10 mm, 12 mm, 16 mm, 20 mm, 25 mm",
     "tags": [
       "bahjat enterprises",
       "d shackle",
@@ -365,16 +365,16 @@ export const FASTENER_PRODUCTS = [
     "category": "fasteners",
     "subCategory": "Anchors & Wall Plugs",
     "image": "/images/products/fasteners/fastener_item_13.png",
-    "description": "Industrial-grade Drop Anchor supplied by Bahjat Enterprises under the Unbrako brand standard. Engineered for heavy-duty structural fastening, mechanical assembly, and high-tensile load applications. Available specifications & dimensions: xGxaxlxvxaxnxixzxexdx,x xSxtxaxixnxlxexsxsx xSxtxexexlx x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x xSxixzxex x:x xMx6x x(x1x/x4x\"x)x,x xMx8x x(x5x/x1x6x\"x)x,x xMx1x0x x(x3x/x8x\"x)x,x xMx1x2x x(x1x/x2x\"x)x,x xMx1x6x x(x5x/x8x\"x)x.",
+    "description": "Industrial-grade Drop Anchor supplied by Bahjat Enterprises to certified industrial standards. Engineered for heavy-duty structural fastening, mechanical assembly, and high-tensile load applications. Available specifications & dimensions: Galvanized, Stainless Steel Size : M6 (1/4\"), M8 (5/16\"), M10 (3/8\"), M12 (1/2\"), M16 (5/8\").",
     "specs": {
       "Product": "Drop Anchor",
       "Brand": "Unbrako",
       "Sub-Category": "Anchors & Wall Plugs",
-      "Available Sizes / Specs": "xGxaxlxvxaxnxixzxexdx,x xSxtxaxixnxlxexsxsx xSxtxexexlx x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x xSxixzxex x:x xMx6x x(x1x/x4x\"x)x,x xMx8x x(x5x/x1x6x\"x)x,x xMx1x0x x(x3x/x8x\"x)x,x xMx1x2x x(x1x/x2x\"x)x,x xMx1x6x x(x5x/x8x\"x)x",
+      "Available Sizes / Specs": "Galvanized, Stainless Steel Size : M6 (1/4\"), M8 (5/16\"), M10 (3/8\"), M12 (1/2\"), M16 (5/8\")",
       "Material / Finish": "High Tensile Alloy Steel / Zinc Finish",
       "Quality Standard": "ISO / DIN / ASTM High-Tensile Certified"
     },
-    "rawSpecs": "xGxaxlxvxaxnxixzxexdx,x xSxtxaxixnxlxexsxsx xSxtxexexlx x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x xSxixzxex x:x xMx6x x(x1x/x4x\"x)x,x xMx8x x(x5x/x1x6x\"x)x,x xMx1x0x x(x3x/x8x\"x)x,x xMx1x2x x(x1x/x2x\"x)x,x xMx1x6x x(x5x/x8x\"x)x",
+    "rawSpecs": "Galvanized, Stainless Steel Size : M6 (1/4\"), M8 (5/16\"), M10 (3/8\"), M12 (1/2\"), M16 (5/8\")",
     "tags": [
       "anchor",
       "anchors & wall plugs",
@@ -398,16 +398,16 @@ export const FASTENER_PRODUCTS = [
     "category": "fasteners",
     "subCategory": "Industrial Screws",
     "image": "/images/products/fasteners/fastener_item_14.png",
-    "description": "Industrial-grade Drywall Screw Black supplied by Bahjat Enterprises under the TVS Fasteners brand standard. Engineered for heavy-duty structural fastening, mechanical assembly, and high-tensile load applications. Available specifications & dimensions: xSxixzxex x:x x1x\"x,x x1x-x1x/x2x\"x,x x2x\"x,x x2x-x1x/x2x\"x.",
+    "description": "Industrial-grade Drywall Screw Black supplied by Bahjat Enterprises to certified industrial standards. Engineered for heavy-duty structural fastening, mechanical assembly, and high-tensile load applications. Available specifications & dimensions: Size : 1\", 1-1/2\", 2\", 2-1/2\".",
     "specs": {
       "Product": "Drywall Screw Black",
       "Brand": "TVS Fasteners",
       "Sub-Category": "Industrial Screws",
-      "Available Sizes / Specs": "xSxixzxex x:x x1x\"x,x x1x-x1x/x2x\"x,x x2x\"x,x x2x-x1x/x2x\"x",
+      "Available Sizes / Specs": "Size : 1\", 1-1/2\", 2\", 2-1/2\"",
       "Material / Finish": "High Tensile Alloy Steel / Zinc Finish",
       "Quality Standard": "ISO / DIN / ASTM High-Tensile Certified"
     },
-    "rawSpecs": "xSxixzxex x:x x1x\"x,x x1x-x1x/x2x\"x,x x2x\"x,x x2x-x1x/x2x\"x",
+    "rawSpecs": "Size : 1\", 1-1/2\", 2\", 2-1/2\"",
     "tags": [
       "bahjat enterprises",
       "black",
@@ -431,16 +431,16 @@ export const FASTENER_PRODUCTS = [
     "category": "fasteners",
     "subCategory": "Bolts & Studs",
     "image": "/images/products/fasteners/fastener_item_15.png",
-    "description": "Industrial-grade Eye Bolt Galvanized supplied by Bahjat Enterprises under the Unbrako brand standard. Engineered for heavy-duty structural fastening, mechanical assembly, and high-tensile load applications. Available specifications & dimensions: xMx6x,x xMx8x,x xMx1x0x.",
+    "description": "Industrial-grade Eye Bolt Galvanized supplied by Bahjat Enterprises to certified industrial standards. Engineered for heavy-duty structural fastening, mechanical assembly, and high-tensile load applications. Available specifications & dimensions: M6, M8, M10.",
     "specs": {
       "Product": "Eye Bolt Galvanized",
       "Brand": "Unbrako",
       "Sub-Category": "Bolts & Studs",
-      "Available Sizes / Specs": "xMx6x,x xMx8x,x xMx1x0x",
+      "Available Sizes / Specs": "M6, M8, M10",
       "Material / Finish": "High Tensile Alloy Steel / Zinc Finish",
       "Quality Standard": "ISO / DIN / ASTM High-Tensile Certified"
     },
-    "rawSpecs": "xMx6x,x xMx8x,x xMx1x0x",
+    "rawSpecs": "M6, M8, M10",
     "tags": [
       "bahjat enterprises",
       "bolt",
@@ -460,16 +460,16 @@ export const FASTENER_PRODUCTS = [
     "category": "fasteners",
     "subCategory": "Washers",
     "image": "/images/products/fasteners/fastener_item_16.png",
-    "description": "Industrial-grade Fender Washer supplied by Bahjat Enterprises under the TVS Fasteners brand standard. Engineered for heavy-duty structural fastening, mechanical assembly, and high-tensile load applications. Available specifications & dimensions: xSxtxaxixnxlxexsxsx xSxtxexexlx,x xMxixlxdx xSxtxexexlx,x.",
+    "description": "Industrial-grade Fender Washer supplied by Bahjat Enterprises to certified industrial standards. Engineered for heavy-duty structural fastening, mechanical assembly, and high-tensile load applications. Available specifications & dimensions: Stainless Steel, Mild Steel,.",
     "specs": {
       "Product": "Fender Washer",
       "Brand": "TVS Fasteners",
       "Sub-Category": "Washers",
-      "Available Sizes / Specs": "xSxtxaxixnxlxexsxsx xSxtxexexlx,x xMxixlxdx xSxtxexexlx,x",
+      "Available Sizes / Specs": "Stainless Steel, Mild Steel,",
       "Material / Finish": "High Tensile Alloy Steel / Zinc Finish",
       "Quality Standard": "ISO / DIN / ASTM High-Tensile Certified"
     },
-    "rawSpecs": "xSxtxaxixnxlxexsxsx xSxtxexexlx,x xMxixlxdx xSxtxexexlx,x",
+    "rawSpecs": "Stainless Steel, Mild Steel,",
     "tags": [
       "bahjat enterprises",
       "fasteners",
@@ -488,16 +488,16 @@ export const FASTENER_PRODUCTS = [
     "category": "fasteners",
     "subCategory": "Nails & Rivets",
     "image": "/images/products/fasteners/fastener_item_17.png",
-    "description": "Industrial-grade Finishing Nails supplied by Bahjat Enterprises under the Unbrako brand standard. Engineered for heavy-duty structural fastening, mechanical assembly, and high-tensile load applications. Available specifications & dimensions: xSxixzxex x:x x1x\"x,x x1x.x5x\"x,x x2x\"x.",
+    "description": "Industrial-grade Finishing Nails supplied by Bahjat Enterprises to certified industrial standards. Engineered for heavy-duty structural fastening, mechanical assembly, and high-tensile load applications. Available specifications & dimensions: Size : 1\", 1.5\", 2\".",
     "specs": {
       "Product": "Finishing Nails",
       "Brand": "Unbrako",
       "Sub-Category": "Nails & Rivets",
-      "Available Sizes / Specs": "xSxixzxex x:x x1x\"x,x x1x.x5x\"x,x x2x\"x",
+      "Available Sizes / Specs": "Size : 1\", 1.5\", 2\"",
       "Material / Finish": "High Tensile Alloy Steel / Zinc Finish",
       "Quality Standard": "ISO / DIN / ASTM High-Tensile Certified"
     },
-    "rawSpecs": "xSxixzxex x:x x1x\"x,x x1x.x5x\"x,x x2x\"x",
+    "rawSpecs": "Size : 1\", 1.5\", 2\"",
     "tags": [
       "bahjat enterprises",
       "fasteners",
@@ -519,16 +519,16 @@ export const FASTENER_PRODUCTS = [
     "category": "fasteners",
     "subCategory": "Anchors & Wall Plugs",
     "image": "/images/products/fasteners/fastener_item_18.png",
-    "description": "Industrial-grade Fischer Plug Nylon supplied by Bahjat Enterprises under the Fischer brand standard. Engineered for heavy-duty structural fastening, mechanical assembly, and high-tensile load applications. Available specifications & dimensions: xSxixzxex x:x x x5x xMxMx,x x6x xMxMx,x x7x xMxMx,x x8x xMxMx,x x1x0x xMxMx,x x1x2x xMxMx.",
+    "description": "Industrial-grade Fischer Plug Nylon supplied by Bahjat Enterprises to certified industrial standards. Engineered for heavy-duty structural fastening, mechanical assembly, and high-tensile load applications. Available specifications & dimensions: Size : 5 MM, 6 MM, 7 MM, 8 MM, 10 MM, 12 MM.",
     "specs": {
       "Product": "Fischer Plug Nylon",
       "Brand": "Fischer",
       "Sub-Category": "Anchors & Wall Plugs",
-      "Available Sizes / Specs": "xSxixzxex x:x x x5x xMxMx,x x6x xMxMx,x x7x xMxMx,x x8x xMxMx,x x1x0x xMxMx,x x1x2x xMxMx",
+      "Available Sizes / Specs": "Size : 5 MM, 6 MM, 7 MM, 8 MM, 10 MM, 12 MM",
       "Material / Finish": "High Tensile Alloy Steel / Zinc Finish",
       "Quality Standard": "ISO / DIN / ASTM High-Tensile Certified"
     },
-    "rawSpecs": "xSxixzxex x:x x x5x xMxMx,x x6x xMxMx,x x7x xMxMx,x x8x xMxMx,x x1x0x xMxMx,x x1x2x xMxMx",
+    "rawSpecs": "Size : 5 MM, 6 MM, 7 MM, 8 MM, 10 MM, 12 MM",
     "tags": [
       "anchors & wall plugs",
       "bahjat enterprises",
@@ -547,16 +547,16 @@ export const FASTENER_PRODUCTS = [
     "category": "fasteners",
     "subCategory": "Nuts",
     "image": "/images/products/fasteners/fastener_item_19.png",
-    "description": "Industrial-grade Flange Hex Nut supplied by Bahjat Enterprises under the Unbrako brand standard. Engineered for heavy-duty structural fastening, mechanical assembly, and high-tensile load applications. Available specifications & dimensions: xTxhxrxexaxdx xSxixzxex xxx xSxpxaxnxnxexrx xSxixzxex x:x xMx5x xXx x8x xmxmx,x xMx6x xXx x1x0x xmxmx,x xMx8x xXx x1x3x xmxmx,x xMx1x0x xXx x1x5x xmxmx,x xMx1x2x xXx x1x8x xmxmx,x xMx1x4x xXx x2x1x xmxmx,x xMx1x6x xXx x2x4x xmxmx,x xMx2x0x xXx x3x0x xmxmx,x xMx2x4x xXx x3x6x xmxmx.",
+    "description": "Industrial-grade Flange Hex Nut supplied by Bahjat Enterprises to certified industrial standards. Engineered for heavy-duty structural fastening, mechanical assembly, and high-tensile load applications. Available specifications & dimensions: Thread Size Spanner Size : M5 X 8 mm, M6 X 10 mm, M8 X 13 mm, M10 X 15 mm, M12 X 18 mm, M14 X 21 mm, M16 X 24 mm, M20 X 30 mm, M24 X 36 mm.",
     "specs": {
       "Product": "Flange Hex Nut",
       "Brand": "Unbrako",
       "Sub-Category": "Nuts",
-      "Available Sizes / Specs": "xTxhxrxexaxdx xSxixzxex xxx xSxpxaxnxnxexrx xSxixzxex x:x xMx5x xXx x8x xmxmx,x xMx6x xXx x1x0x xmxmx,x xMx8x xXx x1x3x xmxmx,x xMx1x0x xXx x1x5x xmxmx,x xMx1x2x xXx x1x8x xmxmx,x xMx1x4x xXx x2x1x xmxmx,x xMx1x6x xXx x2x4x xmxmx,x xMx2x0x xXx x3x0x xmxmx,x xMx2x4x xXx x3x6x xmxmx",
+      "Available Sizes / Specs": "Thread Size Spanner Size : M5 X 8 mm, M6 X 10 mm, M8 X 13 mm, M10 X 15 mm, M12 X 18 mm, M14 X 21 mm, M16 X 24 mm, M20 X 30 mm, M24 X 36 mm",
       "Material / Finish": "High Tensile Alloy Steel / Zinc Finish",
       "Quality Standard": "ISO / DIN / ASTM High-Tensile Certified"
     },
-    "rawSpecs": "xTxhxrxexaxdx xSxixzxex xxx xSxpxaxnxnxexrx xSxixzxex x:x xMx5x xXx x8x xmxmx,x xMx6x xXx x1x0x xmxmx,x xMx8x xXx x1x3x xmxmx,x xMx1x0x xXx x1x5x xmxmx,x xMx1x2x xXx x1x8x xmxmx,x xMx1x4x xXx x2x1x xmxmx,x xMx1x6x xXx x2x4x xmxmx,x xMx2x0x xXx x3x0x xmxmx,x xMx2x4x xXx x3x6x xmxmx",
+    "rawSpecs": "Thread Size Spanner Size : M5 X 8 mm, M6 X 10 mm, M8 X 13 mm, M10 X 15 mm, M12 X 18 mm, M14 X 21 mm, M16 X 24 mm, M20 X 30 mm, M24 X 36 mm",
     "tags": [
       "bahjat enterprises",
       "fasteners",
@@ -576,16 +576,16 @@ export const FASTENER_PRODUCTS = [
     "category": "fasteners",
     "subCategory": "Bolts & Studs",
     "image": "/images/products/fasteners/fastener_item_20.png",
-    "description": "Industrial-grade Foundation Bolt Galvanized supplied by Bahjat Enterprises under the TVS Fasteners brand standard. Engineered for heavy-duty structural fastening, mechanical assembly, and high-tensile load applications. Available specifications & dimensions: xAxlxlx xSxtxaxnxdxaxrxdx xSxixzxexsx.",
+    "description": "Industrial-grade Foundation Bolt Galvanized supplied by Bahjat Enterprises to certified industrial standards. Engineered for heavy-duty structural fastening, mechanical assembly, and high-tensile load applications. Available specifications & dimensions: All Standard Sizes.",
     "specs": {
       "Product": "Foundation Bolt Galvanized",
       "Brand": "TVS Fasteners",
       "Sub-Category": "Bolts & Studs",
-      "Available Sizes / Specs": "xAxlxlx xSxtxaxnxdxaxrxdx xSxixzxexsx",
+      "Available Sizes / Specs": "All Standard Sizes",
       "Material / Finish": "High Tensile Alloy Steel / Zinc Finish",
       "Quality Standard": "ISO / DIN / ASTM High-Tensile Certified"
     },
-    "rawSpecs": "xAxlxlx xSxtxaxnxdxaxrxdx xSxixzxexsx",
+    "rawSpecs": "All Standard Sizes",
     "tags": [
       "bahjat enterprises",
       "bolt",
@@ -605,16 +605,16 @@ export const FASTENER_PRODUCTS = [
     "category": "fasteners",
     "subCategory": "Bolts & Studs",
     "image": "/images/products/fasteners/fastener_item_21.png",
-    "description": "Industrial-grade Hex Head Bolt supplied by Bahjat Enterprises under the Unbrako brand standard. Engineered for heavy-duty structural fastening, mechanical assembly, and high-tensile load applications. Available specifications & dimensions: xGxaxlxvxaxnxixzxexdx,x xSxtxaxixnxlxexsxsx xSxtxexexlx,x xBxrxaxsxsx,x xBxlxaxcxkx,x xFxuxlxlx xTxhxrxexaxdx,x xHxaxlxfx xTxhxrxexaxdx,x x x3x1x6x xGxrxaxdxex,x x8x.x8x xGxrxaxdxex,x xAxlxlx xSxtxaxnxdxaxrxdx xSxixzxexsx.",
+    "description": "Industrial-grade Hex Head Bolt supplied by Bahjat Enterprises to certified industrial standards. Engineered for heavy-duty structural fastening, mechanical assembly, and high-tensile load applications. Available specifications & dimensions: Galvanized, Stainless Steel, Brass, Black, Full Thread, Half Thread, 316 Grade, 8.8 Grade, All Standard Sizes.",
     "specs": {
       "Product": "Hex Head Bolt",
       "Brand": "Unbrako",
       "Sub-Category": "Bolts & Studs",
-      "Available Sizes / Specs": "xGxaxlxvxaxnxixzxexdx,x xSxtxaxixnxlxexsxsx xSxtxexexlx,x xBxrxaxsxsx,x xBxlxaxcxkx,x xFxuxlxlx xTxhxrxexaxdx,x xHxaxlxfx xTxhxrxexaxdx,x x x3x1x6x xGxrxaxdxex,x x8x.x8x xGxrxaxdxex,x xAxlxlx xSxtxaxnxdxaxrxdx xSxixzxexsx",
+      "Available Sizes / Specs": "Galvanized, Stainless Steel, Brass, Black, Full Thread, Half Thread, 316 Grade, 8.8 Grade, All Standard Sizes",
       "Material / Finish": "High Tensile Alloy Steel / Zinc Finish",
       "Quality Standard": "ISO / DIN / ASTM High-Tensile Certified"
     },
-    "rawSpecs": "xGxaxlxvxaxnxixzxexdx,x xSxtxaxixnxlxexsxsx xSxtxexexlx,x xBxrxaxsxsx,x xBxlxaxcxkx,x xFxuxlxlx xTxhxrxexaxdx,x xHxaxlxfx xTxhxrxexaxdx,x x x3x1x6x xGxrxaxdxex,x x8x.x8x xGxrxaxdxex,x xAxlxlx xSxtxaxnxdxaxrxdx xSxixzxexsx",
+    "rawSpecs": "Galvanized, Stainless Steel, Brass, Black, Full Thread, Half Thread, 316 Grade, 8.8 Grade, All Standard Sizes",
     "tags": [
       "bahjat enterprises",
       "bolt",
@@ -634,16 +634,16 @@ export const FASTENER_PRODUCTS = [
     "category": "fasteners",
     "subCategory": "Nuts",
     "image": "/images/products/fasteners/fastener_item_22.png",
-    "description": "Industrial-grade Hex Nut supplied by Bahjat Enterprises under the TVS Fasteners brand standard. Engineered for heavy-duty structural fastening, mechanical assembly, and high-tensile load applications. Available specifications & dimensions: xMxixlxdx xSxtxexexlx,x xSxtxaxixnxlxexsxsx xSxtxexexlx,x xCxaxrxbxoxnx xSxtxexexlx,x xBxrxaxsxsx x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x xSxixzxex x:x xMx4x,x xMx5x,x xMx6x,x xMx8x,x xMx1x0x,x xMx1x2x,x xMx1x6x,x xMx2x0x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x xGxrxaxdxex x:x x8x,x x1x0x.",
+    "description": "Industrial-grade Hex Nut supplied by Bahjat Enterprises to certified industrial standards. Engineered for heavy-duty structural fastening, mechanical assembly, and high-tensile load applications. Available specifications & dimensions: Mild Steel, Stainless Steel, Carbon Steel, Brass Size : M4, M5, M6, M8, M10, M12, M16, M20 Grade : 8, 10.",
     "specs": {
       "Product": "Hex Nut",
       "Brand": "TVS Fasteners",
       "Sub-Category": "Nuts",
-      "Available Sizes / Specs": "xMxixlxdx xSxtxexexlx,x xSxtxaxixnxlxexsxsx xSxtxexexlx,x xCxaxrxbxoxnx xSxtxexexlx,x xBxrxaxsxsx x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x xSxixzxex x:x xMx4x,x xMx5x,x xMx6x,x xMx8x,x xMx1x0x,x xMx1x2x,x xMx1x6x,x xMx2x0x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x xGxrxaxdxex x:x x8x,x x1x0x",
+      "Available Sizes / Specs": "Mild Steel, Stainless Steel, Carbon Steel, Brass Size : M4, M5, M6, M8, M10, M12, M16, M20 Grade : 8, 10",
       "Material / Finish": "High Tensile Alloy Steel / Zinc Finish",
       "Quality Standard": "ISO / DIN / ASTM High-Tensile Certified"
     },
-    "rawSpecs": "xMxixlxdx xSxtxexexlx,x xSxtxaxixnxlxexsxsx xSxtxexexlx,x xCxaxrxbxoxnx xSxtxexexlx,x xBxrxaxsxsx x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x xSxixzxex x:x xMx4x,x xMx5x,x xMx6x,x xMx8x,x xMx1x0x,x xMx1x2x,x xMx1x6x,x xMx2x0x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x xGxrxaxdxex x:x x8x,x x1x0x",
+    "rawSpecs": "Mild Steel, Stainless Steel, Carbon Steel, Brass Size : M4, M5, M6, M8, M10, M12, M16, M20 Grade : 8, 10",
     "tags": [
       "bahjat enterprises",
       "fasteners",
@@ -655,27 +655,27 @@ export const FASTENER_PRODUCTS = [
     ]
   },
   {
-    "id": "fastener-23-hook",
+    "id": "fastener-23-j-bolt",
     "sno": 23,
-    "name": "Hook",
+    "name": "J Bolt",
     "brand": "Unbrako",
     "category": "fasteners",
     "subCategory": "Hooks & Rigging Hardware",
     "image": "/images/products/fasteners/fastener_item_23.png",
-    "description": "Industrial-grade Hook supplied by Bahjat Enterprises under the Unbrako brand standard. Engineered for heavy-duty structural fastening, mechanical assembly, and high-tensile load applications. Available specifications & dimensions: xSxcxrxexwx xTxyxpxex,x xSxtxaxixnxlxexsxsx xSxtxexexlx,x xCxhxrxoxmxex xFxixnxixsxhx xSxixzxex:x x1x\"x,x x1x.x5x\"x,x x2x\"x,x x3x\"x.",
+    "description": "Industrial-grade J Bolt supplied by Bahjat Enterprises to certified industrial standards. Engineered for heavy-duty structural fastening, mechanical assembly, and high-tensile load applications. Available specifications & dimensions: Screw Type, Stainless Steel, Chrome Finish Size: 1\", 1.5\", 2\", 3\".",
     "specs": {
-      "Product": "Hook",
+      "Product": "J Bolt",
       "Brand": "Unbrako",
       "Sub-Category": "Hooks & Rigging Hardware",
-      "Available Sizes / Specs": "xSxcxrxexwx xTxyxpxex,x xSxtxaxixnxlxexsxsx xSxtxexexlx,x xCxhxrxoxmxex xFxixnxixsxhx xSxixzxex:x x1x\"x,x x1x.x5x\"x,x x2x\"x,x x3x\"x",
+      "Available Sizes / Specs": "Screw Type, Stainless Steel, Chrome Finish Size: 1\", 1.5\", 2\", 3\"",
       "Material / Finish": "High Tensile Alloy Steel / Zinc Finish",
       "Quality Standard": "ISO / DIN / ASTM High-Tensile Certified"
     },
-    "rawSpecs": "xSxcxrxexwx xTxyxpxex,x xSxtxaxixnxlxexsxsx xSxtxexexlx,x xCxhxrxoxmxex xFxixnxixsxhx xSxixzxex:x x1x\"x,x x1x.x5x\"x,x x2x\"x,x x3x\"x",
+    "rawSpecs": "Screw Type, Stainless Steel, Chrome Finish Size: 1\", 1.5\", 2\", 3\"",
     "tags": [
       "bahjat enterprises",
       "fasteners",
-      "hook",
+      "j bolt",
       "hooks & rigging hardware",
       "unbrako",
       "x1x inchx",
@@ -685,31 +685,31 @@ export const FASTENER_PRODUCTS = [
     ]
   },
   {
-    "id": "fastener-24-hook",
+    "id": "fastener-24-s-hook",
     "sno": 24,
-    "name": "Hook",
+    "name": "S Hook",
     "brand": "TVS Fasteners",
     "category": "fasteners",
     "subCategory": "Hooks & Rigging Hardware",
     "image": "/images/products/fasteners/fastener_item_24.png",
-    "description": "Industrial-grade Hook supplied by Bahjat Enterprises under the TVS Fasteners brand standard. Engineered for heavy-duty structural fastening, mechanical assembly, and high-tensile load applications. Available specifications & dimensions: xWxaxlxlx xTxyxpxex,x xSxtxaxixnxlxexsxsx xSxtxexexlx,x xCxhxrxoxmxex xFxixnxixsxhx xSxixzxex:x x1x\"x,x x2x\"x.",
+    "description": "Industrial-grade S Hook supplied by Bahjat Enterprises to certified industrial standards. Engineered for heavy-duty structural fastening, mechanical assembly, and high-tensile load applications. Available specifications & dimensions: Wall Type, Stainless Steel, Chrome Finish Size: 1\", 2\".",
     "specs": {
-      "Product": "Hook",
+      "Product": "S Hook",
       "Brand": "TVS Fasteners",
       "Sub-Category": "Hooks & Rigging Hardware",
-      "Available Sizes / Specs": "xWxaxlxlx xTxyxpxex,x xSxtxaxixnxlxexsxsx xSxtxexexlx,x xCxhxrxoxmxex xFxixnxixsxhx xSxixzxex:x x1x\"x,x x2x\"x",
+      "Available Sizes / Specs": "Wall Type, Stainless Steel, Chrome Finish Size: 1\", 2\"",
       "Material / Finish": "High Tensile Alloy Steel / Zinc Finish",
       "Quality Standard": "ISO / DIN / ASTM High-Tensile Certified"
     },
-    "rawSpecs": "xWxaxlxlx xTxyxpxex,x xSxtxaxixnxlxexsxsx xSxtxexexlx,x xCxhxrxoxmxex xFxixnxixsxhx xSxixzxex:x x1x\"x,x x2x\"x",
+    "rawSpecs": "Wall Type, Stainless Steel, Chrome Finish Size: 1\", 2\"",
     "tags": [
       "bahjat enterprises",
       "fasteners",
-      "hook",
+      "s hook",
       "hooks & rigging hardware",
       "tvs fasteners",
-      "x1x inchx",
-      "x2x inchx"
+      "1 inch",
+      "2 inch"
     ]
   },
   {
@@ -720,79 +720,79 @@ export const FASTENER_PRODUCTS = [
     "category": "fasteners",
     "subCategory": "Hooks & Rigging Hardware",
     "image": "/images/products/fasteners/fastener_item_25.png",
-    "description": "Industrial-grade Hook supplied by Bahjat Enterprises under the Unbrako brand standard. Engineered for heavy-duty structural fastening, mechanical assembly, and high-tensile load applications. Available specifications & dimensions: xCxexixlxixnxgx xTxyxpxex,x xSxtxaxixnxlxexsxsx xSxtxexexlx,x xCxhxrxoxmxex xFxixnxixsxhx xSxixzxex:x x2x\"x,x x3x\"x,x x4x\"x.",
+    "description": "Industrial-grade Hook supplied by Bahjat Enterprises to certified industrial standards. Engineered for heavy-duty structural fastening, mechanical assembly, and high-tensile load applications. Available specifications & dimensions: Ceiling Type, Stainless Steel, Chrome Finish Size: 2\", 3\", 4\".",
     "specs": {
       "Product": "Hook",
       "Brand": "Unbrako",
       "Sub-Category": "Hooks & Rigging Hardware",
-      "Available Sizes / Specs": "xCxexixlxixnxgx xTxyxpxex,x xSxtxaxixnxlxexsxsx xSxtxexexlx,x xCxhxrxoxmxex xFxixnxixsxhx xSxixzxex:x x2x\"x,x x3x\"x,x x4x\"x",
+      "Available Sizes / Specs": "Ceiling Type, Stainless Steel, Chrome Finish Size: 2\", 3\", 4\"",
       "Material / Finish": "High Tensile Alloy Steel / Zinc Finish",
       "Quality Standard": "ISO / DIN / ASTM High-Tensile Certified"
     },
-    "rawSpecs": "xCxexixlxixnxgx xTxyxpxex,x xSxtxaxixnxlxexsxsx xSxtxexexlx,x xCxhxrxoxmxex xFxixnxixsxhx xSxixzxex:x x2x\"x,x x3x\"x,x x4x\"x",
+    "rawSpecs": "Ceiling Type, Stainless Steel, Chrome Finish Size: 2\", 3\", 4\"",
     "tags": [
       "bahjat enterprises",
       "fasteners",
       "hook",
       "hooks & rigging hardware",
       "unbrako",
-      "x2x inchx",
-      "x3x inchx",
-      "x4x inchx"
+      "2 inch",
+      "3 inch",
+      "4 inch"
     ]
   },
   {
-    "id": "fastener-26-hook",
+    "id": "fastener-26-s-hook",
     "sno": 26,
-    "name": "Hook",
+    "name": "S Hook",
     "brand": "TVS Fasteners",
     "category": "fasteners",
     "subCategory": "Hooks & Rigging Hardware",
     "image": "/images/products/fasteners/fastener_item_26.png",
-    "description": "Industrial-grade Hook supplied by Bahjat Enterprises under the TVS Fasteners brand standard. Engineered for heavy-duty structural fastening, mechanical assembly, and high-tensile load applications. Available specifications & dimensions: xSx xTxyxpxex,x xSxtxaxixnxlxexsxsx xSxtxexexlx,x xCxhxrxoxmxex xFxixnxixsxhx xSxixzxex:x x2x\"x,x x3x\"x,x x4x\"x,x x6x\"x.",
+    "description": "Industrial-grade S Hook supplied by Bahjat Enterprises to certified industrial standards. Engineered for heavy-duty structural fastening, mechanical assembly, and high-tensile load applications. Available specifications & dimensions: S Type, Stainless Steel, Chrome Finish Size: 2\", 3\", 4\", 6\".",
     "specs": {
-      "Product": "Hook",
+      "Product": "S Hook",
       "Brand": "TVS Fasteners",
       "Sub-Category": "Hooks & Rigging Hardware",
-      "Available Sizes / Specs": "xSx xTxyxpxex,x xSxtxaxixnxlxexsxsx xSxtxexexlx,x xCxhxrxoxmxex xFxixnxixsxhx xSxixzxex:x x2x\"x,x x3x\"x,x x4x\"x,x x6x\"x",
+      "Available Sizes / Specs": "S Type, Stainless Steel, Chrome Finish Size: 2\", 3\", 4\", 6\"",
       "Material / Finish": "High Tensile Alloy Steel / Zinc Finish",
       "Quality Standard": "ISO / DIN / ASTM High-Tensile Certified"
     },
-    "rawSpecs": "xSx xTxyxpxex,x xSxtxaxixnxlxexsxsx xSxtxexexlx,x xCxhxrxoxmxex xFxixnxixsxhx xSxixzxex:x x2x\"x,x x3x\"x,x x4x\"x,x x6x\"x",
+    "rawSpecs": "S Type, Stainless Steel, Chrome Finish Size: 2\", 3\", 4\", 6\"",
     "tags": [
       "bahjat enterprises",
       "fasteners",
-      "hook",
+      "s hook",
       "hooks & rigging hardware",
       "tvs fasteners",
-      "x2x inchx",
-      "x3x inchx",
-      "x4x inchx",
-      "x6x inchx"
+      "2 inch",
+      "3 inch",
+      "4 inch",
+      "6 inch"
     ]
   },
   {
-    "id": "fastener-27-hook",
+    "id": "fastener-27-j-bolt",
     "sno": 27,
-    "name": "Hook",
+    "name": "J Bolt",
     "brand": "Unbrako",
     "category": "fasteners",
     "subCategory": "Hooks & Rigging Hardware",
     "image": "/images/products/fasteners/fastener_item_27.png",
-    "description": "Industrial-grade Hook supplied by Bahjat Enterprises under the Unbrako brand standard. Engineered for heavy-duty structural fastening, mechanical assembly, and high-tensile load applications. Available specifications & dimensions: xJx xTxyxpxex,x xSxtxaxixnxlxexsxsx xSxtxexexlx,x xMxixlxdx xSxtxexexlx xAxlxlx xSxtxaxnxdxaxrxdx xSxixzxex.",
+    "description": "Industrial-grade J Bolt supplied by Bahjat Enterprises to certified industrial standards. Engineered for heavy-duty structural fastening, mechanical assembly, and high-tensile load applications. Available specifications & dimensions: J Type, Stainless Steel, Mild Steel All Standard Size.",
     "specs": {
-      "Product": "Hook",
+      "Product": "J Bolt",
       "Brand": "Unbrako",
       "Sub-Category": "Hooks & Rigging Hardware",
-      "Available Sizes / Specs": "xJx xTxyxpxex,x xSxtxaxixnxlxexsxsx xSxtxexexlx,x xMxixlxdx xSxtxexexlx xAxlxlx xSxtxaxnxdxaxrxdx xSxixzxex",
+      "Available Sizes / Specs": "J Type, Stainless Steel, Mild Steel All Standard Size",
       "Material / Finish": "High Tensile Alloy Steel / Zinc Finish",
       "Quality Standard": "ISO / DIN / ASTM High-Tensile Certified"
     },
-    "rawSpecs": "xJx xTxyxpxex,x xSxtxaxixnxlxexsxsx xSxtxexexlx,x xMxixlxdx xSxtxexexlx xAxlxlx xSxtxaxnxdxaxrxdx xSxixzxex",
+    "rawSpecs": "J Type, Stainless Steel, Mild Steel All Standard Size",
     "tags": [
       "bahjat enterprises",
       "fasteners",
-      "hook",
+      "j bolt",
       "hooks & rigging hardware",
       "unbrako"
     ]
@@ -805,16 +805,16 @@ export const FASTENER_PRODUCTS = [
     "category": "fasteners",
     "subCategory": "Hooks & Rigging Hardware",
     "image": "/images/products/fasteners/fastener_item_28.png",
-    "description": "Industrial-grade Hook supplied by Bahjat Enterprises under the TVS Fasteners brand standard. Engineered for heavy-duty structural fastening, mechanical assembly, and high-tensile load applications. Available specifications & dimensions: xExyxex xTxyxpxex,x xCxhxrxoxmxex xFxixnxixsxhx,x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x xTxhxrxexaxdx xSxixzxex x:x xMx6x,x xMx8x,x xMx1x0x,x xMx1x2x,x xMx1x6x,x xMx2x0x,x xMx2x4x,x xMx3x0x,x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x xExyxex xDxixax x:x x2x0x-x2x5x xmxmx,x x2x5x-x3x0x xmxmx,x x3x0x xmxmx-x3x5x xmxmx,x x3x5x xmxmx-x4x0x xmxmx,x x4x5x xmxmx-x5x5x xmxmx,x x5x5x xmxmx-x6x5x xmxmx,x x6x5x xmxmx-x7x5x xmxmx,x x8x0x-x1x0x0x xmxmx.",
+    "description": "Industrial-grade Hook supplied by Bahjat Enterprises to certified industrial standards. Engineered for heavy-duty structural fastening, mechanical assembly, and high-tensile load applications. Available specifications & dimensions: Eye Type, Chrome Finish, Thread Size : M6, M8, M10, M12, M16, M20, M24, M30, Eye Dia : 20-25 mm, 25-30 mm, 30 mm-35 mm, 35 mm-40 mm, 45 mm-55 mm, 55 mm-65 mm, 65 mm-75 mm, 80-100 mm.",
     "specs": {
       "Product": "Hook",
       "Brand": "TVS Fasteners",
       "Sub-Category": "Hooks & Rigging Hardware",
-      "Available Sizes / Specs": "xExyxex xTxyxpxex,x xCxhxrxoxmxex xFxixnxixsxhx,x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x xTxhxrxexaxdx xSxixzxex x:x xMx6x,x xMx8x,x xMx1x0x,x xMx1x2x,x xMx1x6x,x xMx2x0x,x xMx2x4x,x xMx3x0x,x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x xExyxex xDxixax x:x x2x0x-x2x5x xmxmx,x x2x5x-x3x0x xmxmx,x x3x0x xmxmx-x3x5x xmxmx,x x3x5x xmxmx-x4x0x xmxmx,x x4x5x xmxmx-x5x5x xmxmx,x x5x5x xmxmx-x6x5x xmxmx,x x6x5x xmxmx-x7x5x xmxmx,x x8x0x-x1x0x0x xmxmx",
+      "Available Sizes / Specs": "Eye Type, Chrome Finish, Thread Size : M6, M8, M10, M12, M16, M20, M24, M30, Eye Dia : 20-25 mm, 25-30 mm, 30 mm-35 mm, 35 mm-40 mm, 45 mm-55 mm, 55 mm-65 mm, 65 mm-75 mm, 80-100 mm",
       "Material / Finish": "High Tensile Alloy Steel / Zinc Finish",
       "Quality Standard": "ISO / DIN / ASTM High-Tensile Certified"
     },
-    "rawSpecs": "xExyxex xTxyxpxex,x xCxhxrxoxmxex xFxixnxixsxhx,x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x xTxhxrxexaxdx xSxixzxex x:x xMx6x,x xMx8x,x xMx1x0x,x xMx1x2x,x xMx1x6x,x xMx2x0x,x xMx2x4x,x xMx3x0x,x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x xExyxex xDxixax x:x x2x0x-x2x5x xmxmx,x x2x5x-x3x0x xmxmx,x x3x0x xmxmx-x3x5x xmxmx,x x3x5x xmxmx-x4x0x xmxmx,x x4x5x xmxmx-x5x5x xmxmx,x x5x5x xmxmx-x6x5x xmxmx,x x6x5x xmxmx-x7x5x xmxmx,x x8x0x-x1x0x0x xmxmx",
+    "rawSpecs": "Eye Type, Chrome Finish, Thread Size : M6, M8, M10, M12, M16, M20, M24, M30, Eye Dia : 20-25 mm, 25-30 mm, 30 mm-35 mm, 35 mm-40 mm, 45 mm-55 mm, 55 mm-65 mm, 65 mm-75 mm, 80-100 mm",
     "tags": [
       "bahjat enterprises",
       "fasteners",
@@ -824,27 +824,27 @@ export const FASTENER_PRODUCTS = [
     ]
   },
   {
-    "id": "fastener-29-hook",
+    "id": "fastener-29-safety-latches",
     "sno": 29,
-    "name": "Hook",
+    "name": "Safety Latches",
     "brand": "Unbrako",
     "category": "fasteners",
     "subCategory": "Hooks & Rigging Hardware",
     "image": "/images/products/fasteners/fastener_item_29.png",
-    "description": "Industrial-grade Hook supplied by Bahjat Enterprises under the Unbrako brand standard. Engineered for heavy-duty structural fastening, mechanical assembly, and high-tensile load applications. Available specifications & dimensions: xSxwxixvxexlx xSxnxaxpx xTxyxpxex x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x xSxixzxex:x x6x xmxmx,x x8x xmxmx,x x1x0x xmxmx,x x1x2x xmxmx,x x1x6x xmxmx.",
+    "description": "Industrial-grade Safety Latches supplied by Bahjat Enterprises to certified industrial standards. Engineered for heavy-duty structural fastening, mechanical assembly, and high-tensile load applications. Available specifications & dimensions: Swivel Snap Type Size: 6 mm, 8 mm, 10 mm, 12 mm, 16 mm.",
     "specs": {
-      "Product": "Hook",
+      "Product": "Safety Latches",
       "Brand": "Unbrako",
       "Sub-Category": "Hooks & Rigging Hardware",
-      "Available Sizes / Specs": "xSxwxixvxexlx xSxnxaxpx xTxyxpxex x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x xSxixzxex:x x6x xmxmx,x x8x xmxmx,x x1x0x xmxmx,x x1x2x xmxmx,x x1x6x xmxmx",
+      "Available Sizes / Specs": "Swivel Snap Type Size: 6 mm, 8 mm, 10 mm, 12 mm, 16 mm",
       "Material / Finish": "High Tensile Alloy Steel / Zinc Finish",
       "Quality Standard": "ISO / DIN / ASTM High-Tensile Certified"
     },
-    "rawSpecs": "xSxwxixvxexlx xSxnxaxpx xTxyxpxex x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x xSxixzxex:x x6x xmxmx,x x8x xmxmx,x x1x0x xmxmx,x x1x2x xmxmx,x x1x6x xmxmx",
+    "rawSpecs": "Swivel Snap Type Size: 6 mm, 8 mm, 10 mm, 12 mm, 16 mm",
     "tags": [
       "bahjat enterprises",
       "fasteners",
-      "hook",
+      "safety latches",
       "hooks & rigging hardware",
       "unbrako"
     ]
@@ -857,16 +857,16 @@ export const FASTENER_PRODUCTS = [
     "category": "fasteners",
     "subCategory": "Nuts",
     "image": "/images/products/fasteners/fastener_item_30.png",
-    "description": "Industrial-grade Jam Nut supplied by Bahjat Enterprises under the TVS Fasteners brand standard. Engineered for heavy-duty structural fastening, mechanical assembly, and high-tensile load applications. Available specifications & dimensions: xGxaxlxvxaxnxixzxexdx x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x xSxixzxex:x xMx6x,x xMx8x,x xMx1x0x.",
+    "description": "Industrial-grade Jam Nut supplied by Bahjat Enterprises to certified industrial standards. Engineered for heavy-duty structural fastening, mechanical assembly, and high-tensile load applications. Available specifications & dimensions: Galvanized Size: M6, M8, M10.",
     "specs": {
       "Product": "Jam Nut",
       "Brand": "TVS Fasteners",
       "Sub-Category": "Nuts",
-      "Available Sizes / Specs": "xGxaxlxvxaxnxixzxexdx x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x xSxixzxex:x xMx6x,x xMx8x,x xMx1x0x",
+      "Available Sizes / Specs": "Galvanized Size: M6, M8, M10",
       "Material / Finish": "High Tensile Alloy Steel / Zinc Finish",
       "Quality Standard": "ISO / DIN / ASTM High-Tensile Certified"
     },
-    "rawSpecs": "xGxaxlxvxaxnxixzxexdx x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x xSxixzxex:x xMx6x,x xMx8x,x xMx1x0x",
+    "rawSpecs": "Galvanized Size: M6, M8, M10",
     "tags": [
       "bahjat enterprises",
       "fasteners",
@@ -885,16 +885,16 @@ export const FASTENER_PRODUCTS = [
     "category": "fasteners",
     "subCategory": "Bolts & Studs",
     "image": "/images/products/fasteners/fastener_item_31.png",
-    "description": "Industrial-grade J Bolt Galvanized supplied by Bahjat Enterprises under the Unbrako brand standard. Engineered for heavy-duty structural fastening, mechanical assembly, and high-tensile load applications. Available specifications & dimensions: xAxlxlx xSxtxaxnxdxaxrxdx xSxixzxexsx.",
+    "description": "Industrial-grade J Bolt Galvanized supplied by Bahjat Enterprises to certified industrial standards. Engineered for heavy-duty structural fastening, mechanical assembly, and high-tensile load applications. Available specifications & dimensions: All Standard Sizes.",
     "specs": {
       "Product": "J Bolt Galvanized",
       "Brand": "Unbrako",
       "Sub-Category": "Bolts & Studs",
-      "Available Sizes / Specs": "xAxlxlx xSxtxaxnxdxaxrxdx xSxixzxexsx",
+      "Available Sizes / Specs": "All Standard Sizes",
       "Material / Finish": "High Tensile Alloy Steel / Zinc Finish",
       "Quality Standard": "ISO / DIN / ASTM High-Tensile Certified"
     },
-    "rawSpecs": "xAxlxlx xSxtxaxnxdxaxrxdx xSxixzxexsx",
+    "rawSpecs": "All Standard Sizes",
     "tags": [
       "bahjat enterprises",
       "bolt",
@@ -913,16 +913,16 @@ export const FASTENER_PRODUCTS = [
     "category": "fasteners",
     "subCategory": "Bolts & Studs",
     "image": "/images/products/fasteners/fastener_item_32.png",
-    "description": "Industrial-grade L Bolt supplied by Bahjat Enterprises under the TVS Fasteners brand standard. Engineered for heavy-duty structural fastening, mechanical assembly, and high-tensile load applications. Available specifications & dimensions: xGxaxlxvxaxnxixzxexdx,x xSxtxaxixnxlxexsxsx xSxtxexexlx x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x xSxixzxex:x xMx8x,x xMx1x0x,x xMx1x2x,x xMx1x6x,x xMx2x0x,x xMx2x4x,x xMx3x0x,x xMx3x6x.",
+    "description": "Industrial-grade L Bolt supplied by Bahjat Enterprises to certified industrial standards. Engineered for heavy-duty structural fastening, mechanical assembly, and high-tensile load applications. Available specifications & dimensions: Galvanized, Stainless Steel Size: M8, M10, M12, M16, M20, M24, M30, M36.",
     "specs": {
       "Product": "L Bolt",
       "Brand": "TVS Fasteners",
       "Sub-Category": "Bolts & Studs",
-      "Available Sizes / Specs": "xGxaxlxvxaxnxixzxexdx,x xSxtxaxixnxlxexsxsx xSxtxexexlx x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x xSxixzxex:x xMx8x,x xMx1x0x,x xMx1x2x,x xMx1x6x,x xMx2x0x,x xMx2x4x,x xMx3x0x,x xMx3x6x",
+      "Available Sizes / Specs": "Galvanized, Stainless Steel Size: M8, M10, M12, M16, M20, M24, M30, M36",
       "Material / Finish": "High Tensile Alloy Steel / Zinc Finish",
       "Quality Standard": "ISO / DIN / ASTM High-Tensile Certified"
     },
-    "rawSpecs": "xGxaxlxvxaxnxixzxexdx,x xSxtxaxixnxlxexsxsx xSxtxexexlx x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x xSxixzxex:x xMx8x,x xMx1x0x,x xMx1x2x,x xMx1x6x,x xMx2x0x,x xMx2x4x,x xMx3x0x,x xMx3x6x",
+    "rawSpecs": "Galvanized, Stainless Steel Size: M8, M10, M12, M16, M20, M24, M30, M36",
     "tags": [
       "bahjat enterprises",
       "bolt",
@@ -940,16 +940,16 @@ export const FASTENER_PRODUCTS = [
     "category": "fasteners",
     "subCategory": "Nuts",
     "image": "/images/products/fasteners/fastener_item_33.png",
-    "description": "Industrial-grade Locknut ( Nylock) supplied by Bahjat Enterprises under the Unbrako brand standard. Engineered for heavy-duty structural fastening, mechanical assembly, and high-tensile load applications. Available specifications & dimensions: xMxixlxdx xSxtxexexlx,x xSxtxaxixnxlxexsxsx xSxtxexexlx,x xCxaxrxbxoxnx xSxtxexexlx,x xBxrxaxsxsx x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x xSxixzxex x:x xMx4x,x xMx5x,x xMx6x,x xMx8x,x xMx1x0x,x xMx1x2x,x xMx1x6x,x xMx2x0x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x xGxrxaxdxex x:x x8x,x x1x0x.",
+    "description": "Industrial-grade Locknut ( Nylock) supplied by Bahjat Enterprises to certified industrial standards. Engineered for heavy-duty structural fastening, mechanical assembly, and high-tensile load applications. Available specifications & dimensions: Mild Steel, Stainless Steel, Carbon Steel, Brass Size : M4, M5, M6, M8, M10, M12, M16, M20 Grade : 8, 10.",
     "specs": {
       "Product": "Locknut ( Nylock)",
       "Brand": "Unbrako",
       "Sub-Category": "Nuts",
-      "Available Sizes / Specs": "xMxixlxdx xSxtxexexlx,x xSxtxaxixnxlxexsxsx xSxtxexexlx,x xCxaxrxbxoxnx xSxtxexexlx,x xBxrxaxsxsx x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x xSxixzxex x:x xMx4x,x xMx5x,x xMx6x,x xMx8x,x xMx1x0x,x xMx1x2x,x xMx1x6x,x xMx2x0x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x xGxrxaxdxex x:x x8x,x x1x0x",
+      "Available Sizes / Specs": "Mild Steel, Stainless Steel, Carbon Steel, Brass Size : M4, M5, M6, M8, M10, M12, M16, M20 Grade : 8, 10",
       "Material / Finish": "High Tensile Alloy Steel / Zinc Finish",
       "Quality Standard": "ISO / DIN / ASTM High-Tensile Certified"
     },
-    "rawSpecs": "xMxixlxdx xSxtxexexlx,x xSxtxaxixnxlxexsxsx xSxtxexexlx,x xCxaxrxbxoxnx xSxtxexexlx,x xBxrxaxsxsx x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x xSxixzxex x:x xMx4x,x xMx5x,x xMx6x,x xMx8x,x xMx1x0x,x xMx1x2x,x xMx1x6x,x xMx2x0x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x xGxrxaxdxex x:x x8x,x x1x0x",
+    "rawSpecs": "Mild Steel, Stainless Steel, Carbon Steel, Brass Size : M4, M5, M6, M8, M10, M12, M16, M20 Grade : 8, 10",
     "tags": [
       "bahjat enterprises",
       "fasteners",
@@ -968,16 +968,16 @@ export const FASTENER_PRODUCTS = [
     "category": "fasteners",
     "subCategory": "Washers",
     "image": "/images/products/fasteners/fastener_item_34.png",
-    "description": "Industrial-grade Lock Washer ( Spring Washer ) supplied by Bahjat Enterprises under the TVS Fasteners brand standard. Engineered for heavy-duty structural fastening, mechanical assembly, and high-tensile load applications. Available specifications & dimensions: xSxtxaxixnxlxexsxsx xSxtxexexlx,x xMxixlxdx xSxtxexexlx,x xBxrxaxsxsx x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x xSxixzxex:x xMx3x,x xMx4x,x xMx5x,x xMx6x,x xMx8x,x xMx1x0x,x xMx1x2x,x xMx1x4x,x xMx1x4x,x xMx1x8x,x xMx2x0x.",
+    "description": "Industrial-grade Lock Washer ( Spring Washer ) supplied by Bahjat Enterprises to certified industrial standards. Engineered for heavy-duty structural fastening, mechanical assembly, and high-tensile load applications. Available specifications & dimensions: Stainless Steel, Mild Steel, Brass Size: M3, M4, M5, M6, M8, M10, M12, M14, M14, M18, M20.",
     "specs": {
       "Product": "Lock Washer ( Spring Washer )",
       "Brand": "TVS Fasteners",
       "Sub-Category": "Washers",
-      "Available Sizes / Specs": "xSxtxaxixnxlxexsxsx xSxtxexexlx,x xMxixlxdx xSxtxexexlx,x xBxrxaxsxsx x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x xSxixzxex:x xMx3x,x xMx4x,x xMx5x,x xMx6x,x xMx8x,x xMx1x0x,x xMx1x2x,x xMx1x4x,x xMx1x4x,x xMx1x8x,x xMx2x0x",
+      "Available Sizes / Specs": "Stainless Steel, Mild Steel, Brass Size: M3, M4, M5, M6, M8, M10, M12, M14, M14, M18, M20",
       "Material / Finish": "High Tensile Alloy Steel / Zinc Finish",
       "Quality Standard": "ISO / DIN / ASTM High-Tensile Certified"
     },
-    "rawSpecs": "xSxtxaxixnxlxexsxsx xSxtxexexlx,x xMxixlxdx xSxtxexexlx,x xBxrxaxsxsx x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x xSxixzxex:x xMx3x,x xMx4x,x xMx5x,x xMx6x,x xMx8x,x xMx1x0x,x xMx1x2x,x xMx1x4x,x xMx1x4x,x xMx1x8x,x xMx2x0x",
+    "rawSpecs": "Stainless Steel, Mild Steel, Brass Size: M3, M4, M5, M6, M8, M10, M12, M14, M14, M18, M20",
     "tags": [
       "bahjat enterprises",
       "fasteners",
@@ -997,16 +997,16 @@ export const FASTENER_PRODUCTS = [
     "category": "fasteners",
     "subCategory": "Bolts & Studs",
     "image": "/images/products/fasteners/fastener_item_35.png",
-    "description": "Industrial-grade Machine Bolt supplied by Bahjat Enterprises under the Unbrako brand standard. Engineered for heavy-duty structural fastening, mechanical assembly, and high-tensile load applications. Available specifications & dimensions: xGxaxlxvxaxnxixzxexdx,x xSxtxaxixnxlxexsxsx xSxtxexexlx,x xBxlxaxcxkx,x xBxrxaxsxsx,x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x xSxixzxex:x xMx4x,x xMx5x,x xMx6x,x xMx8x.",
+    "description": "Industrial-grade Machine Bolt supplied by Bahjat Enterprises to certified industrial standards. Engineered for heavy-duty structural fastening, mechanical assembly, and high-tensile load applications. Available specifications & dimensions: Galvanized, Stainless Steel, Black, Brass, Size: M4, M5, M6, M8.",
     "specs": {
       "Product": "Machine Bolt",
       "Brand": "Unbrako",
       "Sub-Category": "Bolts & Studs",
-      "Available Sizes / Specs": "xGxaxlxvxaxnxixzxexdx,x xSxtxaxixnxlxexsxsx xSxtxexexlx,x xBxlxaxcxkx,x xBxrxaxsxsx,x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x xSxixzxex:x xMx4x,x xMx5x,x xMx6x,x xMx8x",
+      "Available Sizes / Specs": "Galvanized, Stainless Steel, Black, Brass, Size: M4, M5, M6, M8",
       "Material / Finish": "High Tensile Alloy Steel / Zinc Finish",
       "Quality Standard": "ISO / DIN / ASTM High-Tensile Certified"
     },
-    "rawSpecs": "xGxaxlxvxaxnxixzxexdx,x xSxtxaxixnxlxexsxsx xSxtxexexlx,x xBxlxaxcxkx,x xBxrxaxsxsx,x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x xSxixzxex:x xMx4x,x xMx5x,x xMx6x,x xMx8x",
+    "rawSpecs": "Galvanized, Stainless Steel, Black, Brass, Size: M4, M5, M6, M8",
     "tags": [
       "bahjat enterprises",
       "bolt",
@@ -1025,16 +1025,16 @@ export const FASTENER_PRODUCTS = [
     "category": "fasteners",
     "subCategory": "Industrial Screws",
     "image": "/images/products/fasteners/fastener_item_36.png",
-    "description": "Industrial-grade Machine Screw supplied by Bahjat Enterprises under the Unbrako brand standard. Engineered for heavy-duty structural fastening, mechanical assembly, and high-tensile load applications. Available specifications & dimensions: xSxixzxex x:x xMx4x,x xMx5x,x xMx6x,x xMx8x.",
+    "description": "Industrial-grade Machine Screw supplied by Bahjat Enterprises to certified industrial standards. Engineered for heavy-duty structural fastening, mechanical assembly, and high-tensile load applications. Available specifications & dimensions: Size : M4, M5, M6, M8.",
     "specs": {
       "Product": "Machine Screw",
       "Brand": "Unbrako",
       "Sub-Category": "Industrial Screws",
-      "Available Sizes / Specs": "xSxixzxex x:x xMx4x,x xMx5x,x xMx6x,x xMx8x",
+      "Available Sizes / Specs": "Size : M4, M5, M6, M8",
       "Material / Finish": "High Tensile Alloy Steel / Zinc Finish",
       "Quality Standard": "ISO / DIN / ASTM High-Tensile Certified"
     },
-    "rawSpecs": "xSxixzxex x:x xMx4x,x xMx5x,x xMx6x,x xMx8x",
+    "rawSpecs": "Size : M4, M5, M6, M8",
     "tags": [
       "bahjat enterprises",
       "fasteners",
@@ -1053,16 +1053,16 @@ export const FASTENER_PRODUCTS = [
     "category": "fasteners",
     "subCategory": "Washers",
     "image": "/images/products/fasteners/fastener_item_37.png",
-    "description": "Industrial-grade Plain Washer ( Flat Washer ) supplied by Bahjat Enterprises under the Unbrako brand standard. Engineered for heavy-duty structural fastening, mechanical assembly, and high-tensile load applications. Available specifications & dimensions: xSxtxaxixnxlxexsxsx xSxtxexexlx,x xMxixlxdx xSxtxexexlx,x xBxrxaxsxsx x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x xSxixzxex:x xMx3x,x xMx4x,x xMx5x,x xMx6x,x xMx8x,x xMx1x0x,x xMx1x2x,x xMx1x4x,x xMx1x4x,x xMx1x8x,x xMx2x0x.",
+    "description": "Industrial-grade Plain Washer ( Flat Washer ) supplied by Bahjat Enterprises to certified industrial standards. Engineered for heavy-duty structural fastening, mechanical assembly, and high-tensile load applications. Available specifications & dimensions: Stainless Steel, Mild Steel, Brass Size: M3, M4, M5, M6, M8, M10, M12, M14, M14, M18, M20.",
     "specs": {
       "Product": "Plain Washer ( Flat Washer )",
       "Brand": "Unbrako",
       "Sub-Category": "Washers",
-      "Available Sizes / Specs": "xSxtxaxixnxlxexsxsx xSxtxexexlx,x xMxixlxdx xSxtxexexlx,x xBxrxaxsxsx x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x xSxixzxex:x xMx3x,x xMx4x,x xMx5x,x xMx6x,x xMx8x,x xMx1x0x,x xMx1x2x,x xMx1x4x,x xMx1x4x,x xMx1x8x,x xMx2x0x",
+      "Available Sizes / Specs": "Stainless Steel, Mild Steel, Brass Size: M3, M4, M5, M6, M8, M10, M12, M14, M14, M18, M20",
       "Material / Finish": "High Tensile Alloy Steel / Zinc Finish",
       "Quality Standard": "ISO / DIN / ASTM High-Tensile Certified"
     },
-    "rawSpecs": "xSxtxaxixnxlxexsxsx xSxtxexexlx,x xMxixlxdx xSxtxexexlx,x xBxrxaxsxsx x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x xSxixzxex:x xMx3x,x xMx4x,x xMx5x,x xMx6x,x xMx8x,x xMx1x0x,x xMx1x2x,x xMx1x4x,x xMx1x4x,x xMx1x8x,x xMx2x0x",
+    "rawSpecs": "Stainless Steel, Mild Steel, Brass Size: M3, M4, M5, M6, M8, M10, M12, M14, M14, M18, M20",
     "tags": [
       "bahjat enterprises",
       "fasteners",
@@ -1082,16 +1082,16 @@ export const FASTENER_PRODUCTS = [
     "category": "fasteners",
     "subCategory": "Nails & Rivets",
     "image": "/images/products/fasteners/fastener_item_38.png",
-    "description": "Industrial-grade Roofing Nails supplied by Bahjat Enterprises under the TVS Fasteners brand standard. Engineered for heavy-duty structural fastening, mechanical assembly, and high-tensile load applications. Available specifications & dimensions: xWxixdxex xHxexaxdx,x xRxuxsxtx xRxexsxixsxtxaxnxcxex xCxoxaxtxixnxgx x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x xSxixzxex x:x x1x.x5x\"x,x x2x\"x,x x2x.x5x\"x,x x3x\"x.",
+    "description": "Industrial-grade Roofing Nails supplied by Bahjat Enterprises to certified industrial standards. Engineered for heavy-duty structural fastening, mechanical assembly, and high-tensile load applications. Available specifications & dimensions: Wide Head, Rust Resistance Coating Size : 1.5\", 2\", 2.5\", 3\".",
     "specs": {
       "Product": "Roofing Nails",
       "Brand": "TVS Fasteners",
       "Sub-Category": "Nails & Rivets",
-      "Available Sizes / Specs": "xWxixdxex xHxexaxdx,x xRxuxsxtx xRxexsxixsxtxaxnxcxex xCxoxaxtxixnxgx x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x xSxixzxex x:x x1x.x5x\"x,x x2x\"x,x x2x.x5x\"x,x x3x\"x",
+      "Available Sizes / Specs": "Wide Head, Rust Resistance Coating Size : 1.5\", 2\", 2.5\", 3\"",
       "Material / Finish": "High Tensile Alloy Steel / Zinc Finish",
       "Quality Standard": "ISO / DIN / ASTM High-Tensile Certified"
     },
-    "rawSpecs": "xWxixdxex xHxexaxdx,x xRxuxsxtx xRxexsxixsxtxaxnxcxex xCxoxaxtxixnxgx x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x xSxixzxex x:x x1x.x5x\"x,x x2x\"x,x x2x.x5x\"x,x x3x\"x",
+    "rawSpecs": "Wide Head, Rust Resistance Coating Size : 1.5\", 2\", 2.5\", 3\"",
     "tags": [
       "bahjat enterprises",
       "fasteners",
@@ -1114,16 +1114,16 @@ export const FASTENER_PRODUCTS = [
     "category": "fasteners",
     "subCategory": "Washers",
     "image": "/images/products/fasteners/fastener_item_39.png",
-    "description": "Industrial-grade Roofing Screw With Rubber Washer supplied by Bahjat Enterprises under the Unbrako brand standard. Engineered for heavy-duty structural fastening, mechanical assembly, and high-tensile load applications. Available specifications & dimensions: xSxixzxex x:x x1x/x2x\"x,x x2x\"x,x x2x-x1x/x2x\"x.",
+    "description": "Industrial-grade Roofing Screw With Rubber Washer supplied by Bahjat Enterprises to certified industrial standards. Engineered for heavy-duty structural fastening, mechanical assembly, and high-tensile load applications. Available specifications & dimensions: Size : 1/2\", 2\", 2-1/2\".",
     "specs": {
       "Product": "Roofing Screw With Rubber Washer",
       "Brand": "Unbrako",
       "Sub-Category": "Washers",
-      "Available Sizes / Specs": "xSxixzxex x:x x1x/x2x\"x,x x2x\"x,x x2x-x1x/x2x\"x",
+      "Available Sizes / Specs": "Size : 1/2\", 2\", 2-1/2\"",
       "Material / Finish": "High Tensile Alloy Steel / Zinc Finish",
       "Quality Standard": "ISO / DIN / ASTM High-Tensile Certified"
     },
-    "rawSpecs": "xSxixzxex x:x x1x/x2x\"x,x x2x\"x,x x2x-x1x/x2x\"x",
+    "rawSpecs": "Size : 1/2\", 2\", 2-1/2\"",
     "tags": [
       "bahjat enterprises",
       "fasteners",
@@ -1147,16 +1147,16 @@ export const FASTENER_PRODUCTS = [
     "category": "fasteners",
     "subCategory": "Nails & Rivets",
     "image": "/images/products/fasteners/fastener_item_40.png",
-    "description": "Industrial-grade Round Head Nail supplied by Bahjat Enterprises under the TVS Fasteners brand standard. Engineered for heavy-duty structural fastening, mechanical assembly, and high-tensile load applications. Available specifications & dimensions: xMxixlxdx xSxtxexexlx,x xCxaxrxbxoxnx xSxtxexexlx,x xSxtxaxixnxlxexsxsx xSxtxexexlx x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x xSxixzxex:x x2x5x xmxmx x(x1x\"x)x,x x3x8x xmxmx x(x1x.x5x\"x)x,x x5x0x xmxmx x(x2x\"x)x,x x7x5x xmxmx x(x3x\"x)x,x x1x0x0x xmxmx x(x4x\"x)x.",
+    "description": "Industrial-grade Round Head Nail supplied by Bahjat Enterprises to certified industrial standards. Engineered for heavy-duty structural fastening, mechanical assembly, and high-tensile load applications. Available specifications & dimensions: Mild Steel, Carbon Steel, Stainless Steel Size: 25 mm (1\"), 38 mm (1.5\"), 50 mm (2\"), 75 mm (3\"), 100 mm (4\").",
     "specs": {
       "Product": "Round Head Nail",
       "Brand": "TVS Fasteners",
       "Sub-Category": "Nails & Rivets",
-      "Available Sizes / Specs": "xMxixlxdx xSxtxexexlx,x xCxaxrxbxoxnx xSxtxexexlx,x xSxtxaxixnxlxexsxsx xSxtxexexlx x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x xSxixzxex:x x2x5x xmxmx x(x1x\"x)x,x x3x8x xmxmx x(x1x.x5x\"x)x,x x5x0x xmxmx x(x2x\"x)x,x x7x5x xmxmx x(x3x\"x)x,x x1x0x0x xmxmx x(x4x\"x)x",
+      "Available Sizes / Specs": "Mild Steel, Carbon Steel, Stainless Steel Size: 25 mm (1\"), 38 mm (1.5\"), 50 mm (2\"), 75 mm (3\"), 100 mm (4\")",
       "Material / Finish": "High Tensile Alloy Steel / Zinc Finish",
       "Quality Standard": "ISO / DIN / ASTM High-Tensile Certified"
     },
-    "rawSpecs": "xMxixlxdx xSxtxexexlx,x xCxaxrxbxoxnx xSxtxexexlx,x xSxtxaxixnxlxexsxsx xSxtxexexlx x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x xSxixzxex:x x2x5x xmxmx x(x1x\"x)x,x x3x8x xmxmx x(x1x.x5x\"x)x,x x5x0x xmxmx x(x2x\"x)x,x x7x5x xmxmx x(x3x\"x)x,x x1x0x0x xmxmx x(x4x\"x)x",
+    "rawSpecs": "Mild Steel, Carbon Steel, Stainless Steel Size: 25 mm (1\"), 38 mm (1.5\"), 50 mm (2\"), 75 mm (3\"), 100 mm (4\")",
     "tags": [
       "bahjat enterprises",
       "fasteners",
@@ -1181,16 +1181,16 @@ export const FASTENER_PRODUCTS = [
     "category": "fasteners",
     "subCategory": "Washers",
     "image": "/images/products/fasteners/fastener_item_41.png",
-    "description": "Industrial-grade Rubber Washer supplied by Bahjat Enterprises under the Unbrako brand standard. Engineered for heavy-duty structural fastening, mechanical assembly, and high-tensile load applications. Available specifications & dimensions: xSxixzxex x:x x1x/x2x\"x,x x3x/x4x\"x,x x1x\"x.",
+    "description": "Industrial-grade Rubber Washer supplied by Bahjat Enterprises to certified industrial standards. Engineered for heavy-duty structural fastening, mechanical assembly, and high-tensile load applications. Available specifications & dimensions: Size : 1/2\", 3/4\", 1\".",
     "specs": {
       "Product": "Rubber Washer",
       "Brand": "Unbrako",
       "Sub-Category": "Washers",
-      "Available Sizes / Specs": "xSxixzxex x:x x1x/x2x\"x,x x3x/x4x\"x,x x1x\"x",
+      "Available Sizes / Specs": "Size : 1/2\", 3/4\", 1\"",
       "Material / Finish": "High Tensile Alloy Steel / Zinc Finish",
       "Quality Standard": "ISO / DIN / ASTM High-Tensile Certified"
     },
-    "rawSpecs": "xSxixzxex x:x x1x/x2x\"x,x x3x/x4x\"x,x x1x\"x",
+    "rawSpecs": "Size : 1/2\", 3/4\", 1\"",
     "tags": [
       "bahjat enterprises",
       "fasteners",
@@ -1212,16 +1212,16 @@ export const FASTENER_PRODUCTS = [
     "category": "fasteners",
     "subCategory": "Industrial Screws",
     "image": "/images/products/fasteners/fastener_item_42.png",
-    "description": "Industrial-grade Multi-Purpose Wood & Sheet Metal Screw supplied by Bahjat Enterprises under the TVS Fasteners brand standard. Engineered for heavy-duty structural fastening, mechanical assembly, and high-tensile load applications. Available specifications & dimensions: x4x xGxaxuxgxex xxx x1x/x2x\"x,x x6x xGxaxuxgxex xxx x1x\"x,x x8x xGxaxuxgxex xxx x1x-x1x/x2x\"x,x x1x0x xGxaxuxgxex xxx x1x2x\"x,x x1x2x xGxaxuxgxex xxx x3x\"x.",
+    "description": "Industrial-grade Multi-Purpose Wood & Sheet Metal Screw supplied by Bahjat Enterprises to certified industrial standards. Engineered for heavy-duty structural fastening, mechanical assembly, and high-tensile load applications. Available specifications & dimensions: 4 Gauge 1/2\", 6 Gauge 1\", 8 Gauge 1-1/2\", 10 Gauge 12\", 12 Gauge 3\".",
     "specs": {
       "Product": "Multi-Purpose Wood & Sheet Metal Screw",
       "Brand": "TVS Fasteners",
       "Sub-Category": "Industrial Screws",
-      "Available Sizes / Specs": "x4x xGxaxuxgxex xxx x1x/x2x\"x,x x6x xGxaxuxgxex xxx x1x\"x,x x8x xGxaxuxgxex xxx x1x-x1x/x2x\"x,x x1x0x xGxaxuxgxex xxx x1x2x\"x,x x1x2x xGxaxuxgxex xxx x3x\"x",
+      "Available Sizes / Specs": "4 Gauge 1/2\", 6 Gauge 1\", 8 Gauge 1-1/2\", 10 Gauge 12\", 12 Gauge 3\"",
       "Material / Finish": "High Tensile Alloy Steel / Zinc Finish",
       "Quality Standard": "ISO / DIN / ASTM High-Tensile Certified"
     },
-    "rawSpecs": "x4x xGxaxuxgxex xxx x1x/x2x\"x,x x6x xGxaxuxgxex xxx x1x\"x,x x8x xGxaxuxgxex xxx x1x-x1x/x2x\"x,x x1x0x xGxaxuxgxex xxx x1x2x\"x,x x1x2x xGxaxuxgxex xxx x3x\"x",
+    "rawSpecs": "4 Gauge 1/2\", 6 Gauge 1\", 8 Gauge 1-1/2\", 10 Gauge 12\", 12 Gauge 3\"",
     "tags": [
       "bahjat enterprises",
       "fasteners",
@@ -1248,16 +1248,16 @@ export const FASTENER_PRODUCTS = [
     "category": "fasteners",
     "subCategory": "Industrial Screws",
     "image": "/images/products/fasteners/fastener_item_43.png",
-    "description": "Industrial-grade Self Tapping Screw supplied by Bahjat Enterprises under the Unbrako brand standard. Engineered for heavy-duty structural fastening, mechanical assembly, and high-tensile load applications. Available specifications & dimensions: xPxaxnx xHxexaxdx,x xRxoxuxnxdx xHxexaxdx,x xCxSxKx xHxexaxdx xSxixzxex x:x x6x xGxaxuxgxex xxx x1x/x2x\"x,x x8x xGxaxuxgxex xxx x1x\"x,x x1x0x xGxaxuxgxex xxx x1x-x1x/x2x\"x,x.",
+    "description": "Industrial-grade Self Tapping Screw supplied by Bahjat Enterprises to certified industrial standards. Engineered for heavy-duty structural fastening, mechanical assembly, and high-tensile load applications. Available specifications & dimensions: Pan Head, Round Head, CSK Head Size : 6 Gauge 1/2\", 8 Gauge 1\", 10 Gauge 1-1/2\",.",
     "specs": {
       "Product": "Self Tapping Screw",
       "Brand": "Unbrako",
       "Sub-Category": "Industrial Screws",
-      "Available Sizes / Specs": "xPxaxnx xHxexaxdx,x xRxoxuxnxdx xHxexaxdx,x xCxSxKx xHxexaxdx xSxixzxex x:x x6x xGxaxuxgxex xxx x1x/x2x\"x,x x8x xGxaxuxgxex xxx x1x\"x,x x1x0x xGxaxuxgxex xxx x1x-x1x/x2x\"x,x",
+      "Available Sizes / Specs": "Pan Head, Round Head, CSK Head Size : 6 Gauge 1/2\", 8 Gauge 1\", 10 Gauge 1-1/2\",",
       "Material / Finish": "High Tensile Alloy Steel / Zinc Finish",
       "Quality Standard": "ISO / DIN / ASTM High-Tensile Certified"
     },
-    "rawSpecs": "xPxaxnx xHxexaxdx,x xRxoxuxnxdx xHxexaxdx,x xCxSxKx xHxexaxdx xSxixzxex x:x x6x xGxaxuxgxex xxx x1x/x2x\"x,x x8x xGxaxuxgxex xxx x1x\"x,x x1x0x xGxaxuxgxex xxx x1x-x1x/x2x\"x,x",
+    "rawSpecs": "Pan Head, Round Head, CSK Head Size : 6 Gauge 1/2\", 8 Gauge 1\", 10 Gauge 1-1/2\",",
     "tags": [
       "bahjat enterprises",
       "fasteners",
@@ -1280,16 +1280,16 @@ export const FASTENER_PRODUCTS = [
     "category": "fasteners",
     "subCategory": "Nuts",
     "image": "/images/products/fasteners/fastener_item_44.png",
-    "description": "Industrial-grade Spring Nut supplied by Bahjat Enterprises under the TVS Fasteners brand standard. Engineered for heavy-duty structural fastening, mechanical assembly, and high-tensile load applications. Available specifications & dimensions: xGxaxlxvxaxnxixzxexdx,x xSxtxaxixnxlxexsxsx xSxtxexexlx x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x xGxrxaxdxex x:x x8x.x8x,x x1x0x.x9x,x xSxSx xAx2x,x xSxSxAx4x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x xSxixzxex x:x xMx6x,x xMx8x,x xMx1x0x,x xMx1x2x x,x x1x/x4x\"x,x x3x/x8x\"x,x x1x/x2x\"x.",
+    "description": "Industrial-grade Spring Nut supplied by Bahjat Enterprises to certified industrial standards. Engineered for heavy-duty structural fastening, mechanical assembly, and high-tensile load applications. Available specifications & dimensions: Galvanized, Stainless Steel Grade : 8.8, 10.9, SS A2, SSA4 Size : M6, M8, M10, M12 , 1/4\", 3/8\", 1/2\".",
     "specs": {
       "Product": "Spring Nut",
       "Brand": "TVS Fasteners",
       "Sub-Category": "Nuts",
-      "Available Sizes / Specs": "xGxaxlxvxaxnxixzxexdx,x xSxtxaxixnxlxexsxsx xSxtxexexlx x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x xGxrxaxdxex x:x x8x.x8x,x x1x0x.x9x,x xSxSx xAx2x,x xSxSxAx4x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x xSxixzxex x:x xMx6x,x xMx8x,x xMx1x0x,x xMx1x2x x,x x1x/x4x\"x,x x3x/x8x\"x,x x1x/x2x\"x",
+      "Available Sizes / Specs": "Galvanized, Stainless Steel Grade : 8.8, 10.9, SS A2, SSA4 Size : M6, M8, M10, M12 , 1/4\", 3/8\", 1/2\"",
       "Material / Finish": "High Tensile Alloy Steel / Zinc Finish",
       "Quality Standard": "ISO / DIN / ASTM High-Tensile Certified"
     },
-    "rawSpecs": "xGxaxlxvxaxnxixzxexdx,x xSxtxaxixnxlxexsxsx xSxtxexexlx x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x xGxrxaxdxex x:x x8x.x8x,x x1x0x.x9x,x xSxSx xAx2x,x xSxSxAx4x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x xSxixzxex x:x xMx6x,x xMx8x,x xMx1x0x,x xMx1x2x x,x x1x/x4x\"x,x x3x/x8x\"x,x x1x/x2x\"x",
+    "rawSpecs": "Galvanized, Stainless Steel Grade : 8.8, 10.9, SS A2, SSA4 Size : M6, M8, M10, M12 , 1/4\", 3/8\", 1/2\"",
     "tags": [
       "bahjat enterprises",
       "fasteners",
@@ -1311,16 +1311,16 @@ export const FASTENER_PRODUCTS = [
     "category": "fasteners",
     "subCategory": "Washers",
     "image": "/images/products/fasteners/fastener_item_45.png",
-    "description": "Industrial-grade Star External Washer supplied by Bahjat Enterprises under the Unbrako brand standard. Engineered for heavy-duty structural fastening, mechanical assembly, and high-tensile load applications. Available specifications & dimensions: xSxtxaxixnxlxexsxsx xSxtxexexlx,x xMxixlxdx xSxtxexexlx,x xBxrxaxsxsx x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x xSxixzxex:x xMx3x,x xMx4x,x xMx5x,x xMx6x,x xMx8x,x xMx1x0x,x xMx1x2x,x xMx1x4x,x xMx1x4x,x xMx1x8x,x xMx2x0x.",
+    "description": "Industrial-grade Star External Washer supplied by Bahjat Enterprises to certified industrial standards. Engineered for heavy-duty structural fastening, mechanical assembly, and high-tensile load applications. Available specifications & dimensions: Stainless Steel, Mild Steel, Brass Size: M3, M4, M5, M6, M8, M10, M12, M14, M14, M18, M20.",
     "specs": {
       "Product": "Star External Washer",
       "Brand": "Unbrako",
       "Sub-Category": "Washers",
-      "Available Sizes / Specs": "xSxtxaxixnxlxexsxsx xSxtxexexlx,x xMxixlxdx xSxtxexexlx,x xBxrxaxsxsx x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x xSxixzxex:x xMx3x,x xMx4x,x xMx5x,x xMx6x,x xMx8x,x xMx1x0x,x xMx1x2x,x xMx1x4x,x xMx1x4x,x xMx1x8x,x xMx2x0x",
+      "Available Sizes / Specs": "Stainless Steel, Mild Steel, Brass Size: M3, M4, M5, M6, M8, M10, M12, M14, M14, M18, M20",
       "Material / Finish": "High Tensile Alloy Steel / Zinc Finish",
       "Quality Standard": "ISO / DIN / ASTM High-Tensile Certified"
     },
-    "rawSpecs": "xSxtxaxixnxlxexsxsx xSxtxexexlx,x xMxixlxdx xSxtxexexlx,x xBxrxaxsxsx x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x xSxixzxex:x xMx3x,x xMx4x,x xMx5x,x xMx6x,x xMx8x,x xMx1x0x,x xMx1x2x,x xMx1x4x,x xMx1x4x,x xMx1x8x,x xMx2x0x",
+    "rawSpecs": "Stainless Steel, Mild Steel, Brass Size: M3, M4, M5, M6, M8, M10, M12, M14, M14, M18, M20",
     "tags": [
       "bahjat enterprises",
       "external",
@@ -1340,16 +1340,16 @@ export const FASTENER_PRODUCTS = [
     "category": "fasteners",
     "subCategory": "Nuts",
     "image": "/images/products/fasteners/fastener_item_46.png",
-    "description": "Industrial-grade Stud Bolt With 2 Hex Nut supplied by Bahjat Enterprises under the Unbrako brand standard. Engineered for heavy-duty structural fastening, mechanical assembly, and high-tensile load applications. Available specifications & dimensions: xMx6x,x xMx8x,x xMx1x0x,x xMx1x2x,x xMx1x6x,x xMx2x0x,x xMx2x4x x-x xGxrxaxdxex x8x.x8x x/x x1x0x.x9x x/x x1x2x.x9x xBxlxaxcxkx x&x xAx2x7x0x,x xAx4x7x0x,x xAx4x8x0x xSxtxaxixnxlxexsxsx xSxtxexexlx.",
+    "description": "Industrial-grade Stud Bolt With 2 Hex Nut supplied by Bahjat Enterprises to certified industrial standards. Engineered for heavy-duty structural fastening, mechanical assembly, and high-tensile load applications. Available specifications & dimensions: M6, M8, M10, M12, M16, M20, M24 - Grade 8.8 / 10.9 / 12.9 Black & A270, A470, A480 Stainless Steel.",
     "specs": {
       "Product": "Stud Bolt With 2 Hex Nut",
       "Brand": "Unbrako",
       "Sub-Category": "Nuts",
-      "Available Sizes / Specs": "xMx6x,x xMx8x,x xMx1x0x,x xMx1x2x,x xMx1x6x,x xMx2x0x,x xMx2x4x x-x xGxrxaxdxex x8x.x8x x/x x1x0x.x9x x/x x1x2x.x9x xBxlxaxcxkx x&x xAx2x7x0x,x xAx4x7x0x,x xAx4x8x0x xSxtxaxixnxlxexsxsx xSxtxexexlx",
+      "Available Sizes / Specs": "M6, M8, M10, M12, M16, M20, M24 - Grade 8.8 / 10.9 / 12.9 Black & A270, A470, A480 Stainless Steel",
       "Material / Finish": "High Tensile Alloy Steel / Zinc Finish",
       "Quality Standard": "ISO / DIN / ASTM High-Tensile Certified"
     },
-    "rawSpecs": "xMx6x,x xMx8x,x xMx1x0x,x xMx1x2x,x xMx1x6x,x xMx2x0x,x xMx2x4x x-x xGxrxaxdxex x8x.x8x x/x x1x0x.x9x x/x x1x2x.x9x xBxlxaxcxkx x&x xAx2x7x0x,x xAx4x7x0x,x xAx4x8x0x xSxtxaxixnxlxexsxsx xSxtxexexlx",
+    "rawSpecs": "M6, M8, M10, M12, M16, M20, M24 - Grade 8.8 / 10.9 / 12.9 Black & A270, A470, A480 Stainless Steel",
     "tags": [
       "bahjat enterprises",
       "bolt",
@@ -1370,16 +1370,16 @@ export const FASTENER_PRODUCTS = [
     "category": "fasteners",
     "subCategory": "Hooks & Rigging Hardware",
     "image": "/images/products/fasteners/fastener_item_47.png",
-    "description": "Industrial-grade Threaded Rod supplied by Bahjat Enterprises under the Unbrako brand standard. Engineered for heavy-duty structural fastening, mechanical assembly, and high-tensile load applications. Available specifications & dimensions: xGxaxlxvxaxnxixzxexdx,x xSxtxaxixnxlxexsxsx xSxtxexexlx x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x xGxrxaxdxex x:x x8x.x8x,x x1x0x.x9x,x xSxSx xAx2x,x xSxSxAx4x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x xSxixzxex x:x xMx6x,x xMx8x,x xMx1x0x,x xMx1x2x,x xMx1x6x,x xMx2x0x,x xMx2x4x.",
+    "description": "Industrial-grade Threaded Rod supplied by Bahjat Enterprises to certified industrial standards. Engineered for heavy-duty structural fastening, mechanical assembly, and high-tensile load applications. Available specifications & dimensions: Galvanized, Stainless Steel Grade : 8.8, 10.9, SS A2, SSA4 Size : M6, M8, M10, M12, M16, M20, M24.",
     "specs": {
       "Product": "Threaded Rod",
       "Brand": "Unbrako",
       "Sub-Category": "Hooks & Rigging Hardware",
-      "Available Sizes / Specs": "xGxaxlxvxaxnxixzxexdx,x xSxtxaxixnxlxexsxsx xSxtxexexlx x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x xGxrxaxdxex x:x x8x.x8x,x x1x0x.x9x,x xSxSx xAx2x,x xSxSxAx4x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x xSxixzxex x:x xMx6x,x xMx8x,x xMx1x0x,x xMx1x2x,x xMx1x6x,x xMx2x0x,x xMx2x4x",
+      "Available Sizes / Specs": "Galvanized, Stainless Steel Grade : 8.8, 10.9, SS A2, SSA4 Size : M6, M8, M10, M12, M16, M20, M24",
       "Material / Finish": "High Tensile Alloy Steel / Zinc Finish",
       "Quality Standard": "ISO / DIN / ASTM High-Tensile Certified"
     },
-    "rawSpecs": "xGxaxlxvxaxnxixzxexdx,x xSxtxaxixnxlxexsxsx xSxtxexexlx x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x xGxrxaxdxex x:x x8x.x8x,x x1x0x.x9x,x xSxSx xAx2x,x xSxSxAx4x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x xSxixzxex x:x xMx6x,x xMx8x,x xMx1x0x,x xMx1x2x,x xMx1x6x,x xMx2x0x,x xMx2x4x",
+    "rawSpecs": "Galvanized, Stainless Steel Grade : 8.8, 10.9, SS A2, SSA4 Size : M6, M8, M10, M12, M16, M20, M24",
     "tags": [
       "bahjat enterprises",
       "fasteners",
@@ -1398,16 +1398,16 @@ export const FASTENER_PRODUCTS = [
     "category": "fasteners",
     "subCategory": "Nuts",
     "image": "/images/products/fasteners/fastener_item_48.png",
-    "description": "Industrial-grade U Bolt With 2 Hex Nut supplied by Bahjat Enterprises under the TVS Fasteners brand standard. Engineered for heavy-duty structural fastening, mechanical assembly, and high-tensile load applications. Available specifications & dimensions: xGxaxlxvxaxnxixzxexdx,x xSxtxaxixnxlxexsxsx xSxtxexexlx x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x xGxrxaxdxex x:x x8x.x8x,x x1x0x.x9x,x xSxSx xAx2x,x xSxSxAx4x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x xSxixzxex x:x xMx6x xXx x2x5x xXx x5x0x,x xMx8x xXx x4x0x xXx x6x0x,x xMx1x0x xXx x5x0x xXx x7x5x x(x xDxixax xxx xIxWx xxx xIxLx x)x.",
+    "description": "Industrial-grade U Bolt With 2 Hex Nut supplied by Bahjat Enterprises to certified industrial standards. Engineered for heavy-duty structural fastening, mechanical assembly, and high-tensile load applications. Available specifications & dimensions: Galvanized, Stainless Steel Grade : 8.8, 10.9, SS A2, SSA4 Size : M6 X 25 X 50, M8 X 40 X 60, M10 X 50 X 75 ( Dia IW IL ).",
     "specs": {
       "Product": "U Bolt With 2 Hex Nut",
       "Brand": "TVS Fasteners",
       "Sub-Category": "Nuts",
-      "Available Sizes / Specs": "xGxaxlxvxaxnxixzxexdx,x xSxtxaxixnxlxexsxsx xSxtxexexlx x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x xGxrxaxdxex x:x x8x.x8x,x x1x0x.x9x,x xSxSx xAx2x,x xSxSxAx4x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x xSxixzxex x:x xMx6x xXx x2x5x xXx x5x0x,x xMx8x xXx x4x0x xXx x6x0x,x xMx1x0x xXx x5x0x xXx x7x5x x(x xDxixax xxx xIxWx xxx xIxLx x)x",
+      "Available Sizes / Specs": "Galvanized, Stainless Steel Grade : 8.8, 10.9, SS A2, SSA4 Size : M6 X 25 X 50, M8 X 40 X 60, M10 X 50 X 75 ( Dia IW IL )",
       "Material / Finish": "High Tensile Alloy Steel / Zinc Finish",
       "Quality Standard": "ISO / DIN / ASTM High-Tensile Certified"
     },
-    "rawSpecs": "xGxaxlxvxaxnxixzxexdx,x xSxtxaxixnxlxexsxsx xSxtxexexlx x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x xGxrxaxdxex x:x x8x.x8x,x x1x0x.x9x,x xSxSx xAx2x,x xSxSxAx4x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x xSxixzxex x:x xMx6x xXx x2x5x xXx x5x0x,x xMx8x xXx x4x0x xXx x6x0x,x xMx1x0x xXx x5x0x xXx x7x5x x(x xDxixax xxx xIxWx xxx xIxLx x)x",
+    "rawSpecs": "Galvanized, Stainless Steel Grade : 8.8, 10.9, SS A2, SSA4 Size : M6 X 25 X 50, M8 X 40 X 60, M10 X 50 X 75 ( Dia IW IL )",
     "tags": [
       "bahjat enterprises",
       "bolt",
@@ -1427,16 +1427,16 @@ export const FASTENER_PRODUCTS = [
     "category": "fasteners",
     "subCategory": "Nails & Rivets",
     "image": "/images/products/fasteners/fastener_item_49.png",
-    "description": "Industrial-grade Upholstery Nails supplied by Bahjat Enterprises under the Unbrako brand standard. Engineered for heavy-duty structural fastening, mechanical assembly, and high-tensile load applications. Available specifications & dimensions: xHxexxx xHxexaxdx xxx xLxexnxgxtxhx x=x x8x xxx x1x0x xmxmx,x x1x0x xxx x1x2x xmxmx,x x1x2x xxx x1x5x xmxmx,x x1x4x xxx x1x6x xmxmx,x x x x x x x x x x x x x x x x x x x1x6x xxx x2x0x xmxmx.",
+    "description": "Industrial-grade Upholstery Nails supplied by Bahjat Enterprises to certified industrial standards. Engineered for heavy-duty structural fastening, mechanical assembly, and high-tensile load applications. Available specifications & dimensions: He Head Length = 8 10 mm, 10 12 mm, 12 15 mm, 14 16 mm, 16 20 mm.",
     "specs": {
       "Product": "Upholstery Nails",
       "Brand": "Unbrako",
       "Sub-Category": "Nails & Rivets",
-      "Available Sizes / Specs": "xHxexxx xHxexaxdx xxx xLxexnxgxtxhx x=x x8x xxx x1x0x xmxmx,x x1x0x xxx x1x2x xmxmx,x x1x2x xxx x1x5x xmxmx,x x1x4x xxx x1x6x xmxmx,x x x x x x x x x x x x x x x x x x x1x6x xxx x2x0x xmxmx",
+      "Available Sizes / Specs": "He Head Length = 8 10 mm, 10 12 mm, 12 15 mm, 14 16 mm, 16 20 mm",
       "Material / Finish": "High Tensile Alloy Steel / Zinc Finish",
       "Quality Standard": "ISO / DIN / ASTM High-Tensile Certified"
     },
-    "rawSpecs": "xHxexxx xHxexaxdx xxx xLxexnxgxtxhx x=x x8x xxx x1x0x xmxmx,x x1x0x xxx x1x2x xmxmx,x x1x2x xxx x1x5x xmxmx,x x1x4x xxx x1x6x xmxmx,x x x x x x x x x x x x x x x x x x x1x6x xxx x2x0x xmxmx",
+    "rawSpecs": "He Head Length = 8 10 mm, 10 12 mm, 12 15 mm, 14 16 mm, 16 20 mm",
     "tags": [
       "bahjat enterprises",
       "fasteners",
@@ -1455,16 +1455,16 @@ export const FASTENER_PRODUCTS = [
     "category": "fasteners",
     "subCategory": "Nuts",
     "image": "/images/products/fasteners/fastener_item_50.png",
-    "description": "Industrial-grade Wing Nuts supplied by Bahjat Enterprises under the TVS Fasteners brand standard. Engineered for heavy-duty structural fastening, mechanical assembly, and high-tensile load applications. Available specifications & dimensions: xMxixlxdx xSxtxexexlx,x xSxtxaxixnxlxexsxsx xSxtxexexlx,x xCxhxrxoxmxex xPxlxaxtxexdx,x xBxrxaxsxsx x,x xPxlxaxsxtxixcx xCxoxaxtxexdx x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x xSxixzxex x:x xMx4x,x xMx5x,x xMx6x,x xMx8x,x xMx1x0x,x xMx1x2x,x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x xGxrxaxdxex x:x x8x,x x1x0x.",
+    "description": "Industrial-grade Wing Nuts supplied by Bahjat Enterprises to certified industrial standards. Engineered for heavy-duty structural fastening, mechanical assembly, and high-tensile load applications. Available specifications & dimensions: Mild Steel, Stainless Steel, Chrome Plated, Brass , Plastic Coated Size : M4, M5, M6, M8, M10, M12, Grade : 8, 10.",
     "specs": {
       "Product": "Wing Nuts",
       "Brand": "TVS Fasteners",
       "Sub-Category": "Nuts",
-      "Available Sizes / Specs": "xMxixlxdx xSxtxexexlx,x xSxtxaxixnxlxexsxsx xSxtxexexlx,x xCxhxrxoxmxex xPxlxaxtxexdx,x xBxrxaxsxsx x,x xPxlxaxsxtxixcx xCxoxaxtxexdx x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x xSxixzxex x:x xMx4x,x xMx5x,x xMx6x,x xMx8x,x xMx1x0x,x xMx1x2x,x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x xGxrxaxdxex x:x x8x,x x1x0x",
+      "Available Sizes / Specs": "Mild Steel, Stainless Steel, Chrome Plated, Brass , Plastic Coated Size : M4, M5, M6, M8, M10, M12, Grade : 8, 10",
       "Material / Finish": "High Tensile Alloy Steel / Zinc Finish",
       "Quality Standard": "ISO / DIN / ASTM High-Tensile Certified"
     },
-    "rawSpecs": "xMxixlxdx xSxtxexexlx,x xSxtxaxixnxlxexsxsx xSxtxexexlx,x xCxhxrxoxmxex xPxlxaxtxexdx,x xBxrxaxsxsx x,x xPxlxaxsxtxixcx xCxoxaxtxexdx x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x xSxixzxex x:x xMx4x,x xMx5x,x xMx6x,x xMx8x,x xMx1x0x,x xMx1x2x,x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x xGxrxaxdxex x:x x8x,x x1x0x",
+    "rawSpecs": "Mild Steel, Stainless Steel, Chrome Plated, Brass , Plastic Coated Size : M4, M5, M6, M8, M10, M12, Grade : 8, 10",
     "tags": [
       "bahjat enterprises",
       "fasteners",
@@ -1482,16 +1482,16 @@ export const FASTENER_PRODUCTS = [
     "category": "fasteners",
     "subCategory": "Nails & Rivets",
     "image": "/images/products/fasteners/fastener_item_51.png",
-    "description": "Industrial-grade Wooden Nail ( Common Nail ) supplied by Bahjat Enterprises under the Unbrako brand standard. Engineered for heavy-duty structural fastening, mechanical assembly, and high-tensile load applications. Available specifications & dimensions: xSxixzxex x:x x1x/x2x\"x xxx x1x2x xmxmx,x x1x\"x xxx x2x5x xmxmx,x x1x.x5x\"x xxx x3x8x xmxmx,x x2x\"x xxx x5x0x xmxmx,x x2x.x5x\"x xxx x6x5x xmxmx,x x3x\"x xxx x7x5x xmxmx,x x4x\"x xxx x1x0x0x xmxmx.",
+    "description": "Industrial-grade Wooden Nail ( Common Nail ) supplied by Bahjat Enterprises to certified industrial standards. Engineered for heavy-duty structural fastening, mechanical assembly, and high-tensile load applications. Available specifications & dimensions: Size : 1/2\" 12 mm, 1\" 25 mm, 1.5\" 38 mm, 2\" 50 mm, 2.5\" 65 mm, 3\" 75 mm, 4\" 100 mm.",
     "specs": {
       "Product": "Wooden Nail ( Common Nail )",
       "Brand": "Unbrako",
       "Sub-Category": "Nails & Rivets",
-      "Available Sizes / Specs": "xSxixzxex x:x x1x/x2x\"x xxx x1x2x xmxmx,x x1x\"x xxx x2x5x xmxmx,x x1x.x5x\"x xxx x3x8x xmxmx,x x2x\"x xxx x5x0x xmxmx,x x2x.x5x\"x xxx x6x5x xmxmx,x x3x\"x xxx x7x5x xmxmx,x x4x\"x xxx x1x0x0x xmxmx",
+      "Available Sizes / Specs": "Size : 1/2\" 12 mm, 1\" 25 mm, 1.5\" 38 mm, 2\" 50 mm, 2.5\" 65 mm, 3\" 75 mm, 4\" 100 mm",
       "Material / Finish": "High Tensile Alloy Steel / Zinc Finish",
       "Quality Standard": "ISO / DIN / ASTM High-Tensile Certified"
     },
-    "rawSpecs": "xSxixzxex x:x x1x/x2x\"x xxx x1x2x xmxmx,x x1x\"x xxx x2x5x xmxmx,x x1x.x5x\"x xxx x3x8x xmxmx,x x2x\"x xxx x5x0x xmxmx,x x2x.x5x\"x xxx x6x5x xmxmx,x x3x\"x xxx x7x5x xmxmx,x x4x\"x xxx x1x0x0x xmxmx",
+    "rawSpecs": "Size : 1/2\" 12 mm, 1\" 25 mm, 1.5\" 38 mm, 2\" 50 mm, 2.5\" 65 mm, 3\" 75 mm, 4\" 100 mm",
     "tags": [
       "bahjat enterprises",
       "common",
@@ -1518,16 +1518,16 @@ export const FASTENER_PRODUCTS = [
     "category": "fasteners",
     "subCategory": "Industrial Screws",
     "image": "/images/products/fasteners/fastener_item_52.png",
-    "description": "Industrial-grade Wooden Screw supplied by Bahjat Enterprises under the TVS Fasteners brand standard. Engineered for heavy-duty structural fastening, mechanical assembly, and high-tensile load applications. Available specifications & dimensions: xDxixax x:x x3x xmxmx xxx x1x2x-x5x0x xmxmx,x x3x.x5x xmxmx xxx x1x6x-x7x5x xmxmx,x x4x xmxmx xxx x2x0x-x1x0x0x xmxmx,x x5x xmxmx xxx x2x5x x-x x1x5x0x xmxmx,x x6x xmxmx xxx x4x0x-x x2x0x0x xmxmx xLxoxnxgx x x x x x x x x x x x x x x xZxixnxcx xPxlxaxtxexdx xSxtxexexlx,x xSxtxaxixnxlxexsxsx xSxtxexexlx,x xBxrxaxsxsx,x xBxlxaxcxkx xPxhxoxsxpxhxaxtxex xCxoxaxtxexdx.",
+    "description": "Industrial-grade Wooden Screw supplied by Bahjat Enterprises to certified industrial standards. Engineered for heavy-duty structural fastening, mechanical assembly, and high-tensile load applications. Available specifications & dimensions: Dia : 3 mm 12-50 mm, 3.5 mm 16-75 mm, 4 mm 20-100 mm, 5 mm 25 - 150 mm, 6 mm 40- 200 mm Long Zinc Plated Steel, Stainless Steel, Brass, Black Phosphate Coated.",
     "specs": {
       "Product": "Wooden Screw",
       "Brand": "TVS Fasteners",
       "Sub-Category": "Industrial Screws",
-      "Available Sizes / Specs": "xDxixax x:x x3x xmxmx xxx x1x2x-x5x0x xmxmx,x x3x.x5x xmxmx xxx x1x6x-x7x5x xmxmx,x x4x xmxmx xxx x2x0x-x1x0x0x xmxmx,x x5x xmxmx xxx x2x5x x-x x1x5x0x xmxmx,x x6x xmxmx xxx x4x0x-x x2x0x0x xmxmx xLxoxnxgx x x x x x x x x x x x x x x xZxixnxcx xPxlxaxtxexdx xSxtxexexlx,x xSxtxaxixnxlxexsxsx xSxtxexexlx,x xBxrxaxsxsx,x xBxlxaxcxkx xPxhxoxsxpxhxaxtxex xCxoxaxtxexdx",
+      "Available Sizes / Specs": "Dia : 3 mm 12-50 mm, 3.5 mm 16-75 mm, 4 mm 20-100 mm, 5 mm 25 - 150 mm, 6 mm 40- 200 mm Long Zinc Plated Steel, Stainless Steel, Brass, Black Phosphate Coated",
       "Material / Finish": "High Tensile Alloy Steel / Zinc Finish",
       "Quality Standard": "ISO / DIN / ASTM High-Tensile Certified"
     },
-    "rawSpecs": "xDxixax x:x x3x xmxmx xxx x1x2x-x5x0x xmxmx,x x3x.x5x xmxmx xxx x1x6x-x7x5x xmxmx,x x4x xmxmx xxx x2x0x-x1x0x0x xmxmx,x x5x xmxmx xxx x2x5x x-x x1x5x0x xmxmx,x x6x xmxmx xxx x4x0x-x x2x0x0x xmxmx xLxoxnxgx x x x x x x x x x x x x x x xZxixnxcx xPxlxaxtxexdx xSxtxexexlx,x xSxtxaxixnxlxexsxsx xSxtxexexlx,x xBxrxaxsxsx,x xBxlxaxcxkx xPxhxoxsxpxhxaxtxex xCxoxaxtxexdx",
+    "rawSpecs": "Dia : 3 mm 12-50 mm, 3.5 mm 16-75 mm, 4 mm 20-100 mm, 5 mm 25 - 150 mm, 6 mm 40- 200 mm Long Zinc Plated Steel, Stainless Steel, Brass, Black Phosphate Coated",
     "tags": [
       "bahjat enterprises",
       "fasteners",

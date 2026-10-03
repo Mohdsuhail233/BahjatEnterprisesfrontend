@@ -1,7 +1,8 @@
 import React, { useState, useEffect } from 'react';
-import { useParams, Link, Navigate } from 'react-router-dom';
+import { useParams, Link, Navigate, useNavigate, useLocation } from 'react-router-dom';
 import { getProductById, getCategoryById, getRelatedProducts, WHATSAPP_NUMBER } from '../data';
 import ProductCard from '../components/ProductCard';
+import SEO from '../components/SEO';
 
 const PLACEHOLDER = "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='400' height='400' viewBox='0 0 400 400'%3E%3Crect width='400' height='400' fill='%23f3f4f6'/%3E%3Ctext x='200' y='195' font-family='Arial' font-size='14' fill='%239ca3af' text-anchor='middle'%3EProduct Image%3C/text%3E%3Ctext x='200' y='215' font-family='Arial' font-size='12' fill='%23d1d5db' text-anchor='middle'%3EBahjat Enterprises%3C/text%3E%3C/svg%3E";
 
@@ -18,7 +19,6 @@ function getProductSpecifications(product, category) {
     const size = name.includes('14') ? '14 Inch (350 mm)' : name.includes('18') ? '18 Inch (450 mm)' : '24 Inch (600 mm)';
     const cap = name.includes('14') ? '2 Inch (50 mm)' : name.includes('18') ? '2.5 Inch (65 mm)' : '3 Inch (80 mm)';
     return {
-      "Brand": product.brand || "Ridgid",
       "Product Type": "Heavy Duty Straight Pipe Wrench",
       "Nominal Size": size,
       "Pipe Capacity": cap,
@@ -36,7 +36,6 @@ function getProductSpecifications(product, category) {
   // Crimping Tools
   if (id.includes('crimping-tool') || name.includes('crimping')) {
     return {
-      "Brand": product.brand || "Jainson",
       "Product Type": "Hydraulic / Ratchet Cable Crimping Tool",
       "Crimping Range": "10 mm² – 300 mm²",
       "Crimping Force": "12 Ton Maximum Output",
@@ -53,7 +52,6 @@ function getProductSpecifications(product, category) {
   if (id.includes('drill') || name.includes('drill')) {
     const chuck = name.includes('10mm') ? '10 mm (3/8")' : '13 mm (1/2")';
     return {
-      "Brand": product.brand || "Bosch",
       "Product Type": name.includes('pillar') ? "Bench Pillar Drill Press" : "Variable Speed Impact Drill",
       "Chuck Capacity": chuck,
       "Rated Input Power": name.includes('pillar') ? "350W / 550W Induction Motor" : "550W – 750W",
@@ -71,7 +69,6 @@ function getProductSpecifications(product, category) {
   if (id.includes('grinder') || name.includes('grinder')) {
     const disc = name.includes('5') ? '125 mm (5 Inch)' : '100 mm (4 Inch)';
     return {
-      "Brand": product.brand || "Bosch",
       "Product Type": "Heavy Duty Angle Grinder",
       "Disc Diameter": disc,
       "Rated Power Input": "720W – 850W",
@@ -87,7 +84,6 @@ function getProductSpecifications(product, category) {
   // Saws
   if (id.includes('circular-saw') || name.includes('circular saw')) {
     return {
-      "Brand": product.brand || "Bosch",
       "Product Type": "Heavy Duty Circular Saw",
       "Blade Diameter": "184 mm (7-1/4 Inch)",
       "Bore Size": "20 mm",
@@ -102,7 +98,6 @@ function getProductSpecifications(product, category) {
 
   if (id.includes('jigsaw') || name.includes('jigsaw')) {
     return {
-      "Brand": product.brand || "Makita",
       "Product Type": "Cordless Orbital Action Jigsaw",
       "Rated Voltage": "18V Lithium-Ion",
       "Stroke Rate": "0 – 3,200 SPM",
@@ -117,7 +112,6 @@ function getProductSpecifications(product, category) {
   // Tool Storage Box
   if (id.includes('tool-storage') || name.includes('storage') || name.includes('tool box')) {
     return {
-      "Brand": product.brand || "DeWalt",
       "Product Type": "Industrial Heavy Duty Tool Storage Box",
       "Nominal Size": "22 Inch (560 mm)",
       "Material": "High-Impact Structural Polypropylene",
@@ -131,7 +125,6 @@ function getProductSpecifications(product, category) {
   // Circuit Breakers / MCB
   if (id.includes('circuit-breaker') || id.includes('mcb') || name.includes('breaker') || name.includes('mcb')) {
     return {
-      "Brand": product.brand || "Schneider Electric",
       "Product Type": "Miniature Circuit Breaker (MCB)",
       "Rated Current": "16A (Configurable 6A – 63A)",
       "Number of Poles": "1 Pole (SP) / 3 Pole / 4 Pole",
@@ -147,7 +140,6 @@ function getProductSpecifications(product, category) {
   // Safety Helmets
   if (id.includes('safety-helmet') || name.includes('helmet')) {
     return {
-      "Brand": product.brand || "3M",
       "Product Type": "Industrial Safety Helmet (Hard Hat)",
       "Shell Material": "High-Density Polyethylene (HDPE)",
       "Suspension": "4-Point Ratchet Headband Suspension",
@@ -159,7 +151,6 @@ function getProductSpecifications(product, category) {
 
   // General Fallback
   return {
-    "Brand": product.brand || "Industrial Grade",
     "Product Type": product.name,
     "Part Number": product.id,
     "Category": category?.name || "Industrial Supplies",
@@ -173,6 +164,8 @@ function getProductSpecifications(product, category) {
 
 export default function ProductPage() {
   const { productId } = useParams();
+  const navigate = useNavigate();
+  const location = useLocation();
   const product = getProductById(productId);
 
   const [is360Active, setIs360Active] = useState(false);
@@ -200,6 +193,7 @@ export default function ProductPage() {
   if (!product) return <Navigate to="/" />;
 
   const category = getCategoryById(product.category);
+  const returnUrl = location.state?.from || (category ? `/category/${category.id}` : '/categories');
   const related = getRelatedProducts(product);
   const specs = getProductSpecifications(product, category);
 
@@ -208,7 +202,6 @@ export default function ProductPage() {
       `*COMMERCIAL RFQ - BAHJAT ENTERPRISES*\n\n` +
       `*Product:* ${product.name}\n` +
       `*Part No:* ${product.id}\n` +
-      `*Brand:* ${product.brand}\n` +
       `*Category:* ${category?.name || 'Industrial Supplies'}\n\n` +
       `*Procurement Requirements:*\n` +
       `• Required Qty: ${rfqForm.quantity || 'Project Bulk'}\n` +
@@ -227,7 +220,6 @@ export default function ProductPage() {
     `Hi Bahjat Enterprises,\n\nI want to proceed with a quotation request for:\n\n` +
     `Product: ${product.name}\n` +
     `Part No: ${product.id}\n` +
-    `Brand: ${product.brand}\n` +
     `Category: ${category?.name || ''}\n\n` +
     `Please share pricing, bulk availability and delivery timeline.`
   );
@@ -238,22 +230,97 @@ export default function ProductPage() {
     setTimeout(() => setCopiedPartNo(false), 2000);
   };
 
+  const pageTitle = `${product.name} | Bahjat Enterprises`;
+  const pageDescription = `${product.name} supplied by Bahjat Enterprises. Category: ${category?.name || product.subCategory || 'Industrial'}. View specifications, request formal quotation, and order direct from Bahjat Enterprises.`;
+
   return (
     <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-6 sm:py-8">
-      {/* Breadcrumb */}
-      <nav className="flex items-center gap-2 text-sm text-neutral-400 mb-6 flex-wrap">
-        <Link to="/" className="hover:text-primary-600 transition-colors">Home</Link>
-        <span>/</span>
-        {category && (
-          <>
-            <Link to={`/category/${category.id}`} className="hover:text-primary-600 transition-colors">
-              {category.name}
-            </Link>
-            <span>/</span>
-          </>
-        )}
-        <span className="text-neutral-700 font-medium truncate max-w-xs">{product.name}</span>
-      </nav>
+      <SEO
+        title={pageTitle}
+        description={pageDescription}
+        ogImage={product.image || 'https://bahjatenterprises.com/logo/logo.png'}
+        ogType="product"
+        keywords={`${product.name}, ${category?.name || ''}, industrial procurement, Bahjat Enterprises`}
+        schema={{
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@type": "BreadcrumbList",
+              "@id": `https://bahjatenterprises.com/product/${product.id}#breadcrumb`,
+              "itemListElement": [
+                {
+                  "@type": "ListItem",
+                  "position": 1,
+                  "name": "Home",
+                  "item": "https://bahjatenterprises.com/"
+                },
+                ...(category ? [{
+                  "@type": "ListItem",
+                  "position": 2,
+                  "name": category.name,
+                  "item": `https://bahjatenterprises.com/category/${category.id}`
+                }] : []),
+                {
+                  "@type": "ListItem",
+                  "position": category ? 3 : 2,
+                  "name": product.name,
+                  "item": `https://bahjatenterprises.com/product/${product.id}`
+                }
+              ]
+            },
+            {
+              "@type": "Product",
+              "@id": `https://bahjatenterprises.com/product/${product.id}#product`,
+              "name": product.name,
+              "image": product.image ? (product.image.startsWith('http') ? product.image : `https://bahjatenterprises.com${product.image}`) : undefined,
+              "description": product.description || `${product.name} industrial supply`,
+              "sku": product.id,
+              "mpn": product.id,
+              "brand": {
+                "@type": "Brand",
+                "name": "Bahjat Enterprises"
+              }
+            }
+          ]
+        }}
+      />
+
+      {/* Back button & Breadcrumb */}
+      <div className="flex items-center gap-3 mb-6 flex-wrap">
+        <button
+          type="button"
+          onClick={() => {
+            if (location.state?.from) {
+              navigate(location.state.from);
+            } else if (window.history.length > 1) {
+              navigate(-1);
+            } else {
+              navigate(returnUrl);
+            }
+          }}
+          className="inline-flex items-center gap-1.5 text-xs font-semibold text-zinc-700 hover:text-zinc-950 bg-zinc-100 hover:bg-zinc-200 border border-zinc-200/90 px-3 py-1.5 rounded-xl transition-all cursor-pointer active:scale-95 shadow-2xs"
+          title="Back to catalog"
+        >
+          <svg className="w-3.5 h-3.5 stroke-current" fill="none" viewBox="0 0 24 24" strokeWidth="2.5">
+            <path strokeLinecap="round" strokeLinejoin="round" d="M10.5 19.5L3 12m0 0l7.5-7.5M3 12h18" />
+          </svg>
+          <span>Back</span>
+        </button>
+
+        <nav aria-label="Breadcrumb" className="flex items-center gap-2 text-sm text-neutral-400 flex-wrap">
+          <Link to="/" className="hover:text-primary-600 transition-colors">Home</Link>
+          <span aria-hidden="true">/</span>
+          {category && (
+            <>
+              <Link to={returnUrl} className="hover:text-primary-600 transition-colors">
+                {category.name}
+              </Link>
+              <span aria-hidden="true">/</span>
+            </>
+          )}
+          <span className="text-neutral-700 font-medium truncate max-w-xs" aria-current="page">{product.name}</span>
+        </nav>
+      </div>
 
       {/* Main Reference Card: Engineering Tool Showcase Layout */}
       <div className="bg-white rounded-2xl border border-neutral-200/90 shadow-sm p-6 sm:p-8 mb-12">
@@ -320,7 +387,7 @@ export default function ProductPage() {
                 {(activeImage || product.image) ? (
                   <img
                     src={activeImage || product.image}
-                    alt={product.name}
+                    alt={`${product.name} - Technical Specification Image`}
                     className={`max-h-full max-w-full object-contain transition-all duration-700 select-none ${
                       is360Active ? 'animate-[spin_8s_linear_infinite]' : 'group-hover:scale-105'
                     }`}
@@ -334,7 +401,7 @@ export default function ProductPage() {
                       </svg>
                     </div>
                     <span className="text-xs font-bold text-neutral-700 uppercase tracking-wider mb-1">
-                      {product.brand || 'Specification'}
+                      {product.subCategory || 'Specification Sheet'}
                     </span>
                     <span className="text-xs text-neutral-500 font-medium max-w-[210px] leading-relaxed">
                       Technical Spec Sheet & Mill Test Certificate on Request
@@ -359,7 +426,7 @@ export default function ProductPage() {
                     }`}
                     title={`View photo ${idx + 1}`}
                   >
-                    <img src={img} alt={`${product.name} thumbnail ${idx + 1}`} className="w-full h-full object-contain" />
+                    <img src={img} alt={`${product.name} specification photo ${idx + 1}`} className="w-full h-full object-contain" />
                   </button>
                 ))}
               </div>
@@ -438,15 +505,15 @@ export default function ProductPage() {
               {/* Key Specifications Table (Divided Rows) */}
               <div className="border-t border-neutral-200 divide-y divide-neutral-200/80 mb-6">
                 <div className="py-2.5 sm:py-3 flex items-center justify-between text-xs sm:text-sm">
-                  <span className="text-neutral-500 font-normal">Brand</span>
-                  <span className="text-neutral-900 font-medium">{product.brand}</span>
-                </div>
-                <div className="py-2.5 sm:py-3 flex items-center justify-between text-xs sm:text-sm">
                   <span className="text-neutral-500 font-normal">Part No / SKU</span>
                   <span className="text-neutral-900 font-medium">{product.id}</span>
                 </div>
+                <div className="py-2.5 sm:py-3 flex items-center justify-between text-xs sm:text-sm">
+                  <span className="text-neutral-500 font-normal">Category</span>
+                  <span className="text-neutral-900 font-medium">{category?.name || product.subCategory || 'Industrial Supplies'}</span>
+                </div>
                 {Object.entries(specs)
-                  .filter(([k]) => !['Brand', 'Part No / SKU', 'Product'].includes(k))
+                  .filter(([k]) => !['brand', 'part no / sku', 'product'].includes(k.toLowerCase()))
                   .slice(0, 4)
                   .map(([key, val]) => (
                     <div key={key} className="py-2.5 sm:py-3 flex items-center justify-between text-xs sm:text-sm">
@@ -457,30 +524,21 @@ export default function ProductPage() {
               </div>
             </div>
 
-            {/* Bottom Action Bar: Actions without Stepper */}
-            <div className="pt-3 flex items-center justify-end gap-3 border-t border-neutral-100 sm:border-0">
+            {/* Bottom Action Bar */}
+            <div className="pt-3 flex items-center justify-end border-t border-neutral-100 sm:border-0">
               {/* WhatsApp Quick Enquire Button */}
               <a
                 href={`https://wa.me/${WHATSAPP_NUMBER}?text=${whatsappMsg}`}
                 target="_blank"
                 rel="noopener noreferrer"
-                className="p-3 rounded-full bg-emerald-50 hover:bg-emerald-100 text-emerald-600 border border-emerald-200 transition-all flex items-center gap-2 px-4"
+                className="inline-flex items-center gap-2.5 bg-emerald-600 hover:bg-emerald-700 text-white font-semibold px-6 sm:px-8 py-3 rounded-full text-sm sm:text-base transition-all shadow-sm active:scale-95"
                 title="Direct WhatsApp Inquiry"
               >
                 <svg className="w-5 h-5 fill-current" viewBox="0 0 24 24">
                   <path d="M17.472 14.382c-.297-.149-1.758-.867-2.03-.967-.273-.099-.471-.148-.67.15-.197.297-.767.966-.94 1.164-.173.199-.347.223-.644.075-.297-.15-1.255-.463-2.39-1.475-.883-.788-1.48-1.761-1.653-2.059-.173-.297-.018-.458.13-.606.134-.133.298-.347.446-.52.149-.174.198-.298.298-.497.099-.198.05-.371-.025-.52-.075-.149-.669-1.612-.916-2.207-.242-.579-.487-.5-.669-.51-.173-.008-.371-.01-.57-.01-.198 0-.52.074-.792.372-.272.297-1.04 1.016-1.04 2.479 0 1.462 1.065 2.875 1.213 3.074.149.198 2.096 3.2 5.077 4.487.709.306 1.262.489 1.694.625.712.227 1.36.195 1.871.118.571-.085 1.758-.719 2.006-1.413.248-.694.248-1.289.173-1.413-.074-.124-.272-.198-.57-.347m-5.421 7.403h-.004a9.87 9.87 0 01-5.031-1.378l-.361-.214-3.741.982.998-3.648-.235-.374a9.86 9.86 0 01-1.51-5.26c.001-5.45 4.436-9.884 9.888-9.884 2.64 0 5.122 1.03 6.988 2.898a9.825 9.825 0 012.893 6.994c-.003 5.45-4.437 9.884-9.885 9.884m8.413-18.297A11.815 11.815 0 0012.05 0C5.495 0 .16 5.335.157 11.892c0 2.096.547 4.142 1.588 5.945L.057 24l6.305-1.654a11.882 11.882 0 005.683 1.448h.005c6.554 0 11.89-5.335 11.893-11.893a11.821 11.821 0 00-3.48-8.413z"/>
                 </svg>
-                <span className="text-xs sm:text-sm font-semibold">WhatsApp</span>
+                <span>Enquire on WhatsApp</span>
               </a>
-
-              {/* Proceed Request Button - Golden Amber Pill matching reference */}
-              <button
-                type="button"
-                onClick={() => setIsRfqModalOpen(true)}
-                className="bg-[#F5C443] hover:bg-[#e6b633] text-neutral-900 font-bold px-8 sm:px-10 py-3 rounded-full text-sm sm:text-base transition-all shadow-sm active:scale-95"
-              >
-                Proceed Request
-              </button>
             </div>
           </div>
         </div>
@@ -507,7 +565,9 @@ export default function ProductPage() {
           </button>
         </div>
         <div className="divide-y divide-neutral-100 border-t border-neutral-100">
-          {Object.entries(specs).map(([key, value]) => (
+          {Object.entries(specs)
+            .filter(([k]) => !k.toLowerCase().includes('brand'))
+            .map(([key, value]) => (
             <div
               key={key}
               className="py-3.5 px-6 sm:px-8 grid grid-cols-1 sm:grid-cols-2 gap-1 sm:gap-4 text-sm sm:text-[15px] hover:bg-neutral-50/50 transition-colors"
@@ -525,7 +585,7 @@ export default function ProductPage() {
           <div className="flex items-center justify-between mb-6">
             <h2 className="text-xl sm:text-2xl font-bold text-neutral-900">Related Products</h2>
             {category && (
-              <Link to={`/category/${category.id}`} className="text-sm text-primary-600 font-semibold hover:text-primary-700">
+              <Link to={returnUrl} className="text-sm text-primary-600 font-semibold hover:text-primary-700">
                 View All in {category.name} →
               </Link>
             )}
@@ -583,7 +643,7 @@ export default function ProductPage() {
                       {product.image ? (
                         <img
                           src={product.image}
-                          alt={product.name}
+                          alt={`${product.name} quotation request preview`}
                           className="max-h-full max-w-full object-contain"
                           onError={(e) => { e.target.src = PLACEHOLDER; }}
                         />
@@ -595,9 +655,11 @@ export default function ProductPage() {
                     </div>
                     <div className="flex-1 min-w-0">
                       <div className="flex items-center gap-2 flex-wrap mb-0.5">
-                        <span className="text-[11px] font-bold text-amber-600 bg-amber-50 border border-amber-200 px-2 py-0.5 rounded-md uppercase">
-                          {product.brand}
-                        </span>
+                        {product.subCategory && (
+                          <span className="text-[11px] font-semibold text-sky-700 bg-sky-50 border border-sky-200 px-2 py-0.5 rounded-md">
+                            {product.subCategory}
+                          </span>
+                        )}
                         <span className="text-[11px] font-mono text-neutral-500 bg-neutral-100 px-2 py-0.5 rounded-md">
                           SKU: {product.id}
                         </span>
@@ -845,12 +907,12 @@ export default function ProductPage() {
              <div className="max-h-[70vh] flex items-center justify-center overflow-hidden">
                <img
                  src={activeImage || product.image}
-                 alt={product.name}
+                 alt={`${product.name} high-resolution enlarged view`}
                  className="max-h-[65vh] w-auto object-contain"
                  onError={(e) => { e.target.src = PLACEHOLDER; }}
                />
              </div>
-             <p className="text-xs text-neutral-400 mt-4">Part No: {product.id} • Brand: {product.brand}</p>
+             <p className="text-xs text-neutral-400 mt-4">Part No: {product.id}</p>
            </div>
          </div>
        )}

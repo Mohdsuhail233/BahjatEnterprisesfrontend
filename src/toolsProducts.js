@@ -3092,5 +3092,28 @@ export const TOOLS_PRODUCTS = [
     },
     rawSpecs: "Standard size",
     tags: ["planner", "manual", "tools", "wood", "hand", "stanley", "bahjat enterprises"]
+  },
+  {
+    id: "tool-150-transparent-waterproof-adhesive-glue",
+    sno: 150,
+    name: "Transparent Waterproof Adhesive (Waterproof Glue)",
+    brand: "Craft",
+    category: "tools",
+    subCategory: "Hand Tools",
+    image: "/images/products/tools/transparent-waterproof-glue.png",
+    description: "Industrial-grade transparent waterproof adhesive and leakage repair sealant. High-viscosity polyurethane-based formula designed for invisible, durable, and weather-resistant sealing across concrete, tiles, metal, and wood with application brush.",
+    specs: {
+      "Product": "Transparent Waterproof Adhesive (Waterproof Glue)",
+      "Brand": "Craft / Industrial Grade",
+      "Sub-Category": "Chemicals & Adhesives",
+      "Net Weight / Volume": "300 g / 500 g Tub with Application Brush",
+      "Base Material": "Modified Liquid Polyurethane / Acrylic Polymer",
+      "Curing Film": "100% Clear & Transparent Invisible Elastic Barrier",
+      "Water Resistance": "High Hydrostatic Pressure & Anti-Leakage Proofing",
+      "Temperature Resistance": "-30°C to +80°C (Weather & UV Resistant)",
+      "Application Surfaces": "Roof cracks, window sills, bathroom tiles, exterior masonry, pipelines & joints"
+    },
+    rawSpecs: "Net 300g, Transparent, Waterproof, High Viscosity, Strong Toughness, Application Brush Included",
+    tags: ["waterproof", "glue", "adhesive", "transparent", "sealant", "leakage", "repair", "tools", "bahjat enterprises"]
   }
 ];

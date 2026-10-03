@@ -9,13 +9,21 @@ import CategoryPage from './pages/CategoryPage';
 import ProductPage from './pages/ProductPage';
 import SearchPage from './pages/SearchPage';
 import AboutPage from './pages/AboutPage';
+import ProductsWeDealInPage from './pages/ProductsWeDealInPage';
 
 function ScrollToTop() {
-  const { pathname } = useLocation();
+  const { pathname, hash } = useLocation();
 
   useEffect(() => {
+    if (hash) {
+      const element = document.querySelector(hash);
+      if (element) {
+        element.scrollIntoView({ behavior: 'smooth' });
+        return;
+      }
+    }
     window.scrollTo({ top: 0, left: 0, behavior: 'instant' });
-  }, [pathname]);
+  }, [pathname, hash]);
 
   return null;
 }
@@ -31,6 +39,7 @@ function App() {
           <Route path="/about" element={<AboutPage />} />
           <Route path="/categories" element={<CategoriesPage />} />
           <Route path="/products" element={<CategoriesPage />} />
+          <Route path="/products-we-deal-in" element={<ProductsWeDealInPage />} />
           <Route path="/category/:categoryId" element={<CategoryPage />} />
           <Route path="/product/:productId" element={<ProductPage />} />
           <Route path="/search" element={<SearchPage />} />

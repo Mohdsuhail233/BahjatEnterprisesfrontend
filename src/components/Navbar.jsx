@@ -1,7 +1,7 @@
 import React, { useState, useRef, useEffect } from 'react';
 import { Link, useNavigate, useLocation } from 'react-router-dom';
 import { motion, AnimatePresence } from 'framer-motion';
-import { CATEGORIES, searchProducts, COMPANY_NAME, WHATSAPP_NUMBER, ELECTRICAL_SUBCATEGORIES } from '../data';
+import { CATEGORIES, searchProducts, WHATSAPP_NUMBER, getCategoryProductCount } from '../data';
 import { CATEGORY_MENU_DATA } from '../categoryMenuData';
 
 export default function Navbar() {
@@ -96,16 +96,16 @@ export default function Navbar() {
   return (
     <header className="sticky top-0 z-50 bg-white/95 backdrop-blur-md border-b border-zinc-200/80 transition-all font-sans">
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-        <div className="flex items-center justify-between h-16">
+        <div className="flex items-center justify-between h-16 md:h-20 transition-all">
           
           {/* LEFT GROUP: Logo + Navigation Links */}
           <div className="flex items-center gap-6 md:gap-8 lg:gap-10">
             {/* Logo */}
-            <Link to="/" className="flex items-center group flex-shrink-0 py-0.5">
+            <Link to="/" aria-label="Bahjat Enterprises Home" className="flex items-center group flex-shrink-0 py-1">
               <img
                 src="/logo/logo.png"
-                alt="Bahjat Enterprises"
-                className="h-10 sm:h-11 md:h-12 w-auto object-contain transition-transform duration-200 group-hover:scale-[1.02]"
+                alt="Bahjat Enterprises - Industrial & Electrical Supplies Logo"
+                className="h-11 sm:h-12 md:h-14 lg:h-16 w-auto object-contain transition-transform duration-200 group-hover:scale-[1.02]"
                 onError={(e) => {
                   e.currentTarget.src = '/images/Logo/Bahjat Enterprises Horizontal PNG.png';
                 }}
@@ -113,7 +113,7 @@ export default function Navbar() {
             </Link>
 
             {/* Desktop Navigation Links */}
-            <nav className="hidden lg:flex items-center gap-7 text-[14px]">
+            <nav aria-label="Main Navigation" className="hidden lg:flex items-center gap-7 text-[14px]">
               
               {/* 1. Products (with Dropdown) */}
               <div 
@@ -121,27 +121,38 @@ export default function Navbar() {
                 onMouseEnter={() => handleMouseEnter('products')}
                 onMouseLeave={handleMouseLeave}
               >
-                <button
-                  onClick={() => setActiveDropdown(activeDropdown === 'products' ? null : 'products')}
-                  className={`flex items-center gap-1.5 py-2 font-normal transition-colors ${
-                    activeDropdown === 'products' ? 'text-zinc-950 font-medium' : 'text-zinc-600 hover:text-zinc-950'
-                  }`}
-                >
-                  <span>Products</span>
-                  <svg
-                    className={`w-3 h-3 text-zinc-400 transition-transform duration-200 ${
-                      activeDropdown === 'products' ? 'rotate-180 text-zinc-700' : ''
+                <div className="flex items-center gap-1">
+                  <Link
+                    to="/categories"
+                    className={`py-2 font-normal transition-colors ${
+                      activeDropdown === 'products' || location.pathname === '/categories' || location.pathname.startsWith('/category/')
+                        ? 'text-zinc-950 font-medium'
+                        : 'text-zinc-600 hover:text-zinc-950'
                     }`}
-                    viewBox="0 0 12 12"
-                    fill="none"
-                    stroke="currentColor"
-                    strokeWidth="1.5"
-                    strokeLinecap="round"
-                    strokeLinejoin="round"
                   >
-                    <path d="M2.5 4.5L6 8L9.5 4.5" />
-                  </svg>
-                </button>
+                    <span>Products</span>
+                  </Link>
+                  <button
+                    type="button"
+                    onClick={() => setActiveDropdown(activeDropdown === 'products' ? null : 'products')}
+                    aria-label="Toggle Products menu"
+                    className="p-1 text-zinc-400 hover:text-zinc-700 transition-colors"
+                  >
+                    <svg
+                      className={`w-3 h-3 text-zinc-400 transition-transform duration-200 ${
+                        activeDropdown === 'products' ? 'rotate-180 text-zinc-700' : ''
+                      }`}
+                      viewBox="0 0 12 12"
+                      fill="none"
+                      stroke="currentColor"
+                      strokeWidth="1.5"
+                      strokeLinecap="round"
+                      strokeLinejoin="round"
+                    >
+                      <path d="M2.5 4.5L6 8L9.5 4.5" />
+                    </svg>
+                  </button>
+                </div>
 
                 {/* Products Mega Dropdown - Minimal Multi-Column Layout (Nike-Style Reference) */}
                 {activeDropdown === 'products' && (() => {
@@ -152,8 +163,8 @@ export default function Navbar() {
                     <div className="absolute left-0 top-full pt-2 z-50 animate-fadeIn">
                       <div className="bg-white rounded-xl shadow-2xl border border-zinc-200/90 overflow-hidden w-[1040px] p-8">
                         
-                        {/* 5-Column Nike Minimal Grid */}
-                        <div className="grid grid-cols-5 gap-8 items-start">
+                        {/* 4-Column Nike Minimal Grid */}
+                        <div className="grid grid-cols-4 gap-8 items-start">
                           
                           {/* Column 1: Departments (Featured with Right Divider) */}
                           <div className="border-r border-zinc-200 pr-6">
@@ -205,7 +216,7 @@ export default function Navbar() {
                                 onClick={() => setActiveDropdown(null)}
                                 className="block text-[13px] font-semibold text-zinc-950 hover:text-zinc-600 transition-colors pb-1"
                               >
-                                View All ({currentCat.totalItems})
+                                View All ({getCategoryProductCount(currentCat.id)} Products)
                               </Link>
                               {currentCat.col1Links.map((subCat) => (
                                 <Link
@@ -239,33 +250,7 @@ export default function Navbar() {
                             </div>
                           </div>
 
-                          {/* Column 4: Brands / Manufacturing Partners */}
-                          <div>
-                            <h4 className="font-bold text-[13px] tracking-wider text-zinc-950 uppercase mb-3">
-                              {currentCat.brandsTitle}
-                            </h4>
-                            <div className="space-y-1.5">
-                              {currentCat.brands.map((brand) => (
-                                <Link
-                                  key={brand}
-                                  to={`/category/${currentCat.id}?brand=${encodeURIComponent(brand)}`}
-                                  onClick={() => setActiveDropdown(null)}
-                                  className="block text-[13px] text-zinc-600 hover:text-zinc-950 font-normal leading-snug py-0.5 transition-colors"
-                                >
-                                  {brand}
-                                </Link>
-                              ))}
-                              <Link
-                                to={`/category/${currentCat.id}`}
-                                onClick={() => setActiveDropdown(null)}
-                                className="block text-[12px] font-medium text-zinc-400 hover:text-zinc-900 transition-colors pt-1.5"
-                              >
-                                View Full Directory →
-                              </Link>
-                            </div>
-                          </div>
-
-                          {/* Column 5: Commercial Desk & Direct Procurement */}
+                          {/* Column 4: Commercial Desk & Direct Procurement */}
                           <div>
                             <h4 className="font-bold text-[13px] tracking-wider text-zinc-950 uppercase mb-3">
                               {currentCat.commercialTitle}
@@ -296,12 +281,6 @@ export default function Navbar() {
                                   className="block font-bold text-zinc-950 hover:underline"
                                 >
                                   WhatsApp Quotation →
-                                </a>
-                                <a
-                                  href="mailto:info@bahjatenterprises.com"
-                                  className="block text-zinc-500 hover:text-zinc-950 transition-colors"
-                                >
-                                  info@bahjatenterprises.com
                                 </a>
                                 <p className="text-[11px] text-zinc-400 pt-1 leading-relaxed">
                                   Fast quotation, MTC 3.1 & site delivery across all categories.
@@ -412,7 +391,7 @@ export default function Navbar() {
                   <div className="absolute left-0 top-full pt-2 w-56 z-50 animate-fadeIn">
                     <div className="bg-white rounded-xl shadow-xl border border-zinc-200/90 p-1.5">
                       <a
-                        href={`https://wa.me/${WHATSAPP_NUMBER}?text=${encodeURIComponent('Hi Bahjat Enterprises, please share the Product Catalog PDF.')}`}
+                        href="https://drive.google.com/file/u/3/d/1vhYSD7I4Yq1bmFpn-Q9KdZfjbo22F5PM/view?usp=drive_link"
                         target="_blank"
                         rel="noopener noreferrer"
                         onClick={() => setActiveDropdown(null)}
@@ -454,7 +433,9 @@ export default function Navbar() {
           <div className="flex items-center gap-3">
             {/* Search Trigger Button */}
             <button
+              type="button"
               onClick={() => setSearchOpen(true)}
+              aria-label="Open search dialog"
               className="flex items-center gap-2 text-xs font-medium text-zinc-500 hover:text-zinc-900 bg-zinc-100 hover:bg-zinc-200/80 px-3 py-1.5 rounded-lg transition-colors focus:outline-none"
               title="Search (⌘K)"
             >
@@ -563,7 +544,7 @@ export default function Navbar() {
                         </div>
                         <div>
                           <p className="text-sm font-medium text-zinc-800">{p.name}</p>
-                          <p className="text-xs text-zinc-400">Part: {p.id} · {p.brand}</p>
+                          <p className="text-xs text-zinc-400">Part: {p.id} · {p.subCategory || 'Industrial'}</p>
                         </div>
                       </div>
                       <span className="text-xs text-zinc-400">View →</span>
@@ -651,6 +632,16 @@ export default function Navbar() {
                 className="block px-3 py-2 text-sm font-medium text-zinc-800 rounded-lg hover:bg-zinc-100"
               >
                 Pricing & Quotations
+              </a>
+              <a
+                href="https://drive.google.com/file/u/3/d/1vhYSD7I4Yq1bmFpn-Q9KdZfjbo22F5PM/view?usp=drive_link"
+                target="_blank"
+                rel="noopener noreferrer"
+                onClick={() => setMobileMenu(false)}
+                className="flex items-center gap-2 px-3 py-2 text-sm font-medium text-zinc-800 rounded-lg hover:bg-zinc-100"
+              >
+                <span className="text-base">📄</span>
+                <span>Product Catalog PDF</span>
               </a>
               <Link
                 to="/about"
