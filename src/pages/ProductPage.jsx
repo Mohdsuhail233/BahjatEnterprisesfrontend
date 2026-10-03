@@ -233,6 +233,11 @@ export default function ProductPage() {
   const pageTitle = `${product.name} | Bahjat Enterprises`;
   const pageDescription = `${product.name} supplied by Bahjat Enterprises. Category: ${category?.name || product.subCategory || 'Industrial'}. View specifications, request formal quotation, and order direct from Bahjat Enterprises.`;
 
+  const brandTag = product.brand ? `, ${product.brand}` : '';
+  const categoryTag = category?.name ? `, ${category.name}` : '';
+  const subCategoryTag = product.subCategory ? `, ${product.subCategory}` : '';
+  const productKeywords = `${product.name}${brandTag}${categoryTag}${subCategoryTag}, buy ${product.name}, ${product.name} supplier, industrial supplies, price quote, Bahjat Enterprises`;
+
   return (
     <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-6 sm:py-8">
       <SEO
@@ -240,7 +245,7 @@ export default function ProductPage() {
         description={pageDescription}
         ogImage={product.image || 'https://bahjatenterprises.com/logo/logo.png'}
         ogType="product"
-        keywords={`${product.name}, ${category?.name || ''}, industrial procurement, Bahjat Enterprises`}
+        keywords={productKeywords}
         schema={{
           "@context": "https://schema.org",
           "@graph": [

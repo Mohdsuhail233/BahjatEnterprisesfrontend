@@ -35,26 +35,31 @@ async function prerender() {
       url: '/',
       title: 'Bahjat Enterprises | Industrial & Electrical Supplies',
       description: 'Bahjat Enterprises is an authorized distributor & procurement partner supplying certified electrical components, instrumentation, plumbing, safety equipment, fasteners, and precision tools.',
+      keywords: 'industrial supplies, electrical components, safety equipment, instrumentation, plumbing pipes valves, fasteners, precision tools, Bahjat Enterprises',
     },
     {
       url: '/about',
       title: 'About Us | Bahjat Enterprises - Industrial Supply Specialists',
       description: 'Learn about Bahjat Enterprises, our leadership, core values, domain expertise, and global procurement network across engineering, oil & gas, and infrastructure.',
+      keywords: 'about Bahjat Enterprises, industrial supply specialist, leadership, global procurement, engineering supplies, authorized distributor',
     },
     {
       url: '/categories',
       title: 'Industrial Supply Categories & Product Catalogs | Bahjat Enterprises',
       description: 'Browse all 12 core industrial supply categories from Bahjat Enterprises: electrical components, plumbing, precision tools, fasteners, safety gear, instrumentation, and construction materials.',
+      keywords: 'industrial supply categories, product catalog, electrical, plumbing, instrumentation, safety gear, fasteners, tools, Bahjat Enterprises',
     },
     {
       url: '/products',
       title: 'Products & Equipment Catalog | Bahjat Enterprises',
       description: 'Explore Bahjat Enterprises full product catalog of industrial equipment, electrical items, instrumentation, tools, and pipes.',
+      keywords: 'product catalog, industrial equipment, electrical items, tools, safety equipment, pipes, fasteners, Bahjat Enterprises',
     },
     {
       url: '/products-we-deal-in',
       title: 'Major Products & Brands We Deal In | Bahjat Enterprises',
       description: 'Explore major products, engineering plastics, process instrumentation, and 130+ international brands dealt in by Bahjat Enterprises across global markets.',
+      keywords: 'products we deal in, brands we deal in, engineering plastics, acrylic sheet, bakelite, ptfe component, flowmeter, pressure transmitter, industrial brands, Bahjat Enterprises',
     }
   ];
 
@@ -64,6 +69,7 @@ async function prerender() {
       url: `/category/${cat.id}`,
       title: `${cat.name} | Industrial Supplies | Bahjat Enterprises`,
       description: `Procure certified ${cat.name} from Bahjat Enterprises. Authorized distributor offering ${cat.name} products, specifications, and fast quotation.`,
+      keywords: `${cat.name}, industrial supply, certified ${cat.name}, buy ${cat.name}, Bahjat Enterprises distributor, procurement, price quote`,
     });
   });
 
@@ -76,10 +82,16 @@ async function prerender() {
     const cat = CATEGORIES.find(c => c.id === product.category);
     if (!productMap.has(product.id)) {
       const cleanUrl = `/product/${product.id}`;
+      const brandTag = product.brand ? `, ${product.brand}` : '';
+      const catTag = cat?.name ? `, ${cat.name}` : '';
+      const subCatTag = product.subCategory ? `, ${product.subCategory}` : '';
+      const productKeywords = `${product.name}${brandTag}${catTag}${subCatTag}, buy ${product.name}, ${product.name} supplier, industrial supplies, price quote, Bahjat Enterprises`;
+
       productMap.set(product.id, {
         url: cleanUrl,
         title: `${product.name} | ${product.brand || 'Bahjat Enterprises'}`,
         description: `${product.name} by ${product.brand || 'Bahjat Enterprises'}. Category: ${cat?.name || 'Industrial'}. View specifications, request formal quotation, and order direct from Bahjat Enterprises.`,
+        keywords: productKeywords,
         schema: {
           "@context": "https://schema.org",
           "@graph": [
@@ -140,6 +152,10 @@ async function prerender() {
       html = html.replace(/<title>.*?<\/title>/, `<title>${route.title}</title>`);
       // 2. Replace <meta name="description">
       html = html.replace(/<meta name="description" content=".*?" \/>/, `<meta name="description" content="${route.description.replace(/"/g, '&quot;')}" />`);
+      // 2b. Replace <meta name="keywords">
+      if (route.keywords) {
+        html = html.replace(/<meta name="keywords" content=".*?" \/>/, `<meta name="keywords" content="${route.keywords.replace(/"/g, '&quot;')}" />`);
+      }
       // 3. Replace og:title & twitter:title
       html = html.replace(/<meta property="og:title" content=".*?" \/>/, `<meta property="og:title" content="${route.title.replace(/"/g, '&quot;')}" />`);
       html = html.replace(/<meta name="twitter:title" content=".*?" \/>/, `<meta name="twitter:title" content="${route.title.replace(/"/g, '&quot;')}" />`);
