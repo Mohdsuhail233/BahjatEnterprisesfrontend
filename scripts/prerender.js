@@ -130,6 +130,17 @@ async function prerender() {
               "brand": {
                 "@type": "Brand",
                 "name": product.brand || "Bahjat Enterprises"
+              },
+              "offers": {
+                "@type": "Offer",
+                "url": `https://bahjatenterprises.com${cleanUrl}`,
+                "availability": "https://schema.org/InStock",
+                "itemCondition": "https://schema.org/NewCondition",
+                "seller": {
+                  "@type": "Organization",
+                  "name": "Bahjat Enterprises",
+                  "url": "https://bahjatenterprises.com/"
+                }
               }
             }
           ]

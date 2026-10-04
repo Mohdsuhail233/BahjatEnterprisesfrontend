@@ -283,7 +283,18 @@ export default function ProductPage() {
               "mpn": product.id,
               "brand": {
                 "@type": "Brand",
-                "name": "Bahjat Enterprises"
+                "name": product.brand || "Bahjat Enterprises"
+              },
+              "offers": {
+                "@type": "Offer",
+                "url": `https://bahjatenterprises.com/product/${product.id}`,
+                "availability": "https://schema.org/InStock",
+                "itemCondition": "https://schema.org/NewCondition",
+                "seller": {
+                  "@type": "Organization",
+                  "name": "Bahjat Enterprises",
+                  "url": "https://bahjatenterprises.com/"
+                }
               }
             }
           ]
